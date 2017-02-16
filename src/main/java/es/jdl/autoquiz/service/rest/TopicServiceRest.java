@@ -41,4 +41,9 @@ public class TopicServiceRest {
 		return dao.delete(topicId);
 	}
 
+	@RequestMapping (value="/import", method=RequestMethod.POST)
+	public Topic saveTopic(@RequestBody @Valid Topic topic) {
+		return dao.save(topic);
+	}
+
 }
