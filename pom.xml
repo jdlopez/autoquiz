@@ -1,0 +1,183 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+    <groupId>es.jdl</groupId>
+    <artifactId>autoquiz</artifactId>
+    <version>0.0.1-SNAPSHOT</version>
+    <packaging>war</packaging>
+    <properties>
+        <app.id>your-app-id</app.id>
+        <app.version>1</app.version>
+        <appengine.version>1.9.44</appengine.version>
+        <appengine.maven.plugin.version>1.0.0</appengine.maven.plugin.version>
+
+        <objectify.version>5.1.13</objectify.version>
+        <guava.version>19.0</guava.version>
+        <spring.version>4.3.3.RELEASE</spring.version>
+        <jackson.version>2.8.4</jackson.version>
+
+        <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+        <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
+        <maven.compiler.source>1.7</maven.compiler.source>
+        <maven.compiler.target>1.7</maven.compiler.target>
+        <maven.compiler.showDeprecation>true</maven.compiler.showDeprecation>
+        <archiveClasses>true</archiveClasses>
+    </properties>
+
+    <prerequisites>
+        <maven>3.3.9</maven>
+    </prerequisites>
+
+    <dependencies>
+        <!-- Compile/runtime dependencies -->
+        <dependency>
+            <groupId>com.google.appengine</groupId>
+            <artifactId>appengine-api-1.0-sdk</artifactId>
+            <version>${appengine.version}</version>
+        </dependency>
+        <dependency>
+            <groupId>javax.servlet</groupId>
+            <artifactId>servlet-api</artifactId>
+            <version>2.5</version>
+            <scope>provided</scope>
+        </dependency>
+
+        <dependency>
+          <groupId>org.springframework</groupId>
+          <artifactId>spring-webmvc</artifactId>
+          <version>${spring.version}</version>
+        </dependency>
+        <dependency>
+            <groupId>javax.validation</groupId>
+            <artifactId>validation-api</artifactId>
+            <version>1.0.0.GA</version>
+        </dependency>
+  <!-- 
+        <dependency>
+          <groupId>org.thymeleaf</groupId>
+          <artifactId>thymeleaf-spring4</artifactId>
+          <version>3.0.2.RELEASE</version>
+        </dependency>
+        <dependency>
+          <groupId>nz.net.ultraq.thymeleaf</groupId>
+          <artifactId>thymeleaf-layout-dialect</artifactId>
+          <version>2.0.5</version>
+        </dependency>
+   -->
+        <dependency>
+          <groupId>com.fasterxml.jackson.core</groupId>
+          <artifactId>jackson-databind</artifactId>
+          <version>${jackson.version}</version>
+        </dependency>
+  
+<!-- [START Objectify_Dependencies] -->
+        <dependency>
+          <groupId>com.google.guava</groupId>
+          <artifactId>guava</artifactId>
+          <version>${guava.version}</version>
+        </dependency>
+        <dependency>
+          <groupId>com.googlecode.objectify</groupId>
+          <artifactId>objectify</artifactId>
+          <version>${objectify.version}</version>
+        </dependency>
+<!-- [END Objectify_Dependencies] -->
+
+        <!-- Test Dependencies -->
+        <dependency>
+            <groupId>junit</groupId>
+            <artifactId>junit</artifactId>
+            <version>4.12</version>
+            <scope>test</scope>
+        </dependency>
+        <dependency>
+            <groupId>org.mockito</groupId>
+            <artifactId>mockito-all</artifactId>
+            <version>2.0.2-beta</version>
+            <scope>test</scope>
+        </dependency>
+        <dependency>
+            <groupId>com.google.appengine</groupId>
+            <artifactId>appengine-testing</artifactId>
+            <version>${appengine.version}</version>
+            <scope>test</scope>
+        </dependency>
+        <dependency>
+            <groupId>com.google.appengine</groupId>
+            <artifactId>appengine-api-stubs</artifactId>
+            <version>${appengine.version}</version>
+            <scope>test</scope>
+        </dependency>
+    </dependencies>
+
+    <build>    
+        <!-- for hot reload of the web application-->
+        <outputDirectory>${project.build.directory}/${project.build.finalName}/WEB-INF/classes</outputDirectory>
+        
+        <plugins>
+          <plugin>
+            <groupId>org.apache.maven.plugins</groupId>
+            <artifactId>maven-compiler-plugin</artifactId>
+            <version>3.6.1</version>
+            <configuration>
+              <source>${maven.compiler.source}</source>
+              <target>${maven.compiler.target}</target>
+            </configuration>
+          </plugin>        
+          <plugin>
+            <artifactId>maven-clean-plugin</artifactId>
+            <version>3.0.0</version>
+            <configuration>
+              <failOnError>false</failOnError>
+            </configuration>
+          </plugin>    
+          <plugin>
+            <groupId>org.codehaus.mojo</groupId>
+            <artifactId>versions-maven-plugin</artifactId>
+            <version>2.3</version>
+            <executions>
+              <execution>
+                <phase>compile</phase>
+                <goals>
+                  <goal>display-dependency-updates</goal>
+                  <goal>display-plugin-updates</goal>
+                </goals>
+              </execution>
+            </executions>
+          </plugin>
+
+          <plugin>
+            <groupId>org.apache.maven.plugins</groupId>
+            <artifactId>maven-war-plugin</artifactId>
+            <version>2.6</version> <!-- required for Eclipse Mars -->
+            <configuration>
+              <archiveClasses>true</archiveClasses>
+              <webResources>
+                <!-- in order to interpolate version from pom into appengine-web.xml -->
+                <resource>
+                  <directory>${basedir}/src/main/webapp/WEB-INF</directory>
+                  <filtering>true</filtering>
+                  <targetPath>WEB-INF</targetPath>
+                </resource>
+              </webResources>
+            </configuration>
+          </plugin>
+
+          <!-- <plugin>
+            <groupId>com.google.cloud.tools</groupId>
+            <artifactId>appengine-maven-plugin</artifactId>
+            <version>${appengine.maven.plugin.version}</version>
+            <configuration>
+             <stage.enableJarSplitting>true</stage.enableJarSplitting>
+             <deploy.stopPreviousVersion>true</deploy.stopPreviousVersion>
+             <cloudSdkPath>/usr/foo/path/to/cloudsdk</cloudSdkPath>
+            </configuration>
+          </plugin> -->
+          <plugin>
+             <groupId>com.google.appengine</groupId>
+             <artifactId>appengine-maven-plugin</artifactId>
+             <version>1.9.42</version>
+          </plugin>
+        </plugins>
+    </build>
+  
+</project>
