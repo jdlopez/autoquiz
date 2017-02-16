@@ -14,6 +14,7 @@ import es.jdl.autoquiz.domain.Answer;
 import es.jdl.autoquiz.domain.Question;
 import es.jdl.autoquiz.domain.Topic;
 import es.jdl.autoquiz.domain.Trial;
+import es.jdl.autoquiz.domain.User;
 
 @Configuration
 @EnableWebMvc
@@ -34,6 +35,7 @@ public class AppConfig implements ApplicationListener<ContextRefreshedEvent> {
 		ObjectifyService.register(Topic.class);
 		ObjectifyService.register(Question.class);
 		ObjectifyService.register(Answer.class);
+		ObjectifyService.register(User.class);
 	}
 
 }

@@ -26,19 +26,19 @@ public class TopicServiceRest {
 		return dao.selectById(topicId);
 	}
 
-	@RequestMapping (value="/list", method=RequestMethod.GET)
+	@RequestMapping (value="/trial/{trialId}/list", method=RequestMethod.GET)
 	public List<Topic> findListTopics(@PathVariable("trialId") Long trialId) {
-		return null;
+		return dao.selectByTrialId(trialId);
 	}
 
 	@RequestMapping (value="", method=RequestMethod.POST)
-	public Topic saveTopic(@PathVariable("trialId") Long trialId, @RequestBody @Valid Topic topic) {
-		return null;
+	public Topic saveTopic(@RequestBody @Valid Topic topic) {
+		return dao.save(topic);
 	}
 
-	@RequestMapping (value="{id}", method=RequestMethod.GET)
-	public Topic deleteTopic(@PathVariable("trialId") Long trialId, @PathVariable("id") Long topicId) {
-		return null;
+	@RequestMapping (value="{id}", method=RequestMethod.DELETE)
+	public Topic deleteTopic(@PathVariable("id") Long topicId) {
+		return dao.delete(topicId);
 	}
 
 }
