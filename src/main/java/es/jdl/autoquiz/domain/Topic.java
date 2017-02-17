@@ -1,29 +1,32 @@
 package es.jdl.autoquiz.domain;
 
-import java.util.List;
-
-import javax.validation.constraints.NotNull;
-
-import com.googlecode.objectify.Ref;
+import com.fasterxml.jackson.annotation.JsonProperty;
+import com.googlecode.objectify.Key;
 import com.googlecode.objectify.annotation.Entity;
 import com.googlecode.objectify.annotation.Id;
+import com.googlecode.objectify.annotation.Index;
+
+import javax.validation.constraints.NotNull;
+import java.util.List;
 
 @Entity
 public class Topic {
 	@Id
-	private Long topicId;
+	private String topicId;
 	@NotNull
 	private String name;
 	@NotNull
+	@JsonProperty("abstract")
 	private String abstractText;
 	private String content;
 	private List<String> categories;
-	private List<Ref<Trial>> courses;
+	@Index
+	private List<Key<Trial>> courses;
 	
-	public Long getTopicId() {
+	public String getTopicId() {
 		return topicId;
 	}
-	public void setTopicId(Long topicId) {
+	public void setTopicId(String topicId) {
 		this.topicId = topicId;
 	}
 	public String getName() {
@@ -50,10 +53,10 @@ public class Topic {
 	public void setCategories(List<String> categories) {
 		this.categories = categories;
 	}
-	public List<Ref<Trial>> getCourses() {
+	public List<Key<Trial>> getCourses() {
 		return courses;
 	}
-	public void setCourses(List<Ref<Trial>> courses) {
+	public void setCourses(List<Key<Trial>> courses) {
 		this.courses = courses;
 	}
 	

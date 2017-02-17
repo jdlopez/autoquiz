@@ -1,12 +1,10 @@
 package es.jdl.autoquiz.dao;
 
-import java.util.List;
-
+import com.googlecode.objectify.ObjectifyService;
+import es.jdl.autoquiz.domain.Topic;
 import org.springframework.stereotype.Repository;
 
-import com.googlecode.objectify.ObjectifyService;
-
-import es.jdl.autoquiz.domain.Topic;
+import java.util.List;
 
 @Repository
 public class TopicDao {
@@ -16,13 +14,13 @@ public class TopicDao {
 	}
 
 	public List<Topic> selectByTrialId(Long trialId) {
-		// TODO Auto-generated method stub
-		return null;
+		return ObjectifyService.ofy().load().type(Topic.class).list(); // filter ("courses", Key.create(Trial.class, trialId)).
 	}
 
 	public Topic save(Topic topic) {
-		// TODO Auto-generated method stub
-		return null;
+		//Key<Topic> ret =
+		ObjectifyService.ofy().save().entity(topic).now();
+		return topic;
 	}
 
 	public Topic delete(Long topicId) {
