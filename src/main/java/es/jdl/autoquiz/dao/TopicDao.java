@@ -14,7 +14,7 @@ public class TopicDao {
 	}
 
 	public List<Topic> selectByTrialId(Long trialId) {
-		return ObjectifyService.ofy().load().type(Topic.class).list(); // filter ("courses", Key.create(Trial.class, trialId)).
+		return ObjectifyService.ofy().load().type(Topic.class).filter ("courses", trialId).list();
 	}
 
 	public Topic save(Topic topic) {
@@ -23,9 +23,8 @@ public class TopicDao {
 		return topic;
 	}
 
-	public Topic delete(Long topicId) {
-		// TODO Auto-generated method stub
-		return null;
+	public void delete(Long topicId) {
+		ObjectifyService.ofy().delete().type(Topic.class).id(topicId).now();
 	}
 	
 	

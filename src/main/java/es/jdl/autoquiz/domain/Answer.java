@@ -2,24 +2,12 @@ package es.jdl.autoquiz.domain;
 
 import javax.validation.constraints.NotNull;
 
-import com.googlecode.objectify.annotation.Entity;
-import com.googlecode.objectify.annotation.Id;
-
-@Entity
 public class Answer {
 
-	@Id
-	private Long answerId;
 	@NotNull
 	private String response; // content?
 	private boolean correct = false;
 	private String explanation;
-	public Long getAnswerId() {
-		return answerId;
-	}
-	public void setAnswerId(Long answerId) {
-		this.answerId = answerId;
-	}
 	public String getResponse() {
 		return response;
 	}

@@ -1,14 +1,14 @@
 package es.jdl.autoquiz.domain;
 
-import java.util.List;
+import com.googlecode.objectify.annotation.Entity;
+import com.googlecode.objectify.annotation.Id;
+import com.googlecode.objectify.annotation.Index;
 
 import javax.validation.constraints.Max;
 import javax.validation.constraints.Min;
 import javax.validation.constraints.NotNull;
-
-import com.googlecode.objectify.Ref;
-import com.googlecode.objectify.annotation.Entity;
-import com.googlecode.objectify.annotation.Id;
+import java.util.ArrayList;
+import java.util.List;
 
 @Entity
 public class Question {
@@ -17,9 +17,10 @@ public class Question {
 	private Long questionId;
 	@NotNull
 	private String statement;
+	@Index
 	@Min(1) @Max(10)
-	private Integer hardness;
-	private List<Ref<Answer>> answers;
+	private Integer hardness = 5;
+	private List<Answer> answers = new ArrayList<>();
 	public Long getQuestionId() {
 		return questionId;
 	}
@@ -38,10 +39,10 @@ public class Question {
 	public void setHardness(Integer hardness) {
 		this.hardness = hardness;
 	}
-	public List<Ref<Answer>> getAnswers() {
+	public List<Answer> getAnswers() {
 		return answers;
 	}
-	public void setAnswers(List<Ref<Answer>> answers) {
+	public void setAnswers(List<Answer> answers) {
 		this.answers = answers;
 	}
 	

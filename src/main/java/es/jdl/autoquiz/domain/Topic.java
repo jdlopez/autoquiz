@@ -1,7 +1,6 @@
 package es.jdl.autoquiz.domain;
 
 import com.fasterxml.jackson.annotation.JsonProperty;
-import com.googlecode.objectify.Key;
 import com.googlecode.objectify.annotation.Entity;
 import com.googlecode.objectify.annotation.Id;
 import com.googlecode.objectify.annotation.Index;
@@ -13,15 +12,18 @@ import java.util.List;
 public class Topic {
 	@Id
 	private String topicId;
+	@Index
 	@NotNull
 	private String name;
+	@Index
 	@NotNull
 	@JsonProperty("abstract")
 	private String abstractText;
 	private String content;
+	@Index
 	private List<String> categories;
 	@Index
-	private List<Key<Trial>> courses;
+	private List<Long> courses;
 	
 	public String getTopicId() {
 		return topicId;
@@ -53,12 +55,10 @@ public class Topic {
 	public void setCategories(List<String> categories) {
 		this.categories = categories;
 	}
-	public List<Key<Trial>> getCourses() {
+	public List<Long> getCourses() {
 		return courses;
 	}
-	public void setCourses(List<Key<Trial>> courses) {
+	public void setCourses(List<Long> courses) {
 		this.courses = courses;
 	}
-	
-	
 }

@@ -1,6 +1,5 @@
 package es.jdl.autoquiz.service.rest;
 
-import com.googlecode.objectify.Key;
 import es.jdl.autoquiz.dao.TopicDao;
 import es.jdl.autoquiz.dao.TrialDao;
 import es.jdl.autoquiz.domain.Topic;
@@ -38,7 +37,7 @@ public class TopicServiceRest {
 	@RequestMapping (value="/trial/{trialId}/import", method=RequestMethod.POST)
 	public String upload(@PathVariable("trialId") Long trialId, @RequestBody List<Topic> topicList) {
 		Trial trial = daoTrial.selectById(trialId);
-		List<Key<Trial>> courses = Arrays.asList(Key.create(trial));
+		List<Long> courses = Arrays.asList(trialId);
         StringBuffer salida = new StringBuffer();
 		for (Topic t: topicList) {
 			t.setCourses(courses);
@@ -49,8 +48,8 @@ public class TopicServiceRest {
 	}
 
 	@RequestMapping (value="{id}", method=RequestMethod.DELETE)
-	public Topic deleteTopic(@PathVariable("id") Long topicId) {
-		return dao.delete(topicId);
+	public void deleteTopic(@PathVariable("id") Long topicId) {
+		dao.delete(topicId);
 	}
 
 	@RequestMapping (value="", method=RequestMethod.POST)
