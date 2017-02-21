@@ -1,5 +1,6 @@
 package es.jdl.autoquiz.domain;
 
+import com.googlecode.objectify.Key;
 import com.googlecode.objectify.annotation.Entity;
 import com.googlecode.objectify.annotation.Id;
 import com.googlecode.objectify.annotation.Index;
@@ -15,12 +16,15 @@ public class Question {
 
 	@Id
 	private Long questionId;
+	@Index
+	private Key<Topic> topic;
 	@NotNull
 	private String statement;
 	@Index
 	@Min(1) @Max(10)
 	private Integer hardness = 5;
 	private List<Answer> answers = new ArrayList<>();
+
 	public Long getQuestionId() {
 		return questionId;
 	}

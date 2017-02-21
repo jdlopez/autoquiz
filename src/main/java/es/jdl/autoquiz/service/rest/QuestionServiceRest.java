@@ -2,6 +2,7 @@ package es.jdl.autoquiz.service.rest;
 
 import es.jdl.autoquiz.dao.QuestionDao;
 import es.jdl.autoquiz.domain.Question;
+import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RequestMapping;
@@ -17,6 +18,7 @@ import java.util.List;
 @RequestMapping("/question")
 public class QuestionServiceRest {
 
+    @Autowired
     private QuestionDao dao;
 
     @RequestMapping(value="", method = RequestMethod.POST)
