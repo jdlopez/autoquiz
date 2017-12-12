@@ -68,7 +68,14 @@
           <artifactId>jackson-databind</artifactId>
           <version>${jackson.version}</version>
         </dependency>
-  
+
+        <dependency>
+            <!-- jsoup HTML parser library @ https://jsoup.org/ -->
+            <groupId>org.jsoup</groupId>
+            <artifactId>jsoup</artifactId>
+            <version>1.11.2</version>
+        </dependency>
+
 <!-- [START Objectify_Dependencies] -->
         <dependency>
           <groupId>com.google.guava</groupId>

@@ -2,47 +2,68 @@ package es.jdl.autoquiz.domain;
 
 import java.util.List;
 
-import javax.validation.constraints.Max;
-import javax.validation.constraints.Min;
-import javax.validation.constraints.NotNull;
-
-import com.googlecode.objectify.Ref;
-import com.googlecode.objectify.annotation.Entity;
-import com.googlecode.objectify.annotation.Id;
-
-@Entity
 public class Question {
+    private String id;
+    private String text;
+    private EnumQuestionType type;
+    private List<Answer> answers;
+    private boolean shuffleanswers;
+    private boolean single;
+    private EnumNumering answernumbering;
 
-	@Id
-	private Long questionId;
-	@NotNull
-	private String statement;
-	@Min(1) @Max(10)
-	private Integer hardness;
-	private List<Ref<Answer>> answers;
-	public Long getQuestionId() {
-		return questionId;
-	}
-	public void setQuestionId(Long questionId) {
-		this.questionId = questionId;
-	}
-	public String getStatement() {
-		return statement;
-	}
-	public void setStatement(String statement) {
-		this.statement = statement;
-	}
-	public Integer getHardness() {
-		return hardness;
-	}
-	public void setHardness(Integer hardness) {
-		this.hardness = hardness;
-	}
-	public List<Ref<Answer>> getAnswers() {
-		return answers;
-	}
-	public void setAnswers(List<Ref<Answer>> answers) {
-		this.answers = answers;
-	}
-	
+    public String getId() {
+        return id;
+    }
+
+    public void setId(String id) {
+        this.id = id;
+    }
+
+    public String getText() {
+        return text;
+    }
+
+    public void setText(String text) {
+        this.text = text;
+    }
+
+    public EnumQuestionType getType() {
+        return type;
+    }
+
+    public void setType(EnumQuestionType type) {
+        this.type = type;
+    }
+
+    public List<Answer> getAnswers() {
+        return answers;
+    }
+
+    public void setAnswers(List<Answer> answers) {
+        this.answers = answers;
+    }
+
+    public boolean isShuffleanswers() {
+        return shuffleanswers;
+    }
+
+    public void setShuffleanswers(boolean shuffleanswers) {
+        this.shuffleanswers = shuffleanswers;
+    }
+
+    public boolean isSingle() {
+        return single;
+    }
+
+    public void setSingle(boolean single) {
+        this.single = single;
+    }
+
+    public EnumNumering getAnswernumbering() {
+        return answernumbering;
+    }
+
+    public void setAnswernumbering(EnumNumering answernumbering) {
+        this.answernumbering = answernumbering;
+    }
 }

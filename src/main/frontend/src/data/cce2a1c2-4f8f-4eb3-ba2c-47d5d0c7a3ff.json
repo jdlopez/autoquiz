@@ -1,0 +1,991 @@
+{
+  "id" : null,
+  "title" : "E.M.T ( Test 1)",
+  "instructions" : "",
+  "questions" : [ {
+    "id" : null,
+    "text" : "¿La E.M.T. es?",
+    "type" : null,
+    "answers" : [ {
+      "fraction" : 100,
+      "text" : "Una sociedad anónima propiedad del Ayuntamiento de Madrid",
+      "feedback" : "Correcto"
+    }, {
+      "fraction" : 0,
+      "text" : "Una sociedad mercantil propiedad de la Comunidad de Madrid",
+      "feedback" : "Error"
+    }, {
+      "fraction" : 0,
+      "text" : "Una sociedad anónima propiedad de la empresa privada",
+      "feedback" : "Error"
+    }, {
+      "fraction" : 0,
+      "text" : "Una sociedad anónima propiedad al 50% por Ayuntamiento y Comunidad de Madrid",
+      "feedback" : "Error"
+    } ],
+    "shuffleanswers" : false,
+    "single" : false,
+    "answernumbering" : null
+  }, {
+    "id" : null,
+    "text" : "¿La E.M.T. opera en Madrid en Régimen de?",
+    "type" : null,
+    "answers" : [ {
+      "fraction" : 0,
+      "text" : "Semiexclusividad",
+      "feedback" : "Error"
+    }, {
+      "fraction" : 0,
+      "text" : "Esclavitud",
+      "feedback" : "Error"
+    }, {
+      "fraction" : 100,
+      "text" : "Exclusividad",
+      "feedback" : "Correcto"
+    }, {
+      "fraction" : 0,
+      "text" : "Todas las anteriores son ciertas",
+      "feedback" : "Error"
+    } ],
+    "shuffleanswers" : false,
+    "single" : false,
+    "answernumbering" : null
+  }, {
+    "id" : null,
+    "text" : "¿Cuáles son las cabeceras de la línea 1?",
+    "type" : null,
+    "answers" : [ {
+      "fraction" : 100,
+      "text" : "Cristo Rey - Prosperidad",
+      "feedback" : "Correcto"
+    }, {
+      "fraction" : 0,
+      "text" : "Benavente - Orcasitas",
+      "feedback" : "Error"
+    }, {
+      "fraction" : 0,
+      "text" : "Cibeles - Palomeras",
+      "feedback" : "Error"
+    }, {
+      "fraction" : 0,
+      "text" : "Plaza Mayor - Parque Europa",
+      "feedback" : "Error"
+    } ],
+    "shuffleanswers" : false,
+    "single" : false,
+    "answernumbering" : null
+  }, {
+    "id" : null,
+    "text" : "¿Cuáles son las cabeceras de la línea 2?",
+    "type" : null,
+    "answers" : [ {
+      "fraction" : 0,
+      "text" : "Benavente - Orcasitas",
+      "feedback" : "Error"
+    }, {
+      "fraction" : 100,
+      "text" : "R. Victoria - M. Becerra",
+      "feedback" : "Correcto"
+    }, {
+      "fraction" : 0,
+      "text" : "Cristo Rey - Prosperidad",
+      "feedback" : "Error"
+    }, {
+      "fraction" : 0,
+      "text" : "Plaza Mayor - Parque Europa",
+      "feedback" : "Error"
+    } ],
+    "shuffleanswers" : false,
+    "single" : false,
+    "answernumbering" : null
+  }, {
+    "id" : null,
+    "text" : "¿En qué Fecha se crea la E.M.T. de Madrid?",
+    "type" : null,
+    "answers" : [ {
+      "fraction" : 0,
+      "text" : "12 de Diciembre de 1947",
+      "feedback" : "Error"
+    }, {
+      "fraction" : 100,
+      "text" : "12 de Noviembre de 1947",
+      "feedback" : "Correcto"
+    }, {
+      "fraction" : 0,
+      "text" : "12 de Noviembre de 1957",
+      "feedback" : "Error"
+    }, {
+      "fraction" : 0,
+      "text" : "12 de Diciembre de 1957",
+      "feedback" : "Error"
+    } ],
+    "shuffleanswers" : false,
+    "single" : false,
+    "answernumbering" : null
+  }, {
+    "id" : null,
+    "text" : "¿Cuántas líneas tiene la E.M.T. de Madrid?",
+    "type" : null,
+    "answers" : [ {
+      "fraction" : 0,
+      "text" : "207 líneas, 177 diurnas,6 universitarias, 26 búhos y 1 exprés al aeropuerto",
+      "feedback" : "Error"
+    }, {
+      "fraction" : 0,
+      "text" : "211 líneas, 180 diurnas,6 universitarias, 27 búhos y 1 exprés al aeropuerto",
+      "feedback" : "Error"
+    }, {
+      "fraction" : 100,
+      "text" : "211 líneas, 180 diurnas,6 universitarias, 26 búhos y 1 exprés al aeropuerto",
+      "feedback" : "Correcto"
+    }, {
+      "fraction" : 0,
+      "text" : "203 líneas, 177 diurnas,6 universitarias, 26 búhos y 1 exprés al aeropuerto",
+      "feedback" : "Error"
+    } ],
+    "shuffleanswers" : false,
+    "single" : false,
+    "answernumbering" : null
+  }, {
+    "id" : null,
+    "text" : "¿Cuáles son las cabeceras de la línea 3?",
+    "type" : null,
+    "answers" : [ {
+      "fraction" : 0,
+      "text" : "Benavente - Orcasitas",
+      "feedback" : "Error"
+    }, {
+      "fraction" : 100,
+      "text" : "Plaza de San Amaro - Pta. de Toledo",
+      "feedback" : "Correcto"
+    }, {
+      "fraction" : 0,
+      "text" : "Cristo Rey - Prosperidad",
+      "feedback" : "Error"
+    }, {
+      "fraction" : 0,
+      "text" : "Plaza Mayor - Parque Europa",
+      "feedback" : "Error"
+    } ],
+    "shuffleanswers" : false,
+    "single" : false,
+    "answernumbering" : null
+  }, {
+    "id" : null,
+    "text" : "¿Cuáles son las cabeceras de la línea 4?",
+    "type" : null,
+    "answers" : [ {
+      "fraction" : 100,
+      "text" : "Ciudad Líneal - Pta. de Arganda",
+      "feedback" : "Correcto"
+    }, {
+      "fraction" : 0,
+      "text" : "Plaza de San Amaro - Pta. Toledo",
+      "feedback" : "Error"
+    }, {
+      "fraction" : 0,
+      "text" : "Benavente - Orcasitas",
+      "feedback" : "Error"
+    }, {
+      "fraction" : 0,
+      "text" : "Plaza Mayor - Parque Europa",
+      "feedback" : "Error"
+    } ],
+    "shuffleanswers" : false,
+    "single" : false,
+    "answernumbering" : null
+  }, {
+    "id" : null,
+    "text" : "¿Cuántos km, Paradas y nº de viajeros transporta la EMT?",
+    "type" : null,
+    "answers" : [ {
+      "fraction" : 0,
+      "text" : "3657 KM, 10305 paradas y transporta 400 millones de viajeros al año",
+      "feedback" : "Error"
+    }, {
+      "fraction" : 0,
+      "text" : "3657 KM, 103 paradas y transporta 400 millones de viajeros al mes",
+      "feedback" : "Error"
+    }, {
+      "fraction" : 100,
+      "text" : "3657 KM, 10307 paradas y transporta 430 millones de viajeros al año",
+      "feedback" : "Correcto"
+    }, {
+      "fraction" : 0,
+      "text" : "3657 KM, 10308 paradas y transporta 430 millones de viajeros al día",
+      "feedback" : "Error"
+    } ],
+    "shuffleanswers" : false,
+    "single" : false,
+    "answernumbering" : null
+  }, {
+    "id" : null,
+    "text" : "¿Cuántos trabajadores tiene la E.M.T. de Madrid?",
+    "type" : null,
+    "answers" : [ {
+      "fraction" : 0,
+      "text" : "8540 trabajadores: 5520 conductores, 740 T.A, 395 Explotación y 730 movilidad",
+      "feedback" : "Error"
+    }, {
+      "fraction" : 0,
+      "text" : "8540 trabajadores: 5521 conductores, 740 T.A, 395 Explotación y 730 movilidad",
+      "feedback" : "Error"
+    }, {
+      "fraction" : 0,
+      "text" : "8540 trabajadores: 5520 conductores, 740 T.A, 395 Movilidad y 730 Explotación",
+      "feedback" : "Error"
+    }, {
+      "fraction" : 100,
+      "text" : "8540 trabajadores: 5520 conductores, 740 Explotación, 395 T.A y 730 movilidad y 1155 Taller",
+      "feedback" : "Correcto"
+    } ],
+    "shuffleanswers" : false,
+    "single" : false,
+    "answernumbering" : null
+  }, {
+    "id" : null,
+    "text" : "¿Cuáles son las cabeceras de la línea 5?",
+    "type" : null,
+    "answers" : [ {
+      "fraction" : 100,
+      "text" : "Sol/Sevilla - Est. Chamartin",
+      "feedback" : "Correcto"
+    }, {
+      "fraction" : 0,
+      "text" : "Cibeles - Las Aguilas",
+      "feedback" : "Error"
+    }, {
+      "fraction" : 0,
+      "text" : "Cibeles - Palomeras",
+      "feedback" : "Error"
+    }, {
+      "fraction" : 0,
+      "text" : "Plaza Mayor - C. Alto",
+      "feedback" : "Error"
+    } ],
+    "shuffleanswers" : false,
+    "single" : false,
+    "answernumbering" : null
+  }, {
+    "id" : null,
+    "text" : "¿Cuáles son las cabeceras de la línea 6?",
+    "type" : null,
+    "answers" : [ {
+      "fraction" : 0,
+      "text" : "Sol/Sevilla - Est. Chamartin",
+      "feedback" : "Error"
+    }, {
+      "fraction" : 0,
+      "text" : "Cibeles - Palomeras",
+      "feedback" : "Error"
+    }, {
+      "fraction" : 0,
+      "text" : "Plaza de San Amaro - Pta. de Atocha",
+      "feedback" : "Error"
+    }, {
+      "fraction" : 100,
+      "text" : "Benavente - Orcasitas",
+      "feedback" : "Correcto"
+    } ],
+    "shuffleanswers" : false,
+    "single" : false,
+    "answernumbering" : null
+  }, {
+    "id" : null,
+    "text" : "¿Cuantos Autobuses tiene el C.O. de Fuencarral?",
+    "type" : null,
+    "answers" : [ {
+      "fraction" : 100,
+      "text" : "432",
+      "feedback" : "Correcto"
+    }, {
+      "fraction" : 0,
+      "text" : "420",
+      "feedback" : "Error"
+    }, {
+      "fraction" : 0,
+      "text" : "385",
+      "feedback" : "Error"
+    }, {
+      "fraction" : 0,
+      "text" : "412",
+      "feedback" : "Error"
+    } ],
+    "shuffleanswers" : false,
+    "single" : false,
+    "answernumbering" : null
+  }, {
+    "id" : null,
+    "text" : "¿Cuál es la dirección del C.O. de Fuencarral?",
+    "type" : null,
+    "answers" : [ {
+      "fraction" : 0,
+      "text" : "Mauricio Legendre 31",
+      "feedback" : "Error"
+    }, {
+      "fraction" : 0,
+      "text" : "Mauricio Legendre 32",
+      "feedback" : "Error"
+    }, {
+      "fraction" : 100,
+      "text" : "Mauricio Legendre 38 - 42",
+      "feedback" : "Correcto"
+    }, {
+      "fraction" : 0,
+      "text" : "Mauricio Legendre 22",
+      "feedback" : "Error"
+    } ],
+    "shuffleanswers" : false,
+    "single" : false,
+    "answernumbering" : null
+  }, {
+    "id" : null,
+    "text" : "¿Cuáles son las cabeceras de la línea 7?",
+    "type" : null,
+    "answers" : [ {
+      "fraction" : 100,
+      "text" : "Alonso Martínez - Manoteras",
+      "feedback" : "Correcto"
+    }, {
+      "fraction" : 0,
+      "text" : "Plaza Mayor - C. Alto",
+      "feedback" : "Error"
+    }, {
+      "fraction" : 0,
+      "text" : "Cibeles - Palomeras",
+      "feedback" : "Error"
+    }, {
+      "fraction" : 0,
+      "text" : "Cibeles - Parque Europa",
+      "feedback" : "Error"
+    } ],
+    "shuffleanswers" : false,
+    "single" : false,
+    "answernumbering" : null
+  }, {
+    "id" : null,
+    "text" : "¿Cuáles son las cabeceras de la línea 8?",
+    "type" : null,
+    "answers" : [ {
+      "fraction" : 0,
+      "text" : "Alonso Martínez - Manoteras",
+      "feedback" : "Error"
+    }, {
+      "fraction" : 0,
+      "text" : "Plaza Mayor - Parque Europa",
+      "feedback" : "Error"
+    }, {
+      "fraction" : 100,
+      "text" : "Legazpi - Valdebernardo",
+      "feedback" : "Correcto"
+    }, {
+      "fraction" : 0,
+      "text" : "Cibeles - Las Aguilas",
+      "feedback" : "Error"
+    } ],
+    "shuffleanswers" : false,
+    "single" : false,
+    "answernumbering" : null
+  }, {
+    "id" : null,
+    "text" : "¿A que distritos presta servicio el C.O. Fuencarral?",
+    "type" : null,
+    "answers" : [ {
+      "fraction" : 0,
+      "text" : "Villaverde, Usera, Villa de Vallecas, Puente de Vallecas, Vicalvaro, Retiro, Moratalaz",
+      "feedback" : "Error"
+    }, {
+      "fraction" : 100,
+      "text" : "Fuencarral-El Pardo, Ciudad Lineal, Moncloa-Aravaca, Chamartin, Tetuan, Chamberi, Salamanca y Centro",
+      "feedback" : "Correcto"
+    }, {
+      "fraction" : 0,
+      "text" : "Barajas, Hortaleza, Fuencarral-El Pardo, Chamartin, Centro, Salamanca, Ciudad Lineal y San Blas-Canillejas",
+      "feedback" : "Error"
+    }, {
+      "fraction" : 0,
+      "text" : "Villaverde, Usera, Carabanchel, Latina, Arganzuela, Centro y Moncloa-Aravaca",
+      "feedback" : "Error"
+    } ],
+    "shuffleanswers" : false,
+    "single" : false,
+    "answernumbering" : null
+  }, {
+    "id" : null,
+    "text" : "¿Cuánta lineas y cuántos metros cuadrados tiene el C.O. Fuencarral?",
+    "type" : null,
+    "answers" : [ {
+      "fraction" : 0,
+      "text" : "39 lineas y 132.000 metros cuadrados",
+      "feedback" : "Error"
+    }, {
+      "fraction" : 0,
+      "text" : "29 lineas y 133.000 metros cuadrados",
+      "feedback" : "Error"
+    }, {
+      "fraction" : 100,
+      "text" : "39 lineas y 133.000 metros cuadrados",
+      "feedback" : "Correcto"
+    }, {
+      "fraction" : 0,
+      "text" : "39 lineas y 131.000 metros cuadrados",
+      "feedback" : "Error"
+    } ],
+    "shuffleanswers" : false,
+    "single" : false,
+    "answernumbering" : null
+  }, {
+    "id" : null,
+    "text" : "¿En qué año se inagura el C.O. de Fuencarral?",
+    "type" : null,
+    "answers" : [ {
+      "fraction" : 0,
+      "text" : "1947",
+      "feedback" : "Error"
+    }, {
+      "fraction" : 0,
+      "text" : "1950",
+      "feedback" : "Error"
+    }, {
+      "fraction" : 100,
+      "text" : "1960",
+      "feedback" : "Correcto"
+    }, {
+      "fraction" : 0,
+      "text" : "1966",
+      "feedback" : "Error"
+    } ],
+    "shuffleanswers" : false,
+    "single" : false,
+    "answernumbering" : null
+  }, {
+    "id" : null,
+    "text" : "¿Cuáles son las cabeceras de la línea 9?",
+    "type" : null,
+    "answers" : [ {
+      "fraction" : 0,
+      "text" : "Legazpi . V. Alto",
+      "feedback" : "Error"
+    }, {
+      "fraction" : 100,
+      "text" : "Sol/Sevilla - Hortaleza",
+      "feedback" : "Correcto"
+    }, {
+      "fraction" : 0,
+      "text" : "Cibeles - Palomeras",
+      "feedback" : "Error"
+    }, {
+      "fraction" : 0,
+      "text" : "Cibeles - Las Aguilas",
+      "feedback" : "Error"
+    } ],
+    "shuffleanswers" : false,
+    "single" : false,
+    "answernumbering" : null
+  }, {
+    "id" : null,
+    "text" : "¿Cuáles son las cabeceras de la línea 10?",
+    "type" : null,
+    "answers" : [ {
+      "fraction" : 0,
+      "text" : "Cibeles - Las Aguilas",
+      "feedback" : "Error"
+    }, {
+      "fraction" : 0,
+      "text" : "Sevilla - Hortaleza",
+      "feedback" : "Error"
+    }, {
+      "fraction" : 100,
+      "text" : "Cibeles - Palomeras",
+      "feedback" : "Correcto"
+    }, {
+      "fraction" : 0,
+      "text" : "Sol/Sevilla - Est. Chamartín",
+      "feedback" : "Error"
+    } ],
+    "shuffleanswers" : false,
+    "single" : false,
+    "answernumbering" : null
+  }, {
+    "id" : null,
+    "text" : "¿Cuántas líneas y metros cuadrados tiene el C.O La Elipa?",
+    "type" : null,
+    "answers" : [ {
+      "fraction" : 100,
+      "text" : "35 lineas y 40.000 metros cuadrados",
+      "feedback" : "Correcto"
+    }, {
+      "fraction" : 0,
+      "text" : "39 lineas y 133.000 metros cuadrados",
+      "feedback" : "Error"
+    }, {
+      "fraction" : 0,
+      "text" : "36 lineas y 40.000 metros cuadrados",
+      "feedback" : "Error"
+    }, {
+      "fraction" : 0,
+      "text" : "35 lineas y 41.000 metros cuadrados",
+      "feedback" : "Error"
+    } ],
+    "shuffleanswers" : false,
+    "single" : false,
+    "answernumbering" : null
+  }, {
+    "id" : null,
+    "text" : "¿Cuál es la dirección del C.O. La Elipa?",
+    "type" : null,
+    "answers" : [ {
+      "fraction" : 0,
+      "text" : "Av/ Santa Catalina 11",
+      "feedback" : "Error"
+    }, {
+      "fraction" : 100,
+      "text" : "AV/ Trece Rosas 3",
+      "feedback" : "Correcto"
+    }, {
+      "fraction" : 0,
+      "text" : "AV/ Trece Sosas 3",
+      "feedback" : "Error"
+    }, {
+      "fraction" : 0,
+      "text" : "C/ Mauricio Legendre 38-42",
+      "feedback" : "Error"
+    } ],
+    "shuffleanswers" : false,
+    "single" : false,
+    "answernumbering" : null
+  }, {
+    "id" : null,
+    "text" : "¿A que distritos presta servicio el C.O. La Elipa?",
+    "type" : null,
+    "answers" : [ {
+      "fraction" : 0,
+      "text" : "Villaverde, Usera, Villa de Vallecas, Puente de Vallecas, Vicalvaro, Retiro, Moratalaz",
+      "feedback" : "Error"
+    }, {
+      "fraction" : 0,
+      "text" : "Fuencarral-El Pardo, Ciudad Lineal, Moncloa-Aravaca, Chamartin, Tetuan, Chamberi, Salamanca y Centro",
+      "feedback" : "Error"
+    }, {
+      "fraction" : 100,
+      "text" : "Puente de Vallecas, Vicalvaro, Retiro, Centro, Moncloa-Aravaca, Tetuan, Moratalaz, Salamanca, San Blas-Canillejas, Ciudad lineal y barajas",
+      "feedback" : "Correcto"
+    }, {
+      "fraction" : 0,
+      "text" : "Villaverde, Usera, Carabanchel, Latina, Arganzuela, Centro y Moncloa-Aravaca",
+      "feedback" : "Error"
+    } ],
+    "shuffleanswers" : false,
+    "single" : false,
+    "answernumbering" : null
+  }, {
+    "id" : null,
+    "text" : "¿Cuántos autobuses tiene el C.O.la Elipa?",
+    "type" : null,
+    "answers" : [ {
+      "fraction" : 100,
+      "text" : "315",
+      "feedback" : "Correcto"
+    }, {
+      "fraction" : 0,
+      "text" : "432",
+      "feedback" : "Error"
+    }, {
+      "fraction" : 0,
+      "text" : "420",
+      "feedback" : "Error"
+    }, {
+      "fraction" : 0,
+      "text" : "412",
+      "feedback" : "Error"
+    } ],
+    "shuffleanswers" : false,
+    "single" : false,
+    "answernumbering" : null
+  }, {
+    "id" : null,
+    "text" : "¿En que año se inagura el C.O. de la Elípa?",
+    "type" : null,
+    "answers" : [ {
+      "fraction" : 0,
+      "text" : "1960",
+      "feedback" : "Error"
+    }, {
+      "fraction" : 0,
+      "text" : "1966",
+      "feedback" : "Error"
+    }, {
+      "fraction" : 100,
+      "text" : "1971",
+      "feedback" : "Correcto"
+    }, {
+      "fraction" : 0,
+      "text" : "1975",
+      "feedback" : "Error"
+    } ],
+    "shuffleanswers" : false,
+    "single" : false,
+    "answernumbering" : null
+  }, {
+    "id" : null,
+    "text" : "¿Qué dirección tiene el C.O. Entrevías?",
+    "type" : null,
+    "answers" : [ {
+      "fraction" : 0,
+      "text" : "Mauricio Legendre 38-42",
+      "feedback" : "Error"
+    }, {
+      "fraction" : 0,
+      "text" : "AV/ Trece Rosas 3",
+      "feedback" : "Error"
+    }, {
+      "fraction" : 100,
+      "text" : "Av/ Santa Catalina 11",
+      "feedback" : "Correcto"
+    }, {
+      "fraction" : 0,
+      "text" : "Ventura Díaz s/n",
+      "feedback" : "Error"
+    } ],
+    "shuffleanswers" : false,
+    "single" : false,
+    "answernumbering" : null
+  }, {
+    "id" : null,
+    "text" : "¿Qué dotación de autobuses tiene el C.O. Entrevías?",
+    "type" : null,
+    "answers" : [ {
+      "fraction" : 100,
+      "text" : "412",
+      "feedback" : "Correcto"
+    }, {
+      "fraction" : 0,
+      "text" : "420",
+      "feedback" : "Error"
+    }, {
+      "fraction" : 0,
+      "text" : "315",
+      "feedback" : "Error"
+    }, {
+      "fraction" : 0,
+      "text" : "432",
+      "feedback" : "Error"
+    } ],
+    "shuffleanswers" : false,
+    "single" : false,
+    "answernumbering" : null
+  }, {
+    "id" : null,
+    "text" : "¿Cuantas líneas y metros cuadrados tiene el C.O. Entrevías?",
+    "type" : null,
+    "answers" : [ {
+      "fraction" : 0,
+      "text" : "39 lineas y 133.000 metros cuadrados",
+      "feedback" : "Error"
+    }, {
+      "fraction" : 0,
+      "text" : "48 lineas y 65.000 metros cuadrados",
+      "feedback" : "Error"
+    }, {
+      "fraction" : 0,
+      "text" : "35 lineas y 40.000 metros cuadrados",
+      "feedback" : "Error"
+    }, {
+      "fraction" : 100,
+      "text" : "42 lineas y 52.000 metros cuadrados",
+      "feedback" : "Correcto"
+    } ],
+    "shuffleanswers" : false,
+    "single" : false,
+    "answernumbering" : null
+  }, {
+    "id" : null,
+    "text" : "¿En qué año se inagura el C.O. de Entrevías?",
+    "type" : null,
+    "answers" : [ {
+      "fraction" : 0,
+      "text" : "1960",
+      "feedback" : "Error"
+    }, {
+      "fraction" : 0,
+      "text" : "1971",
+      "feedback" : "Error"
+    }, {
+      "fraction" : 0,
+      "text" : "1975",
+      "feedback" : "Error"
+    }, {
+      "fraction" : 100,
+      "text" : "1979",
+      "feedback" : "Correcto"
+    } ],
+    "shuffleanswers" : false,
+    "single" : false,
+    "answernumbering" : null
+  }, {
+    "id" : null,
+    "text" : "¿A qué distritos da servicio el C.O. Entrevías?",
+    "type" : null,
+    "answers" : [ {
+      "fraction" : 0,
+      "text" : "Fuencarral-El Pardo, Ciudad Lineal, Moncloa-Aravaca, Chamartin, Tetuan, Chamberi, Salamanca y Centro",
+      "feedback" : "Error"
+    }, {
+      "fraction" : 0,
+      "text" : "Puente de Vallecas, Vicalvaro, Retiro, Centro, Moncloa-Aravaca, Tetuan, Moratalaz, Salamanca, San Blas-Canillejas, Ciudad lineal y Barajas",
+      "feedback" : "Error"
+    }, {
+      "fraction" : 0,
+      "text" : "Villaverde, Usera, Carabanchel, Latina, Arganzuela, Centro y Moncloa-Aravaca",
+      "feedback" : "Error"
+    }, {
+      "fraction" : 100,
+      "text" : "Villaverde, Usera, Villa de Vallecas, Puente de Vallecas, Vicalvaro, Retiro, Moratalaz",
+      "feedback" : "Correcto"
+    } ],
+    "shuffleanswers" : false,
+    "single" : false,
+    "answernumbering" : null
+  }, {
+    "id" : null,
+    "text" : "¿En qué año se inaugura el C.O. Carabanchel?",
+    "type" : null,
+    "answers" : [ {
+      "fraction" : 100,
+      "text" : "2006",
+      "feedback" : "Correcto"
+    }, {
+      "fraction" : 0,
+      "text" : "2010",
+      "feedback" : "Error"
+    }, {
+      "fraction" : 0,
+      "text" : "2003",
+      "feedback" : "Error"
+    }, {
+      "fraction" : 0,
+      "text" : "1947",
+      "feedback" : "Error"
+    } ],
+    "shuffleanswers" : false,
+    "single" : false,
+    "answernumbering" : null
+  }, {
+    "id" : null,
+    "text" : "¿Cuál es la dirección de la sede social de la E.M.T.?",
+    "type" : null,
+    "answers" : [ {
+      "fraction" : 0,
+      "text" : "Cerro de la Plata 3",
+      "feedback" : "Error"
+    }, {
+      "fraction" : 100,
+      "text" : "Cerro de la Plata 4",
+      "feedback" : "Correcto"
+    }, {
+      "fraction" : 0,
+      "text" : "Cerro de la Plata 5",
+      "feedback" : "Error"
+    }, {
+      "fraction" : 0,
+      "text" : "Ninguna de las anteriores es cierta.",
+      "feedback" : "Error"
+    } ],
+    "shuffleanswers" : false,
+    "single" : false,
+    "answernumbering" : null
+  }, {
+    "id" : null,
+    "text" : "¿Cúal es la dirección del C.O. de Carabanchel?",
+    "type" : null,
+    "answers" : [ {
+      "fraction" : 100,
+      "text" : "C/ Ventura Díaz Bernardo s/n",
+      "feedback" : "Correcto"
+    }, {
+      "fraction" : 0,
+      "text" : "C/ Ventura Díez Bernardo s/n",
+      "feedback" : "Error"
+    }, {
+      "fraction" : 0,
+      "text" : "C/ Ventura Díaz Bernardo,4",
+      "feedback" : "Error"
+    }, {
+      "fraction" : 0,
+      "text" : "C/ Ventura Díez Bernardo,4",
+      "feedback" : "Error"
+    } ],
+    "shuffleanswers" : false,
+    "single" : false,
+    "answernumbering" : null
+  }, {
+    "id" : null,
+    "text" : "¿Cuántos autobuses tiene el C.O. de Carabanchel?",
+    "type" : null,
+    "answers" : [ {
+      "fraction" : 0,
+      "text" : "432",
+      "feedback" : "Error"
+    }, {
+      "fraction" : 100,
+      "text" : "420",
+      "feedback" : "Correcto"
+    }, {
+      "fraction" : 0,
+      "text" : "412",
+      "feedback" : "Error"
+    }, {
+      "fraction" : 0,
+      "text" : "402",
+      "feedback" : "Error"
+    } ],
+    "shuffleanswers" : false,
+    "single" : false,
+    "answernumbering" : null
+  }, {
+    "id" : null,
+    "text" : "¿Cuántas líneas y m2 tiene el C.O. de la Elípa?",
+    "type" : null,
+    "answers" : [ {
+      "fraction" : 0,
+      "text" : "48 líneas y 60.000 m2",
+      "feedback" : "Error"
+    }, {
+      "fraction" : 0,
+      "text" : "46 líneas y 60.000 m2",
+      "feedback" : "Error"
+    }, {
+      "fraction" : 0,
+      "text" : "38 líneas y 56.000 m2",
+      "feedback" : "Error"
+    }, {
+      "fraction" : 100,
+      "text" : "42 líneas y 40.000 m2",
+      "feedback" : "Correcto"
+    } ],
+    "shuffleanswers" : false,
+    "single" : false,
+    "answernumbering" : null
+  }, {
+    "id" : null,
+    "text" : "¿A qué distritos da servicio el C.O. de Carabanchel?",
+    "type" : null,
+    "answers" : [ {
+      "fraction" : 0,
+      "text" : "Fuencarral-El Pardo, Ciudad Lineal, Moncloa-Aravaca, Chamartin, Tetuan, Chamberi, Salamanca y Centro",
+      "feedback" : "Error"
+    }, {
+      "fraction" : 0,
+      "text" : "Puente de Vallecas, Vicalvaro, Retiro, Centro, Moncloa-Aravaca, Tetuan, Moratalaz, Salamanca, San Blas-Canillejas, Ciudad lineal y Barajas",
+      "feedback" : "Error"
+    }, {
+      "fraction" : 100,
+      "text" : "Villaverde, Usera, Carabanchel, Latina, Arganzuela, Centro y Moncloa-Aravaca",
+      "feedback" : "Correcto"
+    }, {
+      "fraction" : 0,
+      "text" : "Villaverde, Usera, Villa de Vallecas, Puente de Vallecas, Vicalvaro, Retiro, Moratalaz",
+      "feedback" : "Error"
+    } ],
+    "shuffleanswers" : false,
+    "single" : false,
+    "answernumbering" : null
+  }, {
+    "id" : null,
+    "text" : "¿En qué año se inagura el C.O. de Sanchinarro?",
+    "type" : null,
+    "answers" : [ {
+      "fraction" : 0,
+      "text" : "2006",
+      "feedback" : "Error"
+    }, {
+      "fraction" : 0,
+      "text" : "2008",
+      "feedback" : "Error"
+    }, {
+      "fraction" : 0,
+      "text" : "2009",
+      "feedback" : "Error"
+    }, {
+      "fraction" : 100,
+      "text" : "2010",
+      "feedback" : "Correcto"
+    } ],
+    "shuffleanswers" : false,
+    "single" : false,
+    "answernumbering" : null
+  }, {
+    "id" : null,
+    "text" : "¿Cuántos autobuses tiene el C.O. de Sanchinarro?",
+    "type" : null,
+    "answers" : [ {
+      "fraction" : 100,
+      "text" : "382",
+      "feedback" : "Correcto"
+    }, {
+      "fraction" : 0,
+      "text" : "412",
+      "feedback" : "Error"
+    }, {
+      "fraction" : 0,
+      "text" : "420",
+      "feedback" : "Error"
+    }, {
+      "fraction" : 0,
+      "text" : "432",
+      "feedback" : "Error"
+    } ],
+    "shuffleanswers" : false,
+    "single" : false,
+    "answernumbering" : null
+  }, {
+    "id" : null,
+    "text" : "¿Cuántas líneas y metros cuadrados tiene el C.O. de Sanchinarro?",
+    "type" : null,
+    "answers" : [ {
+      "fraction" : 100,
+      "text" : "43 lineas y 59000 m2",
+      "feedback" : "Correcto"
+    }, {
+      "fraction" : 0,
+      "text" : "42 lineas y 59000 m2",
+      "feedback" : "Error"
+    }, {
+      "fraction" : 0,
+      "text" : "39 lineas y 56000 m2",
+      "feedback" : "Error"
+    }, {
+      "fraction" : 0,
+      "text" : "39 lineas y 59000 m2",
+      "feedback" : "Error"
+    } ],
+    "shuffleanswers" : false,
+    "single" : false,
+    "answernumbering" : null
+  }, {
+    "id" : null,
+    "text" : "¿A qué distritos da servicio el C.O. de Sanchinaro?",
+    "type" : null,
+    "answers" : [ {
+      "fraction" : 0,
+      "text" : "Villaverde, Usera, Villa de Vallecas, Puente de Vallecas, Vicalvaro, Retiro, Moratalaz",
+      "feedback" : "Error"
+    }, {
+      "fraction" : 0,
+      "text" : "Puente de Vallecas, Vicalvaro, Retiro, Centro, Moncloa-Aravaca, Tetuan, Moratalaz, Salamanca, San Blas-Canillejas, Ciudad lineal y Barajas",
+      "feedback" : "Error"
+    }, {
+      "fraction" : 0,
+      "text" : "Fuencarral-El Pardo, Ciudad Lineal, Moncloa-Aravaca, Chamartin, Tetuan, Chamberi, Salamanca y Centro",
+      "feedback" : "Error"
+    }, {
+      "fraction" : 100,
+      "text" : "Barajas, Hortaleza, Fuencarral, Chamartín, Centro, Salamanca, Ciudad Lineal y San Blas",
+      "feedback" : "Correcto"
+    } ],
+    "shuffleanswers" : false,
+    "single" : false,
+    "answernumbering" : null
+  } ],
+  "author" : null
+}
