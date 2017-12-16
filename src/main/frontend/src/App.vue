@@ -1,17 +1,18 @@
 <template>
   <div id="app">
       <b-nav>
-          <b-nav-item active><router-link to="/"><i class="fas fa-home"></i></router-link> </b-nav-item>
+          <b-nav-item active><router-link to="/quiz"><i class="fas fa-home" title="Ir al comienzo"></i></router-link> </b-nav-item>
+          <b-nav-item disabled>Quiz viewer</b-nav-item>
           <!--
           <b-nav-item>Link</b-nav-item>
           <b-nav-item>Another Link</b-nav-item>
           <b-nav-item disabled>Disabled</b-nav-item>
           -->
       </b-nav>
-      <img src="./assets/logo.png"/>
+      <!--<img src="./assets/logo.png"/>-->
       <router-view></router-view>
       <footer class="container">
-          <p>&copy; Company 2017</p>
+          <p>&copy; JDL 2017</p>
       </footer>
   </div>
 </template>

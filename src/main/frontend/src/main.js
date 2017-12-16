@@ -17,8 +17,8 @@ const router = new VueRouter({
     mode: 'history',
     base: __dirname,
     routes: [
-        { path: '/', component: QuizList },
-        { path: '/quiz/:id', component: Quiz },
+        { path: '/quiz/', component: QuizList },
+        { path: '/quiz/quiz/:id', component: Quiz },
     ]
 })
 
@@ -27,3 +27,5 @@ new Vue({
     router,
     render: h => h(App)
 })
+
+export const SERVICE_URL = "http://localhost/quiz/data/";

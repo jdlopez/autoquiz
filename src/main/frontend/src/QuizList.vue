@@ -11,40 +11,49 @@
 
         <b-form-input v-model.trim="search" placeholder="Texto a filtrar"></b-form-input>
         <b-list-group>
-            <b-list-group-item v-for="q in questions"><router-link :to="'/quiz/'+q.id">{{q.title}} <i class="far fa-clipboard"></i></router-link> </b-list-group-item>
+            <b-list-group-item v-for="q in questionsFiltered" :key="q.id"
+            ><router-link :to="'/quiz/quiz/'+q.id">{{q.title}} </router-link> </b-list-group-item>
+            <!-- <i class="far fa-clipboard"></i> copy to clipboard -->
         </b-list-group>
 
-        <!--
-      <b-alert variant="success" :show="showAlert">
-        Hello {{ name }}
-      </b-alert>
-      -->
     </b-container>
 
 </template>
 
 <script>
+    import axios from 'axios';
+
     export default {
         name: "quiz-list",
         data() {
             return {
-                search: '',
-                questions: [
-                    {
-                        "id" : "cce2a1c2-4f8f-4eb3-ba2c-47d5d0c7a3ff",
-                        "title" : "E.M.T ( Test 1)"
-                    },
-                    {
-                        "id" : "bbbb",
-                        "title" : "E.M.T ( Test 2)"
-                    },
-                ],
+                search: "",
+                questions: [],
+                errorMessage: null,
             }
         },
+        created(){
+            const url = __API__ + 'quiz_list.json';
+            axios.get(url)
+                .then(response => {
+                    // JSON responses are automatically parsed.
+                    this.questions = response.data;
+                })
+                .catch(e => {
+                    this.errorMessage = "ERROR loading quiz. " + e;
+                });
+
+        },
         computed: {
-            showAlert() {
-                return this.name.length > 4 ? true : false;
-            }
+            questionsFiltered() {
+                if (this.search.length > 1) {
+                    return this.questions.filter(function (elem) {
+                        return (elem.title.toLowerCase().indexOf(this.search.toLowerCase()) > -1);
+                    }, this);
+                } else {
+                    return this.questions;
+                }
+            },
         }
     }
 </script>

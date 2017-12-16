@@ -1,15 +1,19 @@
 var path = require('path')
 var webpack = require('webpack')
+//const CopyWebpackPlugin = require('copy-webpack-plugin');
 const ExtractTextPlugin = require("extract-text-webpack-plugin")
 
 module.exports = {
   entry: './src/main.js',
   output: {
-    path: path.resolve(__dirname, './dist'),
-    publicPath: '/dist/',
+    path: path.resolve(__dirname, './quiz'),
+    publicPath: '/quiz/',
     filename: 'build.js'
   },
   module: {
+    //     noParse: function(content) {
+    //       return /data/.test(content);
+    // },
     rules: [
       {
         test: /\.vue$/,
@@ -39,10 +43,6 @@ module.exports = {
           name: '[name].[ext]?[hash]'
         }
       },
-        {
-            test: /\.json$/,
-            loader: 'file-loader'
-        }
     ]
   },
   resolve: {
@@ -57,7 +57,18 @@ module.exports = {
   performance: {
     hints: false
   },
-  plugins: [new ExtractTextPlugin("main.css")],
+  plugins: [
+      new ExtractTextPlugin("main.css"),
+      new webpack.DefinePlugin({
+          __API__: JSON.stringify(process.env.NODE_ENV === 'production'?'/quiz/data/':'http://localhost/quiz/data/')
+      }),
+      /*
+      new CopyWebpackPlugin([
+              { from: 'data/*.quiz' },
+      ],
+          {copyUnmodified: true}
+    )*/
+    ],
   devtool: '#eval-source-map'
 }
 
@@ -68,7 +79,7 @@ if (process.env.NODE_ENV === 'production') {
     new webpack.DefinePlugin({
       'process.env': {
         NODE_ENV: '"production"'
-      }
+      },
     }),
     new webpack.optimize.UglifyJsPlugin({
       sourceMap: true,
@@ -80,4 +91,7 @@ if (process.env.NODE_ENV === 'production') {
       minimize: true
     })
   ])
+} else {
+
 }
+
