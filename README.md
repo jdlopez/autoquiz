@@ -11,7 +11,7 @@ Quiz creation is restricted to admin. If u want your personal quiz added create 
 
 Deployed as Heroku app:
 
-https://autoquiz.heroku.com
+https://autoquizz.heroku.com
 
 ## samples
 
