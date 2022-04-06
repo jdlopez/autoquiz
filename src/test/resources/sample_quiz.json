@@ -1,0 +1,139 @@
+{
+  "id": "1",
+  "title": "Sample Quiz",
+  "instructions":  "This is a sample quiz",
+  "showPublic": "true",
+  "showCorrect":  "true",
+  "suffleQuestions": "false",
+  "passFraction":  "100",
+  "answernumbering": "NUMBERS",
+  "shuffleanswers":  "false",
+  "questions": [
+    {
+      "id":  "1-1",
+      "text":  "What is the answer to this question?",
+      "type": "multichoice",
+      "single":  "true",
+      "answers": [
+        {
+          "id": "1-1-1",
+          "fraction": "100",
+          "text": "The correct answer",
+          "feedback": "Correct!"
+        },
+        {
+          "id": "1-1-2",
+          "fraction": "0",
+          "text": "2nd distractor",
+          "feedback": "Ooops!"
+        },
+        {
+          "id": "1-1-3",
+          "fraction": "0",
+          "text": "3rd distractor",
+          "feedback": "Ooops!"
+        },
+        {
+          "id": "1-1-4",
+          "fraction": "0",
+          "text": "4th distractor",
+          "feedback": "Ooops!"
+        }
+      ]
+    },
+    {
+      "id":  "1-2",
+      "text":  "Why are you answering this questions?",
+      "type": "multichoice",
+      "single":  "true",
+      "answers": [
+        {
+          "id": "1-2-1",
+          "fraction": "0",
+          "text": "I don't care",
+          "feedback": "Meeeck!"
+        },
+        {
+          "id": "1-2-2",
+          "fraction": "100",
+          "text": "My umbrella",
+          "feedback": "Correct!"
+        },
+        {
+          "id": "1-2-3",
+          "fraction": "0",
+          "text": "That is the question",
+          "feedback": "Meeeck"
+        },
+        {
+          "id": "1-2-4",
+          "fraction": "0",
+          "text": "Or not",
+          "feedback": "U miss that"
+        }
+      ]
+    },
+    {
+      "id":  "1-3",
+      "text":  "Yet another dummy question",
+      "type": "multichoice",
+      "single":  "true",
+      "answers": [
+        {
+          "id": "1-3-1",
+          "fraction": "0",
+          "text": "Really don't care",
+          "feedback": "Wrong"
+        },
+        {
+          "id": "1-3-2",
+          "fraction": "0",
+          "text": "Maybe",
+          "feedback": null
+        },
+        {
+          "id": "1-3-3",
+          "fraction": "100",
+          "text": "This is the one",
+          "feedback": "You are right!"
+        },
+        {
+          "id": "1-3-4",
+          "fraction": "0",
+          "text": "Dummy response 4",
+          "feedback": null
+        }
+      ]
+    },
+    {
+      "id":  "1-4",
+      "text":  "This could be the last question",
+      "type": "multichoice",
+      "single":  "true",
+      "answers": [
+        {
+          "id": "1-4-1",
+          "fraction": "0",
+          "text": "Nobody cares"
+        },
+        {
+          "id": "1-4-2",
+          "fraction": "0",
+          "text": "You know I don't care"
+        },
+        {
+          "id": "1-4-3",
+          "fraction": "0",
+          "text": "Try another one"
+        },
+        {
+          "id": "1-4-4",
+          "fraction": "100",
+          "text": "Last but not least",
+          "feedback": "Finally!"
+        }
+      ]
+    }
+
+  ]
+}
