@@ -11,7 +11,6 @@ import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.RestController;
 
 import java.util.List;
-import java.util.Random;
 import java.util.concurrent.ThreadLocalRandom;
 
 @RestController
@@ -42,7 +41,7 @@ public class QuizRestService {
         return dao.selectQuizCountGroupByTag();
     }
 
-    @GetMapping("/question/{tag}")
+    @GetMapping("/question/tag/{tag}")
     public Question findRandomQuestionByTag(@PathVariable("tag") String tag) {
         // to avoid randomized search in db ... first get all
         List<Question> qLst = dao.selectQuestionByTag(tag);
@@ -51,5 +50,10 @@ public class QuizRestService {
         Question q = qLst.get(randomIdx);
         q.setAnswers(dao.selectAnsers(q.getQuizId(), q.getId()));
         return q;
+    }
+
+    @GetMapping("/quiz/{quizId}/question/{questionId}")
+    public Question findQuestionById(@PathVariable("quizId") String quizId, @PathVariable("questionId") String questionId) {
+        return daoFull.selectQuestion(quizId, questionId);
     }
 }

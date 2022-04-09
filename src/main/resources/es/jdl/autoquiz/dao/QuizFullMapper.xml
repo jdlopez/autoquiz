@@ -3,17 +3,22 @@
         PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
         "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
 <mapper namespace="es.jdl.autoquiz.dao.QuizFullMapper">
-<resultMap id="quizFullResultMap" type="es.jdl.autoquiz.domain.Quiz">
-    <id property="id" column="id"/>
-    <result property="title" column="title"/>
-    <result property="instructions" column="instructions"/>
-    <result property="showPublic" column="showPublic"/>
-    <result property="suffleQuestions" column="suffleQuestions"/>
-    <result property="passFraction" column="passFraction"/>
-    <result property="answernumbering" column="answernumbering"/>
-    <result property="shuffleanswers" column="shuffleanswers"/>
+    <resultMap id="quizFullResultMap" type="es.jdl.autoquiz.domain.Quiz">
+        <id property="id" column="id"/>
+        <result property="title" column="title"/>
+        <result property="instructions" column="instructions"/>
+        <result property="showPublic" column="showPublic"/>
+        <result property="suffleQuestions" column="suffleQuestions"/>
+        <result property="passFraction" column="passFraction"/>
+        <result property="answernumbering" column="answernumbering"/>
+        <result property="shuffleanswers" column="shuffleanswers"/>
 
-    <collection property="questions" ofType="es.jdl.autoquiz.domain.Question">
+        <collection property="questions" ofType="es.jdl.autoquiz.domain.Question"
+                    resultMap="questionFullMap">
+        </collection>
+    </resultMap>
+
+    <resultMap id="questionFullMap" type="es.jdl.autoquiz.domain.Question">
         <id property="id" column="question_id"/>
         <result property="quizId" column="quizId"/>
         <result property="text" column="question_text"/>
@@ -29,17 +34,26 @@
             <result property="text" column="answer_text"/>
             <result property="feedback" column="feedback"/>
         </collection>
-    </collection>
-</resultMap>
+    </resultMap>
 
-<select id="selectQuizFullById" resultMap="quizFullResultMap">
-select
-    quiz.id as id, title, instructions, showPublic, suffleQuestions, passFraction, quiz.answernumbering,
-       quiz.shuffleanswers, question.id as question_id, question.quizId, question.text as question_text, type, single,
-       question.answernumbering as question_answernumbering, question.shuffleanswers as question_shuffleanswers,
-    answer.id as answer_id, answer.questionId, fraction, answer.text as answer_text, feedback
-from quiz join question on quiz.id = question.quizId
-join answer on question.id = answer.questionId and question.quizId = answer.quizId
-where quiz.id = #{id} order by question.id
-</select>
+    <select id="selectQuizFullById" resultMap="quizFullResultMap">
+        select
+            quiz.id as id, title, instructions, showPublic, suffleQuestions, passFraction, quiz.answernumbering,
+            quiz.shuffleanswers, question.id as question_id, question.quizId, question.text as question_text, type, single,
+            question.answernumbering as question_answernumbering, question.shuffleanswers as question_shuffleanswers,
+            answer.id as answer_id, answer.questionId, fraction, answer.text as answer_text, feedback
+        from quiz join question on quiz.id = question.quizId
+                  join answer on question.id = answer.questionId and question.quizId = answer.quizId
+        where quiz.id = #{id} order by question.id
+    </select>
+
+    <select id="selectQuestion" resultMap="questionFullMap">
+        select
+            question.id as question_id, question.quizId, question.text as question_text, type, single,
+            question.answernumbering as question_answernumbering, question.shuffleanswers as question_shuffleanswers,
+            answer.id as answer_id, answer.questionId, fraction, answer.text as answer_text, feedback
+        from question
+                  join answer on question.id = answer.questionId and question.quizId = answer.quizId
+        where question.id = #{questionId} and question.quizId = #{quizId} order by question.id
+    </select>
 </mapper>

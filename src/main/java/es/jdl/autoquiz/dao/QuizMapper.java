@@ -4,6 +4,7 @@ import es.jdl.autoquiz.domain.Answer;
 import es.jdl.autoquiz.domain.NameCounter;
 import es.jdl.autoquiz.domain.Question;
 import es.jdl.autoquiz.domain.Quiz;
+import org.apache.ibatis.annotations.Delete;
 import org.apache.ibatis.annotations.Insert;
 import org.apache.ibatis.annotations.Mapper;
 import org.apache.ibatis.annotations.Param;
@@ -50,8 +51,8 @@ public interface QuizMapper {
     @Insert("insert into quiz_tag (quizId, tagName) values (#{quizId}, #{tag})")
     int insertQuizTag(@Param("quizId") String quizId, @Param("tag") String tag);
 
-    @Insert("insert into question_tag (questionId, tagName) values (#{questionId}, #{tag})")
-    int insertQuestionTag(@Param("questionId") String questionId, @Param("tag") String tag);
+    @Insert("insert into question_tag (quizId, questionId, tagName) values (#{quizId}, #{questionId}, #{tag})")
+    int insertQuestionTag(@Param("quizId") String quizId, @Param("questionId") String questionId, @Param("tag") String tag);
 
     @Update("update answer set fraction = #{fraction}, feedback = #{feedback} " +
             "where questionId = #{questionId} and quizId = #{quizId} ")
@@ -82,4 +83,13 @@ public interface QuizMapper {
 
     @Select("select * from answer where quizId = #{quizId} and questionId = #{questionId}")
     List<Answer> selectAnsers(String quizId, String questionId);
+
+    @Select("select * from question where quizId = #{quizId} and id = #{questionId}")
+    Question selectQuestionById(String quizId, String questionId);
+
+    @Delete({
+            "delete from answer where quizId = #{quizId} and questionId = #{questionId}; ",
+            "delete from question where quizId = #{quizId} and id = #{questionId}"
+    })
+    int deleteFullQuestion(String quizId, String questionId);
 }

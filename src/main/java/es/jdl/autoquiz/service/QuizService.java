@@ -15,9 +15,13 @@ import java.util.List;
 @Service
 public class QuizService {
 
+    public static String generateULID() {
+        return UlidCreator.getUlid().toString();
+    }
+
     public void quizSetIDs(Quiz quiz) {
         if (quiz.getId() == null)
-            quiz.setId(UlidCreator.getUlid().toString());
+            quiz.setId(generateULID());
         for (Question q: quiz.getQuestions()) {
             if (q.getId() == null)
                 q.setId(UlidCreator.getUlid().toString());
@@ -28,7 +32,7 @@ public class QuizService {
             q.setQuizId(quiz.getId());
             for (Answer a: q.getAnswers()) {
                 if (a.getId() == null)
-                    a.setId(UlidCreator.getUlid().toString());
+                    a.setId(generateULID());
                 a.setQuestionId(q.getId());
                 a.setQuizId(quiz.getId());
             } // for answer
@@ -51,7 +55,7 @@ public class QuizService {
             } // answer
             if (q.getTags() != null && !q.getTags().isEmpty())
                 for (String t: q.getTags())
-                    addTagToQuestion(q.getId(), t);
+                    addTagToQuestion(quiz.getId(), q.getId(), t);
 
         } // question
     }
@@ -71,14 +75,14 @@ public class QuizService {
         }
     }
 
-    public void addTagToQuestion(String questionId, String tag) {
+    public void addTagToQuestion(String quizId, String questionId, String tag) {
         try {
             dao.insertTag(tag, null);
         } catch (PersistenceException e) {
             // already exists
         }
         try {
-            dao.insertQuestionTag(questionId, tag);
+            dao.insertQuestionTag(quizId, questionId, tag);
         } catch (PersistenceException e) {
             // already exists
         }

@@ -20,7 +20,7 @@ export default {
     methods: {
         async fetchData() {
             this.tagName = this.$route.params.tag;
-            const url = `/question/` + this.tagName;
+            const url = `/question/tag/` + this.tagName;
             this.question = await (await fetch(url)).json();
         },
         anotherQuestion() {

@@ -34,6 +34,7 @@ public class Pdf2Quiz {
 
     public static void main(String[] args) throws IOException {
         File inputPdf;
+        File outFile;
 
         if (args.length == 0) {
             usage();
@@ -46,10 +47,17 @@ public class Pdf2Quiz {
                 quizId = args[2];
             else
                 quizId = conf.getProperty("quizId");
+            if (args.length > 3)
+                pageStart = Integer.parseInt(args[3]);
+            else
+                pageStart = Integer.parseInt(conf.getProperty("pageStart", "1"));
             ignorePrefix = conf.getProperty("ignorePrefix").split(",");
             String answArr = conf.getProperty("answersPrefix");
             answersPrefix = answArr.substring(1, answArr.length() - 1).split(",");
-            pageStart = Integer.parseInt(conf.getProperty("pageStart", "1"));
+            if (args.length > 4)
+                outFile = new File(args[4]);
+            else
+                outFile = new File(conf.getProperty("outFile", inputPdf.toString() + ".json"));
         }
 
         try ( PDDocument document = PDDocument.load(inputPdf) ) {
@@ -78,7 +86,7 @@ public class Pdf2Quiz {
 
             } // for paginas
             ObjectMapper om = new ObjectMapper();
-            om.writerWithDefaultPrettyPrinter().writeValue(new File(inputPdf.toString() + ".json"), quiz);
+            om.writerWithDefaultPrettyPrinter().writeValue(outFile, quiz);
         }
     }
 
@@ -183,7 +191,7 @@ public class Pdf2Quiz {
     }
 
     private static void usage() {
-        System.err.println("Usage: java " + Pdf2Quiz.class.getName() + " <input-pdf> <config-file>");
+        System.err.println("Usage: java " + Pdf2Quiz.class.getName() + " <input-pdf> <config-file> quizId(optional)");
         System.exit(-1);
     }
 }
