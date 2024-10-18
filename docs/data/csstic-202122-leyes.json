@@ -3,7 +3,7 @@
   "title" : "CSSTIC Ordinario OEP 2021 y 2022 LEYES",
   "instructions" : "",
   "showPublic" : false,
-  "showCorrect" : false,
+  "showCorrect" : true,
   "suffleQuestions" : true,
   "passFraction" : 300,
   "fractionSuccess" : 10,

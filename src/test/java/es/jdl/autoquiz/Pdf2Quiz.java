@@ -71,6 +71,7 @@ public class Pdf2Quiz {
             quiz.setAnswernumbering(EnumNumering.LETTERS);
             quiz.setInstructions("");
             quiz.setSuffleQuestions(true);
+            quiz.setShowCorrect(true);
             quiz.setPassFraction(Integer.parseInt(conf.getProperty("passFraction", "100")));
             quiz.setFractionSuccess(Integer.parseInt(conf.getProperty("fractionSuccess", "100")));
             quiz.setFractionWrong(Integer.parseInt(conf.getProperty("fractionWrong", "0")));

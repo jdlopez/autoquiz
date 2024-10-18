@@ -3,7 +3,7 @@
   "title" : "CSSTIC LEYES OEP 2017",
   "instructions" : "",
   "showPublic" : false,
-  "showCorrect" : false,
+  "showCorrect" : true,
   "suffleQuestions" : true,
   "passFraction" : 100,
   "fractionSuccess" : 100,

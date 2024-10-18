@@ -3,7 +3,7 @@
   "title" : "CSSTIC ORDINARIO OEP 2020",
   "instructions" : "",
   "showPublic" : false,
-  "showCorrect" : false,
+  "showCorrect" : true,
   "suffleQuestions" : true,
   "passFraction" : 300,
   "fractionSuccess" : 10,

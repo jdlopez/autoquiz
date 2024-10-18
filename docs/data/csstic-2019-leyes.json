@@ -3,7 +3,7 @@
   "title" : "CSSTIC ORDINARIO OEP 2019 LEYES",
   "instructions" : "",
   "showPublic" : false,
-  "showCorrect" : false,
+  "showCorrect" : true,
   "suffleQuestions" : true,
   "passFraction" : 100,
   "fractionSuccess" : 100,
