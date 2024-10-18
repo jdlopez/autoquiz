@@ -1,22 +1,37 @@
-<!DOCTYPE html>
-<html lang="es">
+<!doctype html>
+<html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <title>Auto Quiz</title>
+    <meta charset="utf-8">
+    <meta name="description" content="">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
+    <title>Autoquiz: Quiz viewer</title>
+
+    <script src="https://unpkg.com/vue@3"></script>
+    <script src="https://unpkg.com/vue-router@4"></script>
+    <script src="./main.js" type="module"></script>
+    <!-- preload components -->
+    <link rel="modulepreload" href="./components/App.js">
+    <link rel="modulepreload" href="./components/QuizList.js">
+    <link rel="modulepreload" href="./components/Question.js">
+    <link rel="modulepreload" href="./components/FullQuiz.js">
+
+    <link rel="stylesheet" href="https://unpkg.com/@picocss/pico@latest/css/pico.min.css">
+    <!-- Custom template-->
+    <link rel="stylesheet" href="css/custom.css">
+
+    <style>
+        .fail {
+            background-color: darkred;
+            color: white;
+        }
+        .hit {
+            background-color: darkgreen;
+            color: white;
+        }
+    </style>
 </head>
 <body>
-<div id="app">{{ message }}</div>
-
-<script type="module">
-    import { createApp } from 'https://unpkg.com/vue@3/dist/vue.esm-browser.js'
-
-    createApp({
-        data() {
-            return {
-                message: 'Hello Vue!'
-            }
-        }
-    }).mount('#app')
-</script>
+<div id="app">
+</div>
 </body>
 </html>

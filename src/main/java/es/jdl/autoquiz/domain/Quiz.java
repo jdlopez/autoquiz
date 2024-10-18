@@ -13,6 +13,10 @@ public class Quiz {
     private boolean showCorrect = false;
     private boolean suffleQuestions;
     private int passFraction;
+    private int fractionSuccess;
+    private int fractionWrong;
+    private String feedbackSuccess;
+    private String feedbackWrong;
     // default for questions
     private EnumNumering answernumbering;
     private boolean shuffleanswers;
@@ -22,4 +26,5 @@ public class Quiz {
     private List<String> tags;
     private List<Question> questions;
 }
+
 

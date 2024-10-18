@@ -1,5 +1,6 @@
 package es.jdl.autoquiz;
 
+import com.fasterxml.jackson.annotation.JsonInclude;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import es.jdl.autoquiz.domain.Answer;
 import es.jdl.autoquiz.domain.EnumNumering;
@@ -9,6 +10,7 @@ import es.jdl.autoquiz.domain.Quiz;
 import org.apache.pdfbox.pdmodel.PDDocument;
 import org.apache.pdfbox.text.PDFTextStripper;
 
+import java.io.BufferedReader;
 import java.io.File;
 import java.io.FileReader;
 import java.io.IOException;
@@ -35,13 +37,13 @@ public class Pdf2Quiz {
     public static void main(String[] args) throws IOException {
         File inputPdf;
         File outFile;
+        Properties conf = new Properties();
 
         if (args.length == 0) {
             usage();
             return;
         } else {
             inputPdf = new File(args[0]);
-            Properties conf = new Properties();
             conf.load(new FileReader(args[1]));
             if (args.length > 2)
                 quizId = args[2];
@@ -70,6 +72,12 @@ public class Pdf2Quiz {
             quiz.setId(quizId);
             quiz.setTitle(inputPdf.getName());
             quiz.setAnswernumbering(EnumNumering.LETTERS);
+            quiz.setInstructions("");
+            quiz.setSuffleQuestions(true);
+            quiz.setPassFraction(Integer.parseInt(conf.getProperty("passFraction", "100")));
+            quiz.setFractionSuccess(Integer.parseInt(conf.getProperty("fractionSuccess", "100")));
+            quiz.setFractionWrong(Integer.parseInt(conf.getProperty("fractionWrong", "0")));
+
             List<Question> questions = new LinkedList<>();
             quiz.setQuestions(questions);
             //
@@ -85,9 +93,42 @@ public class Pdf2Quiz {
                 currentQ += questionsPage.size();
 
             } // for paginas
+            // add answers
+            parseAnswers(quiz, inputPdf);
+            // write to disk
             ObjectMapper om = new ObjectMapper();
+            om.setSerializationInclusion(JsonInclude.Include.NON_NULL);
             om.writerWithDefaultPrettyPrinter().writeValue(outFile, quiz);
         }
+    }
+
+    private static void parseAnswers(Quiz quiz, File inputPdf) throws IOException {
+        BufferedReader br = new BufferedReader(new FileReader(inputPdf.toString() + ".csv"));
+        String line;
+        while ((line = br.readLine()) != null) {
+            String[] row = line.split(";");
+            if (row.length < 2) { // no es fila valida
+                System.out.println("Answers ended at line: " + line);
+                break;
+            }
+            String questionId = row[0];
+            String answerId = row[1];
+            //quiz.getQuestions().stream().filter(x -> x.getId().equals(row[0])).findFirst().get()
+            for (Question q: quiz.getQuestions()) {
+                if (q.getId().equals(questionId)) {
+                    for (Answer a: q.getAnswers()) {
+                        if (a.getId().equals(answerId)) {
+                            a.setFraction(quiz.getFractionSuccess());
+                            a.setFeedback("Correct!");
+                        } else {
+                            a.setFraction(quiz.getFractionWrong());
+                            a.setFeedback("Wrong!");
+                        }
+                    } // for a
+                }
+            } // for q
+        }
+
     }
 
     private static void printPage(int pageNum, String text) {
@@ -130,6 +171,7 @@ public class Pdf2Quiz {
                     inAnswer = false;
                 }
                 actualQuestion = new Question();
+                actualQuestion.setAnswers(new LinkedList<>());
                 actualQuestion.setId(String.valueOf(currentQ));
                 actualQuestion.setQuizId(quizId);
                 actualQuestion.setType(EnumQuestionType.multichoice);
@@ -142,7 +184,6 @@ public class Pdf2Quiz {
             } else if (inQuestion && l.startsWith(answersPrefix[0])) { // comienzan las respuestas
                 inQuestion = false;
                 inAnswer = true;
-                actualQuestion.setAnswers(new LinkedList<>());
                 answer = newAnswer(actualQuestion.getId(), l);
                 nextLetter = answersPrefix[1];
                 nextLetterIdx = 1;

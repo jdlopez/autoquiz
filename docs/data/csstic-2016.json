@@ -1,0 +1,2402 @@
+{
+  "id" : "csstic-2016",
+  "title" : "CSSTIC OEP 2016",
+  "instructions" : "",
+  "showPublic" : false,
+  "showCorrect" : true,
+  "suffleQuestions" : true,
+  "passFraction" : 300,
+  "fractionSuccess" : 10,
+  "fractionWrong" : -3,
+  "answernumbering" : "LETTERS",
+  "shuffleanswers" : false,
+  "active" : false,
+  "questions" : [ {
+    "id" : "1",
+    "quizId" : "csstic-2016",
+    "text" : "1. De acuerdo con el Esquema Nacional de Seguridad, la existencia y disponibilidad de instalaciones alternativas para poder trabajar en caso de que las instalaciones habituales no estén disponibles, es obligatoria:",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "1",
+      "fraction" : -3,
+      "text" : "En todos los sistemas y con los mismos requisitos. ",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "b",
+      "questionId" : "1",
+      "fraction" : -3,
+      "text" : "En todos los sistemas, pero con diferentes requisitos según la categoría del sistema.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "c",
+      "questionId" : "1",
+      "fraction" : -3,
+      "text" : "Sólo en sistemas de categoría MEDIA y ALTA.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "d",
+      "questionId" : "1",
+      "fraction" : 10,
+      "text" : "Sólo en sistemas de categoría ALTA.",
+      "feedback" : "Correct!"
+    } ]
+  }, {
+    "id" : "2",
+    "quizId" : "csstic-2016",
+    "text" : "2. Indique la afirmación CORRECTA acerca del proyecto GEISER (Gestión Integrada de Servicios de Registro):",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "2",
+      "fraction" : -3,
+      "text" : "Está desarrollado en PHP. ",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "b",
+      "questionId" : "2",
+      "fraction" : -3,
+      "text" : "El proyecto ORVE (Oficina de Registro Virtual) es una evolución del proyecto GEISER que permite una mayor integración y funcionalidad que GEISER.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "c",
+      "questionId" : "2",
+      "fraction" : -3,
+      "text" : "Se pueden dar de alta tanto nuevas Oficinas como nuevos Órganos siempre que estén publicadas en DIR3.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "d",
+      "questionId" : "2",
+      "fraction" : 10,
+      "text" : "Dentro de las unidades tramitadoras, permite la gestión de las sub-unidades propias.",
+      "feedback" : "Correct!"
+    } ]
+  }, {
+    "id" : "3",
+    "quizId" : "csstic-2016",
+    "text" : "3. La persona que desarrolla el rol de ScrumMaster, como una de sus responsabilidades esenciales, debe:",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "3",
+      "fraction" : -3,
+      "text" : "Asumir todas aquellas funciones que en una metodología tradicional recaerían en el Jefe de Proyecto. ",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "b",
+      "questionId" : "3",
+      "fraction" : -3,
+      "text" : "Asegurar que el desarrollo se realiza de forma adecuada a los requisitos del negocio.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "c",
+      "questionId" : "3",
+      "fraction" : 10,
+      "text" : "Actuar para proteger al equipo de influencias y distracciones externas.",
+      "feedback" : "Correct!"
+    }, {
+      "id" : "d",
+      "questionId" : "3",
+      "fraction" : -3,
+      "text" : "Priorizar, al principio de cada Sprint, sobre los requisitos del “Product BackLog”.",
+      "feedback" : "Wrong!"
+    } ]
+  }, {
+    "id" : "4",
+    "quizId" : "csstic-2016",
+    "text" : "4. Indique cuál de las siguientes afirmaciones es FALSA respecto a JSON:",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "4",
+      "fraction" : -3,
+      "text" : "Son las siglas de JavasSript Object Notation. ",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "b",
+      "questionId" : "4",
+      "fraction" : -3,
+      "text" : "Es un formato para el intercambio de información.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "c",
+      "questionId" : "4",
+      "fraction" : 10,
+      "text" : "Es más complejo y requiere más esfuerzo de analizar que XML.",
+      "feedback" : "Correct!"
+    }, {
+      "id" : "d",
+      "questionId" : "4",
+      "fraction" : -3,
+      "text" : "Permite representar estructuras de datos y objetos en forma de texto.",
+      "feedback" : "Wrong!"
+    } ]
+  }, {
+    "id" : "5",
+    "quizId" : "csstic-2016",
+    "text" : "5. Su organización dispone de una aplicación que debe ser ofrecida a través de Internet, cuya estructura está separada en 4 capas: cliente pesado, capa web, capa de aplicación y capa de datos, ¿cómo publicaría dicha aplicación sin desplegar el cliente pesado en los puestos de usuario?",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "5",
+      "fraction" : 10,
+      "text" : "Virtualización de aplicaciones y escritorios. ",
+      "feedback" : "Correct!"
+    }, {
+      "id" : "b",
+      "questionId" : "5",
+      "fraction" : -3,
+      "text" : "VPN – Virtual Private Network.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "c",
+      "questionId" : "5",
+      "fraction" : -3,
+      "text" : "Proxy inverso.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "d",
+      "questionId" : "5",
+      "fraction" : -3,
+      "text" : "Ninguno de los anteriores.",
+      "feedback" : "Wrong!"
+    } ]
+  }, {
+    "id" : "6",
+    "quizId" : "csstic-2016",
+    "text" : "6. Las herramientas de .NET Framework facilitan la creación, implementación y administración de aplicaciones y componentes dirigidos a .NET Framework. Entre ellas, Mage.exe (Manifest Generation and Editing Tool) se encarga de:",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "6",
+      "fraction" : -3,
+      "text" : "Ayudar a los proveedores de herramientas y desarrolladores de aplicaciones a encontrar y corregir errores en los programas que tienen como destino Common Language Runtime de .NET Framework. ",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "b",
+      "questionId" : "6",
+      "fraction" : 10,
+      "text" : "Crear, editar y firmar manifiestos de aplicación y de implementación. Como herramienta de la línea de comandos, se puede ejecutar desde scripts por lotes y desde otras aplicaciones basadas en Windows, incluidas las aplicaciones ASP.NET.",
+      "feedback" : "Correct!"
+    }, {
+      "id" : "c",
+      "questionId" : "6",
+      "fraction" : -3,
+      "text" : "Generar una clase administrada enlazada en tiempo de compilación para una clase especificada de Instrumental de administración de Windows (WMI).",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "d",
+      "questionId" : "6",
+      "fraction" : -3,
+      "text" : "Posibilitar la generación y el consumo de datos de perfil para ensamblados de aplicación de imagen nativa (no los ensamblados de .NET Framework) mediante escenarios de aprendizaje seleccionados por el desarrollador de aplicaciones.",
+      "feedback" : "Wrong!"
+    } ]
+  }, {
+    "id" : "7",
+    "quizId" : "csstic-2016",
+    "text" : "7. ¿Cuál de las siguientes características corresponde a la Reunión de Revisión del Sprint (Sprint Review Meeting) en la metodología SCRUM?",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "7",
+      "fraction" : -3,
+      "text" : "La reunión tiene una duración fija de 15 minutos, de forma independiente del tamaño del equipo. ",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "b",
+      "questionId" : "7",
+      "fraction" : -3,
+      "text" : "Estas reuniones permiten a los grupos de equipos discutir su trabajo, enfocándose especialmente en áreas de solapamiento e integración.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "c",
+      "questionId" : "7",
+      "fraction" : -3,
+      "text" : "Uno de los objetivos de la reunión es identificar y comunicar cuánto del trabajo es probable que se realice durante el actual Sprint.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "d",
+      "questionId" : "7",
+      "fraction" : 10,
+      "text" : "En esta reunión se presentan los trabajos completados y su duración no debería ser superior a 4 horas para un Sprint de 1 mes.",
+      "feedback" : "Correct!"
+    } ]
+  }, {
+    "id" : "8",
+    "quizId" : "csstic-2016",
+    "text" : "8. Conforme a la Ley 39/2015, de 1 de octubre, señale cuál de las siguientes afirmaciones es INCORRECTA respecto al registro electrónico de cada Administración u Organismo:",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "8",
+      "fraction" : -3,
+      "text" : "A efectos de cómputo de los plazos, se regirá por la fecha y hora oficial de la sede electrónica de acceso. ",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "b",
+      "questionId" : "8",
+      "fraction" : 10,
+      "text" : "Permite la presentación de documentos todos los días del año durante las veinticuatro horas, excepto los declarados inhábiles por el ministerio competente.",
+      "feedback" : "Correct!"
+    }, {
+      "id" : "c",
+      "questionId" : "8",
+      "fraction" : -3,
+      "text" : "El inicio del cómputo de los plazos que hayan de cumplir las Administraciones Públicas vendrá determinado por la fecha y hora de presentación en el registro electrónico de cada Administración u Organismo.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "d",
+      "questionId" : "8",
+      "fraction" : -3,
+      "text" : "Cada Administración Pública publicará los días y el horario en el que deban permanecer abiertas las oficinas que prestarán asistencia para la presentación electrónica de documentos, garantizando el derecho de los interesados a ser asistidos en el uso de medios electrónicos.",
+      "feedback" : "Wrong!"
+    } ]
+  }, {
+    "id" : "9",
+    "quizId" : "csstic-2016",
+    "text" : "9. ¿Cuál de los siguientes NO es un criterio general de actuación de los poderes públicos, de los establecidos por la Ley Orgánica 3/2007, de 22 de marzo, para la igualdad efectiva de mujeres y hombres?:",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "9",
+      "fraction" : -3,
+      "text" : "La protección de la maternidad. ",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "b",
+      "questionId" : "9",
+      "fraction" : -3,
+      "text" : "La implantación de un lenguaje no sexista en el ámbito administrativo.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "c",
+      "questionId" : "9",
+      "fraction" : -3,
+      "text" : "El fomento de la corresponsabilidad en las labores domésticas.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "d",
+      "questionId" : "9",
+      "fraction" : 10,
+      "text" : "La paridad en la designación de altos cargos en la Administración General del Estado.",
+      "feedback" : "Correct!"
+    } ]
+  }, {
+    "id" : "10",
+    "quizId" : "csstic-2016",
+    "text" : "10. En el modelo de referencia de interconexión de sistemas abiertos (OSI), ¿en qué capa estaría englobado el protocolo de enrutamiento OSPF (Open Shortest Path First)?:",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "10",
+      "fraction" : -3,
+      "text" : "Capa física. ",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "b",
+      "questionId" : "10",
+      "fraction" : -3,
+      "text" : "Capa de enlace de datos.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "c",
+      "questionId" : "10",
+      "fraction" : -3,
+      "text" : "Capa de transporte.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "d",
+      "questionId" : "10",
+      "fraction" : 10,
+      "text" : "Capa de red.",
+      "feedback" : "Correct!"
+    } ]
+  }, {
+    "id" : "11",
+    "quizId" : "csstic-2016",
+    "text" : "11. Señale la respuesta INCORRECTA:",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "11",
+      "fraction" : -3,
+      "text" : "El plan de reindustrialización de la UE persigue el objetivo de que la industria ascienda hasta el 20% del PIB de la UE en el 2020. ",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "b",
+      "questionId" : "11",
+      "fraction" : -3,
+      "text" : "La Industria 4.0 supone la cuarta revolución industrial, consistente en la introducción de las tecnologías digitales en la industria con el fin de aumentar la contribución del sector industrial en el PIB, el empleo y en el saldo positivo de la balanza de pagos.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "c",
+      "questionId" : "11",
+      "fraction" : -3,
+      "text" : "Desde el inicio de la crisis, la industria española ha mostrado una resistencia al adverso ciclo económico, manteniendo e incluso mejorando ligeramente su peso relativo en la economía.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "d",
+      "questionId" : "11",
+      "fraction" : 10,
+      "text" : "En la actualidad el sector industrial representa casi el 30% del PIB total de España y supera los niveles alcanzados en el año 2000.",
+      "feedback" : "Correct!"
+    } ]
+  }, {
+    "id" : "12",
+    "quizId" : "csstic-2016",
+    "text" : "12. Conforme al Real Decreto Legislativo 3/2011, de 14 de noviembre, NO se consideran sujetos a regulación armonizada, cualquiera que sea su valor estimado, los contratos siguientes:",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "12",
+      "fraction" : -3,
+      "text" : "Los declarados secretos o reservados. ",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "b",
+      "questionId" : "12",
+      "fraction" : -3,
+      "text" : "Aquellos cuya ejecución deba ir acompañada de medidas de seguridad especiales.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "c",
+      "questionId" : "12",
+      "fraction" : 10,
+      "text" : "La a) y la b) son correctas.",
+      "feedback" : "Correct!"
+    }, {
+      "id" : "d",
+      "questionId" : "12",
+      "fraction" : -3,
+      "text" : "Ninguna es correcta.",
+      "feedback" : "Wrong!"
+    } ]
+  }, {
+    "id" : "13",
+    "quizId" : "csstic-2016",
+    "text" : "13. Señale cuál de las siguientes afirmaciones acerca de la Carpeta Ciudadana es CORRECTA:",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "13",
+      "fraction" : -3,
+      "text" : "Almacena información de cada ciudadano para su consulta. ",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "b",
+      "questionId" : "13",
+      "fraction" : -3,
+      "text" : "Es necesario un registro previo sencillo para poder utilizarla.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "c",
+      "questionId" : "13",
+      "fraction" : 10,
+      "text" : "Se pueden personalizar servicios favoritos o destacados.",
+      "feedback" : "Correct!"
+    }, {
+      "id" : "d",
+      "questionId" : "13",
+      "fraction" : -3,
+      "text" : "Permite consultar cualquier escrito o solicitud presentado en cualquier momento en un organismo público.",
+      "feedback" : "Wrong!"
+    } ]
+  }, {
+    "id" : "14",
+    "quizId" : "csstic-2016",
+    "text" : "14. Dentro del Modelo Entidad-Relación, ¿cuál de las siguientes afirmaciones NO caracteriza a una entidad?:",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "14",
+      "fraction" : 10,
+      "text" : "Es indistinguible del resto de las entidades. ",
+      "feedback" : "Correct!"
+    }, {
+      "id" : "b",
+      "questionId" : "14",
+      "fraction" : -3,
+      "text" : "Cada una de ellas puede identificarse de manera única.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "c",
+      "questionId" : "14",
+      "fraction" : -3,
+      "text" : "Tiene nombre y posee atributos definidos en un dominio determinado.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "d",
+      "questionId" : "14",
+      "fraction" : -3,
+      "text" : "Caracteriza a un tipo de objeto del problema a modelizar.",
+      "feedback" : "Wrong!"
+    } ]
+  }, {
+    "id" : "15",
+    "quizId" : "csstic-2016",
+    "text" : "15. De acuerdo con el Tratado de la Unión Europea, las competencias de la Unión se corresponden con las siguientes categorías, según los ámbitos de actuación:",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "15",
+      "fraction" : 10,
+      "text" : "Competencias exclusivas, competencias compartidas, y competencias de apoyo, coordinación y complementarias. ",
+      "feedback" : "Correct!"
+    }, {
+      "id" : "b",
+      "questionId" : "15",
+      "fraction" : -3,
+      "text" : "Competencias legislativas, ejecutivas, judiciales y fiscalizadoras.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "c",
+      "questionId" : "15",
+      "fraction" : -3,
+      "text" : "Competencias legislativas, ejecutivas, judiciales y sancionadoras.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "d",
+      "questionId" : "15",
+      "fraction" : -3,
+      "text" : "Competencias delegadas por los Estados, competencias propias, y competencias coordinadas con los Estados miembros.",
+      "feedback" : "Wrong!"
+    } ]
+  }, {
+    "id" : "16",
+    "quizId" : "csstic-2016",
+    "text" : "16. ¿Cuál de las siguientes tecnologías de virtualización NO aplican a la virtualización de servidores de los Centros de Proceso de Datos?",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "16",
+      "fraction" : -3,
+      "text" : "vSphere. ",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "b",
+      "questionId" : "16",
+      "fraction" : -3,
+      "text" : "Windows HyperV.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "c",
+      "questionId" : "16",
+      "fraction" : -3,
+      "text" : "Kernel-based Virtual Machine KVM.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "d",
+      "questionId" : "16",
+      "fraction" : 10,
+      "text" : "XenAppServer.",
+      "feedback" : "Correct!"
+    } ]
+  }, {
+    "id" : "17",
+    "quizId" : "csstic-2016",
+    "text" : "17. Según el Título VIII de la Constitución Española:",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "17",
+      "fraction" : -3,
+      "text" : "El Estado se organiza territorialmente en municipios, provincias y Comunidades Autónomas, todas ellas con autonomía para la gestión de sus respectivos intereses y para dictar las correspondientes leyes que garanticen dicha autonomía. ",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "b",
+      "questionId" : "17",
+      "fraction" : -3,
+      "text" : "La provincia es una entidad local con personalidad jurídica propia, determinada por la agrupación de municipios. Cualquier alteración de los límites provinciales habrá de ser aprobada por las Cortes Generales mediante ley ordinaria, previo acuerdo del Gobierno o de los Gobiernos de las Comunidades Autónomas afectadas.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "c",
+      "questionId" : "17",
+      "fraction" : 10,
+      "text" : "Las Comunidades Autónomas gozan de autonomía financiera para el desarrollo y ejecución de sus competencias, con arreglo a los principios de coordinación con la Hacienda estatal y de solidaridad entre todos los españoles.",
+      "feedback" : "Correct!"
+    }, {
+      "id" : "d",
+      "questionId" : "17",
+      "fraction" : -3,
+      "text" : "Las Hacienda locales deberán disponer de los medios suficientes para el desempeño de las funciones que la ley atribuye a las Corporaciones respectivas y se nutrirán fundamentalmente de los Presupuestos Generales del Estado.",
+      "feedback" : "Wrong!"
+    } ]
+  }, {
+    "id" : "18",
+    "quizId" : "csstic-2016",
+    "text" : "18. Los conjuntos de escala de máquinas virtuales son un recurso de Proceso de Azure que se puede usar para implementar y administrar un conjunto de máquinas virtuales idénticas. ¿Cuántas máquinas virtuales puede tener en un conjunto de escala de máquinas virtuales?",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "18",
+      "fraction" : -3,
+      "text" : "10 si usa imágenes de plataforma que se puedan distribuir entre varias cuentas de almacenamiento. Si usa imágenes personalizadas, hasta 4. ",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "b",
+      "questionId" : "18",
+      "fraction" : -3,
+      "text" : "25 si usa imágenes de plataforma que se puedan distribuir entre varias cuentas de almacenamiento. Si usa imágenes personalizadas, hasta 10.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "c",
+      "questionId" : "18",
+      "fraction" : -3,
+      "text" : "50 si usa imágenes de plataforma que se puedan distribuir entre varias cuentas de almacenamiento. Si usa imágenes personalizadas, hasta 25.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "d",
+      "questionId" : "18",
+      "fraction" : 10,
+      "text" : "100 si usa imágenes de plataforma que se puedan distribuir entre varias cuentas de almacenamiento. Si usa imágenes personalizadas, hasta 40.",
+      "feedback" : "Correct!"
+    } ]
+  }, {
+    "id" : "19",
+    "quizId" : "csstic-2016",
+    "text" : "19. ¿Cuáles de los siguientes actos administrativos ponen fin a la vía administrativa?:",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "19",
+      "fraction" : -3,
+      "text" : "Las resoluciones de los recursos de alzada. ",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "b",
+      "questionId" : "19",
+      "fraction" : -3,
+      "text" : "Las resoluciones de los órganos administrativos que carezcan de superior jerárquico.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "c",
+      "questionId" : "19",
+      "fraction" : -3,
+      "text" : "La resolución administrativa de los procedimientos de responsabilidad patrimonial, cualquiera que fuese el tipo de relación, pública o privada, de que derive.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "d",
+      "questionId" : "19",
+      "fraction" : 10,
+      "text" : "Todos los anteriores.",
+      "feedback" : "Correct!"
+    } ]
+  }, {
+    "id" : "20",
+    "quizId" : "csstic-2016",
+    "text" : "20. De acuerdo con la regulación contenida en la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público:",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "20",
+      "fraction" : -3,
+      "text" : "En la organización central son órganos superiores los Ministros, los Secretarios de Estado, los Subsecretarios y Secretarios generales, y son órganos directivos los Secretarios generales técnicos, los Directores generales. ",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "b",
+      "questionId" : "20",
+      "fraction" : -3,
+      "text" : "En la organización territorial los Delegados del Gobierno son órganos superiores, y los Subdelegados del Gobierno órganos directivos.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "c",
+      "questionId" : "20",
+      "fraction" : -3,
+      "text" : "En la Administración General del Estado en el exterior son órganos superiores los embajadores, los representantes permanentes ante Organizaciones internacionales y los cónsules.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "d",
+      "questionId" : "20",
+      "fraction" : 10,
+      "text" : "Los órganos superiores y directivos tienen además la condición de alto cargo, excepto los Subdirectores generales y asimilados, de acuerdo con lo previsto en la Ley 3/2015, de 30 de marzo, reguladora del ejercicio del alto cargo de la Administración General del Estado.",
+      "feedback" : "Correct!"
+    } ]
+  }, {
+    "id" : "21",
+    "quizId" : "csstic-2016",
+    "text" : "21. ANULADA.  España presenta unos valores elevados en la utilización de servicios de comunicación y acceso a la información, siendo el mayor uso el que se refiere a:",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "21",
+      "fraction" : -3,
+      "text" : "Recibir o enviar correo electrónico. ",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "b",
+      "questionId" : "21",
+      "fraction" : -3,
+      "text" : "Buscar información sobre bienes y servicios.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "c",
+      "questionId" : "21",
+      "fraction" : -3,
+      "text" : "Participar en redes sociales.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "d",
+      "questionId" : "21",
+      "fraction" : -3,
+      "text" : "Leer noticias, periódicos o revistas de actualidad on-line.",
+      "feedback" : "Wrong!"
+    } ]
+  }, {
+    "id" : "22",
+    "quizId" : "csstic-2016",
+    "text" : "22. ¿Cuál de los siguientes NO se encuentra entre los derechos que el licenciante concede al licenciatario en una Licencia Pública de la Unión Europea EUPL v1.1?:",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "22",
+      "fraction" : -3,
+      "text" : "Utilizar la obra en cualquier circunstancia y para cualquier uso. ",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "b",
+      "questionId" : "22",
+      "fraction" : -3,
+      "text" : "Distribuir la obra o copias de la misma.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "c",
+      "questionId" : "22",
+      "fraction" : -3,
+      "text" : "Modificar la obra original y realizar obras derivadas de la misma.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "d",
+      "questionId" : "22",
+      "fraction" : 10,
+      "text" : "Todas las respuestas anteriores se corresponden a derechos de la licencia EUPL v1.1.",
+      "feedback" : "Correct!"
+    } ]
+  }, {
+    "id" : "23",
+    "quizId" : "csstic-2016",
+    "text" : "23. ANULADA.  El sector productivo que en la actualidad acapara la menor parte del desempleo en España es:",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "23",
+      "fraction" : -3,
+      "text" : "La construcción. ",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "b",
+      "questionId" : "23",
+      "fraction" : -3,
+      "text" : "La agricultura.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "c",
+      "questionId" : "23",
+      "fraction" : -3,
+      "text" : "Los servicios.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "d",
+      "questionId" : "23",
+      "fraction" : -3,
+      "text" : "La industria.",
+      "feedback" : "Wrong!"
+    } ]
+  }, {
+    "id" : "24",
+    "quizId" : "csstic-2016",
+    "text" : "24. Señale la respuesta CORRECTA en relación al Big Data:",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "24",
+      "fraction" : -3,
+      "text" : "Entre los distintos tipos de datos del Big Data no se encuentran los CDR (registro detallado de llamadas), por política de seguridad de la información. ",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "b",
+      "questionId" : "24",
+      "fraction" : 10,
+      "text" : "Hadoop está compuesto de tres piezas: Hadoop Distributed File System (HDFS), Hadoop MapReduce y Hadoop Common.",
+      "feedback" : "Correct!"
+    }, {
+      "id" : "c",
+      "questionId" : "24",
+      "fraction" : -3,
+      "text" : "Hadoop está inspirado en el proyecto JFS (Java File System) y en el paradigma de programación MapReduce.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "d",
+      "questionId" : "24",
+      "fraction" : -3,
+      "text" : "HBase es una base de datos orientada a filas, donde todas las columnas de una fila dada son almacenadas en conjunto.",
+      "feedback" : "Wrong!"
+    } ]
+  }, {
+    "id" : "25",
+    "quizId" : "csstic-2016",
+    "text" : "25. Indique la afirmación CORRECTA acerca de las Instrucciones sobre Buenas Prácticas para la gestión de las contrataciones de servicios y encomiendas de gestión a fin de evitar la cesión ilegal de trabajadores:",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "25",
+      "fraction" : -3,
+      "text" : "Fue dictada por el Ministerio de Hacienda y Administraciones Públicas en diciembre de 2010. ",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "b",
+      "questionId" : "25",
+      "fraction" : -3,
+      "text" : "Recomienda, para la determinación del coste de los trabajos objeto del contrato, la utilización del criterio de jornadas de trabajo por categoría profesional.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "c",
+      "questionId" : "25",
+      "fraction" : 10,
+      "text" : "En cualquier caso, cuando se produzca una declaración del carácter indefinido del personal de la empresa contratista en relación con la Administración, se recomienda la apertura de información reservada.",
+      "feedback" : "Correct!"
+    }, {
+      "id" : "d",
+      "questionId" : "25",
+      "fraction" : -3,
+      "text" : "El personal de las empresas contratistas no podrá realizar ningún tipo de curso de formación impartido por la Administración contratante o dentro de las instalaciones de ésta.",
+      "feedback" : "Wrong!"
+    } ]
+  }, {
+    "id" : "26",
+    "quizId" : "csstic-2016",
+    "text" : "26. Si su organización implementara un sistema de correo a través de tecnología Microsoft Exchange, ¿cuál de los siguientes servicios le permitiría la configuración del correo electrónico desde un cliente de correo nativo en cualquier dispositivo móvil?",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "26",
+      "fraction" : -3,
+      "text" : "Outlook Anywhere. ",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "b",
+      "questionId" : "26",
+      "fraction" : 10,
+      "text" : "ActiveSync.",
+      "feedback" : "Correct!"
+    }, {
+      "id" : "c",
+      "questionId" : "26",
+      "fraction" : -3,
+      "text" : "Outlook Web Access.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "d",
+      "questionId" : "26",
+      "fraction" : -3,
+      "text" : "Exchange online.",
+      "feedback" : "Wrong!"
+    } ]
+  }, {
+    "id" : "27",
+    "quizId" : "csstic-2016",
+    "text" : "27. ¿Cuál de estas afirmaciones ES CONTRARIA a la regulación contenida en los Tratados de la Unión Europea sobre las instituciones de la UE?:",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "27",
+      "fraction" : -3,
+      "text" : "El Banco Central Europeo y los bancos centrales nacionales constituirán el Sistema Europeo de Bancos Centrales. El Banco Central Europeo y los bancos centrales nacionales de los Estados miembros cuya moneda es el euro, que constituyen el Eurosistema, dirigirán la política monetaria de la Unión. ",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "b",
+      "questionId" : "27",
+      "fraction" : 10,
+      "text" : "El Defensor del Pueblo, elegido por el Consejo Europeo, está facultado para investigar las reclamaciones relativas a casos de mala administración en la acción de todas y cada una de las instituciones de la Unión, ejerciendo sus funciones bajo la dirección del Parlamento Europeo.",
+      "feedback" : "Correct!"
+    }, {
+      "id" : "c",
+      "questionId" : "27",
+      "fraction" : -3,
+      "text" : "El Parlamento Europeo y el Consejo establecerán el Presupuesto anual de la Unión con arreglo a un procedimiento legislativo especial.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "d",
+      "questionId" : "27",
+      "fraction" : -3,
+      "text" : "El Comité Económico y Social y el Comité de las Regiones son órganos consultivos del Parlamento, el Consejo y la Comisión.",
+      "feedback" : "Wrong!"
+    } ]
+  }, {
+    "id" : "28",
+    "quizId" : "csstic-2016",
+    "text" : "28. Las Administraciones públicas adoptarán las medidas organizativas y técnicas necesarias con el fin de garantizar la interoperabilidad en relación con la recuperación y conservación de los documentos electrónicos a lo largo de su ciclo de vida. De estas medidas, ¿cuál NO está contemplada en el Esquema Nacional de Interoperabilidad?:",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "28",
+      "fraction" : -3,
+      "text" : "La coordinación horizontal entre el responsable de gestión de documentos y los restantes servicios interesados en materia de archivos. ",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "b",
+      "questionId" : "28",
+      "fraction" : 10,
+      "text" : "La asociación únicamente de los metadatos mínimos obligatorios, evitando la inclusión de metadatos complementarios.",
+      "feedback" : "Correct!"
+    }, {
+      "id" : "c",
+      "questionId" : "28",
+      "fraction" : -3,
+      "text" : "Transferencia, en su caso, de los expedientes entre los diferentes repositorios electrónicos a efectos de conservación, de acuerdo con lo establecido en la legislación en materia de Archivos, de manera que se pueda asegurar su conservación, y recuperación a medio y largo plazo.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "d",
+      "questionId" : "28",
+      "fraction" : -3,
+      "text" : "La inclusión en los expedientes de un índice electrónico firmado por el órgano o entidad actuante que garantice la integridad del expediente electrónico y permita su recuperación.",
+      "feedback" : "Wrong!"
+    } ]
+  }, {
+    "id" : "29",
+    "quizId" : "csstic-2016",
+    "text" : "29. En la actualidad el sector de las Tecnologías de la Información y las Comunicaciones en la economía española:",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "29",
+      "fraction" : 10,
+      "text" : "Representa en torno al 4% del Producto Interior Bruto. ",
+      "feedback" : "Correct!"
+    }, {
+      "id" : "b",
+      "questionId" : "29",
+      "fraction" : -3,
+      "text" : "Es el de mayor contribución a la cifra de negocios del sector servicios, con casi la cuarta parte de su facturación.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "c",
+      "questionId" : "29",
+      "fraction" : -3,
+      "text" : "Cuenta con algo menos de 45.000 empresas.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "d",
+      "questionId" : "29",
+      "fraction" : -3,
+      "text" : "La balanza comercial de productos TIC presenta tradicionalmente un saldo positivo que se sitúa entre los 9.000 y 11.000 millones de euros.",
+      "feedback" : "Wrong!"
+    } ]
+  }, {
+    "id" : "30",
+    "quizId" : "csstic-2016",
+    "text" : "30. La Ley 34/2002, de 11 de julio, de servicios de la sociedad de la información y de comercio electrónico establece que la prestación de servicios de la sociedad de la información:",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "30",
+      "fraction" : -3,
+      "text" : "Requieren en todo caso de un procedimiento de concesión administrativa. ",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "b",
+      "questionId" : "30",
+      "fraction" : -3,
+      "text" : "Son siempre titularidad de la Administración, que los cede por licencia a los sujetos privados.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "c",
+      "questionId" : "30",
+      "fraction" : -3,
+      "text" : "Requiere de declaración responsable.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "d",
+      "questionId" : "30",
+      "fraction" : 10,
+      "text" : "No está sujeta a autorización previa.",
+      "feedback" : "Correct!"
+    } ]
+  }, {
+    "id" : "31",
+    "quizId" : "csstic-2016",
+    "text" : "31. IAX fue creado para paliar una serie de problemas o inconvenientes encontrados al utilizar SIP en VoIP. ¿Cuál de las siguientes afirmaciones es INCORRECTA a la hora de comparar IAX con SIP?",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "31",
+      "fraction" : -3,
+      "text" : "Optimiza el ancho de banda. ",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "b",
+      "questionId" : "31",
+      "fraction" : 10,
+      "text" : "Es un protocolo de propósito general y podría transmitir sin dificultad cualquier información y no sólo audio o video.",
+      "feedback" : "Correct!"
+    }, {
+      "id" : "c",
+      "questionId" : "31",
+      "fraction" : -3,
+      "text" : "IAX utiliza un solo puerto para mandar la información de señalización y los datos de todas sus llamadas.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "d",
+      "questionId" : "31",
+      "fraction" : -3,
+      "text" : "Evita los problemas de NAT que frecuentemente aparecen en SIP.",
+      "feedback" : "Wrong!"
+    } ]
+  }, {
+    "id" : "32",
+    "quizId" : "csstic-2016",
+    "text" : "32. De acuerdo con lo dispuesto en la Ley General Presupuestaria, la programación presupuestaria se regirá por los siguientes principios:",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "32",
+      "fraction" : -3,
+      "text" : "Estabilidad presupuestaria, sostenibilidad financiera, transparencia, eficiencia en la asignación y utilización de los recursos públicos, y responsabilidad. ",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "b",
+      "questionId" : "32",
+      "fraction" : -3,
+      "text" : "Estabilidad presupuestaria, plurianualidad, responsabilidad y lealtad institucional.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "c",
+      "questionId" : "32",
+      "fraction" : -3,
+      "text" : "Estabilidad presupuestaria, sostenibilidad financiera, plurianualidad, eficiencia en la asignación y utilización de los recursos públicos, y responsabilidad.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "d",
+      "questionId" : "32",
+      "fraction" : 10,
+      "text" : "Estabilidad presupuestaria, sostenibilidad financiera, plurianualidad, transparencia, eficiencia en la asignación y utilización de los recursos públicos, responsabilidad y lealtad institucional.",
+      "feedback" : "Correct!"
+    } ]
+  }, {
+    "id" : "33",
+    "quizId" : "csstic-2016",
+    "text" : "33. En el entorno de desarrollo Java, marque la respuesta CORRECTA:",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "33",
+      "fraction" : -3,
+      "text" : "En el overload (sobrecarga) y override (sustitución) de un método se puede usar listas de argumentos distintas. ",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "b",
+      "questionId" : "33",
+      "fraction" : -3,
+      "text" : "Se emplean punteros para referenciar zonas de memoria.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "c",
+      "questionId" : "33",
+      "fraction" : 10,
+      "text" : "En los servlets sólo existe una copia cargada en la máquina virtual y por cada petición se inicia un hilo.",
+      "feedback" : "Correct!"
+    }, {
+      "id" : "d",
+      "questionId" : "33",
+      "fraction" : -3,
+      "text" : "Una interfaz representa una colección de métodos abstractos y propiedades, y pueden ser instanciadas e implementadas.",
+      "feedback" : "Wrong!"
+    } ]
+  }, {
+    "id" : "34",
+    "quizId" : "csstic-2016",
+    "text" : "34. ANULADA.  Indique cuál de las siguientes afirmaciones acerca del método PERT (Program Evaluation and Review Technique) es CORRECTA:",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "34",
+      "fraction" : -3,
+      "text" : "Se usa en situaciones deterministas, en las que se conoce de manera cierta o con buena aproximación la duración de las diferentes tareas. ",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "b",
+      "questionId" : "34",
+      "fraction" : -3,
+      "text" : "Las tareas ficticias se representan habitualmente mediante un círculo punteado.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "c",
+      "questionId" : "34",
+      "fraction" : -3,
+      "text" : "Dada una tarea A cuya duración se desconoce pero que se estima realizar en el mejor de los casos en 4 días, en 16 días en el peor de los casos y en 6 días en la previsión media. Con esos datos, usando una técnica de base estadística, podemos calcular que la tarea A tendrá una duración de 6 días.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "d",
+      "questionId" : "34",
+      "fraction" : -3,
+      "text" : "La holgura independiente de una actividad puede tomar valor negativo.",
+      "feedback" : "Wrong!"
+    } ]
+  }, {
+    "id" : "35",
+    "quizId" : "csstic-2016",
+    "text" : "35. De acuerdo con la normativa vigente en materia de interoperabilidad, las áreas de conexión (AC) a la red de comunicaciones de las Administraciones Públicas españolas (red SARA) deberán contar con el esquema de una zona desmilitarizada (DMZ). Entre los servicios telemáticos básicos que albergará NO se encuentra el servicio de:",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "35",
+      "fraction" : -3,
+      "text" : "SMTP. ",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "b",
+      "questionId" : "35",
+      "fraction" : 10,
+      "text" : "POP3.",
+      "feedback" : "Correct!"
+    }, {
+      "id" : "c",
+      "questionId" : "35",
+      "fraction" : -3,
+      "text" : "DNS.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "d",
+      "questionId" : "35",
+      "fraction" : -3,
+      "text" : "PROXY.",
+      "feedback" : "Wrong!"
+    } ]
+  }, {
+    "id" : "36",
+    "quizId" : "csstic-2016",
+    "text" : "36. En un entorno cliente-servidor existe el concepto de “zero client”, ¿cuál de las siguientes NO es una ventaja de dicho cliente?",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "36",
+      "fraction" : -3,
+      "text" : "Uso ultra eficiente de energía. ",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "b",
+      "questionId" : "36",
+      "fraction" : 10,
+      "text" : "Almacenamiento local simplificado.",
+      "feedback" : "Correct!"
+    }, {
+      "id" : "c",
+      "questionId" : "36",
+      "fraction" : -3,
+      "text" : "Facilidad de implantación y gestión.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "d",
+      "questionId" : "36",
+      "fraction" : -3,
+      "text" : "Es el tipo de cliente más económico.",
+      "feedback" : "Wrong!"
+    } ]
+  }, {
+    "id" : "37",
+    "quizId" : "csstic-2016",
+    "text" : "37. El Consejo de Estado:",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "37",
+      "fraction" : -3,
+      "text" : "Es el órgano del Estado con relevancia constitucional siendo, según el artículo 117 del Título VI de la Constitución Española, supremo órgano consultivo de la Administración del Estado. ",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "b",
+      "questionId" : "37",
+      "fraction" : -3,
+      "text" : "Es el órgano del Estado con relevancia constitucional y no puede ejercer funciones consultivas respecto de las Comunidades Autónomas.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "c",
+      "questionId" : "37",
+      "fraction" : 10,
+      "text" : "Es el órgano del Estado con relevancia constitucional y supremo órgano consultivo del Gobierno, y también de las Comunidades Autónomas, siempre que estas lo soliciten, y de forma preceptiva en los casos establecidos en la Ley Orgánica del Consejo de Estado, si las Comunidades Autónomas no han creado sus propios órganos consultivos.",
+      "feedback" : "Correct!"
+    }, {
+      "id" : "d",
+      "questionId" : "37",
+      "fraction" : -3,
+      "text" : "Es el supremo órgano consultivo del Gobierno, con autonomía orgánica y funcional respecto del mismo, dependiente del Ministerio de la Presidencia y para las Administraciones Territoriales.",
+      "feedback" : "Wrong!"
+    } ]
+  }, {
+    "id" : "38",
+    "quizId" : "csstic-2016",
+    "text" : "38. ANULADA.  Señale la respuesta INCORRECTA:",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "38",
+      "fraction" : -3,
+      "text" : "Entre los OLTP (OnLine Transaction Processing) más habituales se encuentran: archivos de textos, hipertextos o bases de datos transaccionales. ",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "b",
+      "questionId" : "38",
+      "fraction" : -3,
+      "text" : "Los datos del ambiente operacional se filtran antes de pertenecer al Data Warehouse.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "c",
+      "questionId" : "38",
+      "fraction" : -3,
+      "text" : "Un Data Warehouse es una colección de datos orientada al negocio, integrada, variante en el tiempo y volátil para el soporte del proceso de toma de decisiones de la gerencia.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "d",
+      "questionId" : "38",
+      "fraction" : -3,
+      "text" : "Debido a que el Data Warehouse recibe información histórica de diferentes fuentes, existe una repetición de datos masiva entre el ambiente Data Warehouse y el operacional.",
+      "feedback" : "Wrong!"
+    } ]
+  }, {
+    "id" : "39",
+    "quizId" : "csstic-2016",
+    "text" : "39. ¿Cuál de las siguientes técnicas o prácticas, de acuerdo con la metodología Métrica V3, NO es de aplicación en la Planificación de Sistemas de Información?:",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "39",
+      "fraction" : -3,
+      "text" : "Factores Críticos de Éxito. ",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "b",
+      "questionId" : "39",
+      "fraction" : -3,
+      "text" : "Análisis Coste/Beneficio.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "c",
+      "questionId" : "39",
+      "fraction" : 10,
+      "text" : "Modelo Entidad/Relación Extendido.",
+      "feedback" : "Correct!"
+    }, {
+      "id" : "d",
+      "questionId" : "39",
+      "fraction" : -3,
+      "text" : "Casos de Uso.",
+      "feedback" : "Wrong!"
+    } ]
+  }, {
+    "id" : "40",
+    "quizId" : "csstic-2016",
+    "text" : "40. La Ley 19/2013, de 9 de diciembre, de transparencia, acceso a la información pública y buen gobierno, establece que el acceso a la información pública se realizará:",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "40",
+      "fraction" : 10,
+      "text" : "Preferentemente por vía electrónica, salvo cuando no sea posible o el solicitante haya señalado expresamente otro medio, en un plazo no superior a diez. ",
+      "feedback" : "Correct!"
+    }, {
+      "id" : "b",
+      "questionId" : "40",
+      "fraction" : -3,
+      "text" : "Exclusivamente por vía electrónica, en un plazo no superior a diez días.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "c",
+      "questionId" : "40",
+      "fraction" : -3,
+      "text" : "Siempre por vía electrónica y se notificará por correo ordinario al domicilio designado por el interesado en un plazo no superior a quince días.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "d",
+      "questionId" : "40",
+      "fraction" : -3,
+      "text" : "Por vía electrónica salvo que el interesado designe otro medio, en un plazo no superior a cinco días.",
+      "feedback" : "Wrong!"
+    } ]
+  }, {
+    "id" : "41",
+    "quizId" : "csstic-2016",
+    "text" : "41. El patrón de diseño que desacopla una abstracción de su implementación de manera que las dos puedan evolucionar independientemente se denomina:",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "41",
+      "fraction" : -3,
+      "text" : "Adapter (Adaptador). ",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "b",
+      "questionId" : "41",
+      "fraction" : 10,
+      "text" : "Bridge.",
+      "feedback" : "Correct!"
+    }, {
+      "id" : "c",
+      "questionId" : "41",
+      "fraction" : -3,
+      "text" : "Facade (Fachada).",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "d",
+      "questionId" : "41",
+      "fraction" : -3,
+      "text" : "Proxy.",
+      "feedback" : "Wrong!"
+    } ]
+  }, {
+    "id" : "42",
+    "quizId" : "csstic-2016",
+    "text" : "42. \"Un modelo planificado y sistemático de todas las acciones necesarias para proporcionar la confianza adecuada de que un elemento o producto es conforme a los requisitos técnicos establecidos\" responde, según el IEEE, a la definición de:",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "42",
+      "fraction" : -3,
+      "text" : "Control de calidad. ",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "b",
+      "questionId" : "42",
+      "fraction" : -3,
+      "text" : "Planificación de la calidad.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "c",
+      "questionId" : "42",
+      "fraction" : 10,
+      "text" : "Aseguramiento de la calidad.",
+      "feedback" : "Correct!"
+    }, {
+      "id" : "d",
+      "questionId" : "42",
+      "fraction" : -3,
+      "text" : "Sistema de calidad.",
+      "feedback" : "Wrong!"
+    } ]
+  }, {
+    "id" : "43",
+    "quizId" : "csstic-2016",
+    "text" : "43. Señale la respuesta CORRECTA en relación a la firma digital:",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "43",
+      "fraction" : -3,
+      "text" : "Es un certificado electrónico que asocia una clave pública con la identidad de su propietario. ",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "b",
+      "questionId" : "43",
+      "fraction" : -3,
+      "text" : "Se sirve de la criptografía asimétrica para garantizar la confidencialidad y la integridad del mensaje enviado.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "c",
+      "questionId" : "43",
+      "fraction" : 10,
+      "text" : "Permite al receptor de un mensaje verificar la autenticidad del origen del mensaje y su integridad.",
+      "feedback" : "Correct!"
+    }, {
+      "id" : "d",
+      "questionId" : "43",
+      "fraction" : -3,
+      "text" : "Es el criptograma resultante de aplicar una función hash al mensaje y cifrarlo con la clave pública del firmante.",
+      "feedback" : "Wrong!"
+    } ]
+  }, {
+    "id" : "44",
+    "quizId" : "csstic-2016",
+    "text" : "44. ¿Cuál de las siguientes propuestas NO se encuentran en el Plan de transformación digital de la Administración General del Estado y sus organismos públicos 2015-2020?:",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "44",
+      "fraction" : -3,
+      "text" : "Establecer una plataforma para el análisis de datos compartidos interdepartamental, o mecanismo equivalente, previo informe favorable de la Agencia Española de Protección de Datos, impulsando los cambios normativos necesarios. ",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "b",
+      "questionId" : "44",
+      "fraction" : 10,
+      "text" : "La prestación de servicios TIC de forma compartida se realizará por parte de la Secretaría General de Administración Digital, en ningún caso por otros Ministerios.",
+      "feedback" : "Correct!"
+    }, {
+      "id" : "c",
+      "questionId" : "44",
+      "fraction" : -3,
+      "text" : "Se promoverá un Plan de Comunicación dirigido a perfiles directivos y técnicos para concienciar a estos colectivos de la necesidad de abordar la digitalización de los procesos y dar a conocer el modo de acometer la transformación digital.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "d",
+      "questionId" : "44",
+      "fraction" : -3,
+      "text" : "La transformación digital de la Administración requiere una visión holística de las necesidades y de las actuaciones comunes de la Administración para asegurar una evolución robusta y evitar redundancias.",
+      "feedback" : "Wrong!"
+    } ]
+  }, {
+    "id" : "45",
+    "quizId" : "csstic-2016",
+    "text" : "45. Según la Ley Orgánica 15/1999, de 13 de diciembre, de Protección de Datos de Carácter Personal, NO será necesario el previo consentimiento del interesado para la comunicación a un tercero de datos de carácter personal:",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "45",
+      "fraction" : 10,
+      "text" : "Cuando la cesión está autorizada en una ley. ",
+      "feedback" : "Correct!"
+    }, {
+      "id" : "b",
+      "questionId" : "45",
+      "fraction" : -3,
+      "text" : "Siempre que la cesión se produzca entre Administraciones públicas.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "c",
+      "questionId" : "45",
+      "fraction" : -3,
+      "text" : "Cuando el nivel de las medidas de seguridad del fichero sea de nivel bajo.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "d",
+      "questionId" : "45",
+      "fraction" : -3,
+      "text" : "Siempre es necesario el previo consentimiento del interesado.",
+      "feedback" : "Wrong!"
+    } ]
+  }, {
+    "id" : "46",
+    "quizId" : "csstic-2016",
+    "text" : "46. La Ley 34/2002, de 11 de julio, de servicios de la sociedad de la información y de comercio electrónico establece, respecto a la validez y eficacia de los contratos celebrados por vía electrónica:",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "46",
+      "fraction" : -3,
+      "text" : "Producirán todos los efectos previstos por el ordenamiento jurídico, una vez obtenido el consentimiento. ",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "b",
+      "questionId" : "46",
+      "fraction" : -3,
+      "text" : "Los contratos electrónicos se regirán por lo dispuesto en la Ley 34/2002, por los Códigos Civil y de Comercio y por el Código Penal.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "c",
+      "questionId" : "46",
+      "fraction" : -3,
+      "text" : "Para que sea válida la celebración de contratos por vía electrónica será necesario el previo acuerdo de las partes sobre la utilización de medios electrónicos.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "d",
+      "questionId" : "46",
+      "fraction" : 10,
+      "text" : "Siempre que la Ley exija que el contrato o cualquier información relacionada con el mismo conste por escrito, este requisito se entenderá satisfecho si el contrato o la información se contiene en un soporte electrónico.",
+      "feedback" : "Correct!"
+    } ]
+  }, {
+    "id" : "47",
+    "quizId" : "csstic-2016",
+    "text" : "47. En Métrica v3, la especificación del plan de pruebas, incluyendo la definición del alcance y los requisitos del entorno de pruebas, se inicia en el proceso:",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "47",
+      "fraction" : 10,
+      "text" : "Análisis del Sistema de Información. ",
+      "feedback" : "Correct!"
+    }, {
+      "id" : "b",
+      "questionId" : "47",
+      "fraction" : -3,
+      "text" : "Diseño del Sistema de Información.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "c",
+      "questionId" : "47",
+      "fraction" : -3,
+      "text" : "Construcción del Sistema de Información.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "d",
+      "questionId" : "47",
+      "fraction" : -3,
+      "text" : "Implantación y Aceptación del Sistema.",
+      "feedback" : "Wrong!"
+    } ]
+  }, {
+    "id" : "48",
+    "quizId" : "csstic-2016",
+    "text" : "48. Señale la respuesta CORRECTA cuando hablamos de soluciones ERP (Enterprise Resource Planning):",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "48",
+      "fraction" : -3,
+      "text" : "Emplean el paradigma del “todo o nada” respecto a la modularidad. ",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "b",
+      "questionId" : "48",
+      "fraction" : -3,
+      "text" : "Es necesario duplicar la información para poderla integrar en el ERP.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "c",
+      "questionId" : "48",
+      "fraction" : 10,
+      "text" : "La misma solución ERP, incluso con los mismos módulos, puede servir a clientes de distintos sectores.",
+      "feedback" : "Correct!"
+    }, {
+      "id" : "d",
+      "questionId" : "48",
+      "fraction" : -3,
+      "text" : "Los ERP no incluyen entornos de programación para la modificación de pantallas, informes o lógica de negocio.",
+      "feedback" : "Wrong!"
+    } ]
+  }, {
+    "id" : "49",
+    "quizId" : "csstic-2016",
+    "text" : "49. De acuerdo con el artículo 135 de la Constitución Española de 1978:",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "49",
+      "fraction" : -3,
+      "text" : "Las Administraciones Públicas, a excepción de las Corporaciones Locales, adecuarán sus actuaciones al principio de estabilidad presupuestaria. ",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "b",
+      "questionId" : "49",
+      "fraction" : 10,
+      "text" : "El volumen de deuda pública del conjunto de las Administraciones Públicas no podrá superar el valor de referencia establecido en el Tratado de Funcionamiento de la Unión Europea.",
+      "feedback" : "Correct!"
+    }, {
+      "id" : "c",
+      "questionId" : "49",
+      "fraction" : -3,
+      "text" : "Todas las Administraciones Públicas habrán de estar autorizadas por Ley para emitir deuda o contraer crédito.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "d",
+      "questionId" : "49",
+      "fraction" : -3,
+      "text" : "Las Comunidades Autónomas tendrán competencia para regular la metodología y procedimiento para el cálculo del déficit estructural.",
+      "feedback" : "Wrong!"
+    } ]
+  }, {
+    "id" : "50",
+    "quizId" : "csstic-2016",
+    "text" : "50. Marque la característica CORRECTA de LDAPv3:",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "50",
+      "fraction" : -3,
+      "text" : "Emplea ASN.1 para la representación de la información. ",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "b",
+      "questionId" : "50",
+      "fraction" : -3,
+      "text" : "No soporta SASL para la capa de autenticación.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "c",
+      "questionId" : "50",
+      "fraction" : -3,
+      "text" : "Define la estructura de la base de datos relacional que debe dar soporte al directorio.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "d",
+      "questionId" : "50",
+      "fraction" : 10,
+      "text" : "Soporta el protocolo TLS para la transmisión segura de los datos.",
+      "feedback" : "Correct!"
+    } ]
+  }, {
+    "id" : "51",
+    "quizId" : "csstic-2016",
+    "text" : "51. La Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas regula la práctica de las notificaciones electrónicas. Esta Ley establece que las notificaciones por medios electrónicos se practicarán mediante:",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "51",
+      "fraction" : -3,
+      "text" : "Comparecencia en la sede electrónica de la Administración u Organismo, o a través de la dirección electrónica habilitada única. ",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "b",
+      "questionId" : "51",
+      "fraction" : 10,
+      "text" : "Comparecencia en la sede electrónica de la Administración u Organismo, a través de la dirección electrónica habilitada única o mediante ambos sistemas, según disponga cada Administración u Organismo.",
+      "feedback" : "Correct!"
+    }, {
+      "id" : "c",
+      "questionId" : "51",
+      "fraction" : -3,
+      "text" : "Correo electrónico determinado al efecto por el interesado en el procedimiento.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "d",
+      "questionId" : "51",
+      "fraction" : -3,
+      "text" : "Comparecencia en la sede electrónica de la Administración u Organismo, correo electrónico determinado al efecto por el interesado en el procedimiento.",
+      "feedback" : "Wrong!"
+    } ]
+  }, {
+    "id" : "52",
+    "quizId" : "csstic-2016",
+    "text" : "52. Conforme a la Ley 47/2003, de 26 de noviembre, General Presupuestaria, el proyecto de ley de los presupuestos generales del estado se deberá remitir a las Cortes Generales:",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "52",
+      "fraction" : 10,
+      "text" : "Antes del 1 de octubre del año anterior al que se refiera. ",
+      "feedback" : "Correct!"
+    }, {
+      "id" : "b",
+      "questionId" : "52",
+      "fraction" : -3,
+      "text" : "Antes del 1 de septiembre del año anterior al que se refiera.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "c",
+      "questionId" : "52",
+      "fraction" : -3,
+      "text" : "Antes del 30 de septiembre del año anterior al que se refiera.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "d",
+      "questionId" : "52",
+      "fraction" : -3,
+      "text" : "Ninguna respuesta es correcta.",
+      "feedback" : "Wrong!"
+    } ]
+  }, {
+    "id" : "53",
+    "quizId" : "csstic-2016",
+    "text" : "53. ANULADA.  Marque la opción verdadera en relación al framework web:",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "53",
+      "fraction" : -3,
+      "text" : "Incluye las herramientas e interfaces necesarias para integrarse con herramientas de acceso a datos, como por ejemplo Velocity. ",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "b",
+      "questionId" : "53",
+      "fraction" : -3,
+      "text" : "Convention over configuration (CoC) es un paradigma de diseño software aplicado a los frameworks cuyo objetivo es reducir el número de decisiones que debe tomar el desarrollador.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "c",
+      "questionId" : "53",
+      "fraction" : -3,
+      "text" : "Tiene como objetivo principal ofrecer una funcionalidad definida, auto contenida, siendo construido usando patrones de diseño, y su característica principal es su baja cohesión y alto acoplamiento.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "d",
+      "questionId" : "53",
+      "fraction" : -3,
+      "text" : "Struts, Maverick, Spark o Django son ejemplos de framework para aplicaciones web.",
+      "feedback" : "Wrong!"
+    } ]
+  }, {
+    "id" : "54",
+    "quizId" : "csstic-2016",
+    "text" : "54. El servicio de DNS (Domain Name System) es utilizado para la resolución de nombres en Internet y está formado por un conjunto de servidores DNS estructurados jerárquicamente, ¿cómo se denominan los servidores que resuelven zonas raíz?",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "54",
+      "fraction" : 10,
+      "text" : "Root servers. ",
+      "feedback" : "Correct!"
+    }, {
+      "id" : "b",
+      "questionId" : "54",
+      "fraction" : -3,
+      "text" : "Authorizative name servers.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "c",
+      "questionId" : "54",
+      "fraction" : -3,
+      "text" : "Delegated name servers.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "d",
+      "questionId" : "54",
+      "fraction" : -3,
+      "text" : "Ninguno de los anteriores.",
+      "feedback" : "Wrong!"
+    } ]
+  }, {
+    "id" : "55",
+    "quizId" : "csstic-2016",
+    "text" : "55. Los Puntos de Atención al Emprendedor se crean por la Ley 14/2013, de 27 de septiembre, de apoyo a los emprendedores y su internacionalización. Según dicha Ley usarán para tramitar la documentación que se les presente:",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "55",
+      "fraction" : 10,
+      "text" : "El sistema de tramitación telemática del Centro de Información y Red de Creación de Empresa (CIRCE). ",
+      "feedback" : "Correct!"
+    }, {
+      "id" : "b",
+      "questionId" : "55",
+      "fraction" : -3,
+      "text" : "La firma electrónica avanzada del futuro emprendedor.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "c",
+      "questionId" : "55",
+      "fraction" : -3,
+      "text" : "El Registro Único electrónico.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "d",
+      "questionId" : "55",
+      "fraction" : -3,
+      "text" : "El sistema @firma.",
+      "feedback" : "Wrong!"
+    } ]
+  }, {
+    "id" : "56",
+    "quizId" : "csstic-2016",
+    "text" : "56. ¿Cuál de los siguientes NO es un servicio común ofrecido por la red SARA?",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "56",
+      "fraction" : -3,
+      "text" : "Intercambio de correo electrónico SMTP. ",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "b",
+      "questionId" : "56",
+      "fraction" : -3,
+      "text" : "Plataforma de validación de firma electrónica (@Firma).",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "c",
+      "questionId" : "56",
+      "fraction" : 10,
+      "text" : "Punto General de Entrada de Facturas Electrónicas de las Administraciones Públicas (FACe).",
+      "feedback" : "Correct!"
+    }, {
+      "id" : "d",
+      "questionId" : "56",
+      "fraction" : -3,
+      "text" : "Verificación de los datos de identidad y residencia (SVD).",
+      "feedback" : "Wrong!"
+    } ]
+  }, {
+    "id" : "57",
+    "quizId" : "csstic-2016",
+    "text" : "57. ¿Qué Guía CCN-STIC de seguridad versa acerca de la Gestión y uso de dispositivos móviles?",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "57",
+      "fraction" : -3,
+      "text" : "CCN-STIC 820. ",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "b",
+      "questionId" : "57",
+      "fraction" : -3,
+      "text" : "CCN-STIC 822.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "c",
+      "questionId" : "57",
+      "fraction" : -3,
+      "text" : "CCN-STIC 823.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "d",
+      "questionId" : "57",
+      "fraction" : 10,
+      "text" : "CCN-STIC 827.",
+      "feedback" : "Correct!"
+    } ]
+  }, {
+    "id" : "58",
+    "quizId" : "csstic-2016",
+    "text" : "58. La seguridad en red en las organizaciones se basa en la implementación de múltiples barreras de seguridad. Los cortafuegos son una de las principales barreras utilizadas, ¿cuál de las siguientes características NO le aplica a los cortafuegos?",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "58",
+      "fraction" : -3,
+      "text" : "Filtrado de paquete. ",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "b",
+      "questionId" : "58",
+      "fraction" : -3,
+      "text" : "NAT – Network Address Traslation.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "c",
+      "questionId" : "58",
+      "fraction" : -3,
+      "text" : "VPN –Virtual Private Network.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "d",
+      "questionId" : "58",
+      "fraction" : 10,
+      "text" : "NAC – Network Access Control.",
+      "feedback" : "Correct!"
+    } ]
+  }, {
+    "id" : "59",
+    "quizId" : "csstic-2016",
+    "text" : "59. ¿Cuál es el resultado de aplicar la operación “Unión Natural” (Natural Join) entre dos relaciones?",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "59",
+      "fraction" : -3,
+      "text" : "Las tuplas que están en ambas relaciones. ",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "b",
+      "questionId" : "59",
+      "fraction" : -3,
+      "text" : "Las tuplas que están en dos relaciones, eliminando las tuplas duplicadas.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "c",
+      "questionId" : "59",
+      "fraction" : -3,
+      "text" : "Las tuplas que están en una relación pero no en otra.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "d",
+      "questionId" : "59",
+      "fraction" : 10,
+      "text" : "Las tuplas que, en el producto cartesiano de ambas, cumplen una determinada condición.",
+      "feedback" : "Correct!"
+    } ]
+  }, {
+    "id" : "60",
+    "quizId" : "csstic-2016",
+    "text" : "60. De acuerdo con la regulación constitucional del Tribunal Constitucional:",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "60",
+      "fraction" : -3,
+      "text" : "Para que las sentencias del Tribunal Constitucional puedan tener plenos efectos frente a todos, debe reconocerse expresamente en el fallo de cada una de las sentencias que dicte. ",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "b",
+      "questionId" : "60",
+      "fraction" : 10,
+      "text" : "Cuando un órgano judicial considere, en algún proceso, que una norma con rango de ley, aplicable al caso, de cuya validez dependa el fallo, pueda ser contraria a la Constitución, planteará la cuestión ante el Tribunal Constitucional en los supuestos, en la forma y con los efectos que establezca la ley, que en ningún caso serán suspensivos.",
+      "feedback" : "Correct!"
+    }, {
+      "id" : "c",
+      "questionId" : "60",
+      "fraction" : -3,
+      "text" : "Están legitimados para interponer el recurso de amparo, toda persona natural o jurídica que invoque un interés legítimo, el Defensor del Pueblo, el Ministerio Fiscal, y los Jueces y Magistrados.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "d",
+      "questionId" : "60",
+      "fraction" : -3,
+      "text" : "Están legitimados para interponer el recurso de inconstitucionalidad, el Presidente del Gobierno, el Defensor del Pueblo, 50 Diputados, 50 Senadores, los órganos colegiados ejecutivos de las Comunidades Autónomas y, en su caso, las Asambleas de las mismas, así como los de las Entidades Locales.",
+      "feedback" : "Wrong!"
+    } ]
+  }, {
+    "id" : "61",
+    "quizId" : "csstic-2016",
+    "text" : "61. ¿Cuál de los siguientes NO es uno de los conceptos básicos acerca de ITIL (Information Technology Infrastructure Library)?:",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "61",
+      "fraction" : -3,
+      "text" : "Está basado en la definición de procesos de mejores prácticas para la gestión y el soporte de servicios de tecnologías de la información. ",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "b",
+      "questionId" : "61",
+      "fraction" : -3,
+      "text" : "La fase de Estrategia del Servicio es el eje en torno al cual giran todas las demás fases del ciclo de vida del Servicio.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "c",
+      "questionId" : "61",
+      "fraction" : 10,
+      "text" : "Está basado en la definición de un marco de control de amplio alcance.",
+      "feedback" : "Correct!"
+    }, {
+      "id" : "d",
+      "questionId" : "61",
+      "fraction" : -3,
+      "text" : "Ofrece una visión global de la vida de un servicio desde su diseño hasta su abandono.",
+      "feedback" : "Wrong!"
+    } ]
+  }, {
+    "id" : "62",
+    "quizId" : "csstic-2016",
+    "text" : "62. En las modernas redes públicas de conmutación de datos, ¿cuál de las siguientes características NO aplica?",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "62",
+      "fraction" : -3,
+      "text" : "Se basan en redes de routers IP de altas prestaciones que mejoran eficiencia y rendimiento a través de protocolos como MPLS. ",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "b",
+      "questionId" : "62",
+      "fraction" : 10,
+      "text" : "Los backbones de estas redes se basan indistintamente en conmutación de paquetes y de circuitos.",
+      "feedback" : "Correct!"
+    }, {
+      "id" : "c",
+      "questionId" : "62",
+      "fraction" : -3,
+      "text" : "Los medios de transmisión entre nodos hacen uso de fibras ópticas de alta capacidad como puede ser a través de SDH y DWDM.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "d",
+      "questionId" : "62",
+      "fraction" : -3,
+      "text" : "El acceso a la red de datos se puede realizar a través de diversas tecnología de acceso como xDSL, FTTx, HFC y tecnologías móviles 3G/4G.",
+      "feedback" : "Wrong!"
+    } ]
+  }, {
+    "id" : "63",
+    "quizId" : "csstic-2016",
+    "text" : "63. Marque la respuesta VERDADERA:",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "63",
+      "fraction" : -3,
+      "text" : "SOAP es una tecnología de intercambio basada en XML que permite la interacción entre varios dispositivos. ",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "b",
+      "questionId" : "63",
+      "fraction" : -3,
+      "text" : "Un servicio web es un sistema software diseñado para soportar la interacción máquina-a-máquina y hombre-a-máquina, a través de una red de forma interoperable.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "c",
+      "questionId" : "63",
+      "fraction" : -3,
+      "text" : "La arquitectura de servicios web propuesta por el W3C especifica la implementación de  los servicios web e impone restricciones sobre cómo deben relacionarse, combinarse o coordinarse entre sí.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "d",
+      "questionId" : "63",
+      "fraction" : 10,
+      "text" : "MTOM (Message Transmission Optimization Mechanism) es un método definido en el W3C para el envío eficiente de datos binarios entre servicios web.",
+      "feedback" : "Correct!"
+    } ]
+  }, {
+    "id" : "64",
+    "quizId" : "csstic-2016",
+    "text" : "64. Teniendo en cuenta la Directiva 2013/37/UE del Parlamento Europeo y del Consejo, ¿cuál de las siguientes opciones se encuentra dentro del ámbito de aplicación de la Directiva 2003/98/CE relativa a la reutilización de la información del sector público?",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "64",
+      "fraction" : -3,
+      "text" : "Orquestas, óperas y teatros. ",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "b",
+      "questionId" : "64",
+      "fraction" : 10,
+      "text" : "Bibliotecas (incluidas las universitarias), museos y archivos.",
+      "feedback" : "Correct!"
+    }, {
+      "id" : "c",
+      "questionId" : "64",
+      "fraction" : -3,
+      "text" : "Orquestas, óperas, teatros, bibliotecas no universitarias y museos.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "d",
+      "questionId" : "64",
+      "fraction" : -3,
+      "text" : "Cualquier tipo de institución cultural.",
+      "feedback" : "Wrong!"
+    } ]
+  }, {
+    "id" : "65",
+    "quizId" : "csstic-2016",
+    "text" : "65. En el Proceso de Implantación y Aceptación del Sistema (IAS) de Métrica v3, ¿cuál de los siguientes participantes NO interviene en la actividad IAS 8 “Establecimiento del Acuerdo de Nivel de Servicio”?:",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "65",
+      "fraction" : -3,
+      "text" : "Comité de Dirección. ",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "b",
+      "questionId" : "65",
+      "fraction" : -3,
+      "text" : "Jefe de Proyecto.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "c",
+      "questionId" : "65",
+      "fraction" : -3,
+      "text" : "Responsable de Implantación.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "d",
+      "questionId" : "65",
+      "fraction" : 10,
+      "text" : "Responsable de Sistemas.",
+      "feedback" : "Correct!"
+    } ]
+  }, {
+    "id" : "66",
+    "quizId" : "csstic-2016",
+    "text" : "66. Las pruebas especialmente vinculadas al mantenimiento de aplicaciones se denominan:",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "66",
+      "fraction" : -3,
+      "text" : "Pruebas de implantación. ",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "b",
+      "questionId" : "66",
+      "fraction" : -3,
+      "text" : "Pruebas de aceptación.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "c",
+      "questionId" : "66",
+      "fraction" : 10,
+      "text" : "Pruebas de regresión.",
+      "feedback" : "Correct!"
+    }, {
+      "id" : "d",
+      "questionId" : "66",
+      "fraction" : -3,
+      "text" : "Pruebas de mantenimiento.",
+      "feedback" : "Wrong!"
+    } ]
+  }, {
+    "id" : "67",
+    "quizId" : "csstic-2016",
+    "text" : "67. ¿Cuál es la afirmación CORRECTA cuando se habla de un servidor web?",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "67",
+      "fraction" : -3,
+      "text" : "Las peticiones al servidor suelen realizarse mediante HTTP utilizando el método de petición POST, en el que el recurso se solicita a través de la URL al servidor Web. ",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "b",
+      "questionId" : "67",
+      "fraction" : -3,
+      "text" : "Los servidores Web reciben a través de su propio navegador las peticiones realizadas por el cliente.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "c",
+      "questionId" : "67",
+      "fraction" : -3,
+      "text" : "Los servidores web usan el protocolo HTTP y los servidores de aplicaciones usan protocolo HTTPS.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "d",
+      "questionId" : "67",
+      "fraction" : 10,
+      "text" : "Las conexiones de los servidores web con los clientes pueden ser bidireccionales o unidireccionales, síncronas o asíncronas.",
+      "feedback" : "Correct!"
+    } ]
+  }, {
+    "id" : "68",
+    "quizId" : "csstic-2016",
+    "text" : "68. La versión actual de Oracle VM VirtualBox proporciona un gran soporte hardware. ¿Cuál de las siguientes afirmaciones NO es correcta?",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "68",
+      "fraction" : -3,
+      "text" : "VirtualBox implementa un controlador virtual de USB que permite la conexión de cualquier USB a la máquina virtual sin pedir la instalación de drivers específicos en el host. ",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "b",
+      "questionId" : "68",
+      "fraction" : -3,
+      "text" : "VirtualBox soporta completamente ACPI (Advanced Configuration and Power Interface).",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "c",
+      "questionId" : "68",
+      "fraction" : -3,
+      "text" : "Las tarjetas de red virtuales de VirtualBox dan soporte completo al arranque remoto vía PXE (Preboot Execution Environment).",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "d",
+      "questionId" : "68",
+      "fraction" : 10,
+      "text" : "VirtualBox puede presentar hasta 128 CPUs virtuales a cada máquina virtual, independientemente de cuantas cores estén físicamente presentes en el host.",
+      "feedback" : "Correct!"
+    } ]
+  }, {
+    "id" : "69",
+    "quizId" : "csstic-2016",
+    "text" : "69. ANULADA.  ¿Cuál de las siguientes afirmaciones sobre IPv6 es FALSA?",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "69",
+      "fraction" : -3,
+      "text" : "El soporte IPsec es obligatorio en IPv6. ",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "b",
+      "questionId" : "69",
+      "fraction" : -3,
+      "text" : "Los nodos IPv6 pueden configurarse a sí mismos automáticamente cuando son conectados a una red enrutada en IPv6 usando los mensajes de descubrimiento de routers de ICMPv6.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "c",
+      "questionId" : "69",
+      "fraction" : -3,
+      "text" : "IPv6 implementa broadcast.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "d",
+      "questionId" : "69",
+      "fraction" : -3,
+      "text" : "Mobile IPv6 (MIPv6) es un protocolo desarrollado para soportar movilidad IP.",
+      "feedback" : "Wrong!"
+    } ]
+  }, {
+    "id" : "70",
+    "quizId" : "csstic-2016",
+    "text" : "70. ¿A través de qué tecnología de conexión puede usarse el DNIe 3.0 en una aplicación de un teléfono móvil?",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "70",
+      "fraction" : -3,
+      "text" : "Bluetooth. ",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "b",
+      "questionId" : "70",
+      "fraction" : 10,
+      "text" : "NFC.",
+      "feedback" : "Correct!"
+    }, {
+      "id" : "c",
+      "questionId" : "70",
+      "fraction" : -3,
+      "text" : "Wi-Fi.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "d",
+      "questionId" : "70",
+      "fraction" : -3,
+      "text" : "El DNIe 3.0 sólo puede usarse desde un teléfono móvil usando un lector de tarjetas.",
+      "feedback" : "Wrong!"
+    } ]
+  }, {
+    "id" : "71",
+    "quizId" : "csstic-2016",
+    "text" : "71. Los scripts de Shell son uno de los tipos de programas más habituales en todos los sistemas UNIX. #!/bin/bash en la primera línea del shell script indica:",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "71",
+      "fraction" : -3,
+      "text" : "Es un comentario que no indica nada. ",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "b",
+      "questionId" : "71",
+      "fraction" : -3,
+      "text" : "Ejecuta el comando /bin/bash y presenta el resultado en pantalla.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "c",
+      "questionId" : "71",
+      "fraction" : -3,
+      "text" : "Cambia el directorio a /bin/bash.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "d",
+      "questionId" : "71",
+      "fraction" : 10,
+      "text" : "Indica que se debe usar la shell bash para ejecutar el script.",
+      "feedback" : "Correct!"
+    } ]
+  }, {
+    "id" : "72",
+    "quizId" : "csstic-2016",
+    "text" : "72. Conforme a la Ley 39/2015, de 1 de octubre, ponen fin a la vía administrativa:",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "72",
+      "fraction" : -3,
+      "text" : "Las resoluciones de los recursos de alzada. ",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "b",
+      "questionId" : "72",
+      "fraction" : -3,
+      "text" : "Los acuerdos, pactos, convenios o contratos que tengan la consideración de finalizadores del procedimiento.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "c",
+      "questionId" : "72",
+      "fraction" : -3,
+      "text" : "La resolución de los procedimientos de responsabilidad patrimonial.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "d",
+      "questionId" : "72",
+      "fraction" : 10,
+      "text" : "Todas son correctas.",
+      "feedback" : "Correct!"
+    } ]
+  }, {
+    "id" : "73",
+    "quizId" : "csstic-2016",
+    "text" : "73. En virtud del artículo 60 del Real Decreto Legislativo 3/2011, de 14 de noviembre, podrán contratar con la Administración las personas que:",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "73",
+      "fraction" : 10,
+      "text" : "Estén incursas en procesos judiciales por delitos contra la Hacienda Pública y la Seguridad Social. ",
+      "feedback" : "Correct!"
+    }, {
+      "id" : "b",
+      "questionId" : "73",
+      "fraction" : -3,
+      "text" : "No se hallen al corriente en el cumplimiento de sus obligaciones tributarias o de seguridad social.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "c",
+      "questionId" : "73",
+      "fraction" : -3,
+      "text" : "Hayan sido sancionadas con carácter firme por infracción grave en materia de integración laboral y de igualdad de oportunidades.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "d",
+      "questionId" : "73",
+      "fraction" : -3,
+      "text" : "Hayan sido declaradas insolventes.",
+      "feedback" : "Wrong!"
+    } ]
+  }, {
+    "id" : "74",
+    "quizId" : "csstic-2016",
+    "text" : "74. El procedimiento abreviado de reconocimiento de la responsabilidad patrimonial de las Administraciones Públicas puede seguirse:",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "74",
+      "fraction" : -3,
+      "text" : "Cuando el interesado justifique la urgencia. ",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "b",
+      "questionId" : "74",
+      "fraction" : 10,
+      "text" : "Cuando la Administración entienda que son inequívocas la relación de causalidad entre lesión y el funcionamiento del servicio público, la valoración del daño y el cálculo de la cuantía de la indemnización.",
+      "feedback" : "Correct!"
+    }, {
+      "id" : "c",
+      "questionId" : "74",
+      "fraction" : -3,
+      "text" : "Cuando lo pida de forma razonada el interesado.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "d",
+      "questionId" : "74",
+      "fraction" : -3,
+      "text" : "La a) y la c) son correctas.",
+      "feedback" : "Wrong!"
+    } ]
+  }, {
+    "id" : "75",
+    "quizId" : "csstic-2016",
+    "text" : "75. Según Mark H. Moore las técnicas de dirección pública más importantes son:",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "75",
+      "fraction" : -3,
+      "text" : "El establecimiento de la misión, visión y valores de la organización. ",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "b",
+      "questionId" : "75",
+      "fraction" : 10,
+      "text" : "La estrategia organizativa y la gestión política.",
+      "feedback" : "Correct!"
+    }, {
+      "id" : "c",
+      "questionId" : "75",
+      "fraction" : -3,
+      "text" : "La nueva gestión pública y la gobernanza.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "d",
+      "questionId" : "75",
+      "fraction" : -3,
+      "text" : "Liderazgo y participación.",
+      "feedback" : "Wrong!"
+    } ]
+  }, {
+    "id" : "76",
+    "quizId" : "csstic-2016",
+    "text" : "76. Imagine un edificio que, antes de que suceda, advierte de que la calefacción está a punto de fallar. Se llama mantenimiento predictivo. Recientemente, una empresa italiana analizó un año de datos de un hospital. Es práctica habitual instalar sensores en unidades de calefacción, ventilación y aire acondicionado, que facilitan lecturas sobre temperatura, humedad y uso de la electricidad. Entrenaron a un algoritmo de aprendizaje automático usando un conjunto de datos desde la primera mitad de 2015, buscando diferencias en las lecturas de aparatos similares. Posteriormente, la probaron con datos de la segunda mitad del año: ¿sería capaz de predecir las averías antes de que sucedieran? El sistema predijo 76 de 124 averías reales, incluyendo 41 de los 44 casos en los que la temperatura de un dispositivo alcanzó niveles superiores a los permitidos. En Estados Unidos, una empresa instala sensores acústicos en máquinas para escuchar cambios audibles en el funcionamiento y detectar fallos potencialmente inminentes. Dado que el precio de los sensores sigue bajando, habrá más sistemas de este tipo en el mercado. ¿Cuál de las siguientes afirmaciones es correcta?",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "76",
+      "fraction" : -3,
+      "text" : "En un experimento reciente, los sensores todavía no fueron capaces de predecir la mayoría de las averías. ",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "b",
+      "questionId" : "76",
+      "fraction" : -3,
+      "text" : "El precio de los sensores utilizados en mantenimiento predictivo seguirá siendo una barrera para su éxito.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "c",
+      "questionId" : "76",
+      "fraction" : -3,
+      "text" : "Los datos del hospital del año 2015 se utilizaron para predecir averías al año siguiente.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "d",
+      "questionId" : "76",
+      "fraction" : 10,
+      "text" : "La temperatura de un aparato parece ser un indicador fiable de averías.",
+      "feedback" : "Correct!"
+    } ]
+  }, {
+    "id" : "77",
+    "quizId" : "csstic-2016",
+    "text" : "77. Desde que la sonda espacial Cassini empezó a orbitar alrededor de Saturno en 2004, ha tomado miles de imágenes del planeta y de sus lunas. Uno de los descubrimientos más importantes fue que la pequeña y helada Encélado está lanzando columnas de agua al espacio, lo que indica que esta luna tiene un océano bajo su superficie en el que se podrían dar las condiciones para la vida. Y por eso Cassini debe desaparecer. La sonda se quedará sin combustible el año que viene. Si colisiona contra Encélado podría contaminar la luna con restos de combustible o con microbios terrestres. Para evitarlo, se elevará más de un millón de kilómetros sobre el polo norte del planeta, más allá de sus anillos principales más remotos. Después, caerá entre los anillos interiores y el planeta, tomando muestras de las partículas que flotan desde los anillos hasta la atmósfera, midiendo y transmitiendo datos sobre la cantidad de polvo y hielo que contienen hasta su momento final, antes de incendiarse en la atmósfera. (New Scientist). ¿Cuál de las siguientes afirmaciones es correcta?",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "77",
+      "fraction" : 10,
+      "text" : "Uno de los descubrimientos de Cassini ha determinado la forma en la que la misión debe terminar. ",
+      "feedback" : "Correct!"
+    }, {
+      "id" : "b",
+      "questionId" : "77",
+      "fraction" : -3,
+      "text" : "Cruzar los anillos de Saturno supondrá que la sonda aumente de temperatura, arda y se destruya completamente.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "c",
+      "questionId" : "77",
+      "fraction" : -3,
+      "text" : "Si no se hubiera descubierto agua en Encélado, la misión de Cassini continuaría.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "d",
+      "questionId" : "77",
+      "fraction" : -3,
+      "text" : "La sonda se elevará muy por encima del anillo más externo del planeta para ganar velocidad.",
+      "feedback" : "Wrong!"
+    } ]
+  } ]
+}

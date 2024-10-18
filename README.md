@@ -9,14 +9,9 @@ Quiz creation is restricted to admin. If u want your personal quiz added create 
 
 ## Deployment
 
-Deployed as Heroku app:
+Heroku is not free anymore so we deploy a static version with static data:
 
-https://autoquizz.heroku.com
-
-## samples
-
-* sample.json
-* sample.xml
+https://jdlopez.github.io/autoquiz/
 
 ## some documentation
 

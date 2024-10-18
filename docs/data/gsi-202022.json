@@ -1,0 +1,3083 @@
+{
+  "id" : "gsi-202022",
+  "title" : "GSI OEP 2020-22",
+  "instructions" : "",
+  "showPublic" : false,
+  "showCorrect" : true,
+  "suffleQuestions" : true,
+  "passFraction" : 100,
+  "fractionSuccess" : 100,
+  "fractionWrong" : 0,
+  "answernumbering" : "LETTERS",
+  "shuffleanswers" : false,
+  "active" : false,
+  "questions" : [ {
+    "id" : "1",
+    "quizId" : "gsi-202022",
+    "text" : "1. Conforme al artículo 55 de la Constitución Española de 1978, ¿qué derecho de los siguientes podrá ser suspendido cuando se declare el estado de excepción?",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "1",
+      "fraction" : 0,
+      "text" : "La asistencia de abogado al detenido en las diligencias policiales y judiciales. ",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "b",
+      "questionId" : "1",
+      "fraction" : 0,
+      "text" : "El derecho a la intimidad personal.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "c",
+      "questionId" : "1",
+      "fraction" : 100,
+      "text" : "El derecho a la huelga de los trabajadores.",
+      "feedback" : "Correct!"
+    }, {
+      "id" : "d",
+      "questionId" : "1",
+      "fraction" : 0,
+      "text" : "El derecho de asociación.",
+      "feedback" : "Wrong!"
+    } ]
+  }, {
+    "id" : "2",
+    "quizId" : "gsi-202022",
+    "text" : "2. Una moción de censura para exigir responsabilidad política al Gobierno:",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "2",
+      "fraction" : 0,
+      "text" : "Deberá ser propuesta por, como mínimo, una quinta parte de los senadores. ",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "b",
+      "questionId" : "2",
+      "fraction" : 100,
+      "text" : "Deberá ser propuesta al menos por la décima parte de los diputados, y habrá de incluir un candidato a la Presidencia del Gobierno.",
+      "feedback" : "Correct!"
+    }, {
+      "id" : "c",
+      "questionId" : "2",
+      "fraction" : 0,
+      "text" : "La moción de censura puede adoptarse por mayoría simple.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "d",
+      "questionId" : "2",
+      "fraction" : 0,
+      "text" : "Debe ser propuesta al menos por la quinta parte de los diputados.",
+      "feedback" : "Wrong!"
+    } ]
+  }, {
+    "id" : "3",
+    "quizId" : "gsi-202022",
+    "text" : "3. De acuerdo con el artículo 97 de la Constitución Española de 1978, el ejercicio de la potestad reglamentaria es ejercida por:",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "3",
+      "fraction" : 0,
+      "text" : "El Congreso de los Diputados. ",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "b",
+      "questionId" : "3",
+      "fraction" : 0,
+      "text" : "El Senado.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "c",
+      "questionId" : "3",
+      "fraction" : 0,
+      "text" : "El Consejo de Estado.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "d",
+      "questionId" : "3",
+      "fraction" : 100,
+      "text" : "El Gobierno, de acuerdo con la Constitución y las leyes.",
+      "feedback" : "Correct!"
+    } ]
+  }, {
+    "id" : "4",
+    "quizId" : "gsi-202022",
+    "text" : "4. De acuerdo con la Ley 19/2013, de 9 de diciembre, de transparencia, acceso a la información pública y buen gobierno, ¿se debe tener en cuenta la condición del solicitante de la información a la hora de acceder a la información pública?",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "4",
+      "fraction" : 0,
+      "text" : "Dependiendo de la condición del solicitante se podrá aceptar o denegar el acceso a la información pública. ",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "b",
+      "questionId" : "4",
+      "fraction" : 100,
+      "text" : "Todas las personas tienen derecho a acceder a la información pública, en los términos previstos en el artículo 105. b) de la Constitución Española de 1978.",
+      "feedback" : "Correct!"
+    }, {
+      "id" : "c",
+      "questionId" : "4",
+      "fraction" : 0,
+      "text" : "Salvo en lo que afecte a la seguridad y la defensa no hay limitaciones del derecho de acceso.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "d",
+      "questionId" : "4",
+      "fraction" : 0,
+      "text" : "No hay limitaciones del derecho de acceso en base al artículo 14 de la Constitución Española de 1978.",
+      "feedback" : "Wrong!"
+    } ]
+  }, {
+    "id" : "5",
+    "quizId" : "gsi-202022",
+    "text" : "5. Atendiendo a lo establecido en la Ley 39/2006, de 14 de diciembre, de Promoción de la Autonomía Personal y Atención a las personas en situación de dependencia, ¿cuál de las siguientes respuestas es la correcta?",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "5",
+      "fraction" : 0,
+      "text" : "El Sistema para la Autonomía y Atención a la Dependencia se configura como una red de utilización pública que integra, de forma coordinada, centros y servicios sólo públicos. ",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "b",
+      "questionId" : "5",
+      "fraction" : 100,
+      "text" : "La integración en el Sistema para la Autonomía y Atención a la Dependencia de los centros y servicios que formen parte de la red del Sistema, no supondrá alteración alguna en el régimen jurídico de su titularidad.",
+      "feedback" : "Correct!"
+    }, {
+      "id" : "c",
+      "questionId" : "5",
+      "fraction" : 0,
+      "text" : "El Gobierno no podrá establecer medidas de protección a favor de los españoles no residentes en España.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "d",
+      "questionId" : "5",
+      "fraction" : 0,
+      "text" : "El Gobierno establecerá, sin previo acuerdo de nadie, las condiciones de acceso al Sistema de Atención a la Dependencia de los emigrantes españoles retornados.",
+      "feedback" : "Wrong!"
+    } ]
+  }, {
+    "id" : "6",
+    "quizId" : "gsi-202022",
+    "text" : "6. Con el fin de lograr los objetivos fijados, el Plan de Digitalización de las Administraciones Públicas 2021-2025 se estructura en tres ejes estratégicos. ¿Cuáles son estos?",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "6",
+      "fraction" : 0,
+      "text" : "Eje 1. Acceso de todos los ciudadanos a las sedes electrónicas. Eje 2. Transformación digital de Comunidades y Ayuntamientos. Eje 3: Proyectos de alto impacto en la digitalización del Sector Público. ",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "b",
+      "questionId" : "6",
+      "fraction" : 0,
+      "text" : "Eje 1. Transformación digital del Estado. Eje 2. Transformación digital de las Autoridades Administrativas Independientes. Eje 3. Transformación digital de los Organismos Autónomos.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "c",
+      "questionId" : "6",
+      "fraction" : 0,
+      "text" : "Eje 1. Descarbonizar las actividades de las Administraciones Públicas. Eje 2. Transformación digital de las Comunidades Autónomas. Eje 3. Transformación digital de las Entidades Locales.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "d",
+      "questionId" : "6",
+      "fraction" : 100,
+      "text" : "Eje 1. Transformación digital de la Administración General del Estado. Eje 2. Proyectos de alto impacto en la digitalización del Sector Público. Eje 3.Transformación digital y modernización del Ministerio de Política Territorial, Comunidades Autónomas y Entidades Locales.",
+      "feedback" : "Correct!"
+    } ]
+  }, {
+    "id" : "7",
+    "quizId" : "gsi-202022",
+    "text" : "7. Los derechos recogidos en el Capítulo II del Título III de la Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales y garantía de los derechos digitales son:",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "7",
+      "fraction" : 100,
+      "text" : "Derecho de acceso, rectificación, supresión, limitación del tratamiento, portabilidad y oposición. ",
+      "feedback" : "Correct!"
+    }, {
+      "id" : "b",
+      "questionId" : "7",
+      "fraction" : 0,
+      "text" : "Derecho de información, acceso, rectificación, supresión, limitación del tratamiento, portabilidad y oposición.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "c",
+      "questionId" : "7",
+      "fraction" : 0,
+      "text" : "Derecho de acceso, rectificación, limitación del tratamiento, portabilidad y oposición.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "d",
+      "questionId" : "7",
+      "fraction" : 0,
+      "text" : "Derecho de acceso, rectificación, supresión, limitación del tratamiento, corresponsabilidad, portabilidad y oposición.",
+      "feedback" : "Wrong!"
+    } ]
+  }, {
+    "id" : "8",
+    "quizId" : "gsi-202022",
+    "text" : "8. En relación a la identificación y firma de los interesados en el procedimiento administrativo, según el Capítulo II del Título I de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, podemos afirmar que:",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "8",
+      "fraction" : 0,
+      "text" : "Los interesados podrán identificarse electrónicamente ante las Administraciones Públicas solamente a través de sistemas basados en certificados electrónicos cualificados de firma electrónica. ",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "b",
+      "questionId" : "8",
+      "fraction" : 0,
+      "text" : "Las administraciones públicas requerirán a los interesados el uso obligatorio de firma para realizar consultas.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "c",
+      "questionId" : "8",
+      "fraction" : 100,
+      "text" : "Los interesados podrán firmar a través de cualquier medio que permita acreditar la autenticidad de la expresión de su voluntad y consentimiento, así como la integridad e inalterabilidad del documento.",
+      "feedback" : "Correct!"
+    }, {
+      "id" : "d",
+      "questionId" : "8",
+      "fraction" : 0,
+      "text" : "Las Administraciones Públicas procurarán que los interesados puedan relacionarse con la Administración a través de medios electrónicos.",
+      "feedback" : "Wrong!"
+    } ]
+  }, {
+    "id" : "9",
+    "quizId" : "gsi-202022",
+    "text" : "9. No están obligados a relacionarse a través de medios electrónicos con las Administraciones Públicas:",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "9",
+      "fraction" : 0,
+      "text" : "Las personas jurídicas. ",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "b",
+      "questionId" : "9",
+      "fraction" : 0,
+      "text" : "Las entidades sin personalidad jurídica.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "c",
+      "questionId" : "9",
+      "fraction" : 0,
+      "text" : "Los notarios y registradores de la propiedad y mercantiles.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "d",
+      "questionId" : "9",
+      "fraction" : 100,
+      "text" : "Las personas físicas.",
+      "feedback" : "Correct!"
+    } ]
+  }, {
+    "id" : "10",
+    "quizId" : "gsi-202022",
+    "text" : "10. ¿Cuál es la red de comunicaciones que interconecta los sistemas de información de las Administraciones Públicas españolas y permite el intercambio de información y servicios?",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "10",
+      "fraction" : 0,
+      "text" : "Red TESTA. ",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "b",
+      "questionId" : "10",
+      "fraction" : 100,
+      "text" : "Red SARA.",
+      "feedback" : "Correct!"
+    }, {
+      "id" : "c",
+      "questionId" : "10",
+      "fraction" : 0,
+      "text" : "Red NEREA.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "d",
+      "questionId" : "10",
+      "fraction" : 0,
+      "text" : "RESGAL.",
+      "feedback" : "Wrong!"
+    } ]
+  }, {
+    "id" : "11",
+    "quizId" : "gsi-202022",
+    "text" : "11. Dentro del grupo MIMD (Multiple Instruction streams, Multiple Data streams) se fueron identificando nuevas estructuras que no se ajustaban a la clasificación de Flynn. En relación con ello, Andrew Tannembaum:",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "11",
+      "fraction" : 0,
+      "text" : "Hizo una clasificación anterior a la de Flynn, que fue completada por este. ",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "b",
+      "questionId" : "11",
+      "fraction" : 100,
+      "text" : "Hizo una clasificación más precisa que la de Flynn, basada en el acoplamiento entre procesadores.",
+      "feedback" : "Correct!"
+    }, {
+      "id" : "c",
+      "questionId" : "11",
+      "fraction" : 0,
+      "text" : "Hizo una clasificación más precisa que la de Flynn, basada en la independencia y el desacoplamiento de los procesadores.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "d",
+      "questionId" : "11",
+      "fraction" : 0,
+      "text" : "Hizo una clasificación que distinguía tres categorías dentro de los sistemas: SMP (Multiprocesador simétrico), MMC (Monoprocesador de Memoria Compartida) y MPP (Procesador Masivamente Paralelo).",
+      "feedback" : "Wrong!"
+    } ]
+  }, {
+    "id" : "12",
+    "quizId" : "gsi-202022",
+    "text" : "12. Indica cuál de los siguientes servidores NO es un servidor en cuanto a su formato:",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "12",
+      "fraction" : 0,
+      "text" : "Servidores rack. ",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "b",
+      "questionId" : "12",
+      "fraction" : 0,
+      "text" : "Computadores de altas prestaciones o HPC.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "c",
+      "questionId" : "12",
+      "fraction" : 100,
+      "text" : "Servidor grain mill.",
+      "feedback" : "Correct!"
+    }, {
+      "id" : "d",
+      "questionId" : "12",
+      "fraction" : 0,
+      "text" : "Servidor blade.",
+      "feedback" : "Wrong!"
+    } ]
+  }, {
+    "id" : "13",
+    "quizId" : "gsi-202022",
+    "text" : "13. ¿Cuáles son los modos de funcionamientos del sistema UNIX?",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "13",
+      "fraction" : 0,
+      "text" : "Modo usuario y modo proceso. ",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "b",
+      "questionId" : "13",
+      "fraction" : 0,
+      "text" : "Modo microkernel y modo kernel.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "c",
+      "questionId" : "13",
+      "fraction" : 100,
+      "text" : "Modo usuario y modo kernel.",
+      "feedback" : "Correct!"
+    }, {
+      "id" : "d",
+      "questionId" : "13",
+      "fraction" : 0,
+      "text" : "Modo proceso y modo microkernel.",
+      "feedback" : "Wrong!"
+    } ]
+  }, {
+    "id" : "14",
+    "quizId" : "gsi-202022",
+    "text" : "14. Completa la frase correctamente: \"El kernel de windows …",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "14",
+      "fraction" : 0,
+      "text" : "… tiene un hilo actual y un hilo futuro que se bloquea en un semáforo, evento, etc.\". ",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "b",
+      "questionId" : "14",
+      "fraction" : 100,
+      "text" : "… no tiene ningún hilo de planificación central\".",
+      "feedback" : "Correct!"
+    }, {
+      "id" : "c",
+      "questionId" : "14",
+      "fraction" : 0,
+      "text" : "… tiene un hilo actual de planificación siempre en ejecución\".",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "d",
+      "questionId" : "14",
+      "fraction" : 0,
+      "text" : "… tiene dos hilos de planificación central\".",
+      "feedback" : "Wrong!"
+    } ]
+  }, {
+    "id" : "15",
+    "quizId" : "gsi-202022",
+    "text" : "15. Al ser Open Source, PHP se ha usado de manera extensa para desarrollar productos comerciales de éxito en el mercado. ¿Cuál de los siguientes NO es un producto basado en PHP?",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "15",
+      "text" : "WordPress 5.5 "
+    }, {
+      "id" : "b",
+      "questionId" : "15",
+      "text" : "Jenkins"
+    }, {
+      "id" : "c",
+      "questionId" : "15",
+      "text" : "Drupal 9"
+    }, {
+      "id" : "d",
+      "questionId" : "15",
+      "text" : "Odoo 13"
+    } ]
+  }, {
+    "id" : "16",
+    "quizId" : "gsi-202022",
+    "text" : "16. De las afirmaciones que se indican a continuación, ¿cuál de ellas NO responde a una definición de Inteligencia de Negocio o Business Intelligence (BI)?",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "16",
+      "fraction" : 0,
+      "text" : "Las estrategias, acciones y herramientas para la creación de conocimiento mediante el análisis de la información de la organización. ",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "b",
+      "questionId" : "16",
+      "fraction" : 100,
+      "text" : "Dispositivo software que proporciona servicios de aplicación a computadoras clientes.",
+      "feedback" : "Correct!"
+    }, {
+      "id" : "c",
+      "questionId" : "16",
+      "fraction" : 0,
+      "text" : "Metodología y uso de tecnologías que transforman los datos en información para mejorar la toma de decisiones.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "d",
+      "questionId" : "16",
+      "fraction" : 0,
+      "text" : "Reunir, depurar y transformar datos que se puedan analizar con la finalidad de mejorar la toma de decisiones internas, para crear ventajas competitivas.",
+      "feedback" : "Wrong!"
+    } ]
+  }, {
+    "id" : "17",
+    "quizId" : "gsi-202022",
+    "text" : "17. ¿Cuál de las siguientes respuestas incluye alguna tecnología que NO forma parte de la Inteligencia de Negocio o Business Intelligence (BI)?",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "17",
+      "fraction" : 0,
+      "text" : "Data warehouse y análisis OLAP. ",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "b",
+      "questionId" : "17",
+      "fraction" : 0,
+      "text" : "Cuadro de mando y minería de datos.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "c",
+      "questionId" : "17",
+      "fraction" : 100,
+      "text" : "OLTP y DNS.",
+      "feedback" : "Correct!"
+    }, {
+      "id" : "d",
+      "questionId" : "17",
+      "fraction" : 0,
+      "text" : "Análisis OLAP y Dashboards de visualización de datos.",
+      "feedback" : "Wrong!"
+    } ]
+  }, {
+    "id" : "18",
+    "quizId" : "gsi-202022",
+    "text" : "18. Indique la respuesta correcta en relación a los componentes de proceso de un SGBD:",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "18",
+      "fraction" : 0,
+      "text" : "Interfaces, modelo de referencia, compilador y precompilador DML. ",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "b",
+      "questionId" : "18",
+      "fraction" : 100,
+      "text" : "Compilador DML, precompilador DML, intérprete DDL y motor de ejecución.",
+      "feedback" : "Correct!"
+    }, {
+      "id" : "c",
+      "questionId" : "18",
+      "fraction" : 0,
+      "text" : "Gestor de ficheros, compilador y precompilador DML y gestor de transacciones.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "d",
+      "questionId" : "18",
+      "fraction" : 0,
+      "text" : "Estructuras de datos, gestor de transacciones, intérprete DDL y motor de ejecución.",
+      "feedback" : "Wrong!"
+    } ]
+  }, {
+    "id" : "19",
+    "quizId" : "gsi-202022",
+    "text" : "19. \"Cualquier información almacenada en la base de datos debe poder ser accesible de manera unívoca mediante un nombre de tabla, un nombre de columna y el valor de la clave primaria para la fila en la que está almacenada la información en cuestión\". Según las Reglas de Codd, nos estaríamos refiriendo a:",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "19",
+      "fraction" : 0,
+      "text" : "La regla fundamental. ",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "b",
+      "questionId" : "19",
+      "fraction" : 0,
+      "text" : "La regla de la información.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "c",
+      "questionId" : "19",
+      "fraction" : 100,
+      "text" : "La regla del acceso garantizado.",
+      "feedback" : "Correct!"
+    }, {
+      "id" : "d",
+      "questionId" : "19",
+      "fraction" : 0,
+      "text" : "La regla del tratamiento sistemático de los valores nulos.",
+      "feedback" : "Wrong!"
+    } ]
+  }, {
+    "id" : "20",
+    "quizId" : "gsi-202022",
+    "text" : "20. La arquitectura de tres capas consiste en:",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "20",
+      "fraction" : 0,
+      "text" : "Distribución, física y lógica. ",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "b",
+      "questionId" : "20",
+      "fraction" : 0,
+      "text" : "Presentación, almacenamiento y red.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "c",
+      "questionId" : "20",
+      "fraction" : 100,
+      "text" : "Presentación, lógica y almacenamiento.",
+      "feedback" : "Correct!"
+    }, {
+      "id" : "d",
+      "questionId" : "20",
+      "fraction" : 0,
+      "text" : "Procesamiento, lógica y base de datos.",
+      "feedback" : "Wrong!"
+    } ]
+  }, {
+    "id" : "21",
+    "quizId" : "gsi-202022",
+    "text" : "21. ¿Cuál de las siguientes NO es una herramienta de registro de contenedores?",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "21",
+      "text" : "Harbor. "
+    }, {
+      "id" : "b",
+      "questionId" : "21",
+      "text" : "Docker hub."
+    }, {
+      "id" : "c",
+      "questionId" : "21",
+      "text" : "Terraform."
+    }, {
+      "id" : "d",
+      "questionId" : "21",
+      "text" : "Google Cloud Registry."
+    } ]
+  }, {
+    "id" : "22",
+    "quizId" : "gsi-202022",
+    "text" : "22. ¿Qué significan las siglas CI/CD en el contexto del desarrollo software?",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "22",
+      "fraction" : 0,
+      "text" : "Continuous Inclusion/Continuous Deployment. ",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "b",
+      "questionId" : "22",
+      "fraction" : 0,
+      "text" : "Continuous Insertion/Continuous Delivery.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "c",
+      "questionId" : "22",
+      "fraction" : 0,
+      "text" : "Continuous Insertion/Continuous Deployment.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "d",
+      "questionId" : "22",
+      "fraction" : 100,
+      "text" : "Continuous Integration/Continuous Delivery.",
+      "feedback" : "Correct!"
+    } ]
+  }, {
+    "id" : "23",
+    "quizId" : "gsi-202022",
+    "text" : "23. Los registros de imágenes de contenedores pueden ser públicos o privados, estar alojados por terceros o en nuestras instalaciones. ¿Cuándo debería usarse un registro de contenedores público?",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "23",
+      "fraction" : 0,
+      "text" : "Para mantener el registro on-premise. ",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "b",
+      "questionId" : "23",
+      "fraction" : 100,
+      "text" : "Para pequeños proyectos open source.",
+      "feedback" : "Correct!"
+    }, {
+      "id" : "c",
+      "questionId" : "23",
+      "fraction" : 0,
+      "text" : "Cuando la seguridad es una prioridad.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "d",
+      "questionId" : "23",
+      "fraction" : 0,
+      "text" : "Los contenedores de registros públicos no se deberían usar.",
+      "feedback" : "Wrong!"
+    } ]
+  }, {
+    "id" : "24",
+    "quizId" : "gsi-202022",
+    "text" : "24. Las funciones de la capa de sesión en el modelo OSI son:",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "24",
+      "fraction" : 0,
+      "text" : "Cifrado y compresión de datos. ",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "b",
+      "questionId" : "24",
+      "fraction" : 0,
+      "text" : "Segmentación, confirmación y multiplexación.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "c",
+      "questionId" : "24",
+      "fraction" : 100,
+      "text" : "Control del diálogo y recuperación de errores.",
+      "feedback" : "Correct!"
+    }, {
+      "id" : "d",
+      "questionId" : "24",
+      "fraction" : 0,
+      "text" : "Direccionamiento, encaminamiento y control de tráfico.",
+      "feedback" : "Wrong!"
+    } ]
+  }, {
+    "id" : "25",
+    "quizId" : "gsi-202022",
+    "text" : "25. ¿Cuál es el orden correcto de las capas que forman el modelo OSI?",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "25",
+      "fraction" : 0,
+      "text" : "Físico, Enlace, Red, Transporte, Presentación, Sesión, Aplicación. ",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "b",
+      "questionId" : "25",
+      "fraction" : 0,
+      "text" : "Físico, Red, Enlace, Transporte, Sesión, Presentación, Aplicación.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "c",
+      "questionId" : "25",
+      "fraction" : 100,
+      "text" : "Físico, Enlace, Red, Transporte, Sesión, Presentación, Aplicación.",
+      "feedback" : "Correct!"
+    }, {
+      "id" : "d",
+      "questionId" : "25",
+      "fraction" : 0,
+      "text" : "Físico, Red, Transporte, Presentación, Sesión, Aplicación, Usuario.",
+      "feedback" : "Wrong!"
+    } ]
+  }, {
+    "id" : "26",
+    "quizId" : "gsi-202022",
+    "text" : "26. Si un XML cumple con la sintaxis pero no tiene ningún XML Schema se dice que:",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "26",
+      "fraction" : 100,
+      "text" : "Está bien formado. ",
+      "feedback" : "Correct!"
+    }, {
+      "id" : "b",
+      "questionId" : "26",
+      "fraction" : 0,
+      "text" : "Está bien formado y es válido.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "c",
+      "questionId" : "26",
+      "fraction" : 0,
+      "text" : "No está bien formado.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "d",
+      "questionId" : "26",
+      "fraction" : 0,
+      "text" : "No está bien formado pero es válido.",
+      "feedback" : "Wrong!"
+    } ]
+  }, {
+    "id" : "27",
+    "quizId" : "gsi-202022",
+    "text" : "27. ¿Cuál es la definición correcta de XLink?",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "27",
+      "fraction" : 0,
+      "text" : "Lenguaje que permite construir expresiones para recorrer y procesar un documento XML. ",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "b",
+      "questionId" : "27",
+      "fraction" : 100,
+      "text" : "Lenguaje que permite crear elementos XML que describen relaciones cruzadas entre documentos, imágenes y archivos.",
+      "feedback" : "Correct!"
+    }, {
+      "id" : "c",
+      "questionId" : "27",
+      "fraction" : 0,
+      "text" : "Método de direccionamiento de fragmentos de un documento XML, está construido sobre XPath.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "d",
+      "questionId" : "27",
+      "fraction" : 0,
+      "text" : "Lenguaje que permite acceder a los datos contenidos en los XML.",
+      "feedback" : "Wrong!"
+    } ]
+  }, {
+    "id" : "28",
+    "quizId" : "gsi-202022",
+    "text" : "28. Acorde a MAGERIT v3, una vez identificado y valorado el riesgo residual actual, se procede a su tratamiento. ¿Cuál NO es una estrategia de tratamiento del riesgo?",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "28",
+      "fraction" : 0,
+      "text" : "Mitigar. ",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "b",
+      "questionId" : "28",
+      "fraction" : 0,
+      "text" : "Asumir.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "c",
+      "questionId" : "28",
+      "fraction" : 0,
+      "text" : "Compartir/transferir.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "d",
+      "questionId" : "28",
+      "fraction" : 100,
+      "text" : "Todas son estrategias de tratamiento del riesgo.",
+      "feedback" : "Correct!"
+    } ]
+  }, {
+    "id" : "29",
+    "quizId" : "gsi-202022",
+    "text" : "29. En virtud de la Disposición Transitoria del Real Decreto 311/2022, de 3 de mayo, por el que se regula el Esquema Nacional de Seguridad (ENS), los sistemas de información del ámbito de aplicación de este real decreto, preexistentes a su entrada en vigor, dispondrán de:",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "29",
+      "fraction" : 100,
+      "text" : "Veinticuatro meses para alcanzar su plena adecuación al ENS, incluidos aquellos de los que sean titulares los contratistas del sector privado en los términos señalados en el artículo 2. ",
+      "feedback" : "Correct!"
+    }, {
+      "id" : "b",
+      "questionId" : "29",
+      "fraction" : 0,
+      "text" : "Veinticuatro meses para alcanzar su plena adecuación al ENS, a excepción de aquellos de los que sean titulares los contratistas del sector privado en los términos señalados en el artículo 2.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "c",
+      "questionId" : "29",
+      "fraction" : 0,
+      "text" : "Dieciocho meses para alcanzar su plena adecuación al ENS, a excepción de aquellos de los que sean titulares los contratistas del sector privado en los términos señalados en el artículo 2.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "d",
+      "questionId" : "29",
+      "fraction" : 0,
+      "text" : "Doce meses para alcanzar su plena adecuación al ENS, a excepción de aquellos de los que sean titulares los contratistas del sector privado en los términos señalados en el artículo 2.",
+      "feedback" : "Wrong!"
+    } ]
+  }, {
+    "id" : "30",
+    "quizId" : "gsi-202022",
+    "text" : "30. Según el artículo 31 del Real Decreto 311/2022, de 3 de mayo, por el que se regula el Esquema Nacional de Seguridad (ENS), los sistemas de información comprendidos en el ámbito de aplicación de este real decreto serán objeto de una auditoría regular ordinaria que verifique el cumplimiento de los requerimientos del ENS:",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "30",
+      "fraction" : 0,
+      "text" : "Al menos cada dieciocho meses, pudiendo extenderse durante seis meses adicionales cuando concurran impedimentos de fuerza mayor no imputables a la entidad titular del sistema o sistemas de información concernidos. ",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "b",
+      "questionId" : "30",
+      "fraction" : 0,
+      "text" : "Al menos cada dos años, sin posibilidad de extensión.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "c",
+      "questionId" : "30",
+      "fraction" : 100,
+      "text" : "Al menos cada dos años, pudiendo extenderse durante tres meses cuando concurran impedimentos de fuerza mayor no imputables a la entidad titular del sistema o sistemas de información concernidos.",
+      "feedback" : "Correct!"
+    }, {
+      "id" : "d",
+      "questionId" : "30",
+      "fraction" : 0,
+      "text" : "Al menos cada doce meses, pudiendo extenderse en periodos de seis meses, hasta un máximo de treinta y seis cuando concurran impedimentos de fuerza mayor no imputables a la entidad titular del sistema o sistemas de información concernidos.",
+      "feedback" : "Wrong!"
+    } ]
+  }, {
+    "id" : "31",
+    "quizId" : "gsi-202022",
+    "text" : "31. ¿Qué significan las siglas ERP?",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "31",
+      "fraction" : 0,
+      "text" : "Emergency Recovery Planning. ",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "b",
+      "questionId" : "31",
+      "fraction" : 0,
+      "text" : "Elastic Research Pipiline.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "c",
+      "questionId" : "31",
+      "fraction" : 100,
+      "text" : "Enterprise Resource Planning.",
+      "feedback" : "Correct!"
+    }, {
+      "id" : "d",
+      "questionId" : "31",
+      "fraction" : 0,
+      "text" : "Emergency Recovery Period.",
+      "feedback" : "Wrong!"
+    } ]
+  }, {
+    "id" : "32",
+    "quizId" : "gsi-202022",
+    "text" : "32. ¿Cuál es la diferencia entre ERP y CRM?",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "32",
+      "fraction" : 100,
+      "text" : "Mientras ERP sirve para planificar los recursos empresariales, CRM se utiliza para gestionar la relación con los clientes. ",
+      "feedback" : "Correct!"
+    }, {
+      "id" : "b",
+      "questionId" : "32",
+      "fraction" : 0,
+      "text" : "Mientras CRM sirve para gestionar claves, ERP se utiliza para gestionar proveedores.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "c",
+      "questionId" : "32",
+      "fraction" : 0,
+      "text" : "Mientras CRM sirve para gestionar clientes, ERP se utiliza para gestionar proveedores.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "d",
+      "questionId" : "32",
+      "fraction" : 0,
+      "text" : "No hay diferencias.",
+      "feedback" : "Wrong!"
+    } ]
+  }, {
+    "id" : "33",
+    "quizId" : "gsi-202022",
+    "text" : "33. En virtud del artículo 97.4 del Real Decreto Legislativo 1/1996, de 12 de abril, por el que se aprueba el texto refundido de la Ley de Propiedad Intelectual, regularizando, aclarando y armonizando las disposiciones legales vigentes sobre la materia, cuando un trabajador asalariado cree un programa de ordenador, en el ejercicio de las funciones que le han sido confiadas o siguiendo las instrucciones de su empresario, la titularidad de los derechos de explotación correspondientes al programa de ordenador así creado corresponderán:",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "33",
+      "fraction" : 0,
+      "text" : "Exclusivamente al trabajador, como así lo ampara la protección civil y penal del derecho de autor. ",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "b",
+      "questionId" : "33",
+      "fraction" : 0,
+      "text" : "Al trabajador en lo relativo al programa fuente y al empresario en relación con el programa objeto, salvo pacto en contrario.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "c",
+      "questionId" : "33",
+      "fraction" : 0,
+      "text" : "Al empresario en lo relativo al programa fuente y al trabajador en relación con el programa objeto, salvo pacto en contrario.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "d",
+      "questionId" : "33",
+      "fraction" : 100,
+      "text" : "Exclusivamente al empresario, salvo pacto en contrario.",
+      "feedback" : "Correct!"
+    } ]
+  }, {
+    "id" : "34",
+    "quizId" : "gsi-202022",
+    "text" : "34. ¿Cuál NO es un método de ordenación de alternativas?",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "34",
+      "fraction" : 0,
+      "text" : "Método de ponderación lineal. ",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "b",
+      "questionId" : "34",
+      "fraction" : 0,
+      "text" : "Método de utilidad multiatributo.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "c",
+      "questionId" : "34",
+      "fraction" : 100,
+      "text" : "Método de la entropía.",
+      "feedback" : "Correct!"
+    }, {
+      "id" : "d",
+      "questionId" : "34",
+      "fraction" : 0,
+      "text" : "Método de las relaciones de superación.",
+      "feedback" : "Wrong!"
+    } ]
+  }, {
+    "id" : "35",
+    "quizId" : "gsi-202022",
+    "text" : "35. ¿Cuál NO es un método de normalización de puntuaciones?",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "35",
+      "fraction" : 0,
+      "text" : "Fracción del ideal. ",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "b",
+      "questionId" : "35",
+      "fraction" : 0,
+      "text" : "Fracción del máximo.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "c",
+      "questionId" : "35",
+      "fraction" : 100,
+      "text" : "Fracción del mínimo.",
+      "feedback" : "Correct!"
+    }, {
+      "id" : "d",
+      "questionId" : "35",
+      "fraction" : 0,
+      "text" : "Fracción de la suma.",
+      "feedback" : "Wrong!"
+    } ]
+  }, {
+    "id" : "36",
+    "quizId" : "gsi-202022",
+    "text" : "36. ¿Cuál de los siguientes NO es un estándar referente a los Sistemas de Gestión Documental?",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "36",
+      "fraction" : 100,
+      "text" : "Modelo DMS-OAPIS ",
+      "feedback" : "Correct!"
+    }, {
+      "id" : "b",
+      "questionId" : "36",
+      "fraction" : 0,
+      "text" : "ISO 30300",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "c",
+      "questionId" : "36",
+      "fraction" : 0,
+      "text" : "Modelo OAIS",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "d",
+      "questionId" : "36",
+      "fraction" : 0,
+      "text" : "CMIS de OASIS",
+      "feedback" : "Wrong!"
+    } ]
+  }, {
+    "id" : "37",
+    "quizId" : "gsi-202022",
+    "text" : "37. Respecto a la Gestión Documental en las Administraciones Públicas:",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "37",
+      "fraction" : 0,
+      "text" : "No se encuentra contemplada. ",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "b",
+      "questionId" : "37",
+      "fraction" : 100,
+      "text" : "Las AA.PP. pueden utilizar estos sistemas para trabajar con documentos y expedientes administrativos, en aplicación de las leyes 39/2015 y 40/2015.",
+      "feedback" : "Correct!"
+    }, {
+      "id" : "c",
+      "questionId" : "37",
+      "fraction" : 0,
+      "text" : "Se han definido unos principios, pero todavía no hay una implantación específica.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "d",
+      "questionId" : "37",
+      "fraction" : 0,
+      "text" : "Está pendiente de la transposición de una directiva europea.",
+      "feedback" : "Wrong!"
+    } ]
+  }, {
+    "id" : "38",
+    "quizId" : "gsi-202022",
+    "text" : "38. ¿Cuál de los siguientes es un CMS orientado al entorno educativo?",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "38",
+      "fraction" : 0,
+      "text" : "WordPress. ",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "b",
+      "questionId" : "38",
+      "fraction" : 0,
+      "text" : "Magnolia.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "c",
+      "questionId" : "38",
+      "fraction" : 0,
+      "text" : "Pixelpost.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "d",
+      "questionId" : "38",
+      "fraction" : 100,
+      "text" : "Moodle.",
+      "feedback" : "Correct!"
+    } ]
+  }, {
+    "id" : "39",
+    "quizId" : "gsi-202022",
+    "text" : "39. ¿Cuál es el nombre del estándar ISO que define los procesos de ciclo de vida de software de una organización?",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "39",
+      "fraction" : 0,
+      "text" : "ISO 9001 ",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "b",
+      "questionId" : "39",
+      "fraction" : 100,
+      "text" : "ISO 12207",
+      "feedback" : "Correct!"
+    }, {
+      "id" : "c",
+      "questionId" : "39",
+      "fraction" : 0,
+      "text" : "ISO 27000",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "d",
+      "questionId" : "39",
+      "fraction" : 0,
+      "text" : "ISO 27001",
+      "feedback" : "Wrong!"
+    } ]
+  }, {
+    "id" : "40",
+    "quizId" : "gsi-202022",
+    "text" : "40. ¿Cuál de las siguientes afirmaciones con respecto al modelo de ciclo de vida en cascada es correcta?",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "40",
+      "fraction" : 0,
+      "text" : "Se compone de una serie de fases paralelas en un primer nivel, que deben quedar finalizadas antes de iniciar las fases del nivel siguiente. ",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "b",
+      "questionId" : "40",
+      "fraction" : 0,
+      "text" : "No contempla la división en fases. Se compone de un conjunto de actividades secuenciales.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "c",
+      "questionId" : "40",
+      "fraction" : 100,
+      "text" : "Se compone de una serie de fases sucesivas, cada una de las cuales es completada antes de avanzar a la siguiente.",
+      "feedback" : "Correct!"
+    }, {
+      "id" : "d",
+      "questionId" : "40",
+      "fraction" : 0,
+      "text" : "Está especialmente orientado a sistemas que no requieran proporcionar entregables intermedios.",
+      "feedback" : "Wrong!"
+    } ]
+  }, {
+    "id" : "41",
+    "quizId" : "gsi-202022",
+    "text" : "41. ¿Cuál es el orden de las fases definidas para el modelo de ciclo de vida en espiral?",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "41",
+      "fraction" : 100,
+      "text" : "Planificación, Análisis de riesgos, Ingeniería y Evaluación. ",
+      "feedback" : "Correct!"
+    }, {
+      "id" : "b",
+      "questionId" : "41",
+      "fraction" : 0,
+      "text" : "Evaluación, Planificación, Ingeniería y Análisis de riesgos.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "c",
+      "questionId" : "41",
+      "fraction" : 0,
+      "text" : "Planificación, Ingeniería, Análisis de riesgos y Evaluación.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "d",
+      "questionId" : "41",
+      "fraction" : 0,
+      "text" : "Ingeniería, Planificación, Análisis de riesgos y Evaluación.",
+      "feedback" : "Wrong!"
+    } ]
+  }, {
+    "id" : "42",
+    "quizId" : "gsi-202022",
+    "text" : "42. ¿Cuál de las siguientes actividades se realiza en la rama ascendente del modelo de ciclo de vida en V?",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "42",
+      "fraction" : 0,
+      "text" : "Preparación de pruebas. ",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "b",
+      "questionId" : "42",
+      "fraction" : 100,
+      "text" : "Ejecución de pruebas.",
+      "feedback" : "Correct!"
+    }, {
+      "id" : "c",
+      "questionId" : "42",
+      "fraction" : 0,
+      "text" : "Definición de requisitos.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "d",
+      "questionId" : "42",
+      "fraction" : 0,
+      "text" : "Diseño técnico del sistema.",
+      "feedback" : "Wrong!"
+    } ]
+  }, {
+    "id" : "43",
+    "quizId" : "gsi-202022",
+    "text" : "43. Uno de los siguientes NO es un proceso de la estructura principal de la metodología METRICA v3. Señale cual:",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "43",
+      "fraction" : 0,
+      "text" : "Planificación de Sistemas de Información. ",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "b",
+      "questionId" : "43",
+      "fraction" : 0,
+      "text" : "Desarrollo de Sistemas de Información.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "c",
+      "questionId" : "43",
+      "fraction" : 0,
+      "text" : "Mantenimiento de Sistemas de Información.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "d",
+      "questionId" : "43",
+      "fraction" : 100,
+      "text" : "Metodología de Sistemas de Información.",
+      "feedback" : "Correct!"
+    } ]
+  }, {
+    "id" : "44",
+    "quizId" : "gsi-202022",
+    "text" : "44. Acorde a METRICA v3, respecto a la Actividad EVS1: \"Establecimiento del alcance del sistema\" y, en concreto, en la Tarea EVS 1.2: \"Identificación del alcance del sistema\", señale los participantes en la misma:",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "44",
+      "fraction" : 0,
+      "text" : "Jefe de Proyecto. ",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "b",
+      "questionId" : "44",
+      "fraction" : 100,
+      "text" : "Comité de Dirección, Jefe de Proyecto y Analistas.",
+      "feedback" : "Correct!"
+    }, {
+      "id" : "c",
+      "questionId" : "44",
+      "fraction" : 0,
+      "text" : "Comité de Dirección y Analistas.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "d",
+      "questionId" : "44",
+      "fraction" : 0,
+      "text" : "Únicamente el Comité de Dirección.",
+      "feedback" : "Wrong!"
+    } ]
+  }, {
+    "id" : "45",
+    "quizId" : "gsi-202022",
+    "text" : "45. En el diseño de un SGBD, nos referimos por reglas ACID a:",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "45",
+      "fraction" : 0,
+      "text" : "Atomicidad, Consistencia, Integridad y Duración. ",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "b",
+      "questionId" : "45",
+      "fraction" : 100,
+      "text" : "Atomicidad, Consistencia, Aislamiento y Duración o persistencia.",
+      "feedback" : "Correct!"
+    }, {
+      "id" : "c",
+      "questionId" : "45",
+      "fraction" : 0,
+      "text" : "Autenticación, Integridad, Confidencialidad y Disponibilidad.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "d",
+      "questionId" : "45",
+      "fraction" : 0,
+      "text" : "Aislamiento, Consistencia, Integridad y Duración o persistencia.",
+      "feedback" : "Wrong!"
+    } ]
+  }, {
+    "id" : "46",
+    "quizId" : "gsi-202022",
+    "text" : "46. La arquitectura ANSI/SPARC de tres niveles proporciona una separación clara entre la vista lógica de los usuarios, la estructura conceptual de la base de datos y la implementación física. Esta separación permite cambios independientes en cada nivel sin afectar a los demás niveles, lo que facilita la modularidad, el mantenimiento y la evolución de la base de datos en un entorno empresarial. ¿Cuáles son los niveles definidos?",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "46",
+      "fraction" : 100,
+      "text" : "Externo, Conceptual e Interno. ",
+      "feedback" : "Correct!"
+    }, {
+      "id" : "b",
+      "questionId" : "46",
+      "fraction" : 0,
+      "text" : "Lógico, Conceptual y Físico.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "c",
+      "questionId" : "46",
+      "fraction" : 0,
+      "text" : "Vista, Modelo y Controlador.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "d",
+      "questionId" : "46",
+      "fraction" : 0,
+      "text" : "Externo, Conceptual y Lógico.",
+      "feedback" : "Wrong!"
+    } ]
+  }, {
+    "id" : "47",
+    "quizId" : "gsi-202022",
+    "text" : "47. En una base de datos relacional, ¿qué concepto corresponde a \"si una tupla de una relación R1 hace referencia a una relación R2, debe referirse a una tupla que exista realmente en R2\"?",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "47",
+      "fraction" : 100,
+      "text" : "Integridad referencial. ",
+      "feedback" : "Correct!"
+    }, {
+      "id" : "b",
+      "questionId" : "47",
+      "fraction" : 0,
+      "text" : "Integridad de dominio.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "c",
+      "questionId" : "47",
+      "fraction" : 0,
+      "text" : "Integridad de clave.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "d",
+      "questionId" : "47",
+      "fraction" : 0,
+      "text" : "Integridad de identidad de la entidad.",
+      "feedback" : "Wrong!"
+    } ]
+  }, {
+    "id" : "48",
+    "quizId" : "gsi-202022",
+    "text" : "48. La Inteligencia Artificial Distribuida (IAD) estudia la solución cooperativa de problemas por un grupo de agentes distribuidos. Tal cooperación se basa en que ninguno posee la información para resolver completamente el problema y donde un agente tiene como característica la de ser una entidad mas o menos autónoma, con conocimientos propios y de su entorno, así como con la posibilidad de interactuar con dicho entorno y otros agentes. Indique cual de los siguientes NO es un tipo de problemas estudiado con técnicas IAD:",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "48",
+      "fraction" : 100,
+      "text" : "Cómo capacitar a los agentes para razonar y rebatir los resultados obtenidos por otros agentes. ",
+      "feedback" : "Correct!"
+    }, {
+      "id" : "b",
+      "questionId" : "48",
+      "fraction" : 0,
+      "text" : "Cómo descomponer, asignar y sintetizar los resultados de los problemas entre un grupo de agentes inteligentes.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "c",
+      "questionId" : "48",
+      "fraction" : 0,
+      "text" : "Cómo capacitar a los agentes para que se comuniquen e interactúen (lenguajes de comunicación o protocolos).",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "d",
+      "questionId" : "48",
+      "fraction" : 0,
+      "text" : "Cómo asegurar que los agentes actúen coherentemente al tomar decisiones o realizar acciones.",
+      "feedback" : "Wrong!"
+    } ]
+  }, {
+    "id" : "49",
+    "quizId" : "gsi-202022",
+    "text" : "49. El objetivo del proyecto de la Web Semántica es que toda esta información sea comprensible no sólo por humanos, sino también por computadoras. Para conseguir esto se deberá codificar la semántica de los documentos web mediante lenguajes de metadatos y ontologías. Esta semántica permitirá que agentes inteligentes puedan \"entender\" el significado de los documentos, con lo que podrían asistir a usuarios. ¿Cuál de los siguientes NO es un lenguaje utilizado en la Web Semántica?",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "49",
+      "fraction" : 0,
+      "text" : "OWL. ",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "b",
+      "questionId" : "49",
+      "fraction" : 0,
+      "text" : "XML.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "c",
+      "questionId" : "49",
+      "fraction" : 100,
+      "text" : "OntoFlag.",
+      "feedback" : "Correct!"
+    }, {
+      "id" : "d",
+      "questionId" : "49",
+      "fraction" : 0,
+      "text" : "RDF.",
+      "feedback" : "Wrong!"
+    } ]
+  }, {
+    "id" : "50",
+    "quizId" : "gsi-202022",
+    "text" : "50. Durante la fase de construcción del sistema de información contemplada en METRICA v3, ¿cuál de los siguientes NO es un participante?",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "50",
+      "fraction" : 100,
+      "text" : "Usuarios finales. ",
+      "feedback" : "Correct!"
+    }, {
+      "id" : "b",
+      "questionId" : "50",
+      "fraction" : 0,
+      "text" : "Programadores.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "c",
+      "questionId" : "50",
+      "fraction" : 0,
+      "text" : "Administrador de bases de datos.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "d",
+      "questionId" : "50",
+      "fraction" : 0,
+      "text" : "Equipo de formación.",
+      "feedback" : "Wrong!"
+    } ]
+  }, {
+    "id" : "51",
+    "quizId" : "gsi-202022",
+    "text" : "51. RMI (Remote Method Invocation) permite a los objetos correr en distintas computadoras o en procesos separados para comunicarse con algún otro objeto vía llamadas a métodos remotos. ¿Cuáles de los siguientes son componentes de RMI?",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "51",
+      "fraction" : 100,
+      "text" : "Skeletons, stubs, capa de referencia remota y transporte. ",
+      "feedback" : "Correct!"
+    }, {
+      "id" : "b",
+      "questionId" : "51",
+      "fraction" : 0,
+      "text" : "DCE, RPC y COM.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "c",
+      "questionId" : "51",
+      "fraction" : 0,
+      "text" : "OMA, OMG e interfaces de dominio.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "d",
+      "questionId" : "51",
+      "fraction" : 0,
+      "text" : "Broker, IDL y condensador de interfaces de referencias empotradas.",
+      "feedback" : "Wrong!"
+    } ]
+  }, {
+    "id" : "52",
+    "quizId" : "gsi-202022",
+    "text" : "52. Tomando como referencia la metodología METRICA v3, para construir un software fiable y de calidad se deben seguir 7 fases (PSI, EVS, ASI, DSI, CSI, IAS y MSI). ¿En qué fases se centran las tareas de documentación?",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "52",
+      "fraction" : 100,
+      "text" : "Es una tarea transversal a todas las fases. ",
+      "feedback" : "Correct!"
+    }, {
+      "id" : "b",
+      "questionId" : "52",
+      "fraction" : 0,
+      "text" : "En la fase PSI (Planificación del Sistema de Información) y en la fase EVS (Estudio de Viabilidad del Sistema).",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "c",
+      "questionId" : "52",
+      "fraction" : 0,
+      "text" : "En la fase ASI (Análisis del Sistema de Información), en la fase DSI (Diseño del Sistema de Información) y en la fase CSI (Construcción del Sistema de Información).",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "d",
+      "questionId" : "52",
+      "fraction" : 0,
+      "text" : "En la fase IAS (Implantación y Aceptación del Sistema) y en la fase MSI (Mantenimiento del Sistema de Información).",
+      "feedback" : "Wrong!"
+    } ]
+  }, {
+    "id" : "53",
+    "quizId" : "gsi-202022",
+    "text" : "53. ¿Cuál de las siguientes NO es una técnica utilizada en la fase de Mantenimiento de Sistemas de Información, según METRICA v3?",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "53",
+      "text" : "Pruebas de regresión. "
+    }, {
+      "id" : "b",
+      "questionId" : "53",
+      "text" : "Catalogación."
+    }, {
+      "id" : "c",
+      "questionId" : "53",
+      "text" : "Análisis de impacto."
+    }, {
+      "id" : "d",
+      "questionId" : "53",
+      "text" : "Presentación y aprobación del sistema."
+    } ]
+  }, {
+    "id" : "54",
+    "quizId" : "gsi-202022",
+    "text" : "54. ¿Cuál de los siguientes NO es un tipo de migración de aplicaciones?",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "54",
+      "fraction" : 0,
+      "text" : "Migración a la nube. ",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "b",
+      "questionId" : "54",
+      "fraction" : 100,
+      "text" : "Reprompting.",
+      "feedback" : "Correct!"
+    }, {
+      "id" : "c",
+      "questionId" : "54",
+      "fraction" : 0,
+      "text" : "Refronting.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "d",
+      "questionId" : "54",
+      "fraction" : 0,
+      "text" : "Rehosting.",
+      "feedback" : "Wrong!"
+    } ]
+  }, {
+    "id" : "55",
+    "quizId" : "gsi-202022",
+    "text" : "55. En un diagrama de comunicación UML, en el que un objeto :Agenda envía un mensaje crearEvento(DescripcionEvento desc, int prioridad) a un objeto :Calendario, ¿qué tipo de relación existe entre las clases Calendario y DescripcionEvento?",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "55",
+      "fraction" : 0,
+      "text" : "Navegabilidad. ",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "b",
+      "questionId" : "55",
+      "fraction" : 100,
+      "text" : "Dependencia.",
+      "feedback" : "Correct!"
+    }, {
+      "id" : "c",
+      "questionId" : "55",
+      "fraction" : 0,
+      "text" : "Realización.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "d",
+      "questionId" : "55",
+      "fraction" : 0,
+      "text" : "Herencia.",
+      "feedback" : "Wrong!"
+    } ]
+  }, {
+    "id" : "56",
+    "quizId" : "gsi-202022",
+    "text" : "56. ¿Cuál de las siguientes afirmaciones con respecto a los patrones de diseño es correcta?",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "56",
+      "fraction" : 100,
+      "text" : "Se pueden clasificar como patrones de creación, de estructura y de comportamiento. ",
+      "feedback" : "Correct!"
+    }, {
+      "id" : "b",
+      "questionId" : "56",
+      "fraction" : 0,
+      "text" : "Su ámbito siempre son las clases, nunca los objetos.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "c",
+      "questionId" : "56",
+      "fraction" : 0,
+      "text" : "Son equivalentes a los frameworks.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "d",
+      "questionId" : "56",
+      "fraction" : 0,
+      "text" : "El patrón “Builder” es un patrón de comportamiento.",
+      "feedback" : "Wrong!"
+    } ]
+  }, {
+    "id" : "57",
+    "quizId" : "gsi-202022",
+    "text" : "57. En una arquitectura JEE de tres niveles, ¿dónde se ejecutan los componentes Enterprise Java Beans (EJB)?",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "57",
+      "fraction" : 0,
+      "text" : "En el navegador del cliente. ",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "b",
+      "questionId" : "57",
+      "fraction" : 0,
+      "text" : "En el servidor web.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "c",
+      "questionId" : "57",
+      "fraction" : 100,
+      "text" : "En el servidor JEE.",
+      "feedback" : "Correct!"
+    }, {
+      "id" : "d",
+      "questionId" : "57",
+      "fraction" : 0,
+      "text" : "En el servidor de base de datos.",
+      "feedback" : "Wrong!"
+    } ]
+  }, {
+    "id" : "58",
+    "quizId" : "gsi-202022",
+    "text" : "58. ¿Cuál de los siguientes componentes NO forma parte de la arquitectura de Java Server Faces (JSF)?",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "58",
+      "fraction" : 100,
+      "text" : "Depurador. ",
+      "feedback" : "Correct!"
+    }, {
+      "id" : "b",
+      "questionId" : "58",
+      "fraction" : 0,
+      "text" : "Validador.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "c",
+      "questionId" : "58",
+      "fraction" : 0,
+      "text" : "Conversor.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "d",
+      "questionId" : "58",
+      "fraction" : 0,
+      "text" : "Renderizador.",
+      "feedback" : "Wrong!"
+    } ]
+  }, {
+    "id" : "59",
+    "quizId" : "gsi-202022",
+    "text" : "59. Un lenguaje de programación que permita desarrollar aplicaciones de .NET Framework cumple las especificaciones de:",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "59",
+      "fraction" : 0,
+      "text" : "Custom Language Runtime (CLR). ",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "b",
+      "questionId" : "59",
+      "fraction" : 0,
+      "text" : "Native Language Generator (NLgen).",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "c",
+      "questionId" : "59",
+      "fraction" : 0,
+      "text" : "Base Class Language (BCL).",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "d",
+      "questionId" : "59",
+      "fraction" : 100,
+      "text" : "Common Language Infraestructure (CLI).",
+      "feedback" : "Correct!"
+    } ]
+  }, {
+    "id" : "60",
+    "quizId" : "gsi-202022",
+    "text" : "60. ¿Cuál es el gestor de paquetes utilizado por .NET?",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "60",
+      "fraction" : 0,
+      "text" : "PACMAN. ",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "b",
+      "questionId" : "60",
+      "fraction" : 0,
+      "text" : "Synaptic.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "c",
+      "questionId" : "60",
+      "fraction" : 100,
+      "text" : "NuGet.",
+      "feedback" : "Correct!"
+    }, {
+      "id" : "d",
+      "questionId" : "60",
+      "fraction" : 0,
+      "text" : "YUM.",
+      "feedback" : "Wrong!"
+    } ]
+  }, {
+    "id" : "61",
+    "quizId" : "gsi-202022",
+    "text" : "61. ¿Cuál de los siguientes protocolos se utiliza para registrar y publicar servicios web?",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "61",
+      "fraction" : 100,
+      "text" : "UDDI. ",
+      "feedback" : "Correct!"
+    }, {
+      "id" : "b",
+      "questionId" : "61",
+      "fraction" : 0,
+      "text" : "HTML.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "c",
+      "questionId" : "61",
+      "fraction" : 0,
+      "text" : "SOAP.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "d",
+      "questionId" : "61",
+      "fraction" : 0,
+      "text" : "WSDL.",
+      "feedback" : "Wrong!"
+    } ]
+  }, {
+    "id" : "62",
+    "quizId" : "gsi-202022",
+    "text" : "62. ¿Cuál de las siguientes afirmaciones con respecto a JSON (Javascript Object Notation) es INCORRECTA?",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "62",
+      "fraction" : 0,
+      "text" : "JSON está basado en un subconjunto del estándar ECMA-262. ",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "b",
+      "questionId" : "62",
+      "fraction" : 0,
+      "text" : "JSON está constituido por dos estructuras principales: una colección de pares de nombre/valor, y una lista ordenada de valores.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "c",
+      "questionId" : "62",
+      "fraction" : 100,
+      "text" : "JSON se basa en el uso de etiquetas y atributos que permiten definir propiedades.",
+      "feedback" : "Correct!"
+    }, {
+      "id" : "d",
+      "questionId" : "62",
+      "fraction" : 0,
+      "text" : "Los mensajes JSON tienen un formato muy simple, lo que facilita una velocidad de procesamiento alta.",
+      "feedback" : "Wrong!"
+    } ]
+  }, {
+    "id" : "63",
+    "quizId" : "gsi-202022",
+    "text" : "63. ISO/IEC 25000 es una familia de normas que tiene por objetivo la creación de un marco de trabajo común para evaluar la calidad de un producto sotfware. También se la conoce con el nombre de:",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "63",
+      "fraction" : 0,
+      "text" : "SPICE (Software Process Improvement and Capability dEtermination). ",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "b",
+      "questionId" : "63",
+      "fraction" : 0,
+      "text" : "CAFES (Commun frAmework For Evaluation Software).",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "c",
+      "questionId" : "63",
+      "fraction" : 100,
+      "text" : "SQuaRE (System and Software Quality Requirements and Evaluation).",
+      "feedback" : "Correct!"
+    }, {
+      "id" : "d",
+      "questionId" : "63",
+      "fraction" : 0,
+      "text" : "SQAE (Software Quality Assessment Exercise).",
+      "feedback" : "Wrong!"
+    } ]
+  }, {
+    "id" : "64",
+    "quizId" : "gsi-202022",
+    "text" : "64. La metodología Goal-Question-Metrics (GQM) define tres niveles:",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "64",
+      "fraction" : 0,
+      "text" : "Nivel órganico, nivel semiacoplado, nivel empotrado. ",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "b",
+      "questionId" : "64",
+      "fraction" : 100,
+      "text" : "Nivel conceptual, nivel operacional, nivel cuantitativo.",
+      "feedback" : "Correct!"
+    }, {
+      "id" : "c",
+      "questionId" : "64",
+      "fraction" : 0,
+      "text" : "Nivel básico, nivel intermedio, nivel detallado.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "d",
+      "questionId" : "64",
+      "fraction" : 0,
+      "text" : "Nivel inicial, nivel medio, nivel avanzado.",
+      "feedback" : "Wrong!"
+    } ]
+  }, {
+    "id" : "65",
+    "quizId" : "gsi-202022",
+    "text" : "65. El Real Decreto 1112/2018, de 7 de septiembre, sobre accesibilidad de los sitios web y aplicaciones para dispositivos móviles del sector público:",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "65",
+      "fraction" : 100,
+      "text" : "Tiene por objeto garantizar los requisitos de accesibilidad de los sitios web y aplicaciones para dispositivos móviles de los organismos del sector público. ",
+      "feedback" : "Correct!"
+    }, {
+      "id" : "b",
+      "questionId" : "65",
+      "fraction" : 0,
+      "text" : "Se aplica a todo el sector público estatal, autonómico y local con la excepción de la Administración de Justicia.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "c",
+      "questionId" : "65",
+      "fraction" : 0,
+      "text" : "Define accesibilidad como el conjunto de principios y técnicas que se deben respetar al diseñar, construir y mantener los sitios web exclusivamente.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "d",
+      "questionId" : "65",
+      "fraction" : 0,
+      "text" : "No incluye como contenido accesible de los sitios web y de las aplicaciones para dispositivos móviles los procesos de identificación, autenticación, firma y pago.",
+      "feedback" : "Wrong!"
+    } ]
+  }, {
+    "id" : "66",
+    "quizId" : "gsi-202022",
+    "text" : "66. El logotipo de imagen institucional del Gobierno de España, según la Guía de Comunicación Digital para la Administración General del Estado:",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "66",
+      "fraction" : 0,
+      "text" : "Se construye para páginas web por medio de la composición de la bandera de la Unión Europea, la bandera de España y el escudo de España, con la denominación “Gobierno de España” exclusivamente. ",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "b",
+      "questionId" : "66",
+      "fraction" : 100,
+      "text" : "Se construye para páginas web por medio de la composición de la bandera de la Unión Europea, la bandera de España y el escudo de España, con la denominación “Gobierno de España” y la del Departamento Ministerial u Organismo responsable.",
+      "feedback" : "Correct!"
+    }, {
+      "id" : "c",
+      "questionId" : "66",
+      "fraction" : 0,
+      "text" : "Para dispositivos monocromos, los logotipos irán en blanco y negro pero nunca en gris.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "d",
+      "questionId" : "66",
+      "fraction" : 0,
+      "text" : "Será obligatorio incluirlo en la firma del correo electrónico.",
+      "feedback" : "Wrong!"
+    } ]
+  }, {
+    "id" : "67",
+    "quizId" : "gsi-202022",
+    "text" : "67. ¿Cómo se denomina la división de datos y distribución entre diferentes servidores que utiliza MongoDB para escalar una base de datos horizontalmente?",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "67",
+      "fraction" : 0,
+      "text" : "Partition. ",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "b",
+      "questionId" : "67",
+      "fraction" : 0,
+      "text" : "Splitting.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "c",
+      "questionId" : "67",
+      "fraction" : 0,
+      "text" : "Slicing.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "d",
+      "questionId" : "67",
+      "fraction" : 100,
+      "text" : "Sharding.",
+      "feedback" : "Correct!"
+    } ]
+  }, {
+    "id" : "68",
+    "quizId" : "gsi-202022",
+    "text" : "68. ¿Qué plataforma permite hacer analítica Big Data e inteligencia artificial con Spark de una forma sencilla y colaborativa?",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "68",
+      "fraction" : 100,
+      "text" : "Databricks Lakehouse Platform. ",
+      "feedback" : "Correct!"
+    }, {
+      "id" : "b",
+      "questionId" : "68",
+      "fraction" : 0,
+      "text" : "Data Lake Lakehouse Platform.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "c",
+      "questionId" : "68",
+      "fraction" : 0,
+      "text" : "Data Mart Lakehouse Platform.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "d",
+      "questionId" : "68",
+      "fraction" : 0,
+      "text" : "Data Warehouse Lakehouse Platform.",
+      "feedback" : "Wrong!"
+    } ]
+  }, {
+    "id" : "69",
+    "quizId" : "gsi-202022",
+    "text" : "69. Dentro de las funciones del sistema operativo, existen varios tipos de planificación del procesador. La planificación no apropiativa es:",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "69",
+      "fraction" : 100,
+      "text" : "Aquella en la cual, una vez que a un proceso le toca su turno de ejecución, ya no puede ser suspendido y no se le puede arrebatar la CPU. Este esquema puede ser peligroso, ya que si el proceso contiene ciclos infinitos, el resto de los procesos pueden quedar aplazados indefinidamente. ",
+      "feedback" : "Correct!"
+    }, {
+      "id" : "b",
+      "questionId" : "69",
+      "fraction" : 0,
+      "text" : "Aquella en la cual, una vez que a un proceso le toca su turno de ejecución, ya no puede ser suspendido y no se le puede arrebatar la CPU. Este esquema nunca genera ciclos infinitos, porque el resto de los procesos no quedarán aplazados indefinidamente y eventualmente entrarán a ejecutarse.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "c",
+      "questionId" : "69",
+      "fraction" : 0,
+      "text" : "Aquella en la que existe un reloj que lanza interrupciones periódicas en las cuales el planificador toma el control y se decide si el mismo proceso seguirá ejecutándose o se le da su turno a otro proceso.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "d",
+      "questionId" : "69",
+      "fraction" : 0,
+      "text" : "Aquella en la que existe un reloj que lanza interrupciones periódicas en las cuales el planificador toma el control y basándose en algoritmos de prioridades, se decide si el mismo proceso seguirá ejecutándose o se le da su turno a otro proceso.",
+      "feedback" : "Wrong!"
+    } ]
+  }, {
+    "id" : "70",
+    "quizId" : "gsi-202022",
+    "text" : "70. Sobre la estrategia para cargar páginas (o segmentos) a la memoria RAM, se usan comúnmente dos estrategias: carga de páginas por demanda y carga de páginas anticipada. La estrategia de carga por demanda consiste en que:",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "70",
+      "fraction" : 100,
+      "text" : "Las páginas solamente son llevadas a RAM si fueron solicitadas, es decir, si se hizo referencia a una dirección situada dentro de ellas. ",
+      "feedback" : "Correct!"
+    }, {
+      "id" : "b",
+      "questionId" : "70",
+      "fraction" : 0,
+      "text" : "Se trata de predecir qué páginas serán solicitadas en el futuro inmediato y cargarlas de antemano, para que cuando se pidan ya no ocurran fallos de página.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "c",
+      "questionId" : "70",
+      "fraction" : 0,
+      "text" : "Se aproveche el fenómeno de localidad y que las páginas que se cargan previamente sean aquéllas que contienen direcciones contiguas a la dirección que se acaba de referenciar.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "d",
+      "questionId" : "70",
+      "fraction" : 0,
+      "text" : "Cuando se hace referencia a una dirección cuya página ya está en RAM, se cargan algunas páginas adyacentes.",
+      "feedback" : "Wrong!"
+    } ]
+  }, {
+    "id" : "71",
+    "quizId" : "gsi-202022",
+    "text" : "71. Según la arquitectura ANSI/SQL, a la capacidad para modificar el esquema en un nivel del sistema sin tener que modificar el esquema del nivel inmediato superior se le denomina:",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "71",
+      "fraction" : 0,
+      "text" : "Modificación responsable. ",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "b",
+      "questionId" : "71",
+      "fraction" : 0,
+      "text" : "Aislamiento de esquemas.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "c",
+      "questionId" : "71",
+      "fraction" : 100,
+      "text" : "Independencia de datos.",
+      "feedback" : "Correct!"
+    }, {
+      "id" : "d",
+      "questionId" : "71",
+      "fraction" : 0,
+      "text" : "Compromiso de autonomía.",
+      "feedback" : "Wrong!"
+    } ]
+  }, {
+    "id" : "72",
+    "quizId" : "gsi-202022",
+    "text" : "72. ¿Qué sentencia debemos utilizar para borrar el contenido de una tabla sin eliminar la estructura?",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "72",
+      "fraction" : 0,
+      "text" : "DROP TABLE nombre_tabla ",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "b",
+      "questionId" : "72",
+      "fraction" : 100,
+      "text" : "TRUNCATE TABLE nombre_tabla",
+      "feedback" : "Correct!"
+    }, {
+      "id" : "c",
+      "questionId" : "72",
+      "fraction" : 0,
+      "text" : "DELETE TABLE nombre_tabla",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "d",
+      "questionId" : "72",
+      "fraction" : 0,
+      "text" : "ERASE TABLE nombre_tabla",
+      "feedback" : "Wrong!"
+    } ]
+  }, {
+    "id" : "73",
+    "quizId" : "gsi-202022",
+    "text" : "73. La matriz de prioridades de ITIL organiza los incidentes, las solicitudes, los problemas y los cambios en función de dos factores:",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "73",
+      "fraction" : 0,
+      "text" : "Volumen de negocio afectado y duración del incidente. ",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "b",
+      "questionId" : "73",
+      "fraction" : 0,
+      "text" : "Tiempo de recuperación y feedback de los usuarios.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "c",
+      "questionId" : "73",
+      "fraction" : 100,
+      "text" : "Impacto y urgencia.",
+      "feedback" : "Correct!"
+    }, {
+      "id" : "d",
+      "questionId" : "73",
+      "fraction" : 0,
+      "text" : "Número de incidentes y ocurrencia de los incidentes.",
+      "feedback" : "Wrong!"
+    } ]
+  }, {
+    "id" : "74",
+    "quizId" : "gsi-202022",
+    "text" : "74. ¿Cuál es el nivel mínimo de recuperación que debe tener una actividad para que la consideremos como recuperada, aunque el nivel de servicio no sea el óptimo?",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "74",
+      "fraction" : 100,
+      "text" : "ROL (Revised Operating Level). ",
+      "feedback" : "Correct!"
+    }, {
+      "id" : "b",
+      "questionId" : "74",
+      "fraction" : 0,
+      "text" : "RPO (Recovery Point Objective).",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "c",
+      "questionId" : "74",
+      "fraction" : 0,
+      "text" : "MTD (Maximum Tolerable Downtime).",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "d",
+      "questionId" : "74",
+      "fraction" : 0,
+      "text" : "RTO (Recovery Time Objective).",
+      "feedback" : "Wrong!"
+    } ]
+  }, {
+    "id" : "75",
+    "quizId" : "gsi-202022",
+    "text" : "75. ¿Cómo se denomina la prueba que se realiza sobre un componente de hardware, generalmente sobre la CPU y GPU, para evaluar su rendimiento?",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "75",
+      "fraction" : 0,
+      "text" : "KPI (Key Performance Indicators). ",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "b",
+      "questionId" : "75",
+      "fraction" : 100,
+      "text" : "Benchmark.",
+      "feedback" : "Correct!"
+    }, {
+      "id" : "c",
+      "questionId" : "75",
+      "fraction" : 0,
+      "text" : "MIV (Media Impact Value).",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "d",
+      "questionId" : "75",
+      "fraction" : 0,
+      "text" : "SCF (Stress Capacity Proof).",
+      "feedback" : "Wrong!"
+    } ]
+  }, {
+    "id" : "76",
+    "quizId" : "gsi-202022",
+    "text" : "76. La guía CCN-STIC 887G trata sobre la configuración segura y gestión de las cargas de trabajo en:",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "76",
+      "fraction" : 100,
+      "text" : "AWS. ",
+      "feedback" : "Correct!"
+    }, {
+      "id" : "b",
+      "questionId" : "76",
+      "fraction" : 0,
+      "text" : "AZURE.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "c",
+      "questionId" : "76",
+      "fraction" : 0,
+      "text" : "IBM Cloud.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "d",
+      "questionId" : "76",
+      "fraction" : 0,
+      "text" : "Google Cloud.",
+      "feedback" : "Wrong!"
+    } ]
+  }, {
+    "id" : "77",
+    "quizId" : "gsi-202022",
+    "text" : "77. Dado un sistema RAID-0, formado por un disco de 1 TB de capacidad y 1 disco de 500 GB, el tamaño de almacenamiento disponible, aproximadamente, será de:",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "77",
+      "fraction" : 0,
+      "text" : "500 GB. ",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "b",
+      "questionId" : "77",
+      "fraction" : 0,
+      "text" : "1,5 TB.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "c",
+      "questionId" : "77",
+      "fraction" : 100,
+      "text" : "1 TB.",
+      "feedback" : "Correct!"
+    }, {
+      "id" : "d",
+      "questionId" : "77",
+      "fraction" : 0,
+      "text" : "2 TB.",
+      "feedback" : "Wrong!"
+    } ]
+  }, {
+    "id" : "78",
+    "quizId" : "gsi-202022",
+    "text" : "78. La diferencia entre iSCSI (Internet Small Computer System Interface) y FCoE (Fibre Channel over Ethernet) es que:",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "78",
+      "fraction" : 0,
+      "text" : "iSCSI encapsula el tráfico en tramas Ethernet, FCoE en tramas TCP/IP. ",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "b",
+      "questionId" : "78",
+      "fraction" : 100,
+      "text" : "iSCSI encapsula el tráfico en tramas TCP/IP, FCoE en tramas Ethernet.",
+      "feedback" : "Correct!"
+    }, {
+      "id" : "c",
+      "questionId" : "78",
+      "fraction" : 0,
+      "text" : "iSCSI es un estándar más reciente, ambas encapsulan en tramas TCP/IP.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "d",
+      "questionId" : "78",
+      "fraction" : 0,
+      "text" : "Son nombres comerciales, ambas encapsulan en tramas Ethernet.",
+      "feedback" : "Wrong!"
+    } ]
+  }, {
+    "id" : "79",
+    "quizId" : "gsi-202022",
+    "text" : "79. En un almacenamiento SAN, el término LUN se refiere a:",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "79",
+      "fraction" : 100,
+      "text" : "Un identificador único de dispositivo de almacenamiento. ",
+      "feedback" : "Correct!"
+    }, {
+      "id" : "b",
+      "questionId" : "79",
+      "fraction" : 0,
+      "text" : "Un identificador único de máquina virtual.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "c",
+      "questionId" : "79",
+      "fraction" : 0,
+      "text" : "Un identificador único para cada servidor.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "d",
+      "questionId" : "79",
+      "fraction" : 0,
+      "text" : "Un identificador único del puerto de comunicaciones.",
+      "feedback" : "Wrong!"
+    } ]
+  }, {
+    "id" : "80",
+    "quizId" : "gsi-202022",
+    "text" : "80. De los siguientes Centros de Proceso de Datos, tiene mayor eficiencia energética el que obtenga un:",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "80",
+      "fraction" : 100,
+      "text" : "PUE de 1,3 ",
+      "feedback" : "Correct!"
+    }, {
+      "id" : "b",
+      "questionId" : "80",
+      "fraction" : 0,
+      "text" : "PUE de 0,5",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "c",
+      "questionId" : "80",
+      "fraction" : 0,
+      "text" : "PUE de 5",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "d",
+      "questionId" : "80",
+      "fraction" : 0,
+      "text" : "PUE de 10",
+      "feedback" : "Wrong!"
+    } ]
+  }, {
+    "id" : "81",
+    "quizId" : "gsi-202022",
+    "text" : "81. Un hipervisor de tipo 2, respecto a la virtualización:",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "81",
+      "fraction" : 0,
+      "text" : "Ocupa el lugar de un sistema operativo host y programa los recursos de las máquinas virtuales directamente en el hardware. ",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "b",
+      "questionId" : "81",
+      "fraction" : 0,
+      "text" : "También llamado “nativo”, permite múltiples lenguajes de programación.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "c",
+      "questionId" : "81",
+      "fraction" : 0,
+      "text" : "Se encuentra en fase de diseño y estandarización (julio 2023).",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "d",
+      "questionId" : "81",
+      "fraction" : 100,
+      "text" : "Se ejecuta en un sistema operativo convencional como una capa de software o una aplicación.",
+      "feedback" : "Correct!"
+    } ]
+  }, {
+    "id" : "82",
+    "quizId" : "gsi-202022",
+    "text" : "82. La tecnología inalámbrica Bluetooth:",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "82",
+      "fraction" : 0,
+      "text" : "Usa la banda de 5 GHz. ",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "b",
+      "questionId" : "82",
+      "fraction" : 0,
+      "text" : "Usa la banda de 6 GHz.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "c",
+      "questionId" : "82",
+      "fraction" : 100,
+      "text" : "Usa modulación GFSK.",
+      "feedback" : "Correct!"
+    }, {
+      "id" : "d",
+      "questionId" : "82",
+      "fraction" : 0,
+      "text" : "Usa modulación APSK.",
+      "feedback" : "Wrong!"
+    } ]
+  }, {
+    "id" : "83",
+    "quizId" : "gsi-202022",
+    "text" : "83. Zigbee es:",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "83",
+      "fraction" : 0,
+      "text" : "Un fabricante de routers inalámbricos. ",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "b",
+      "questionId" : "83",
+      "fraction" : 100,
+      "text" : "Un protocolo de comunicación inalámbrica.",
+      "feedback" : "Correct!"
+    }, {
+      "id" : "c",
+      "questionId" : "83",
+      "fraction" : 0,
+      "text" : "Un protocolo de cifrado de datos.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "d",
+      "questionId" : "83",
+      "fraction" : 0,
+      "text" : "Una versión del S.O. Android.",
+      "feedback" : "Wrong!"
+    } ]
+  }, {
+    "id" : "84",
+    "quizId" : "gsi-202022",
+    "text" : "84. En relación al ámbito de seguridad de la red de una organización, podríamos afirmar que:",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "84",
+      "fraction" : 0,
+      "text" : "IDS (Intrusion Detection System) es un servidor en la red que bloquea los accesos no autorizados. ",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "b",
+      "questionId" : "84",
+      "fraction" : 100,
+      "text" : "IPS (Intrusion Prevention System) es un software que se utiliza para proteger a los sistemas de ataques y accesos no autorizados.",
+      "feedback" : "Correct!"
+    }, {
+      "id" : "c",
+      "questionId" : "84",
+      "fraction" : 0,
+      "text" : "SIEM (Security Information and Event Management) es la figura responsable encargada de atender las peticiones de acceso a los recursos de la organización.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "d",
+      "questionId" : "84",
+      "fraction" : 0,
+      "text" : "IGS (Intrusion Gateway System) combina las tareas de un IDS y un IPS, proporcionando un análisis en tiempo real de las alertas de seguridad generadas por los distintos dispositivos hardware y software de la red.",
+      "feedback" : "Wrong!"
+    } ]
+  }, {
+    "id" : "85",
+    "quizId" : "gsi-202022",
+    "text" : "85. En una red MPLS (Multiprotocol Label Switching), el camino virtual predefinido entre dos puntos se denomina:",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "85",
+      "fraction" : 100,
+      "text" : "LSP (Label Switched Path). ",
+      "feedback" : "Correct!"
+    }, {
+      "id" : "b",
+      "questionId" : "85",
+      "fraction" : 0,
+      "text" : "LSR (Label Switched Route).",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "c",
+      "questionId" : "85",
+      "fraction" : 0,
+      "text" : "FEC (Forwarding Equivalence Class).",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "d",
+      "questionId" : "85",
+      "fraction" : 0,
+      "text" : "FER (Forwarding Exchange Route).",
+      "feedback" : "Wrong!"
+    } ]
+  }, {
+    "id" : "86",
+    "quizId" : "gsi-202022",
+    "text" : "86. ¿Qué es un SNMP Trap?",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "86",
+      "fraction" : 0,
+      "text" : "Un intento de acceso no autorizado a un dispositivo de nuestra red. ",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "b",
+      "questionId" : "86",
+      "fraction" : 0,
+      "text" : "Una alerta síncrona, en respuesta a una petición de un agente SNMP.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "c",
+      "questionId" : "86",
+      "fraction" : 100,
+      "text" : "Una alerta asíncrona, sin solicitud de un agente SNMP.",
+      "feedback" : "Correct!"
+    }, {
+      "id" : "d",
+      "questionId" : "86",
+      "fraction" : 0,
+      "text" : "Un error crítico del servicio de captura SNMP de Microsoft.",
+      "feedback" : "Wrong!"
+    } ]
+  }, {
+    "id" : "87",
+    "quizId" : "gsi-202022",
+    "text" : "87. Se considera que un UTM (Unified Threat Management) es:",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "87",
+      "fraction" : 0,
+      "text" : "Un protocolo de gestión de amenazas. ",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "b",
+      "questionId" : "87",
+      "fraction" : 0,
+      "text" : "Lo mismo que un firewall de nueva generación (NGFW).",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "c",
+      "questionId" : "87",
+      "fraction" : 100,
+      "text" : "Un dispositivo que combina múltiples funciones o servicios de seguridad (como firewall, antivirus, filtrado de contenido) en un solo dispositivo.",
+      "feedback" : "Correct!"
+    }, {
+      "id" : "d",
+      "questionId" : "87",
+      "fraction" : 0,
+      "text" : "Un protocolo de nivel de transporte.",
+      "feedback" : "Wrong!"
+    } ]
+  }, {
+    "id" : "88",
+    "quizId" : "gsi-202022",
+    "text" : "88. En cuanto al protocolo de enrutamiento RIPv2, ¿cuál es el límite máximo de saltos para que una ruta a una red se considere alcanzable?",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "88",
+      "fraction" : 100,
+      "text" : "15 saltos. ",
+      "feedback" : "Correct!"
+    }, {
+      "id" : "b",
+      "questionId" : "88",
+      "fraction" : 0,
+      "text" : "7 saltos.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "c",
+      "questionId" : "88",
+      "fraction" : 0,
+      "text" : "16 saltos.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "d",
+      "questionId" : "88",
+      "fraction" : 0,
+      "text" : "8 saltos.",
+      "feedback" : "Wrong!"
+    } ]
+  }, {
+    "id" : "89",
+    "quizId" : "gsi-202022",
+    "text" : "89. En cuanto al protocolo de enrutamiento OSPF, ¿qué información contendrá un router de un área STUB dentro de su tabla de enrutamiento?",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "89",
+      "fraction" : 0,
+      "text" : "Una única entrada que indica al router ABR del área como router por defecto para todo el tráfico. ",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "b",
+      "questionId" : "89",
+      "fraction" : 0,
+      "text" : "Dos únicas entradas. Una al router ABR del área como router por defecto, y otra al router ASBR como router de salida de la organización.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "c",
+      "questionId" : "89",
+      "fraction" : 0,
+      "text" : "Una entrada por cada una de las redes a las que está directamente conectado y una ruta al router ABR del área como router por defecto para el resto del tráfico.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "d",
+      "questionId" : "89",
+      "fraction" : 100,
+      "text" : "Una entrada por cada una de las redes a las que está directamente conectado, una entrada por cada una de las redes que forman parte del resto del sistema OSPF y una ruta por defecto para las rutas externas.",
+      "feedback" : "Correct!"
+    } ]
+  }, {
+    "id" : "90",
+    "quizId" : "gsi-202022",
+    "text" : "90. ¿Cuál de las siguientes afirmaciones sobre el protocolo 802.11 es correcta?",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "90",
+      "fraction" : 100,
+      "text" : "Las 4 direcciones MAC en una cabecera MAC 802.11 no se utilizan siempre. ",
+      "feedback" : "Correct!"
+    }, {
+      "id" : "b",
+      "questionId" : "90",
+      "fraction" : 0,
+      "text" : "La combinación de los campos ToDS=0 y FromDS=0 en la cabecera MAC significa que el campo datos no llevara contenido.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "c",
+      "questionId" : "90",
+      "fraction" : 0,
+      "text" : "La combinación de los campos ToDS=1 y FromDS=1 en la cabecera MAC significa que emisor y receptor estén en el mismo BSS (Basic Service Set).",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "d",
+      "questionId" : "90",
+      "fraction" : 0,
+      "text" : "Los paquetes RTS, CTS y ACK son paquetes de gestión de red.",
+      "feedback" : "Wrong!"
+    } ]
+  }, {
+    "id" : "91",
+    "quizId" : "gsi-202022",
+    "text" : "91. ¿Cuál de los siguientes NO es un ataque de suplantación de identidad?",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "91",
+      "text" : "Hijacking. "
+    }, {
+      "id" : "b",
+      "questionId" : "91",
+      "text" : "Smurf."
+    }, {
+      "id" : "c",
+      "questionId" : "91",
+      "text" : "IP-spoofing."
+    }, {
+      "id" : "d",
+      "questionId" : "91",
+      "text" : "Phising."
+    } ]
+  }, {
+    "id" : "92",
+    "quizId" : "gsi-202022",
+    "text" : "92. ¿Cuál de los siguientes sistemas correspondería con un sistema de autenticación fuerte?",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "92",
+      "fraction" : 0,
+      "text" : "Un sistema que utilice usuario y contraseña. ",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "b",
+      "questionId" : "92",
+      "fraction" : 100,
+      "text" : "Un sistema que utilice usuario, contraseña y token digital.",
+      "feedback" : "Correct!"
+    }, {
+      "id" : "c",
+      "questionId" : "92",
+      "fraction" : 0,
+      "text" : "Un sistema que utilice identificación biométrica.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "d",
+      "questionId" : "92",
+      "fraction" : 0,
+      "text" : "Un sistema que utilice usuario y código numérico.",
+      "feedback" : "Wrong!"
+    } ]
+  }, {
+    "id" : "93",
+    "quizId" : "gsi-202022",
+    "text" : "93. ¿Cuál de las siguientes opciones es la más adecuada?",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "93",
+      "fraction" : 0,
+      "text" : "Las listas de control de acceso (ACL) se deben colocar cerca del destino si son extendidas y cerca del origen si son estándar. ",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "b",
+      "questionId" : "93",
+      "fraction" : 0,
+      "text" : "Tanto las listas de control de acceso (ACL) estándar como extendidas se deben colocar cerca del origen.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "c",
+      "questionId" : "93",
+      "fraction" : 0,
+      "text" : "Tanto las listas de control de acceso (ACL) estándar como extendidas se deben colocar cerca del destino.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "d",
+      "questionId" : "93",
+      "fraction" : 100,
+      "text" : "Las listas de control de acceso (ACL) se deben colocar cerca del destino si son estándar.",
+      "feedback" : "Correct!"
+    } ]
+  }, {
+    "id" : "94",
+    "quizId" : "gsi-202022",
+    "text" : "94. ¿Cuáles de las siguientes son capas del modelo de la Plataforma según la norma UNE 178104?",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "94",
+      "fraction" : 100,
+      "text" : "Adquisición/Interconexión. ",
+      "feedback" : "Correct!"
+    }, {
+      "id" : "b",
+      "questionId" : "94",
+      "fraction" : 0,
+      "text" : "Seguridad.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "c",
+      "questionId" : "94",
+      "fraction" : 0,
+      "text" : "Transmisión.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "d",
+      "questionId" : "94",
+      "fraction" : 0,
+      "text" : "Datos.",
+      "feedback" : "Wrong!"
+    } ]
+  }, {
+    "id" : "95",
+    "quizId" : "gsi-202022",
+    "text" : "95. ¿Qué es la IOT?",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "95",
+      "fraction" : 0,
+      "text" : "Es una red móvil de tecnología 5G. ",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "b",
+      "questionId" : "95",
+      "fraction" : 0,
+      "text" : "Es una red de televisión sobre IP.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "c",
+      "questionId" : "95",
+      "fraction" : 100,
+      "text" : "Es una red que interconecta todo tipo de dispositivos y objetos.",
+      "feedback" : "Correct!"
+    }, {
+      "id" : "d",
+      "questionId" : "95",
+      "fraction" : 0,
+      "text" : "Es una red dedicada a la interconexión de operadores.",
+      "feedback" : "Wrong!"
+    } ]
+  }, {
+    "id" : "96",
+    "quizId" : "gsi-202022",
+    "text" : "96. ¿Cuál de las siguientes afirmaciones es INCORRECTA?",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "96",
+      "fraction" : 0,
+      "text" : "En la arquitectura TISPAN el subsistema NASS es el responsable del acceso a la red basado en perfiles de usuario. ",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "b",
+      "questionId" : "96",
+      "fraction" : 0,
+      "text" : "En la arquitectura TISPAN el subsistema RACS es el responsable de la reserva de recursos.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "c",
+      "questionId" : "96",
+      "fraction" : 100,
+      "text" : "En la arquitectura TISPAN el subsistema NASS es el responsable de la asignación estática de direcciones IP.",
+      "feedback" : "Correct!"
+    }, {
+      "id" : "d",
+      "questionId" : "96",
+      "fraction" : 0,
+      "text" : "En la arquitectura TISPAN el subsistema RACS cubre aspectos relacionados con las calidad de servicio extremo a extremo.",
+      "feedback" : "Wrong!"
+    } ]
+  }, {
+    "id" : "97",
+    "quizId" : "gsi-202022",
+    "text" : "97. ¿Que tecnología de acceso utiliza UMTS en su interfaz radio UTRA?",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "97",
+      "fraction" : 0,
+      "text" : "TDMA. ",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "b",
+      "questionId" : "97",
+      "fraction" : 100,
+      "text" : "WCDMA.",
+      "feedback" : "Correct!"
+    }, {
+      "id" : "c",
+      "questionId" : "97",
+      "fraction" : 0,
+      "text" : "OFDM.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "d",
+      "questionId" : "97",
+      "fraction" : 0,
+      "text" : "OFDMA.",
+      "feedback" : "Wrong!"
+    } ]
+  }, {
+    "id" : "98",
+    "quizId" : "gsi-202022",
+    "text" : "98. ¿En qué banda de frecuencias se encuadran las redes 3G en España?",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "98",
+      "fraction" : 0,
+      "text" : "700 MHz, 1.500 MHz y 3.500 MHz. ",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "b",
+      "questionId" : "98",
+      "fraction" : 0,
+      "text" : "800 MHz, 1.500 MHz, 1.800 MHz y 2.600 MHz.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "c",
+      "questionId" : "98",
+      "fraction" : 0,
+      "text" : "900 MHz y 1.800 MHz.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "d",
+      "questionId" : "98",
+      "fraction" : 100,
+      "text" : "900 MHz y 2.100 MHz.",
+      "feedback" : "Correct!"
+    } ]
+  }, {
+    "id" : "99",
+    "quizId" : "gsi-202022",
+    "text" : "99. ¿Qué recomendación de la ITU-R define la codificación de vídeo muy eficiente?",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "99",
+      "fraction" : 0,
+      "text" : "H.323 ",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "b",
+      "questionId" : "99",
+      "fraction" : 100,
+      "text" : "H.265",
+      "feedback" : "Correct!"
+    }, {
+      "id" : "c",
+      "questionId" : "99",
+      "fraction" : 0,
+      "text" : "H.321",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "d",
+      "questionId" : "99",
+      "fraction" : 0,
+      "text" : "H.264",
+      "feedback" : "Wrong!"
+    } ]
+  }, {
+    "id" : "100",
+    "quizId" : "gsi-202022",
+    "text" : "100. ¿Cuál de las siguientes afirmaciones es INCORRECTA con respecto al protocolo RSVP?",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "100",
+      "fraction" : 0,
+      "text" : "Es un protocolo de reserva de recursos. ",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "b",
+      "questionId" : "100",
+      "fraction" : 0,
+      "text" : "Se describe en la RFC 2205.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "c",
+      "questionId" : "100",
+      "fraction" : 0,
+      "text" : "Es un protocolo de la capa de transporte.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "d",
+      "questionId" : "100",
+      "fraction" : 100,
+      "text" : "Permite reservar recursos para flujos bidireccionales",
+      "feedback" : "Correct!"
+    } ]
+  } ]
+}

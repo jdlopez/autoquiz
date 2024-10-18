@@ -1,0 +1,3270 @@
+{
+  "id" : "csstic-202122",
+  "title" : "CSSTIC Ordinario OEP 2021 y 2022",
+  "instructions" : "",
+  "showPublic" : false,
+  "showCorrect" : true,
+  "suffleQuestions" : true,
+  "passFraction" : 300,
+  "fractionSuccess" : 10,
+  "fractionWrong" : -3,
+  "answernumbering" : "LETTERS",
+  "shuffleanswers" : false,
+  "active" : false,
+  "questions" : [ {
+    "id" : "1",
+    "quizId" : "csstic-202122",
+    "text" : "1. Al método de la cadena crítica que se utiliza para definir el plazo mínimo en que un proyecto puede terminarse, se le conoce también por las siglas:",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "1",
+      "fraction" : -3,
+      "text" : "SCRUM. ",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "b",
+      "questionId" : "1",
+      "fraction" : -3,
+      "text" : "CMMI.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "c",
+      "questionId" : "1",
+      "fraction" : 10,
+      "text" : "CCPM.",
+      "feedback" : "Correct!"
+    }, {
+      "id" : "d",
+      "questionId" : "1",
+      "fraction" : -3,
+      "text" : "SMART.",
+      "feedback" : "Wrong!"
+    } ]
+  }, {
+    "id" : "2",
+    "quizId" : "csstic-202122",
+    "text" : "2. Serán susceptibles de recurso especial aquellos contratos de servicios cuyo valor estimado supere los:",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "2",
+      "fraction" : 10,
+      "text" : "100.000€. ",
+      "feedback" : "Correct!"
+    }, {
+      "id" : "b",
+      "questionId" : "2",
+      "fraction" : -3,
+      "text" : "180.000€.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "c",
+      "questionId" : "2",
+      "fraction" : -3,
+      "text" : "115.000€.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "d",
+      "questionId" : "2",
+      "fraction" : -3,
+      "text" : "140.000€.",
+      "feedback" : "Wrong!"
+    } ]
+  }, {
+    "id" : "3",
+    "quizId" : "csstic-202122",
+    "text" : "3. ISO, aunque no realiza certificación de sus estándares, tiene un comité que desarrolla políticas y publica estándares relacionados con la evaluación de conformidad. El comité se llama:",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "3",
+      "fraction" : -3,
+      "text" : "DEVCO. ",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "b",
+      "questionId" : "3",
+      "fraction" : -3,
+      "text" : "CSC/FIN.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "c",
+      "questionId" : "3",
+      "fraction" : 10,
+      "text" : "CASCO.",
+      "feedback" : "Correct!"
+    }, {
+      "id" : "d",
+      "questionId" : "3",
+      "fraction" : -3,
+      "text" : "CSC/SP.",
+      "feedback" : "Wrong!"
+    } ]
+  }, {
+    "id" : "4",
+    "quizId" : "csstic-202122",
+    "text" : "4. El framework .NET se compone de:",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "4",
+      "fraction" : 10,
+      "text" : "Una biblioteca de clases (FCL) y del entorno común de ejecución (CLR). ",
+      "feedback" : "Correct!"
+    }, {
+      "id" : "b",
+      "questionId" : "4",
+      "fraction" : -3,
+      "text" : "Las normas definidas en la CLS (Common Language Specification) y los DLL.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "c",
+      "questionId" : "4",
+      "fraction" : -3,
+      "text" : "Las normas definidas en la CLS (Common Language Specification) y una biblioteca de clases (FCL).",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "d",
+      "questionId" : "4",
+      "fraction" : -3,
+      "text" : "El entorno común de ejecución y los DLL.",
+      "feedback" : "Wrong!"
+    } ]
+  }, {
+    "id" : "5",
+    "quizId" : "csstic-202122",
+    "text" : "5. La Resolución de 20 de octubre de 2022, de la Secretaría General de Administración Digital, establece las condiciones de uso de firma electrónica no criptográfica en las relaciones de los interesados con los órganos administrativos de la AGE:",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "5",
+      "fraction" : 10,
+      "text" : "Para sistemas categorizados, según ENS, de categoría básica y aquellos de categoría media en los que no sea necesaria la firma electrónica avanzada por normativa. ",
+      "feedback" : "Correct!"
+    }, {
+      "id" : "b",
+      "questionId" : "5",
+      "fraction" : -3,
+      "text" : "Para sistemas en los que la identificación no requiera un registro fehaciente o que tramiten solicitudes que no precisen identificar al interesado.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "c",
+      "questionId" : "5",
+      "fraction" : -3,
+      "text" : "Para sistemas que se hayan categorizado según ENS como de categoría básica y que precisen garantizar el consentimiento y no repudio del interesado.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "d",
+      "questionId" : "5",
+      "fraction" : -3,
+      "text" : "Para la firma de documentos electrónicos que no estén incluidos en los supuestos establecidos en el art 11.2 de la ley 39/2015.",
+      "feedback" : "Wrong!"
+    } ]
+  }, {
+    "id" : "6",
+    "quizId" : "csstic-202122",
+    "text" : "6. El más conocido de los \"Algoritmos de diccionario adaptables\" se emplea en varios de los formatos de fichero de imágenes más habituales como GIF, TIFF o PDF. Indique la respuesta CORRECTA:",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "6",
+      "fraction" : -3,
+      "text" : "Run Length Encoding. ",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "b",
+      "questionId" : "6",
+      "fraction" : -3,
+      "text" : "TDC.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "c",
+      "questionId" : "6",
+      "fraction" : 10,
+      "text" : "Lempel-Ziv Welch.",
+      "feedback" : "Correct!"
+    }, {
+      "id" : "d",
+      "questionId" : "6",
+      "fraction" : -3,
+      "text" : "Transformada de Fourier.",
+      "feedback" : "Wrong!"
+    } ]
+  }, {
+    "id" : "7",
+    "quizId" : "csstic-202122",
+    "text" : "7. En la Metodología Métrica V3, el aseguramiento de la calidad debe garantizarse:",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "7",
+      "fraction" : -3,
+      "text" : "En los procesos del PSI al EVS. ",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "b",
+      "questionId" : "7",
+      "fraction" : 10,
+      "text" : "En los procesos del EVS al MSI.",
+      "feedback" : "Correct!"
+    }, {
+      "id" : "c",
+      "questionId" : "7",
+      "fraction" : -3,
+      "text" : "Prioritariamente en las interfaces.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "d",
+      "questionId" : "7",
+      "fraction" : -3,
+      "text" : "En los procesos de PSI a CSI.",
+      "feedback" : "Wrong!"
+    } ]
+  }, {
+    "id" : "8",
+    "quizId" : "csstic-202122",
+    "text" : "8. El órgano de la AGE encargado de los informes de evaluación de la calidad de los servicios es:",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "8",
+      "fraction" : 10,
+      "text" : "La Dirección General de Gobernanza Pública. ",
+      "feedback" : "Correct!"
+    }, {
+      "id" : "b",
+      "questionId" : "8",
+      "fraction" : -3,
+      "text" : "La Dirección General de la Función Pública.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "c",
+      "questionId" : "8",
+      "fraction" : -3,
+      "text" : "La Dirección General de Transparencia.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "d",
+      "questionId" : "8",
+      "fraction" : -3,
+      "text" : "El Instituto para la Evaluación de las Políticas Públicas.",
+      "feedback" : "Wrong!"
+    } ]
+  }, {
+    "id" : "9",
+    "quizId" : "csstic-202122",
+    "text" : "9. ¿Cuál es el prefijo de una dirección de tipo Link‐Local?:",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "9",
+      "fraction" : 10,
+      "text" : "FE80. ",
+      "feedback" : "Correct!"
+    }, {
+      "id" : "b",
+      "questionId" : "9",
+      "fraction" : -3,
+      "text" : "EC02.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "c",
+      "questionId" : "9",
+      "fraction" : -3,
+      "text" : "2002.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "d",
+      "questionId" : "9",
+      "fraction" : -3,
+      "text" : "FF00.",
+      "feedback" : "Wrong!"
+    } ]
+  }, {
+    "id" : "10",
+    "quizId" : "csstic-202122",
+    "text" : "10. El estándar para pruebas y reporte de PAD (Presentation Attack Detection) en sistemas biométricos es:",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "10",
+      "fraction" : 10,
+      "text" : "ISO/IEC 30107-3. ",
+      "feedback" : "Correct!"
+    }, {
+      "id" : "b",
+      "questionId" : "10",
+      "fraction" : -3,
+      "text" : "NIST FRVT.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "c",
+      "questionId" : "10",
+      "fraction" : -3,
+      "text" : "ETSI TS 119 461.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "d",
+      "questionId" : "10",
+      "fraction" : -3,
+      "text" : "RFC 7311.",
+      "feedback" : "Wrong!"
+    } ]
+  }, {
+    "id" : "11",
+    "quizId" : "csstic-202122",
+    "text" : "11. Los servicios de middleware de un clúster pueden ser proporcionados por una o varias de las siguientes capas. Señale la capa INCORRECTA:",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "11",
+      "fraction" : -3,
+      "text" : "SSI Hardware. ",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "b",
+      "questionId" : "11",
+      "fraction" : 10,
+      "text" : "SSI a nivel de Red.",
+      "feedback" : "Correct!"
+    }, {
+      "id" : "c",
+      "questionId" : "11",
+      "fraction" : -3,
+      "text" : "SSI a nivel de Kernel del Sistema Operativo.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "d",
+      "questionId" : "11",
+      "fraction" : -3,
+      "text" : "SSI a nivel de Aplicación.",
+      "feedback" : "Wrong!"
+    } ]
+  }, {
+    "id" : "12",
+    "quizId" : "csstic-202122",
+    "text" : "12. Señale la respuesta CORRECTA respecto a la Estrategia Nacional de Inteligencia Artificial (ENIA):",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "12",
+      "fraction" : -3,
+      "text" : "Se estructura en torno a 5 ejes estratégicos y se encuentra alineada con las políticas de la Unión Europea en el ámbito de la IA. ",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "b",
+      "questionId" : "12",
+      "fraction" : -3,
+      "text" : "Entre las medidas del Eje 3, orientado al desarrollo de plataformas de datos e infraestructuras tecnológicas, se encuentra la creación de una red de Centros de Operaciones de Ciberseguridad (SOC).",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "c",
+      "questionId" : "12",
+      "fraction" : 10,
+      "text" : "Uno de sus 7 objetivos estratégicos es la proyección de la lengua española.",
+      "feedback" : "Correct!"
+    }, {
+      "id" : "d",
+      "questionId" : "12",
+      "fraction" : -3,
+      "text" : "Se enmarca en el Componente 15 del Plan de Recuperación, Transformación y Resiliencia, con una inversión pública prevista de 1.200 millones de euros.",
+      "feedback" : "Wrong!"
+    } ]
+  }, {
+    "id" : "13",
+    "quizId" : "csstic-202122",
+    "text" : "13. En el caso de una aplicación enriquecida de Internet (Rich Internet Application), ¿dónde residen la capa de presentación y la capa de negocio?:",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "13",
+      "fraction" : -3,
+      "text" : "En el Business layer. ",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "b",
+      "questionId" : "13",
+      "fraction" : 10,
+      "text" : "En el Cliente, concretamente, en el plugin del browser.",
+      "feedback" : "Correct!"
+    }, {
+      "id" : "c",
+      "questionId" : "13",
+      "fraction" : -3,
+      "text" : "En el Data layer.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "d",
+      "questionId" : "13",
+      "fraction" : -3,
+      "text" : "En el Presentation layer.",
+      "feedback" : "Wrong!"
+    } ]
+  }, {
+    "id" : "14",
+    "quizId" : "csstic-202122",
+    "text" : "14. En una red H.323, ¿qué entidad se encarga de proporcionar direcciones de red a los dispositivos terminales?:",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "14",
+      "fraction" : -3,
+      "text" : "Terminal. ",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "b",
+      "questionId" : "14",
+      "fraction" : -3,
+      "text" : "Gateway.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "c",
+      "questionId" : "14",
+      "fraction" : 10,
+      "text" : "Gatekeeper.",
+      "feedback" : "Correct!"
+    }, {
+      "id" : "d",
+      "questionId" : "14",
+      "fraction" : -3,
+      "text" : "MCU (Multipoint Control Unit).",
+      "feedback" : "Wrong!"
+    } ]
+  }, {
+    "id" : "15",
+    "quizId" : "csstic-202122",
+    "text" : "15. ¿Qué tipos de token están establecidos en OAuth 2.0 (RFC 6749)?:",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "15",
+      "fraction" : 10,
+      "text" : "Token de acceso y token de actualización. ",
+      "feedback" : "Correct!"
+    }, {
+      "id" : "b",
+      "questionId" : "15",
+      "fraction" : -3,
+      "text" : "Token de acceso, ID token y JWT autofirmados.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "c",
+      "questionId" : "15",
+      "fraction" : -3,
+      "text" : "Token Kerberos, token SAML y JSON Web Token (JWT).",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "d",
+      "questionId" : "15",
+      "fraction" : -3,
+      "text" : "Token federado y token de portador.",
+      "feedback" : "Wrong!"
+    } ]
+  }, {
+    "id" : "16",
+    "quizId" : "csstic-202122",
+    "text" : "16. Según en art. 113 de la Ley 11/2022, de 28 de junio, General de Telecomunicaciones, la prescripción de:",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "16",
+      "fraction" : -3,
+      "text" : "Las infracciones muy graves prescribirán a los cinco años, las graves a los tres años y las leves a los dos años. ",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "b",
+      "questionId" : "16",
+      "fraction" : -3,
+      "text" : "Las infracciones muy graves prescribirán a los cuatro años, las graves a los dos años y las leves al año.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "c",
+      "questionId" : "16",
+      "fraction" : 10,
+      "text" : "Las infracciones muy graves prescribirán a los tres años, las graves a los dos años y las leves al año.",
+      "feedback" : "Correct!"
+    }, {
+      "id" : "d",
+      "questionId" : "16",
+      "fraction" : -3,
+      "text" : "Las infracciones muy graves prescribirán a los dos años, las graves al año y las leves a los 6 meses.",
+      "feedback" : "Wrong!"
+    } ]
+  }, {
+    "id" : "17",
+    "quizId" : "csstic-202122",
+    "text" : "17. ¿Qué se entiende por \"virtualización de bloque\" en el contexto de la tecnología de almacenamiento?:",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "17",
+      "fraction" : -3,
+      "text" : "La emulación de dispositivos de almacenamiento físico en entornos virtuales para proporcionar a las máquinas virtuales un acceso directo a los discos duros. ",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "b",
+      "questionId" : "17",
+      "fraction" : -3,
+      "text" : "El proceso de crear copias de seguridad en tiempo real de los datos almacenados en bloques en un entorno virtualizado.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "c",
+      "questionId" : "17",
+      "fraction" : 10,
+      "text" : "La creación de volúmenes virtuales que actúan como capa intermedia entre los sistemas de almacenamiento y las máquinas virtuales.",
+      "feedback" : "Correct!"
+    }, {
+      "id" : "d",
+      "questionId" : "17",
+      "fraction" : -3,
+      "text" : "La técnica de encriptar los bloques de datos en el almacenamiento para mejorar la seguridad de los datos en entornos virtuales.",
+      "feedback" : "Wrong!"
+    } ]
+  }, {
+    "id" : "18",
+    "quizId" : "csstic-202122",
+    "text" : "18. Las fases básicas del protocolo TLS son:",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "18",
+      "fraction" : 10,
+      "text" : "Negociado de algoritmos, intercambio de claves con autenticación y cifrado simétrico de los mensajes. ",
+      "feedback" : "Correct!"
+    }, {
+      "id" : "b",
+      "questionId" : "18",
+      "fraction" : -3,
+      "text" : "Intercambio de certificados cliente y servidor, validación de certificados y cifrado de mensajes con clave privada.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "c",
+      "questionId" : "18",
+      "fraction" : -3,
+      "text" : "Autenticación de cliente y servidor, establecimiento del túnel y cifrado de los mensajes con protocolo ESP (Encapsulating Security Payload).",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "d",
+      "questionId" : "18",
+      "fraction" : -3,
+      "text" : "Autenticación, generación del token y trasmisión, consumo del token.",
+      "feedback" : "Wrong!"
+    } ]
+  }, {
+    "id" : "19",
+    "quizId" : "csstic-202122",
+    "text" : "19. De las siguientes afirmaciones sobre la tecnología Zigbee, elija la opción INCORRECTA:",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "19",
+      "fraction" : -3,
+      "text" : "Usa topología en malla. ",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "b",
+      "questionId" : "19",
+      "fraction" : -3,
+      "text" : "Se basa en el estándar IEEE 802.15.4.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "c",
+      "questionId" : "19",
+      "fraction" : 10,
+      "text" : "Su consumo eléctrico es mayor que el estándar IEEE 802.15.1 (Bluetooth).",
+      "feedback" : "Correct!"
+    }, {
+      "id" : "d",
+      "questionId" : "19",
+      "fraction" : -3,
+      "text" : "Su objetivo son las aplicaciones que requieren comunicaciones seguras con baja tasa de envío de datos y maximización de la vida útil de sus baterías.",
+      "feedback" : "Wrong!"
+    } ]
+  }, {
+    "id" : "20",
+    "quizId" : "csstic-202122",
+    "text" : "20. En una red MPLS (Multiprotocol Label Switching), indique qué significa LSR:",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "20",
+      "fraction" : -3,
+      "text" : "Camino que siguen por la red MPLS los paquetes que corresponden a un mismo trayecto. ",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "b",
+      "questionId" : "20",
+      "fraction" : -3,
+      "text" : "Conjunto de paquetes que pertenecen a un mismo flujo, de manera que entran en la red MPLS por la misma interfaz, reciben la misma etiqueta y circulan por un mismo trayecto.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "c",
+      "questionId" : "20",
+      "fraction" : 10,
+      "text" : "Nodo situado en el core de la red MPLS, que realiza el encaminamiento de alto rendimiento de los paquetes basado en la conmutación por etiqueta de la cabecera MPLS.",
+      "feedback" : "Correct!"
+    }, {
+      "id" : "d",
+      "questionId" : "20",
+      "fraction" : -3,
+      "text" : "Nodo situado en el límite de la red MPLS, que asigna la etiqueta MPLS a los paquetes en función de su dirección de destino y QoS, para que sean encaminados a través del camino virtual correspondiente.",
+      "feedback" : "Wrong!"
+    } ]
+  }, {
+    "id" : "21",
+    "quizId" : "csstic-202122",
+    "text" : "21. Indique la afirmación FALSA en relación al modelo de ciclo de vida de desarrollo de prototipado incremental:",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "21",
+      "fraction" : -3,
+      "text" : "Incorpora conceptos del Modelo en Cascada y del Modelo de Prototipos. ",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "b",
+      "questionId" : "21",
+      "fraction" : 10,
+      "text" : "Los sistemas se desarrollan más lentamente.",
+      "feedback" : "Correct!"
+    }, {
+      "id" : "c",
+      "questionId" : "21",
+      "fraction" : -3,
+      "text" : "El proyecto se desarrolla en capas.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "d",
+      "questionId" : "21",
+      "fraction" : -3,
+      "text" : "Los requisitos se conocen en su totalidad, pero su implementación se va dosificando deliberadamente.",
+      "feedback" : "Wrong!"
+    } ]
+  }, {
+    "id" : "22",
+    "quizId" : "csstic-202122",
+    "text" : "22. En el entorno de la protección de datos, se emplean las técnicas de Pruebas de Conocimiento Cero o Nulo (ZKP, zero knowledge proof) con el fin de:",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "22",
+      "fraction" : -3,
+      "text" : "Acceder a datos personales sin necesidad de autenticarse. ",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "b",
+      "questionId" : "22",
+      "fraction" : 10,
+      "text" : "Minimizar y limitar el acceso a los datos personales.",
+      "feedback" : "Correct!"
+    }, {
+      "id" : "c",
+      "questionId" : "22",
+      "fraction" : -3,
+      "text" : "Intercambiar metadatos con un tercero confiable, en una aplicación Internet.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "d",
+      "questionId" : "22",
+      "fraction" : -3,
+      "text" : "Permitir el acceso a las aplicaciones a personas sin conocimientos previos.",
+      "feedback" : "Wrong!"
+    } ]
+  }, {
+    "id" : "23",
+    "quizId" : "csstic-202122",
+    "text" : "23. ¿Qué mecanismos de comprobación de identidad establece la ley 6/2020 y su desarrollo en la Orden ETD/465/2021 para la emisión de certificados electrónicos cualificados?:",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "23",
+      "fraction" : 10,
+      "text" : "Presencial, remota por vídeo o firma legitimada notarialmente. ",
+      "feedback" : "Correct!"
+    }, {
+      "id" : "b",
+      "questionId" : "23",
+      "fraction" : -3,
+      "text" : "Exclusivamente presencial ante una oficina de registro autorizada.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "c",
+      "questionId" : "23",
+      "fraction" : -3,
+      "text" : "Presencial o mediante la firma del interesado, legitimada en presencia notarial.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "d",
+      "questionId" : "23",
+      "fraction" : -3,
+      "text" : "Presencial, mediante llamada telefónica, video llamada, zoom o similar.",
+      "feedback" : "Wrong!"
+    } ]
+  }, {
+    "id" : "24",
+    "quizId" : "csstic-202122",
+    "text" : "24. En relación a los equipos de respuesta a incidentes de seguridad informática (CSIRT), en lo relativo a las relaciones con los operadores de servicios esenciales, ¿en qué casos es necesario que los operadores reporten los incidentes al CCN-CERT?:",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "24",
+      "fraction" : 10,
+      "text" : "Cuando el operador es una entidad del ámbito subjetivo de aplicación de la ley 40/2015. ",
+      "feedback" : "Correct!"
+    }, {
+      "id" : "b",
+      "questionId" : "24",
+      "fraction" : -3,
+      "text" : "Cuando el operador es una entidad no incluida en el ámbito subjetivo de aplicación de la ley 40/2015.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "c",
+      "questionId" : "24",
+      "fraction" : -3,
+      "text" : "En todos los casos, independientemente de la naturaleza del operador.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "d",
+      "questionId" : "24",
+      "fraction" : -3,
+      "text" : "En todos los casos, independientemente de la naturaleza del proveedor, siempre que no sea necesario reportar al ESPDEF-CERT.",
+      "feedback" : "Wrong!"
+    } ]
+  }, {
+    "id" : "25",
+    "quizId" : "csstic-202122",
+    "text" : "25. La gestión de la continuidad de negocio está normalizada por la Norma Internacional:",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "25",
+      "fraction" : 10,
+      "text" : "ISO 22301:2019. ",
+      "feedback" : "Correct!"
+    }, {
+      "id" : "b",
+      "questionId" : "25",
+      "fraction" : -3,
+      "text" : "ISO 22301:2018.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "c",
+      "questionId" : "25",
+      "fraction" : -3,
+      "text" : "ISO 27001:2013.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "d",
+      "questionId" : "25",
+      "fraction" : -3,
+      "text" : "ISO 22301:2014.",
+      "feedback" : "Wrong!"
+    } ]
+  }, {
+    "id" : "26",
+    "quizId" : "csstic-202122",
+    "text" : "26. ¿Cuál es el portal agregador de servicios web con funcionalidad CMS, de código abierto y licencia LGPL?:",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "26",
+      "fraction" : -3,
+      "text" : "HCL DX. ",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "b",
+      "questionId" : "26",
+      "fraction" : -3,
+      "text" : "IIS.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "c",
+      "questionId" : "26",
+      "fraction" : -3,
+      "text" : "JOnAS.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "d",
+      "questionId" : "26",
+      "fraction" : 10,
+      "text" : "Liferay.",
+      "feedback" : "Correct!"
+    } ]
+  }, {
+    "id" : "27",
+    "quizId" : "csstic-202122",
+    "text" : "27. ¿Qué protocolo de gestión de red introduce elementos de seguridad entre gestor y agente?:",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "27",
+      "fraction" : -3,
+      "text" : "SNMPv1. ",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "b",
+      "questionId" : "27",
+      "fraction" : -3,
+      "text" : "SNMPv2.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "c",
+      "questionId" : "27",
+      "fraction" : 10,
+      "text" : "SNMPv3.",
+      "feedback" : "Correct!"
+    }, {
+      "id" : "d",
+      "questionId" : "27",
+      "fraction" : -3,
+      "text" : "SNMPv4.",
+      "feedback" : "Wrong!"
+    } ]
+  }, {
+    "id" : "28",
+    "quizId" : "csstic-202122",
+    "text" : "28. En el modelo TMMI: ¿Cuál de las siguientes áreas de proceso corresponde al nivel 4 de madurez?:",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "28",
+      "fraction" : 10,
+      "text" : "Medición de Pruebas. ",
+      "feedback" : "Correct!"
+    }, {
+      "id" : "b",
+      "questionId" : "28",
+      "fraction" : -3,
+      "text" : "Pruebas no funcionales.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "c",
+      "questionId" : "28",
+      "fraction" : -3,
+      "text" : "Monitorización y Control de Pruebas.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "d",
+      "questionId" : "28",
+      "fraction" : -3,
+      "text" : "Control de Calidad.",
+      "feedback" : "Wrong!"
+    } ]
+  }, {
+    "id" : "29",
+    "quizId" : "csstic-202122",
+    "text" : "29. ¿Cuál es la herramienta de borrado seguro incluida en el catálogo de productos y servicios TIC, Guía CCN/STIC 105?:",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "29",
+      "fraction" : -3,
+      "text" : "Eraser DX. ",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "b",
+      "questionId" : "29",
+      "fraction" : -3,
+      "text" : "Olvido Windows.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "c",
+      "questionId" : "29",
+      "fraction" : -3,
+      "text" : "HDShredder.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "d",
+      "questionId" : "29",
+      "fraction" : 10,
+      "text" : "Olivia.",
+      "feedback" : "Correct!"
+    } ]
+  }, {
+    "id" : "30",
+    "quizId" : "csstic-202122",
+    "text" : "30. ¿Cuál es la máxima velocidad de datos alcanzable en el estándar de CATV DOCSIS 3.1?:",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "30",
+      "fraction" : -3,
+      "text" : "1 Gbps en bajada y 100 Mbps en subida. ",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "b",
+      "questionId" : "30",
+      "fraction" : 10,
+      "text" : "10 Gbps en bajada y 1 Gbps en subida.",
+      "feedback" : "Correct!"
+    }, {
+      "id" : "c",
+      "questionId" : "30",
+      "fraction" : -3,
+      "text" : "1 Gbps en bajada y 1 Gbps en subida.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "d",
+      "questionId" : "30",
+      "fraction" : -3,
+      "text" : "100 Mbps en bajada y 1 Gbps en subida.",
+      "feedback" : "Wrong!"
+    } ]
+  }, {
+    "id" : "31",
+    "quizId" : "csstic-202122",
+    "text" : "31. ¿Cuál es el estándar OASIS para el intercambio de mensajes sobre TCP pensado para dispositivos de baja potencia en aplicaciones IoT?:",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "31",
+      "fraction" : -3,
+      "text" : "DDS. ",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "b",
+      "questionId" : "31",
+      "fraction" : 10,
+      "text" : "MQTT.",
+      "feedback" : "Correct!"
+    }, {
+      "id" : "c",
+      "questionId" : "31",
+      "fraction" : -3,
+      "text" : "CoAP.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "d",
+      "questionId" : "31",
+      "fraction" : -3,
+      "text" : "STOMP.",
+      "feedback" : "Wrong!"
+    } ]
+  }, {
+    "id" : "32",
+    "quizId" : "csstic-202122",
+    "text" : "32. Como norma general, el órgano de contratación en el caso de expedientes TIC de contratos basados en Acuerdo Marco será:",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "32",
+      "fraction" : -3,
+      "text" : "La Junta Consultiva de Contratación Administrativa (JCCA). ",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "b",
+      "questionId" : "32",
+      "fraction" : 10,
+      "text" : "Dirección General de Racionalización y Centralización de la Contratación (DGRCC).",
+      "feedback" : "Correct!"
+    }, {
+      "id" : "c",
+      "questionId" : "32",
+      "fraction" : -3,
+      "text" : "La mesa de contratación.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "d",
+      "questionId" : "32",
+      "fraction" : -3,
+      "text" : "La Secretaría General de Administración Digital (SGAD).",
+      "feedback" : "Wrong!"
+    } ]
+  }, {
+    "id" : "33",
+    "quizId" : "csstic-202122",
+    "text" : "33. [ANULADA] ¿Qué metodología emplearía para el análisis de seguridad dinámico de una aplicación móvil desarrollada para una Administración Pública?:",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "33",
+      "fraction" : -3,
+      "text" : "OWASP MASVS. ",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "b",
+      "questionId" : "33",
+      "fraction" : -3,
+      "text" : "Guía CCN-STIC 857.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "c",
+      "questionId" : "33",
+      "fraction" : -3,
+      "text" : "Guía CCN-STIC 496.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "d",
+      "questionId" : "33",
+      "fraction" : -3,
+      "text" : "NIST NVD.",
+      "feedback" : "Wrong!"
+    } ]
+  }, {
+    "id" : "34",
+    "quizId" : "csstic-202122",
+    "text" : "34. ¿Qué servicios hacen uso de la red TESTA-ng?:",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "34",
+      "fraction" : -3,
+      "text" : "eTEN y GEANT 2. ",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "b",
+      "questionId" : "34",
+      "fraction" : 10,
+      "text" : "Dublinet, EESSI y ECRIS.",
+      "feedback" : "Correct!"
+    }, {
+      "id" : "c",
+      "questionId" : "34",
+      "fraction" : -3,
+      "text" : "Europol, ISA 2 y IDABC.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "d",
+      "questionId" : "34",
+      "fraction" : -3,
+      "text" : "EUVISA y RMON.",
+      "feedback" : "Wrong!"
+    } ]
+  }, {
+    "id" : "35",
+    "quizId" : "csstic-202122",
+    "text" : "35. [ANULADA] Un integrador en estrella es una colección de conexiones punto a punto en una secuencia de poliedros estrella. También se denomina:",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "35",
+      "fraction" : -3,
+      "text" : "Integración multidimensional. ",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "b",
+      "questionId" : "35",
+      "fraction" : -3,
+      "text" : "Integración punto a punto.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "c",
+      "questionId" : "35",
+      "fraction" : -3,
+      "text" : "Integración de espaguetis.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "d",
+      "questionId" : "35",
+      "fraction" : -3,
+      "text" : "Integración en silos.",
+      "feedback" : "Wrong!"
+    } ]
+  }, {
+    "id" : "36",
+    "quizId" : "csstic-202122",
+    "text" : "36. La pirámide de Robert Anthony es un modelo organizacional que cuenta con:",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "36",
+      "fraction" : 10,
+      "text" : "Los tres niveles siguientes: dirección operativa, dirección media y alta dirección. ",
+      "feedback" : "Correct!"
+    }, {
+      "id" : "b",
+      "questionId" : "36",
+      "fraction" : -3,
+      "text" : "Dos niveles de dirección (alta dirección y dirección táctica) y dos niveles para el manejo de la información (trabajadores de los datos y trabajadores del conocimiento).",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "c",
+      "questionId" : "36",
+      "fraction" : -3,
+      "text" : "Dos niveles de dirección (alta dirección y dirección táctica) y un nivel para el manejo de la información (trabajadores de los datos y del conocimiento).",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "d",
+      "questionId" : "36",
+      "fraction" : -3,
+      "text" : "Los tres niveles siguientes: dirección operativa, dirección media y dirección de los trabajadores.",
+      "feedback" : "Wrong!"
+    } ]
+  }, {
+    "id" : "37",
+    "quizId" : "csstic-202122",
+    "text" : "37. Señale cuál de las siguientes funciones NO corresponde a las Comisiones Ministeriales de Administración Digital (CMAD), de acuerdo a lo que establece el Real Decreto 806/2014, de 19 de septiembre, sobre organización e instrumentos operativos de las tecnologías de la información y las comunicaciones en la Administración General del Estado y sus Organismos Públicos:",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "37",
+      "fraction" : -3,
+      "text" : "Actuar como órgano de relación entre los departamentos ministeriales y sus organismos adscritos y la Dirección de Tecnologías de la Información y las Comunicaciones (DTIC), para asegurar la coordinación con los criterios y políticas definidas por ésta. ",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "b",
+      "questionId" : "37",
+      "fraction" : 10,
+      "text" : "Impulsar la colaboración y cooperación con las comunidades autónomas y las entidades locales para la puesta en marcha de servicios interadministrativos integrados y la compartición de infraestructuras técnicas y los servicios comunes que permitan la racionalización de los recursos TIC.",
+      "feedback" : "Correct!"
+    }, {
+      "id" : "c",
+      "questionId" : "37",
+      "fraction" : -3,
+      "text" : "Impulsar, ejecutar y supervisar, en el ámbito del departamento, el cumplimiento de las directrices y el seguimiento de las pautas de actuación recogidas en la Estrategia TIC de la Administración General del Estado y sus Organismos Públicos.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "d",
+      "questionId" : "37",
+      "fraction" : -3,
+      "text" : "Impulsar la digitalización de los servicios y procedimientos del departamento con el fin de homogeneizarlos, simplificarlos, mejorar su calidad y facilidad de uso, así como las prestaciones ofrecidas a los ciudadanos y empresas, optimizando la utilización de los recursos TIC disponibles.",
+      "feedback" : "Wrong!"
+    } ]
+  }, {
+    "id" : "38",
+    "quizId" : "csstic-202122",
+    "text" : "38. [ANULADA] ¿Cuál de los siguientes es un Bus Externo Paralelo?:",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "38",
+      "fraction" : -3,
+      "text" : "ATA. ",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "b",
+      "questionId" : "38",
+      "fraction" : -3,
+      "text" : "USB.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "c",
+      "questionId" : "38",
+      "fraction" : -3,
+      "text" : "PCI Express.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "d",
+      "questionId" : "38",
+      "fraction" : -3,
+      "text" : "EISA.",
+      "feedback" : "Wrong!"
+    } ]
+  }, {
+    "id" : "39",
+    "quizId" : "csstic-202122",
+    "text" : "39. ¿Cuál de los siguientes NO se considera un principio guía de las arquitecturas SOA?:",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "39",
+      "fraction" : 10,
+      "text" : "Seguridad. ",
+      "feedback" : "Correct!"
+    }, {
+      "id" : "b",
+      "questionId" : "39",
+      "fraction" : -3,
+      "text" : "Reutilización.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "c",
+      "questionId" : "39",
+      "fraction" : -3,
+      "text" : "Interoperabilidad.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "d",
+      "questionId" : "39",
+      "fraction" : -3,
+      "text" : "Modularidad.",
+      "feedback" : "Wrong!"
+    } ]
+  }, {
+    "id" : "40",
+    "quizId" : "csstic-202122",
+    "text" : "40. Supongamos que tenemos un archivo llamado \"datos.txt\" que contiene una lista de nombres de personas, uno por línea. Queremos buscar todos los nombres que contienen la letra \"a\" en el archivo, mostrarlos en la pantalla y guardarlos en un nuevo archivo llamado \"nombres_con_a.txt\". ¿Cuál de las siguientes opciones muestra la sintaxis correcta de la línea de comandos para lograr esto?:",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "40",
+      "fraction" : -3,
+      "text" : "cat datos.txt > grep \"a\" | tee nombres_con_a.txt. ",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "b",
+      "questionId" : "40",
+      "fraction" : -3,
+      "text" : "grep \"a\" datos.txt > nombres_con_a.txt.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "c",
+      "questionId" : "40",
+      "fraction" : -3,
+      "text" : "cat datos.txt | grep \"a\" > nombres_con_a.txt.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "d",
+      "questionId" : "40",
+      "fraction" : 10,
+      "text" : "grep \"a\" datos.txt | tee nombres_con_a.txt.",
+      "feedback" : "Correct!"
+    } ]
+  }, {
+    "id" : "41",
+    "quizId" : "csstic-202122",
+    "text" : "41. ¿Cuál de las siguientes capas del sistema operativo móvil Firefox OS es la interfaz de usuario?:",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "41",
+      "fraction" : -3,
+      "text" : "Gonk. ",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "b",
+      "questionId" : "41",
+      "fraction" : -3,
+      "text" : "Gamma.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "c",
+      "questionId" : "41",
+      "fraction" : -3,
+      "text" : "Gecko.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "d",
+      "questionId" : "41",
+      "fraction" : 10,
+      "text" : "Gaia.",
+      "feedback" : "Correct!"
+    } ]
+  }, {
+    "id" : "42",
+    "quizId" : "csstic-202122",
+    "text" : "42. En el análisis conocido como DAFO (Debilidades, Amenazas, Fortalezas y Oportunidades) en el ámbito de la planificación estratégica, señale cuál de los siguientes conceptos correspondería a las Fortalezas:",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "42",
+      "fraction" : -3,
+      "text" : "Elementos o circunstancias externas favorables a la organización y que podrían ser utilizadas por ésta para constituir ventajas competitivas. ",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "b",
+      "questionId" : "42",
+      "fraction" : 10,
+      "text" : "Elementos internos de la organización que constituyen una ventaja competitiva, puntos fuertes o capacidades que le permiten sobresalir o explotar oportunidades.",
+      "feedback" : "Correct!"
+    }, {
+      "id" : "c",
+      "questionId" : "42",
+      "fraction" : -3,
+      "text" : "Aspectos en que la competencia de la organización sobresale respecto a ella y que se deben afrontar mediante la explotación de sus debilidades.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "d",
+      "questionId" : "42",
+      "fraction" : -3,
+      "text" : "Elementos que definen los Factores Críticos de Éxito (FCE) para la organización y serán la base principal para definir su estrategia.",
+      "feedback" : "Wrong!"
+    } ]
+  }, {
+    "id" : "43",
+    "quizId" : "csstic-202122",
+    "text" : "43. ¿Cuál de estos tipos de lectura NO constituye un problema de interferencias entre las diferentes transacciones?:",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "43",
+      "fraction" : 10,
+      "text" : "Lectura comprometida. ",
+      "feedback" : "Correct!"
+    }, {
+      "id" : "b",
+      "questionId" : "43",
+      "fraction" : -3,
+      "text" : "Lectura no repetible.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "c",
+      "questionId" : "43",
+      "fraction" : -3,
+      "text" : "Lectura sucia.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "d",
+      "questionId" : "43",
+      "fraction" : -3,
+      "text" : "Lectura fantasma.",
+      "feedback" : "Wrong!"
+    } ]
+  }, {
+    "id" : "44",
+    "quizId" : "csstic-202122",
+    "text" : "44. ¿Qué tipo de relaciones se pueden representar en un diagrama de despliegue?:",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "44",
+      "fraction" : -3,
+      "text" : "Relaciones de herencia entre clases. ",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "b",
+      "questionId" : "44",
+      "fraction" : 10,
+      "text" : "Relaciones de dependencia entre nodos de hardware.",
+      "feedback" : "Correct!"
+    }, {
+      "id" : "c",
+      "questionId" : "44",
+      "fraction" : -3,
+      "text" : "Relaciones de amistad entre objetos.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "d",
+      "questionId" : "44",
+      "fraction" : -3,
+      "text" : "Relaciones de agregación entre componentes de software.",
+      "feedback" : "Wrong!"
+    } ]
+  }, {
+    "id" : "45",
+    "quizId" : "csstic-202122",
+    "text" : "45. ¿Cuál de las siguientes afirmaciones sobre los patrones de diseño de software es CIERTA?:",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "45",
+      "fraction" : -3,
+      "text" : "Los patrones de diseño son soluciones específicas para problemas únicos en el desarrollo de software. ",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "b",
+      "questionId" : "45",
+      "fraction" : -3,
+      "text" : "Los patrones de diseño son una técnica que solo se aplica en la capa de presentación.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "c",
+      "questionId" : "45",
+      "fraction" : 10,
+      "text" : "Los patrones de diseño son soluciones generales para problemas comunes en el desarrollo de software.",
+      "feedback" : "Correct!"
+    }, {
+      "id" : "d",
+      "questionId" : "45",
+      "fraction" : -3,
+      "text" : "Los patrones de diseño se utilizan solo en proyectos pequeños.",
+      "feedback" : "Wrong!"
+    } ]
+  }, {
+    "id" : "46",
+    "quizId" : "csstic-202122",
+    "text" : "46. ¿Cuál de estos protocolos de enrutamiento NO utiliza el algoritmo por vector distancia?:",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "46",
+      "fraction" : -3,
+      "text" : "RIP. ",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "b",
+      "questionId" : "46",
+      "fraction" : 10,
+      "text" : "OSPF.",
+      "feedback" : "Correct!"
+    }, {
+      "id" : "c",
+      "questionId" : "46",
+      "fraction" : -3,
+      "text" : "IGRP.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "d",
+      "questionId" : "46",
+      "fraction" : -3,
+      "text" : "IPX.",
+      "feedback" : "Wrong!"
+    } ]
+  }, {
+    "id" : "47",
+    "quizId" : "csstic-202122",
+    "text" : "47. La especificación 802.1Q de IEEE se utiliza para…:",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "47",
+      "fraction" : -3,
+      "text" : "Dotar a la red de mecanismos de control de acceso a la red. ",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "b",
+      "questionId" : "47",
+      "fraction" : -3,
+      "text" : "Priorización de tráfico y filtrado multicast dinámico.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "c",
+      "questionId" : "47",
+      "fraction" : 10,
+      "text" : "Permitir a múltiples redes virtuales compartir de forma transparente el mismo medio físico.",
+      "feedback" : "Correct!"
+    }, {
+      "id" : "d",
+      "questionId" : "47",
+      "fraction" : -3,
+      "text" : "Ninguna de las anteriores.",
+      "feedback" : "Wrong!"
+    } ]
+  }, {
+    "id" : "48",
+    "quizId" : "csstic-202122",
+    "text" : "48. [ANULADA] ¿A qué generación móvil se corresponde la telefonía móvil multimedia (banda estrecha) ?:",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "48",
+      "fraction" : -3,
+      "text" : "2G. ",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "b",
+      "questionId" : "48",
+      "fraction" : -3,
+      "text" : "2.5G.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "c",
+      "questionId" : "48",
+      "fraction" : -3,
+      "text" : "3G.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "d",
+      "questionId" : "48",
+      "fraction" : -3,
+      "text" : "3.5G.",
+      "feedback" : "Wrong!"
+    } ]
+  }, {
+    "id" : "49",
+    "quizId" : "csstic-202122",
+    "text" : "49. ¿Cuál de las siguientes etiquetas NO es una nueva incorporación de HTML5?:",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "49",
+      "fraction" : -3,
+      "text" : "header. ",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "b",
+      "questionId" : "49",
+      "fraction" : -3,
+      "text" : "section.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "c",
+      "questionId" : "49",
+      "fraction" : 10,
+      "text" : "div.",
+      "feedback" : "Correct!"
+    }, {
+      "id" : "d",
+      "questionId" : "49",
+      "fraction" : -3,
+      "text" : "nav.",
+      "feedback" : "Wrong!"
+    } ]
+  }, {
+    "id" : "50",
+    "quizId" : "csstic-202122",
+    "text" : "50. ¿Cuál de las siguientes NO es una herramienta de VPN?:",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "50",
+      "fraction" : -3,
+      "text" : "NordVPN. ",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "b",
+      "questionId" : "50",
+      "fraction" : -3,
+      "text" : "ExpressVPN.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "c",
+      "questionId" : "50",
+      "fraction" : 10,
+      "text" : "CitosVPN.",
+      "feedback" : "Correct!"
+    }, {
+      "id" : "d",
+      "questionId" : "50",
+      "fraction" : -3,
+      "text" : "PrivateVPN.",
+      "feedback" : "Wrong!"
+    } ]
+  }, {
+    "id" : "51",
+    "quizId" : "csstic-202122",
+    "text" : "51. ¿Cuál es el estándar para el intercambio de correo entre dos hosts TCP/IP que define SMTP como protocolo cliente/servidor?:",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "51",
+      "fraction" : -3,
+      "text" : "RFC 5322. ",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "b",
+      "questionId" : "51",
+      "fraction" : -3,
+      "text" : "RFC 5532.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "c",
+      "questionId" : "51",
+      "fraction" : 10,
+      "text" : "RFC 5321.",
+      "feedback" : "Correct!"
+    }, {
+      "id" : "d",
+      "questionId" : "51",
+      "fraction" : -3,
+      "text" : "RFC 2435.",
+      "feedback" : "Wrong!"
+    } ]
+  }, {
+    "id" : "52",
+    "quizId" : "csstic-202122",
+    "text" : "52. [ANULADA] Cual de las siguentes respuestas NO se corresponde con un servidor de autoridad de certificación CA:",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "52",
+      "fraction" : -3,
+      "text" : "ENTRUST. ",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "b",
+      "questionId" : "52",
+      "fraction" : -3,
+      "text" : "AC MWS.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "c",
+      "questionId" : "52",
+      "fraction" : -3,
+      "text" : "SUN ONE.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "d",
+      "questionId" : "52",
+      "fraction" : -3,
+      "text" : "ISAS.",
+      "feedback" : "Wrong!"
+    } ]
+  }, {
+    "id" : "53",
+    "quizId" : "csstic-202122",
+    "text" : "53. ¿Cuál es un resultado común del uso de la técnica PERT (Técnica de Evaluación y Revisión de Programas) en la estimación de esfuerzo?:",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "53",
+      "fraction" : -3,
+      "text" : "Determinación precisa de los costos del proyecto. ",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "b",
+      "questionId" : "53",
+      "fraction" : 10,
+      "text" : "Representación gráfica de las interdependencias entre tareas y su duración.",
+      "feedback" : "Correct!"
+    }, {
+      "id" : "c",
+      "questionId" : "53",
+      "fraction" : -3,
+      "text" : "Cuantificación de los puntos de función del sistema.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "d",
+      "questionId" : "53",
+      "fraction" : -3,
+      "text" : "Evaluación de la calidad del código fuente.",
+      "feedback" : "Wrong!"
+    } ]
+  }, {
+    "id" : "54",
+    "quizId" : "csstic-202122",
+    "text" : "54. La transformación de entidades fuertes del modelo E/R al modelo relacional consiste en:",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "54",
+      "fraction" : -3,
+      "text" : "Construir una tabla por cada clave que aparece en el modelo E/R, con el nombre de la misma, y con los mismos atributos y clave que pasarán a ser columnas de la tabla. ",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "b",
+      "questionId" : "54",
+      "fraction" : -3,
+      "text" : "Construir una tabla por cada atributo de cada entidad que aparece en el modelo E/R, con el nombre de dicho atributo, y con la misma clave. El nombre de la entidad pasará a ser una columna de la tabla.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "c",
+      "questionId" : "54",
+      "fraction" : 10,
+      "text" : "Construir una tabla por cada una de las entidades que aparecen en el modelo E/R, que tengan el mismo nombre, y con los mismos atributos y clave que pasarán a ser columnas de la tabla.",
+      "feedback" : "Correct!"
+    }, {
+      "id" : "d",
+      "questionId" : "54",
+      "fraction" : -3,
+      "text" : "Construir una tabla por cada una de las entidades que aparecen en el modelo E/R, que tengan el mismo nombre, y con los mismos atributos y clave que pasarán a ser filas de la tabla.",
+      "feedback" : "Wrong!"
+    } ]
+  }, {
+    "id" : "55",
+    "quizId" : "csstic-202122",
+    "text" : "55. Siguiendo el estándar OWASP de verificación de la Seguridad en Aplicaciones, cuál de estos factores de Protección General de Datos sólo es obligatorio en el nivel 3:",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "55",
+      "fraction" : -3,
+      "text" : "Verificar que la aplicación evita que los datos sensibles se almacenen en balanceadores de carga y caché de aplicaciones. ",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "b",
+      "questionId" : "55",
+      "fraction" : -3,
+      "text" : "Verificar que la aplicación minimiza el número de parámetros en una petición, como parámetros ocultos, cookies y valores de encabezados.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "c",
+      "questionId" : "55",
+      "fraction" : 10,
+      "text" : "Verificar que los backups se almacenan de forma segura, que impidan el robo o la corrupción de datos.",
+      "feedback" : "Correct!"
+    }, {
+      "id" : "d",
+      "questionId" : "55",
+      "fraction" : -3,
+      "text" : "Verificar que la aplicación pueda detectar un número de peticiones anormalmente altos: por ejemplo, de IP’s, de usuarios: totales por hora o por día.",
+      "feedback" : "Wrong!"
+    } ]
+  }, {
+    "id" : "56",
+    "quizId" : "csstic-202122",
+    "text" : "56. ¿Qué algoritmo de cifrado se utiliza para proteger los datos en unidades cifradas con BitLocker?:",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "56",
+      "fraction" : -3,
+      "text" : "RSA. ",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "b",
+      "questionId" : "56",
+      "fraction" : -3,
+      "text" : "MD5.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "c",
+      "questionId" : "56",
+      "fraction" : 10,
+      "text" : "AES-XTS.",
+      "feedback" : "Correct!"
+    }, {
+      "id" : "d",
+      "questionId" : "56",
+      "fraction" : -3,
+      "text" : "SHA-256.",
+      "feedback" : "Wrong!"
+    } ]
+  }, {
+    "id" : "57",
+    "quizId" : "csstic-202122",
+    "text" : "57. La Ley 3/2015, de 30 de marzo, reguladora del ejercicio del alto cargo de la Administración General del Estado, establece una serie de principios para el ejercicio de alto cargo. ¿Cuál NO se encuentra entre los mismos?:",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "57",
+      "fraction" : -3,
+      "text" : "Integridad. ",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "b",
+      "questionId" : "57",
+      "fraction" : 10,
+      "text" : "Solidaridad.",
+      "feedback" : "Correct!"
+    }, {
+      "id" : "c",
+      "questionId" : "57",
+      "fraction" : -3,
+      "text" : "Austeridad.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "d",
+      "questionId" : "57",
+      "fraction" : -3,
+      "text" : "Transparencia.",
+      "feedback" : "Wrong!"
+    } ]
+  }, {
+    "id" : "58",
+    "quizId" : "csstic-202122",
+    "text" : "58. Señale cuál de las siguientes NO es una medida del Plan de Digitalización de las Administraciones Públicas 2021-2025:",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "58",
+      "fraction" : -3,
+      "text" : "Servicio de automatización inteligente. ",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "b",
+      "questionId" : "58",
+      "fraction" : 10,
+      "text" : "Democratización del acceso a las tecnologías emergentes.",
+      "feedback" : "Correct!"
+    }, {
+      "id" : "c",
+      "questionId" : "58",
+      "fraction" : -3,
+      "text" : "Transformación digital en materia de Empleo.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "d",
+      "questionId" : "58",
+      "fraction" : -3,
+      "text" : "Servicio de infraestructuras cloud.",
+      "feedback" : "Wrong!"
+    } ]
+  }, {
+    "id" : "59",
+    "quizId" : "csstic-202122",
+    "text" : "59. ¿Cuál de las siguientes capas de iOS se encarga directamente de las funcionalidades relacionadas con la interfaz de usuario?:",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "59",
+      "fraction" : -3,
+      "text" : "Capa del núcleo (Core OS). ",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "b",
+      "questionId" : "59",
+      "fraction" : -3,
+      "text" : "Capa de Servicios Principales (Core Services).",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "c",
+      "questionId" : "59",
+      "fraction" : -3,
+      "text" : "Capa de Medios (Media).",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "d",
+      "questionId" : "59",
+      "fraction" : 10,
+      "text" : "Capa Cocoa Touch.",
+      "feedback" : "Correct!"
+    } ]
+  }, {
+    "id" : "60",
+    "quizId" : "csstic-202122",
+    "text" : "60. [ANULADA] Indique cuál de las siguientes opciones corresponde a enfoques de diseño de interfaces:",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "60",
+      "fraction" : -3,
+      "text" : "UX, UxD. ",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "b",
+      "questionId" : "60",
+      "fraction" : -3,
+      "text" : "UI, UX, IxD.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "c",
+      "questionId" : "60",
+      "fraction" : -3,
+      "text" : "UI, UX, IxD, GUI.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "d",
+      "questionId" : "60",
+      "fraction" : -3,
+      "text" : "UI, UX, GUI.",
+      "feedback" : "Wrong!"
+    } ]
+  }, {
+    "id" : "61",
+    "quizId" : "csstic-202122",
+    "text" : "61. El marco de referencia Cobit v5 está basado en 5 principios básicos y en 7 catalizadores o \"enablers\" para lograr una adecuada gestión de las tecnologías de la información en una organización. Señale cuál de los siguientes NO es un catalizador, de acuerdo con el marco Cobit v5:",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "61",
+      "fraction" : 10,
+      "text" : "Relaciones de cooperación y coordinación. ",
+      "feedback" : "Correct!"
+    }, {
+      "id" : "b",
+      "questionId" : "61",
+      "fraction" : -3,
+      "text" : "Servicios, Infraestructuras y Aplicaciones.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "c",
+      "questionId" : "61",
+      "fraction" : -3,
+      "text" : "Cultura, Ética y Comportamiento.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "d",
+      "questionId" : "61",
+      "fraction" : -3,
+      "text" : "Estructuras organizativas.",
+      "feedback" : "Wrong!"
+    } ]
+  }, {
+    "id" : "62",
+    "quizId" : "csstic-202122",
+    "text" : "62. El nivel 3 de un DFD se corresponde con:",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "62",
+      "fraction" : -3,
+      "text" : "Diagrama de Subsistemas. ",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "b",
+      "questionId" : "62",
+      "fraction" : -3,
+      "text" : "Diagrama de Tiempos.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "c",
+      "questionId" : "62",
+      "fraction" : -3,
+      "text" : "Diagrama de Procesos.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "d",
+      "questionId" : "62",
+      "fraction" : 10,
+      "text" : "Diagrama de Subfunciones.",
+      "feedback" : "Correct!"
+    } ]
+  }, {
+    "id" : "63",
+    "quizId" : "csstic-202122",
+    "text" : "63. La ley 37/2007 de reutilización de la información del sector público dispone, en su artículo 10, lo siguiente en cuanto al procedimiento de tramitación de solicitudes de reutilización:",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "63",
+      "fraction" : 10,
+      "text" : "La resolución estimatoria de la solicitud supondrá la puesta a disposición del documento en el mismo plazo previsto para resolver dicha solicitud. ",
+      "feedback" : "Correct!"
+    }, {
+      "id" : "b",
+      "questionId" : "63",
+      "fraction" : -3,
+      "text" : "Si en el plazo máximo previsto para resolver y notificar no se hubiese dictado resolución expresa, el solicitante podrá entender estimada su solicitud.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "c",
+      "questionId" : "63",
+      "fraction" : -3,
+      "text" : "Las resoluciones que tengan carácter estimatorio autorizarán en todo caso la reutilización gratuita de los documentos.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "d",
+      "questionId" : "63",
+      "fraction" : -3,
+      "text" : "El órgano competente resolverá las solicitudes de reutilización en el plazo máximo de veinte días desde su recepción, pudiéndose ampliar este plazo en otros diez días cuando por el volumen y la complejidad de la información solicitada resulte imposible cumplir el citado plazo.",
+      "feedback" : "Wrong!"
+    } ]
+  }, {
+    "id" : "64",
+    "quizId" : "csstic-202122",
+    "text" : "64. ¿A qué siglas corresponde la siguiente definición: \"Software de gestión de dispositivos móviles y portátiles conectados a la red corporativa\"?:",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "64",
+      "fraction" : 10,
+      "text" : "MDM (Mobile Device Management). ",
+      "feedback" : "Correct!"
+    }, {
+      "id" : "b",
+      "questionId" : "64",
+      "fraction" : -3,
+      "text" : "MAM (Mobile Application Management).",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "c",
+      "questionId" : "64",
+      "fraction" : -3,
+      "text" : "EMM (Enterprise Mobile Management).",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "d",
+      "questionId" : "64",
+      "fraction" : -3,
+      "text" : "BYOD (Bring Your Own Device).",
+      "feedback" : "Wrong!"
+    } ]
+  }, {
+    "id" : "65",
+    "quizId" : "csstic-202122",
+    "text" : "65. Señale la diferencia principal entre un control ActiveX y un Applet de Java:",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "65",
+      "fraction" : -3,
+      "text" : "Programación. Los applets de Java pueden ser escritos en la mayoría de lenguajes existentes y ActiveX sólo en VBScript. ",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "b",
+      "questionId" : "65",
+      "fraction" : 10,
+      "text" : "Seguridad. ActiveX permite el acceso a los recursos locales y Java Applet no.",
+      "feedback" : "Correct!"
+    }, {
+      "id" : "c",
+      "questionId" : "65",
+      "fraction" : -3,
+      "text" : "Funcionalidad. ActiveX ofrece la posibilidad de agregar funcionalidades a páginas web estáticas sin la necesidad de conexiones de servidor adicionales y los applets de Java no lo permiten.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "d",
+      "questionId" : "65",
+      "fraction" : -3,
+      "text" : "Despliegue. Tanto los applets de Java con los controles ActiveX están soportados e instalados por defecto en todos los navegadores.",
+      "feedback" : "Wrong!"
+    } ]
+  }, {
+    "id" : "66",
+    "quizId" : "csstic-202122",
+    "text" : "66. [CAMBIO DE RESPUESTA CORRECTA] ¿Cuál de los siguientes NO es un framework para el desarrollo de aplicaciones híbridas?:",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "66",
+      "fraction" : -3,
+      "text" : "Adobe PhoneGap. ",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "b",
+      "questionId" : "66",
+      "fraction" : -3,
+      "text" : "Ionic.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "c",
+      "questionId" : "66",
+      "fraction" : -3,
+      "text" : "Onsen UI.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "d",
+      "questionId" : "66",
+      "fraction" : 10,
+      "text" : "Zen.",
+      "feedback" : "Correct!"
+    } ]
+  }, {
+    "id" : "67",
+    "quizId" : "csstic-202122",
+    "text" : "67. [ANULADA] Seleccione la opción FALSA de las siguientes afirmaciones:",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "67",
+      "fraction" : -3,
+      "text" : "UTP - cable sin apantallar. ",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "b",
+      "questionId" : "67",
+      "fraction" : -3,
+      "text" : "STP - Cable con cada uno de los pares están aislados con cobertura de malla de aluminio.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "c",
+      "questionId" : "67",
+      "fraction" : -3,
+      "text" : "FTP - cable UTP en el que al conjunto de pares se le rodea por una cubierta o lámina de aluminio.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "d",
+      "questionId" : "67",
+      "fraction" : -3,
+      "text" : "BS/UTP - cable UTP en el que al conjunto de pares se le rodea de una pantalla global de aluminio y una trenza de cobre recubriéndola.",
+      "feedback" : "Wrong!"
+    } ]
+  }, {
+    "id" : "68",
+    "quizId" : "csstic-202122",
+    "text" : "68. ¿Cuál de las siguientes no es un principio de diseño de una Estructura de Descomposición del Trabajo (EDT)?:",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "68",
+      "fraction" : -3,
+      "text" : "Elemento terminal. ",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "b",
+      "questionId" : "68",
+      "fraction" : -3,
+      "text" : "Elementos mutuamente exclusivos.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "c",
+      "questionId" : "68",
+      "fraction" : 10,
+      "text" : "Esquema aleatorio.",
+      "feedback" : "Correct!"
+    }, {
+      "id" : "d",
+      "questionId" : "68",
+      "fraction" : -3,
+      "text" : "Regla del 100%.",
+      "feedback" : "Wrong!"
+    } ]
+  }, {
+    "id" : "69",
+    "quizId" : "csstic-202122",
+    "text" : "69. En los proyectos de desarrollo:",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "69",
+      "fraction" : -3,
+      "text" : "Los proyectos ágiles, a diferencia de los tradicionales, tienen limitaciones de presupuesto, pero no de tiempo. ",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "b",
+      "questionId" : "69",
+      "fraction" : -3,
+      "text" : "Los proyectos tradicionales, a diferencia de los ágiles, tienen limitaciones de tiempo y presupuesto.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "c",
+      "questionId" : "69",
+      "fraction" : -3,
+      "text" : "Los proyectos tradicionales, a diferencia de los ágiles, tienen limitaciones de tiempo, pero no de presupuesto.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "d",
+      "questionId" : "69",
+      "fraction" : 10,
+      "text" : "Tanto los proyectos ágiles, como los tradicionales, tienen limitaciones de tiempo y presupuesto.",
+      "feedback" : "Correct!"
+    } ]
+  }, {
+    "id" : "70",
+    "quizId" : "csstic-202122",
+    "text" : "70. ODBC (Open Database Connectivity) es:",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "70",
+      "fraction" : -3,
+      "text" : "Una interfaz de acceso universal a datos: BBDD, ficheros, Exchange, Directorios… ",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "b",
+      "questionId" : "70",
+      "fraction" : -3,
+      "text" : "Una arquitectura de objetos para simplificar el uso de OleDB.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "c",
+      "questionId" : "70",
+      "fraction" : -3,
+      "text" : "Una interfaz para lenguajes tipo C++ de alto nivel.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "d",
+      "questionId" : "70",
+      "fraction" : 10,
+      "text" : "Una interfaz común de acceso a múltiples Bases de Datos (BBDD) usando SQL.",
+      "feedback" : "Correct!"
+    } ]
+  }, {
+    "id" : "71",
+    "quizId" : "csstic-202122",
+    "text" : "71. Los métodos que propone Métrica v3 para determinar la viabilidad económica de un proyecto son:",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "71",
+      "fraction" : -3,
+      "text" : "Pay-back, Break-even. ",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "b",
+      "questionId" : "71",
+      "fraction" : -3,
+      "text" : "Rentabilidad media, Flujo de caja.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "c",
+      "questionId" : "71",
+      "fraction" : 10,
+      "text" : "Plazo de Retorno de la Inversión y Valor Actual Neto (VAN).",
+      "feedback" : "Correct!"
+    }, {
+      "id" : "d",
+      "questionId" : "71",
+      "fraction" : -3,
+      "text" : "Tasa Interna de Retorno (TIR), Return on Investment (ROI).",
+      "feedback" : "Wrong!"
+    } ]
+  }, {
+    "id" : "72",
+    "quizId" : "csstic-202122",
+    "text" : "72. Para un proyecto que requiere un desembolso inicial de 1M€ y que proporciona un cobro de 1,2 M € al final del tercer año,  tomando como coste de capital el actual índice de referencia €STR del BCE del 3,63%, podemos afirmar que:",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "72",
+      "fraction" : -3,
+      "text" : "El retorno del proyecto no es suficiente para cubrir el coste de capital. ",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "b",
+      "questionId" : "72",
+      "fraction" : -3,
+      "text" : "Tiene un payback de 2 años.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "c",
+      "questionId" : "72",
+      "fraction" : -3,
+      "text" : "Tiene un VAN de 0,2 M €.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "d",
+      "questionId" : "72",
+      "fraction" : 10,
+      "text" : "Tiene una TIR de 6,26%.",
+      "feedback" : "Correct!"
+    } ]
+  }, {
+    "id" : "73",
+    "quizId" : "csstic-202122",
+    "text" : "73. El artículo 1 de la Directiva 2009/24/CE establece que el objeto de la protección son los programas de ordenador. Señale la respuesta INCORRECTA:",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "73",
+      "fraction" : -3,
+      "text" : "Los Estados miembros protegerán mediante derechos de autor los programas de ordenador como obras literarias. ",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "b",
+      "questionId" : "73",
+      "fraction" : 10,
+      "text" : "Las ideas y principios en los que se base cualquiera de los elementos de un programa de ordenador, incluidos los que sirven de fundamento a sus interfaces,  estarán protegidos mediante derechos de autor.",
+      "feedback" : "Correct!"
+    }, {
+      "id" : "c",
+      "questionId" : "73",
+      "fraction" : -3,
+      "text" : "El programa de ordenador quedará protegido si fuere original en el sentido de que sea una creación intelectual propia de su autor.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "d",
+      "questionId" : "73",
+      "fraction" : -3,
+      "text" : "Las disposiciones de la presente Directiva se aplicarán asimismo a los programas creados con anterioridad al 1 de enero de 1993.",
+      "feedback" : "Wrong!"
+    } ]
+  }, {
+    "id" : "74",
+    "quizId" : "csstic-202122",
+    "text" : "74. ¿Cuál de estas herramientas NO se utiliza para evaluar la accesibilidad?:",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "74",
+      "fraction" : -3,
+      "text" : "TAW. ",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "b",
+      "questionId" : "74",
+      "fraction" : -3,
+      "text" : "WAVE.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "c",
+      "questionId" : "74",
+      "fraction" : -3,
+      "text" : "Web Accesibility Toolbar.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "d",
+      "questionId" : "74",
+      "fraction" : 10,
+      "text" : "Winium.",
+      "feedback" : "Correct!"
+    } ]
+  }, {
+    "id" : "75",
+    "quizId" : "csstic-202122",
+    "text" : "75. ¿Cuál es el propósito de la cláusula GROUP BY en SQL?:",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "75",
+      "fraction" : -3,
+      "text" : "Agrupar registros en función de una condición específica. ",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "b",
+      "questionId" : "75",
+      "fraction" : -3,
+      "text" : "Agregar registros duplicados en una tabla.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "c",
+      "questionId" : "75",
+      "fraction" : 10,
+      "text" : "Agrupar filas en función de los valores de una o más columnas.",
+      "feedback" : "Correct!"
+    }, {
+      "id" : "d",
+      "questionId" : "75",
+      "fraction" : -3,
+      "text" : "Ordenar los resultados de una consulta de manera ascendente.",
+      "feedback" : "Wrong!"
+    } ]
+  }, {
+    "id" : "76",
+    "quizId" : "csstic-202122",
+    "text" : "76. Las Pautas de Accesibilidad al Contenido en la Web (WCAG 2.0) están organizadas en cuatro principios que conforman los conceptos fundamentales sobre los que se asienta la accesibilidad: Perceptibilidad, Operabilidad, Comprensibilidad y Robustez. Dentro de cada principio se encuentran las pautas de accesibilidad. ¿Dentro de qué principio se encuadra la pauta \"Tiempo suficiente\"?:",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "76",
+      "fraction" : -3,
+      "text" : "Perceptibilidad. ",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "b",
+      "questionId" : "76",
+      "fraction" : 10,
+      "text" : "Operabilidad.",
+      "feedback" : "Correct!"
+    }, {
+      "id" : "c",
+      "questionId" : "76",
+      "fraction" : -3,
+      "text" : "Comprensibilidad.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "d",
+      "questionId" : "76",
+      "fraction" : -3,
+      "text" : "Robustez.",
+      "feedback" : "Wrong!"
+    } ]
+  }, {
+    "id" : "77",
+    "quizId" : "csstic-202122",
+    "text" : "77. ¿Qué tecnología de almacenamiento se utiliza comúnmente para proporcionar alta disponibilidad y redundancia de datos en sistemas críticos?:",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "77",
+      "fraction" : -3,
+      "text" : "Almacenamiento en caché. ",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "b",
+      "questionId" : "77",
+      "fraction" : 10,
+      "text" : "RAID (Redundant Array of Independent Disks).",
+      "feedback" : "Correct!"
+    }, {
+      "id" : "c",
+      "questionId" : "77",
+      "fraction" : -3,
+      "text" : "Almacenamiento de bloques.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "d",
+      "questionId" : "77",
+      "fraction" : -3,
+      "text" : "Unidades de cinta magnética.",
+      "feedback" : "Wrong!"
+    } ]
+  }, {
+    "id" : "78",
+    "quizId" : "csstic-202122",
+    "text" : "78. ¿Qué organismo es responsable de supervisar la aplicación del Reglamento General de Protección de Datos (GDPR) en la Unión Europea?:",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "78",
+      "fraction" : -3,
+      "text" : "Comisión Europea. ",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "b",
+      "questionId" : "78",
+      "fraction" : -3,
+      "text" : "Supervisor Europeo de Protección de Datos (SEPD).",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "c",
+      "questionId" : "78",
+      "fraction" : 10,
+      "text" : "Comité Europeo de Protección de Datos (CEPD).",
+      "feedback" : "Correct!"
+    }, {
+      "id" : "d",
+      "questionId" : "78",
+      "fraction" : -3,
+      "text" : "Consejo Económico y Social Europeo (CESE).",
+      "feedback" : "Wrong!"
+    } ]
+  }, {
+    "id" : "79",
+    "quizId" : "csstic-202122",
+    "text" : "79. El RD 1112/2018 sobre accesibilidad de los sitios web y aplicaciones para dispositivos móviles del Sector Público aplica a los contenidos siguientes. Señale la respueta INCORRECTA:",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "79",
+      "fraction" : -3,
+      "text" : "Información textual y no textual. ",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "b",
+      "questionId" : "79",
+      "fraction" : -3,
+      "text" : "Documentos y formularios que se puedan descargar.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "c",
+      "questionId" : "79",
+      "fraction" : -3,
+      "text" : "Formas de interacción entre la persona interesada y el sitio web o aplicación para dispositivos móviles.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "d",
+      "questionId" : "79",
+      "fraction" : 10,
+      "text" : "Contenido multimedia en directo (que se emite en directo) de base temporal.",
+      "feedback" : "Correct!"
+    } ]
+  }, {
+    "id" : "80",
+    "quizId" : "csstic-202122",
+    "text" : "80. De acuerdo al Esquema Nacional de Seguridad, ¿cuál de las siguientes afirmaciones es CIERTA?:",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "80",
+      "fraction" : -3,
+      "text" : "La integridad es la propiedad o característica consistente en que el activo de información ha sido alterado de manera no autorizada. ",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "b",
+      "questionId" : "80",
+      "fraction" : 10,
+      "text" : "La integridad es la propiedad o característica consistente en que el activo de información no ha sido alterado de manera no autorizada.",
+      "feedback" : "Correct!"
+    }, {
+      "id" : "c",
+      "questionId" : "80",
+      "fraction" : -3,
+      "text" : "La integridad es la propiedad o característica consistente en que la degradación que sufre el activo no supera el riesgo asumible.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "d",
+      "questionId" : "80",
+      "fraction" : -3,
+      "text" : "La integridad es la propiedad o característica consistente en que el activo de información no puede ser accesible por terceros sin autorización.",
+      "feedback" : "Wrong!"
+    } ]
+  }, {
+    "id" : "81",
+    "quizId" : "csstic-202122",
+    "text" : "81. Señale cuál de las siguientes afirmaciones es INCORRECTA respecto a la Carpeta Ciudadana de la Administración General del Estado:",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "81",
+      "fraction" : 10,
+      "text" : "Almacena datos personales y de expedientes del ciudadano, que accede a su información sin necesidad de registro previo en la aplicación, a través del sistema Cl@ve. ",
+      "feedback" : "Correct!"
+    }, {
+      "id" : "b",
+      "questionId" : "81",
+      "fraction" : -3,
+      "text" : "Ofrece la consulta de la Historia Clínica Digital del Sistema Nacional de Salud, permitiendo visualizar de manera unificada la información procedente de los diferentes servicios sanitarios de las Comunidades Autónomas en un único interfaz y permitiendo compartir datos sanitarios en el caso de desplazamientos.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "c",
+      "questionId" : "81",
+      "fraction" : -3,
+      "text" : "Permite la consulta de los expedientes registrados con diferentes organismos de las administraciones públicas, tanto los relacionados con la Administración General del Estado, como los de las Comunidades Autónomas adheridas.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "d",
+      "questionId" : "81",
+      "fraction" : -3,
+      "text" : "Permite realizar envíos de escritos y solicitudes a través del REG (Registro Electrónico General), que podrán dirigirse a las diferentes administraciones públicas de los diferentes niveles administrativos.",
+      "feedback" : "Wrong!"
+    } ]
+  }, {
+    "id" : "82",
+    "quizId" : "csstic-202122",
+    "text" : "82. El protocolo MESI es un protocolo de coherencia de caché y coherencia de memoria y sus siglas significan:",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "82",
+      "fraction" : 10,
+      "text" : "Modified, Exclusive, Shared, Invalid. ",
+      "feedback" : "Correct!"
+    }, {
+      "id" : "b",
+      "questionId" : "82",
+      "fraction" : -3,
+      "text" : "Memory Extended Shared Interface.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "c",
+      "questionId" : "82",
+      "fraction" : -3,
+      "text" : "Memory Exclusive Soft Index.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "d",
+      "questionId" : "82",
+      "fraction" : -3,
+      "text" : "Multi Enviroment Shared Interface.",
+      "feedback" : "Wrong!"
+    } ]
+  }, {
+    "id" : "83",
+    "quizId" : "csstic-202122",
+    "text" : "83. ¿Cuál es el propósito principal de la etiqueta <object> en HTML?:",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "83",
+      "fraction" : -3,
+      "text" : "Mostrar imágenes en línea en una página web. ",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "b",
+      "questionId" : "83",
+      "fraction" : -3,
+      "text" : "Reproducir contenido multimedia como videos y audio.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "c",
+      "questionId" : "83",
+      "fraction" : -3,
+      "text" : "Insertar contenido dinámico generado por JavaScript.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "d",
+      "questionId" : "83",
+      "fraction" : 10,
+      "text" : "Incrustar objetos externos, como applets o contenido interactivo.",
+      "feedback" : "Correct!"
+    } ]
+  }, {
+    "id" : "84",
+    "quizId" : "csstic-202122",
+    "text" : "84. Con respecto a PHP y HTML:",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "84",
+      "fraction" : 10,
+      "text" : "Las páginas de PHP contienen HTML con código incrustado PHP, que permiten entrar y salir del \"modo PHP\". El código PHP es ejecutado en el servidor y no se mostrará al navegador cliente. ",
+      "feedback" : "Correct!"
+    }, {
+      "id" : "b",
+      "questionId" : "84",
+      "fraction" : -3,
+      "text" : "Las páginas de PHP contienen HTML con código incrustado PHP, que permiten entrar y salir del \"modo PHP\". El código PHP es ejecutado en el navegador cliente.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "c",
+      "questionId" : "84",
+      "fraction" : -3,
+      "text" : "Las páginas HTML contienen código incrustado PHP entre las etiquetas especiales de comienzo y final <?html y ?>, que permiten entrar y salir del \"modo PHP\". El código HTML es ejecutado en el servidor y no se mostrará al navegador cliente.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "d",
+      "questionId" : "84",
+      "fraction" : -3,
+      "text" : "Las páginas HTML contienen código incrustado PHP entre las etiquetas especiales de comienzo y final <?html y ?>, que permiten entrar y salir del \"modo PHP\". El código HTML es ejecutado en el navegador cliente.",
+      "feedback" : "Wrong!"
+    } ]
+  }, {
+    "id" : "85",
+    "quizId" : "csstic-202122",
+    "text" : "85. ¿En qué artículo del Esquema Nacional de Interoperabilidad se establece la preferencia de la licencia EUPL como la adecuada para liberar software cuya propiedad intelectual recaiga en la Administración Española?:",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "85",
+      "fraction" : -3,
+      "text" : "Artículo 10. ",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "b",
+      "questionId" : "85",
+      "fraction" : 10,
+      "text" : "Artículo 16.",
+      "feedback" : "Correct!"
+    }, {
+      "id" : "c",
+      "questionId" : "85",
+      "fraction" : -3,
+      "text" : "Artículo 20.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "d",
+      "questionId" : "85",
+      "fraction" : -3,
+      "text" : "Artículo 21.",
+      "feedback" : "Wrong!"
+    } ]
+  }, {
+    "id" : "86",
+    "quizId" : "csstic-202122",
+    "text" : "86. En el campo del aprendizaje automático o \"Machine Learning\", indique la respuesta CORRECTA respecto a las técnicas de aprendizaje por refuerzo:",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "86",
+      "fraction" : -3,
+      "text" : "Para este tipo de aprendizaje, se utilizan conjuntos de datos etiquetados y no etiquetados, con el fin de reducir el coste de obtención de los conjuntos de datos iniciales. ",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "b",
+      "questionId" : "86",
+      "fraction" : 10,
+      "text" : "El aprendizaje se basa en la interacción del agente con un entorno en el que el agente realiza acciones por las que obtiene recompensas o penalizaciones en base a las cuales aprende la estrategia más adecuada.",
+      "feedback" : "Correct!"
+    }, {
+      "id" : "c",
+      "questionId" : "86",
+      "fraction" : -3,
+      "text" : "Requieren de conjuntos de datos históricos mayores que los necesarios para el resto de técnicas de aprendizaje.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "d",
+      "questionId" : "86",
+      "fraction" : -3,
+      "text" : "Se aplican fundamentalmente para el agrupamiento de conjuntos de datos o \"clustering\".",
+      "feedback" : "Wrong!"
+    } ]
+  }, {
+    "id" : "87",
+    "quizId" : "csstic-202122",
+    "text" : "87. Indique cuál de los siguientes NO es un framework de Deep Learning:",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "87",
+      "fraction" : -3,
+      "text" : "PyTorch. ",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "b",
+      "questionId" : "87",
+      "fraction" : 10,
+      "text" : "DeepMind.",
+      "feedback" : "Correct!"
+    }, {
+      "id" : "c",
+      "questionId" : "87",
+      "fraction" : -3,
+      "text" : "Caffe.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "d",
+      "questionId" : "87",
+      "fraction" : -3,
+      "text" : "MXNet.",
+      "feedback" : "Wrong!"
+    } ]
+  }, {
+    "id" : "88",
+    "quizId" : "csstic-202122",
+    "text" : "88. Indique cuál de las siguientes es una de las medidas que incluye la Estrategia Nacional de inteligencia Artificial (ENIA) en relación con la ética en la IA:",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "88",
+      "fraction" : -3,
+      "text" : "Medida 7. Creación del Consejo Asesor de IA, dependiente del Consejo Consultivo de Administración Digital. ",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "b",
+      "questionId" : "88",
+      "fraction" : -3,
+      "text" : "Medida 15. Impulso de la nueva Ley Nacional para la IA, alineada con el Libro Blanco sobre IA de la Comisión Europea.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "c",
+      "questionId" : "88",
+      "fraction" : -3,
+      "text" : "Medida 6. Reforzar la protección del derecho a la protección de datos de las personas en el uso de la IA.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "d",
+      "questionId" : "88",
+      "fraction" : 10,
+      "text" : "Medida 29. Puesta en marcha de un modelo de gobernanza nacional de la ética en la IA.",
+      "feedback" : "Correct!"
+    } ]
+  }, {
+    "id" : "89",
+    "quizId" : "csstic-202122",
+    "text" : "89. Selenium es una librería de Python que se usa en ciencia de datos para:",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "89",
+      "fraction" : 10,
+      "text" : "Web Scraping. ",
+      "feedback" : "Correct!"
+    }, {
+      "id" : "b",
+      "questionId" : "89",
+      "fraction" : -3,
+      "text" : "Minería de Datos.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "c",
+      "questionId" : "89",
+      "fraction" : -3,
+      "text" : "Es un algoritimo de IA.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "d",
+      "questionId" : "89",
+      "fraction" : -3,
+      "text" : "Es una librería Data Translator.",
+      "feedback" : "Wrong!"
+    } ]
+  }, {
+    "id" : "90",
+    "quizId" : "csstic-202122",
+    "text" : "90. En el área de la ciencia de datos, la regresión lineal se usa fundamentalmente en los procesos de:",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "90",
+      "fraction" : -3,
+      "text" : "Preprocesamiento de la información. ",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "b",
+      "questionId" : "90",
+      "fraction" : -3,
+      "text" : "Validación.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "c",
+      "questionId" : "90",
+      "fraction" : 10,
+      "text" : "Modelado.",
+      "feedback" : "Correct!"
+    }, {
+      "id" : "d",
+      "questionId" : "90",
+      "fraction" : -3,
+      "text" : "ETL.",
+      "feedback" : "Wrong!"
+    } ]
+  }, {
+    "id" : "91",
+    "quizId" : "csstic-202122",
+    "text" : "91. [ANULADA] IMS, SCORM y AICC se desarrollaron como estándares para plataformas de e-learnig para una de las siguientes funciones:",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "91",
+      "fraction" : -3,
+      "text" : "Acceder a contenidos. ",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "b",
+      "questionId" : "91",
+      "fraction" : -3,
+      "text" : "Crear contenidos.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "c",
+      "questionId" : "91",
+      "fraction" : -3,
+      "text" : "Recopilar contenidos.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "d",
+      "questionId" : "91",
+      "fraction" : -3,
+      "text" : "Conectar contenidos.",
+      "feedback" : "Wrong!"
+    } ]
+  }, {
+    "id" : "92",
+    "quizId" : "csstic-202122",
+    "text" : "92. En los sistema de información geográfica, ¿cuál es la característica más importante del modelo de datos vectorial frente al ráster?:",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "92",
+      "fraction" : -3,
+      "text" : "Que tiene su origen en las técnicas de teledetección, a diferencia del modelo de datos ráster. ",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "b",
+      "questionId" : "92",
+      "fraction" : 10,
+      "text" : "La capacidad de gestión topológica de sus elementos, que permite una mayor riqueza y capacidad de representación de la realidad espacial, que a su vez se traduce en una mayor complejidad frente al modelo ráster.",
+      "feedback" : "Correct!"
+    }, {
+      "id" : "c",
+      "questionId" : "92",
+      "fraction" : -3,
+      "text" : "El modelo de datos vectorial no permite la gestión topológica de sus elementos, a diferencia del ráster que sí la permite.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "d",
+      "questionId" : "92",
+      "fraction" : -3,
+      "text" : "El modelo de datos vectorial es más adecuado para problemas que admiten algún tipo de formulación analítica, mientras que los de tipo ráster se presenta a problemas de gestión que requieran modelización del terreno mediante polígonos, redes, etc.",
+      "feedback" : "Wrong!"
+    } ]
+  }, {
+    "id" : "93",
+    "quizId" : "csstic-202122",
+    "text" : "93. En el ámbito de la tecnología WDM (Wavelength Division Multiplexing o Multiplexación por división de la longitud de onda), señale cuál de las siguientes afirmaciones es INCORRECTA:",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "93",
+      "fraction" : 10,
+      "text" : "DWDM proporciona un mayor número de canales ópticos que CWDM con una mayor dispersión cromática de los mismos. ",
+      "feedback" : "Correct!"
+    }, {
+      "id" : "b",
+      "questionId" : "93",
+      "fraction" : -3,
+      "text" : "CWDM permite menores distancias de transmisión, con la contrapartida de un mayor espectro óptico y costes menores de los equipos.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "c",
+      "questionId" : "93",
+      "fraction" : -3,
+      "text" : "El uso de amplificadores de fibra dopada con erbio (EDFA) permite aumentar la distancia de transmisión de los sistemas DWDM.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "d",
+      "questionId" : "93",
+      "fraction" : -3,
+      "text" : "DWDM opera habitualmente en las bandas C y L, con espaciados entre canales desde los 50GHz.",
+      "feedback" : "Wrong!"
+    } ]
+  }, {
+    "id" : "94",
+    "quizId" : "csstic-202122",
+    "text" : "94. [ANULADA] El Sistema de Información Catastral (SIC):",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "94",
+      "fraction" : -3,
+      "text" : "No es un sistema de información geográfica. ",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "b",
+      "questionId" : "94",
+      "fraction" : -3,
+      "text" : "Sólo almacena datos geográficos y descripciones a nivel urbano, pero no a nivel rústico.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "c",
+      "questionId" : "94",
+      "fraction" : -3,
+      "text" : "Es un sistema de información geográfica que almacena cartografía vectorial y al que se puede acceder a través de la Oficina Virtual del Catastro.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "d",
+      "questionId" : "94",
+      "fraction" : -3,
+      "text" : "No almacena cartografía vectorial.",
+      "feedback" : "Wrong!"
+    } ]
+  }, {
+    "id" : "95",
+    "quizId" : "csstic-202122",
+    "text" : "95. Un data lake o lago de datos es un repositorio centralizado que permite almacenar, compartir, gobernar y descubrir todos los datos estructurados y no estructurados de una organización a cualquier escala. ¿Cuál de las siguientes opciones corresponden a componentes asociados a un Data Lake?:",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "95",
+      "fraction" : -3,
+      "text" : "Extracción, almacenamiento y diseño de los datos. ",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "b",
+      "questionId" : "95",
+      "fraction" : 10,
+      "text" : "Ingesta, almacenamiento y seguridad de los datos.",
+      "feedback" : "Correct!"
+    }, {
+      "id" : "c",
+      "questionId" : "95",
+      "fraction" : -3,
+      "text" : "Transformación, almacenamiento y seguridad de los datos.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "d",
+      "questionId" : "95",
+      "fraction" : -3,
+      "text" : "Carga, almacenamiento y distribución de los datos.",
+      "feedback" : "Wrong!"
+    } ]
+  }, {
+    "id" : "96",
+    "quizId" : "csstic-202122",
+    "text" : "96. En el contexto de los vocabularios y ontologías, \"http://www.w3.org/ns/dcat#\" y \"dcat\" representan respectivamente:",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "96",
+      "fraction" : -3,
+      "text" : "La URL del W3C y su dirección corta. ",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "b",
+      "questionId" : "96",
+      "fraction" : -3,
+      "text" : "La URL del Marco de Descripción de Recursos (RDF) y su alias.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "c",
+      "questionId" : "96",
+      "fraction" : -3,
+      "text" : "El prefijo del vocabulario DCAT y su espacio de nombres.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "d",
+      "questionId" : "96",
+      "fraction" : 10,
+      "text" : "El espacio de nombres para los términos DCAT y su correspondiente prefijo.",
+      "feedback" : "Correct!"
+    } ]
+  }, {
+    "id" : "97",
+    "quizId" : "csstic-202122",
+    "text" : "97. Según la Guía de aplicación de la Norma Técnica de Interoperabilidad de Reutilización de recursos de  información, la preparación y representación de la información reutilizable consiste en los siguientes pasos:",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "97",
+      "fraction" : -3,
+      "text" : "Identificar los recursos de información, describir los identificadores de recursos Linked Data, y representar la información en el formato adecuado. ",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "b",
+      "questionId" : "97",
+      "fraction" : 10,
+      "text" : "Identificar los recursos de información, describir la información reutilizable y representar la información en el formato adecuado.",
+      "feedback" : "Correct!"
+    }, {
+      "id" : "c",
+      "questionId" : "97",
+      "fraction" : -3,
+      "text" : "Identificar los recursos de información, enumerar los conjuntos de datos,  y representar la información en el formato adecuado.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "d",
+      "questionId" : "97",
+      "fraction" : -3,
+      "text" : "Identificar los recursos de información, describir los metadatos asociados a los datos y representar la información en el formato adecuado.",
+      "feedback" : "Wrong!"
+    } ]
+  }, {
+    "id" : "98",
+    "quizId" : "csstic-202122",
+    "text" : "98. ¿Qué ley establece la obligatoriedad del uso de la factura electrónica en el marco de la contratación con el sector público estatal?:",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "98",
+      "fraction" : -3,
+      "text" : "Ley 34/2002, de servicios de la sociedad de la información y comercio electrónico. ",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "b",
+      "questionId" : "98",
+      "fraction" : 10,
+      "text" : "Ley 56/2007, de medidas de impulso de la sociedad de la información.",
+      "feedback" : "Correct!"
+    }, {
+      "id" : "c",
+      "questionId" : "98",
+      "fraction" : -3,
+      "text" : "Ley 9/2014, general de telecomunicaciones.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "d",
+      "questionId" : "98",
+      "fraction" : -3,
+      "text" : "Ley 59/2003, de firma electrónica.",
+      "feedback" : "Wrong!"
+    } ]
+  }, {
+    "id" : "99",
+    "quizId" : "csstic-202122",
+    "text" : "99. ¿Qué longitud de onda se utiliza en el canal ascendente en una red GPON?:",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "99",
+      "fraction" : -3,
+      "text" : "1490nm. ",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "b",
+      "questionId" : "99",
+      "fraction" : -3,
+      "text" : "1520nm.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "c",
+      "questionId" : "99",
+      "fraction" : -3,
+      "text" : "1425nm.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "d",
+      "questionId" : "99",
+      "fraction" : 10,
+      "text" : "1310nm.",
+      "feedback" : "Correct!"
+    } ]
+  }, {
+    "id" : "100",
+    "quizId" : "csstic-202122",
+    "text" : "100. ¿Cuál de las siguientes afirmaciones es CIERTA acerca de los distintos formatos de empaquetado de aplicaciones en Java?:",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "100",
+      "fraction" : -3,
+      "text" : "El formato JAR se utiliza únicamente para empaquetar bibliotecas y dependencias. ",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "b",
+      "questionId" : "100",
+      "fraction" : 10,
+      "text" : "El formato WAR se utiliza principalmente para empaquetar aplicaciones web en Java.",
+      "feedback" : "Correct!"
+    }, {
+      "id" : "c",
+      "questionId" : "100",
+      "fraction" : -3,
+      "text" : "El formato EAR se utiliza exclusivamente para empaquetar aplicaciones Java para dispositivos móviles.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "d",
+      "questionId" : "100",
+      "fraction" : -3,
+      "text" : "El formato JRE es un formato de empaquetado especializado para ejecutables de Java.",
+      "feedback" : "Wrong!"
+    } ]
+  }, {
+    "id" : "101",
+    "quizId" : "csstic-202122",
+    "text" : "101. ¿Cuál de las siguientes afirmaciones sobre procedimientos de cifrado en flujo es CIERTA?:",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "101",
+      "fraction" : -3,
+      "text" : "Forman parte de los criptosistemas de clave pública. ",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "b",
+      "questionId" : "101",
+      "fraction" : -3,
+      "text" : "Forman parte de los criptosistemas de cifrado en bloque.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "c",
+      "questionId" : "101",
+      "fraction" : 10,
+      "text" : "Forman parte de los criptosistemas de clave secreta.",
+      "feedback" : "Correct!"
+    }, {
+      "id" : "d",
+      "questionId" : "101",
+      "fraction" : -3,
+      "text" : "Ninguna de las afirmaciones anteriores.",
+      "feedback" : "Wrong!"
+    } ]
+  }, {
+    "id" : "102",
+    "quizId" : "csstic-202122",
+    "text" : "102. En el caso de que en el interior de un edificio sea imposible acceder al mismo y a cada una de las viviendas mediante fibra óptica, ¿cómo se podría suministrar una conexión simétrica de hasta 100Mbps?:",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "102",
+      "fraction" : 10,
+      "text" : "Mediante una arquitectura HFC:  FTTC/FTTCab + estándar DOCSIS3.0 con cable coaxial hasta el usuario. ",
+      "feedback" : "Correct!"
+    }, {
+      "id" : "b",
+      "questionId" : "102",
+      "fraction" : -3,
+      "text" : "FTTH.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "c",
+      "questionId" : "102",
+      "fraction" : -3,
+      "text" : "Mediante una arquitectura mixta:  FTTC/FTTCab + ADSL hasta el usuario.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "d",
+      "questionId" : "102",
+      "fraction" : -3,
+      "text" : "Todas las opciones son correctas.",
+      "feedback" : "Wrong!"
+    } ]
+  }, {
+    "id" : "103",
+    "quizId" : "csstic-202122",
+    "text" : "103. [ANULADA] ¿Cuál de los siguientes conceptos es fundamental para el funcionamiento de los procedimientos de cifrado en flujo?:",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "103",
+      "fraction" : -3,
+      "text" : "Difusión. ",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "b",
+      "questionId" : "103",
+      "fraction" : -3,
+      "text" : "Secreto perfecto.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "c",
+      "questionId" : "103",
+      "fraction" : -3,
+      "text" : "Aleatoriedad.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "d",
+      "questionId" : "103",
+      "fraction" : -3,
+      "text" : "Pseudoaleatoriedad.",
+      "feedback" : "Wrong!"
+    } ]
+  }, {
+    "id" : "104",
+    "quizId" : "csstic-202122",
+    "text" : "104. La Guía de Evaluación del Gobierno, Gestión y Gestión de la Calidad del Dato se realiza en base a la definición dada para esos procesos en las especificaciones:",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "104",
+      "fraction" : -3,
+      "text" : "ISO/IEC 330078, ISO/IEC 330079, ISO/IEC 330080. ",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "b",
+      "questionId" : "104",
+      "fraction" : 10,
+      "text" : "UNE 0077:2023, UNE 0078:2023, UNE 0079:2023.",
+      "feedback" : "Correct!"
+    }, {
+      "id" : "c",
+      "questionId" : "104",
+      "fraction" : -3,
+      "text" : "UNE 0076:2023, UNE 0077:2023, UNE 0078:2023.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "d",
+      "questionId" : "104",
+      "fraction" : -3,
+      "text" : "ISO/IEC 330076, ISO/IEC 330077, ISO/IEC 330078.",
+      "feedback" : "Wrong!"
+    } ]
+  }, {
+    "id" : "105",
+    "quizId" : "csstic-202122",
+    "text" : "105. Señale cuál de las siguientes opciones NO es un gestor de contenidos:",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "105",
+      "fraction" : -3,
+      "text" : "Wordpress. ",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "b",
+      "questionId" : "105",
+      "fraction" : -3,
+      "text" : "Joomla.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "c",
+      "questionId" : "105",
+      "fraction" : -3,
+      "text" : "Drupal.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "d",
+      "questionId" : "105",
+      "fraction" : 10,
+      "text" : "RSS.",
+      "feedback" : "Correct!"
+    } ]
+  } ]
+}
