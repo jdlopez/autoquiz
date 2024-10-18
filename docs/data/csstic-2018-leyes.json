@@ -1,0 +1,1026 @@
+{
+  "id" : "csstic-2018-leyes",
+  "title" : "CSSTIC OEP 2018 LEYES",
+  "instructions" : "",
+  "showPublic" : false,
+  "showCorrect" : false,
+  "suffleQuestions" : true,
+  "passFraction" : 100,
+  "fractionSuccess" : 100,
+  "fractionWrong" : 0,
+  "answernumbering" : "LETTERS",
+  "shuffleanswers" : false,
+  "active" : false,
+  "questions" : [ {
+    "id" : "1",
+    "quizId" : "csstic-2018-leyes",
+    "text" : "1. El artículo 31 de la Constitución Española de 1978 regula el principio de capacidad económica y no confiscatoriedad y establece:",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "1",
+      "fraction" : 0,
+      "text" : "Un sistema tributario justo y el carácter progresivo de todos los impuestos sin que, en ningún caso, tenga alcance confiscatorio. ",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "b",
+      "questionId" : "1",
+      "fraction" : 100,
+      "text" : "Un sistema tributario justo inspirado en los principios de igualdad y progresividad que, en ningún caso, tendrá alcance confiscatorio.",
+      "feedback" : "Correct!"
+    }, {
+      "id" : "c",
+      "questionId" : "1",
+      "fraction" : 0,
+      "text" : "Un sistema tributario justo inspirado en los principios de igualdad y proporcionalidad que, en ningún caso, tenga alcance confiscatorio.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "d",
+      "questionId" : "1",
+      "fraction" : 0,
+      "text" : "Un sistema tributario justo inspirado en los principios de igualdad y regresividad que, en ningún caso, tenga alcance confiscatorio.",
+      "feedback" : "Wrong!"
+    } ]
+  }, {
+    "id" : "2",
+    "quizId" : "csstic-2018-leyes",
+    "text" : "2. Según el artículo 86 de la Constitución Española de 1978, los decretos-leyes:",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "2",
+      "fraction" : 0,
+      "text" : "Pueden regular materia electoral general en caso de urgente necesidad. ",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "b",
+      "questionId" : "2",
+      "fraction" : 0,
+      "text" : "Para dictar estas normas es necesaria la delegación previa de las Cortes Generales.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "d",
+      "questionId" : "2",
+      "fraction" : 0,
+      "text" : "b. Para dictar estas normas es necesaria la delegación previa de las Cortes Generales. c. Después de ser promulgados deberán ser inmediatamente sometidos a debate y votación de totalidad al Congreso de los Diputados. d. La potestad de dictarlos la tiene el Presidente del Gobierno.",
+      "feedback" : "Wrong!"
+    } ]
+  }, {
+    "id" : "3",
+    "quizId" : "csstic-2018-leyes",
+    "text" : "3. Según la Ley 9/2017, de Contratos del Sector Público, se produce una “transferencia del riesgo operacional” en los contratos de tipo:",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "3",
+      "fraction" : 0,
+      "text" : "Obras y Servicios. ",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "b",
+      "questionId" : "3",
+      "fraction" : 100,
+      "text" : "Concesión de Obras y Concesión de Servicios.",
+      "feedback" : "Correct!"
+    }, {
+      "id" : "c",
+      "questionId" : "3",
+      "fraction" : 0,
+      "text" : "Suministros.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "d",
+      "questionId" : "3",
+      "fraction" : 0,
+      "text" : "Todas las respuestas anteriores son correctas.",
+      "feedback" : "Wrong!"
+    } ]
+  }, {
+    "id" : "4",
+    "quizId" : "csstic-2018-leyes",
+    "text" : "4. La publicación, por parte del órgano de contratación, de un anuncio de información previa, de conformidad con el artículo 134, de la Ley 9/2017, de Contratos del Sector Público, permitirá reducir los plazos de presentación de proposiciones en:",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "4",
+      "fraction" : 0,
+      "text" : "Los procedimientos abiertos. ",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "b",
+      "questionId" : "4",
+      "fraction" : 0,
+      "text" : "Los procedimientos restringidos.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "c",
+      "questionId" : "4",
+      "fraction" : 100,
+      "text" : "Son correctas las dos respuestas anteriores.",
+      "feedback" : "Correct!"
+    }, {
+      "id" : "d",
+      "questionId" : "4",
+      "fraction" : 0,
+      "text" : "La publicación de un anuncio de información previa no permite, en ningún caso reducir los plazos de  presentación de proposiciones.",
+      "feedback" : "Wrong!"
+    } ]
+  }, {
+    "id" : "5",
+    "quizId" : "csstic-2018-leyes",
+    "text" : "5. Según el artículo 41 de la Ley 47/2003, General Presupuestaria, en el ámbito de los Presupuestos Generales del Estado, y para órganos con presupuesto de caracter limitativo, los estados de ingresos se estructuran siguiendo:",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "5",
+      "fraction" : 0,
+      "text" : "Las clasificaciones orgánica, por programas y económica. ",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "b",
+      "questionId" : "5",
+      "fraction" : 100,
+      "text" : "Las clasificaciones orgánica y económica.",
+      "feedback" : "Correct!"
+    }, {
+      "id" : "c",
+      "questionId" : "5",
+      "fraction" : 0,
+      "text" : "Las clasificaciones orgánica y por programas.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "d",
+      "questionId" : "5",
+      "fraction" : 0,
+      "text" : "Las clasificaciones por programas y económica.",
+      "feedback" : "Wrong!"
+    } ]
+  }, {
+    "id" : "6",
+    "quizId" : "csstic-2018-leyes",
+    "text" : "6. El procedimiento ordinario de concesión de subvenciones es:",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "6",
+      "fraction" : 0,
+      "text" : "Asignación nominativa en los presupuestos correspondientes. ",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "b",
+      "questionId" : "6",
+      "fraction" : 100,
+      "text" : "La concurrencia competitiva.",
+      "feedback" : "Correct!"
+    }, {
+      "id" : "c",
+      "questionId" : "6",
+      "fraction" : 0,
+      "text" : "La concesión directa.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "d",
+      "questionId" : "6",
+      "fraction" : 0,
+      "text" : "La concurrencia restringida.",
+      "feedback" : "Wrong!"
+    } ]
+  }, {
+    "id" : "7",
+    "quizId" : "csstic-2018-leyes",
+    "text" : "7. La duración de un convenio suscrito por una Administración Pública, de conformidad con el artículo 49 de la Ley 40/2015, de Régimen Jurídico del Sector Público (sin considerar las posibles prórrogas):",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "7",
+      "fraction" : 0,
+      "text" : "Deberá tener una duración determinada, que no podrá ser superior a 6 años, salvo que normativamente se prevea un plazo superior. ",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "b",
+      "questionId" : "7",
+      "fraction" : 100,
+      "text" : "Deberán tener una duración determinada, que no podrá ser superior a 4 años, salvo que normativamente se prevea un plazo superior.",
+      "feedback" : "Correct!"
+    }, {
+      "id" : "c",
+      "questionId" : "7",
+      "fraction" : 0,
+      "text" : "Deberán tener una duración determinada o determinable, de conformidad con las normas establecidas en el propio convenio, sin que en ningún caso, pueda ser superior a 6 años.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "d",
+      "questionId" : "7",
+      "fraction" : 0,
+      "text" : "La Ley 40/2015 no regula la duración de los convenios que puedan suscribir las Administraciones Públicas.",
+      "feedback" : "Wrong!"
+    } ]
+  }, {
+    "id" : "8",
+    "quizId" : "csstic-2018-leyes",
+    "text" : "8. Durante la reciente crisis global y según Eurostat, la economía española ha visto aumentar la productividad total de los factores (PTF), como consecuencia de:",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "8",
+      "fraction" : 0,
+      "text" : "El progreso tecnológico. ",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "b",
+      "questionId" : "8",
+      "fraction" : 0,
+      "text" : "El descenso de la producción.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "c",
+      "questionId" : "8",
+      "fraction" : 100,
+      "text" : "La destrucción de empleo en determinados sectores.",
+      "feedback" : "Correct!"
+    }, {
+      "id" : "d",
+      "questionId" : "8",
+      "fraction" : 0,
+      "text" : "El incremento de la producción.",
+      "feedback" : "Wrong!"
+    } ]
+  }, {
+    "id" : "9",
+    "quizId" : "csstic-2018-leyes",
+    "text" : "9. En el ámbito de las reformas del sistema de pensiones de 2011 y 2013, el factor de sostenibilidad hace alusión a:",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "9",
+      "fraction" : 0,
+      "text" : "El compromiso con el crecimiento de las pensiones por encima de la inflación. ",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "b",
+      "questionId" : "9",
+      "fraction" : 100,
+      "text" : "La reconsideración periódica del sistema en función del equilibrio entre cotizaciones y prestaciones.",
+      "feedback" : "Correct!"
+    }, {
+      "id" : "c",
+      "questionId" : "9",
+      "fraction" : 0,
+      "text" : "La igualdad entre el valor capitalizado de las aportaciones y la cuantía percibida en el momento de la jubilación.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "d",
+      "questionId" : "9",
+      "fraction" : 0,
+      "text" : "Las políticas de fomento de natalidad, para garantizar una ratio sostenible entre cotizantes y pasivos.",
+      "feedback" : "Wrong!"
+    } ]
+  }, {
+    "id" : "10",
+    "quizId" : "csstic-2018-leyes",
+    "text" : "10. El que España sea uno de los países de la Unión Europea con indicadores más altos de concentración de la renta:",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "10",
+      "fraction" : 0,
+      "text" : "Es una medida de la equidad en su distribución. ",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "b",
+      "questionId" : "10",
+      "fraction" : 0,
+      "text" : "Garantiza una mayor estabilidad social.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "c",
+      "questionId" : "10",
+      "fraction" : 100,
+      "text" : "Es consecuencia del efecto regresivo de la crisis.",
+      "feedback" : "Correct!"
+    }, {
+      "id" : "d",
+      "questionId" : "10",
+      "fraction" : 0,
+      "text" : "Es síntoma de la reducción en la desigualdad.",
+      "feedback" : "Wrong!"
+    } ]
+  }, {
+    "id" : "11",
+    "quizId" : "csstic-2018-leyes",
+    "text" : "11. La Estrategia Europa 2020, aprobada por el Consejo Europeo, fijó objetivos en los siguientes ámbitos:",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "11",
+      "fraction" : 0,
+      "text" : "Crecimiento, inflación, déficit público, déficit exterior y desempleo. ",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "b",
+      "questionId" : "11",
+      "fraction" : 0,
+      "text" : "Educación, sanidad, energía, ciencia e innovación.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "c",
+      "questionId" : "11",
+      "fraction" : 100,
+      "text" : "Empleo, I+D, cambio climático y energía, educación,  pobreza y exclusión social.",
+      "feedback" : "Correct!"
+    }, {
+      "id" : "d",
+      "questionId" : "11",
+      "fraction" : 0,
+      "text" : "Desarrollo, cooperación, integración, solidaridad e igualdad.",
+      "feedback" : "Wrong!"
+    } ]
+  }, {
+    "id" : "12",
+    "quizId" : "csstic-2018-leyes",
+    "text" : "12. De acuerdo al artículo 5 del Real Decreto Legislativo 2/2015 por el que se aprueba el texto refundido de la Ley del Estatuto de los Trabajadores, es un deber básico de los trabajadores:",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "12",
+      "fraction" : 0,
+      "text" : "Cumplir con las obligaciones en materia fiscal y de seguridad social. ",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "b",
+      "questionId" : "12",
+      "fraction" : 0,
+      "text" : "Ejercer el sufragio para elegir a los delegados de personal.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "c",
+      "questionId" : "12",
+      "fraction" : 100,
+      "text" : "Observar las medidas de prevención de riesgos laborales que se adopten.",
+      "feedback" : "Correct!"
+    }, {
+      "id" : "d",
+      "questionId" : "12",
+      "fraction" : 0,
+      "text" : "Vigilar el respeto y aplicación del principio de igualdad de trato y de oportunidades entre mujeres y hombres.",
+      "feedback" : "Wrong!"
+    } ]
+  }, {
+    "id" : "13",
+    "quizId" : "csstic-2018-leyes",
+    "text" : "13. La elaboración de la Encuesta de Población Activa (EPA) es elaborada por:",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "13",
+      "fraction" : 100,
+      "text" : "Instituto Nacional de Estadística (INE). ",
+      "feedback" : "Correct!"
+    }, {
+      "id" : "b",
+      "questionId" : "13",
+      "fraction" : 0,
+      "text" : "Centro de Investigaciones Sociológicas (CIS).",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "c",
+      "questionId" : "13",
+      "fraction" : 0,
+      "text" : "Servicio Público de Empleo Estatal (SEPE).",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "d",
+      "questionId" : "13",
+      "fraction" : 0,
+      "text" : "Ministerio de Trabajo, Migraciones y Seguridad Social.",
+      "feedback" : "Wrong!"
+    } ]
+  }, {
+    "id" : "14",
+    "quizId" : "csstic-2018-leyes",
+    "text" : "14. De acuerdo a la Constitución Española de 1978, es FALSO que:",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "14",
+      "fraction" : 0,
+      "text" : "Los jueces, los magistrados y los fiscales no pueden desempeñar otros cargos públicos mientras se encuentren en activo. ",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "b",
+      "questionId" : "14",
+      "fraction" : 0,
+      "text" : "El régimen de incompatibilidades de los jueces y magistados debe asegurar la independencia total de los mismos.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "c",
+      "questionId" : "14",
+      "fraction" : 0,
+      "text" : "Los fiscales no pueden pertenecer a partidos políticos o sindicatos.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "d",
+      "questionId" : "14",
+      "fraction" : 100,
+      "text" : "Los jueces, los magistrados y los fiscales no pueden asociarse profesionalmente mientras se encuentren en activo.",
+      "feedback" : "Correct!"
+    } ]
+  }, {
+    "id" : "15",
+    "quizId" : "csstic-2018-leyes",
+    "text" : "15. El Tribunal Constitucional se compone de:",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "15",
+      "fraction" : 100,
+      "text" : "12 miembros nombrados por el Rey: cuatro a propuesta del Congreso por mayoría de tres quintos de sus miembros, cuatro a propuesta del Senado con idéntica mayoría, dos a propuesta del Gobierno y dos a propuesta del Consejo General del Poder Judicial. ",
+      "feedback" : "Correct!"
+    }, {
+      "id" : "b",
+      "questionId" : "15",
+      "fraction" : 0,
+      "text" : "12 miembros nombrados por el Rey: cuatro a propuesta del Congreso por mayoría de tres cuartos de sus miembros, cuatro a propuesta del Senado con idéntica mayoría, dos a propuesta del Gobierno y dos a propuesta del Consejo General del Poder Judicial.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "c",
+      "questionId" : "15",
+      "fraction" : 0,
+      "text" : "12 miembros nombrados por el Rey: cuatro a propuesta del Congreso por mayoría absoluta, cuatro a propuesta del Senado con idéntica mayoría, dos a propuesta del Gobierno y dos a propuesta del Consejo General del Poder Judicial.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "d",
+      "questionId" : "15",
+      "fraction" : 0,
+      "text" : "14 miembros nombrados por el Rey: cuatro a propuesta del Congreso por mayoría absoluta, cuatro a propuesta del Senado con idéntica mayoría, tres a propuesta del Gobierno y tres a propuesta del Consejo General del Poder Judicial.",
+      "feedback" : "Wrong!"
+    } ]
+  }, {
+    "id" : "16",
+    "quizId" : "csstic-2018-leyes",
+    "text" : "16. Según la Ley 3/2015, reguladora del ejercicio del alto cargo de la Administración General del Estado, no tienen la consideración de alto cargo:",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "16",
+      "fraction" : 0,
+      "text" : "Los miembros del Gobierno. ",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "b",
+      "questionId" : "16",
+      "fraction" : 0,
+      "text" : "Los Delegados de Gobierno en las Comunidades Autónomas.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "c",
+      "questionId" : "16",
+      "fraction" : 0,
+      "text" : "Los Directores Generales de la Administración General del Estado.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "d",
+      "questionId" : "16",
+      "fraction" : 100,
+      "text" : "Los jefes de Gabinete de los titulares de los Ministerios.",
+      "feedback" : "Correct!"
+    } ]
+  }, {
+    "id" : "17",
+    "quizId" : "csstic-2018-leyes",
+    "text" : "17. En el contexto de liderazgo, según Boyatzis (1982), se entiende por competencia:",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "17",
+      "fraction" : 0,
+      "text" : "Suficiencia o idoneidad para obtener y ejercer un empleo o cargo. ",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "b",
+      "questionId" : "17",
+      "fraction" : 0,
+      "text" : "Conocimiento, aptitud profesional y saber hacer que se domina y aplica en un contexto específico.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "c",
+      "questionId" : "17",
+      "fraction" : 0,
+      "text" : "Ámbito legal de atribuciones que corresponden a una entidad pública o a una autoridad judicial o administrativa.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "d",
+      "questionId" : "17",
+      "fraction" : 100,
+      "text" : "Característica subyacente en una persona, que está causalmente relacionada con un desempeño bueno o excelente en un puesto de trabajo concreto y en una organización concreta.",
+      "feedback" : "Correct!"
+    } ]
+  }, {
+    "id" : "18",
+    "quizId" : "csstic-2018-leyes",
+    "text" : "18. El Plan de Acción sobre Administración Electrónica de la Unión Europea 2016-2020, para la aceleración de la transformación digital de la administración, establece medidas de acción sobre:",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "18",
+      "fraction" : 0,
+      "text" : "Versión digital por defecto; principio de solo una vez; integradores accesibles; abiertos y transparentes; transfronterizos; interoperativos; seguros y fiables. ",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "b",
+      "questionId" : "18",
+      "fraction" : 100,
+      "text" : "Modernizar la administración pública con las TIC; hacer posible la movilidad transfronteriza mediante servicios públicos digitales interoperables; facilitar la interacción digital con ciudadanos y empresas.",
+      "feedback" : "Correct!"
+    }, {
+      "id" : "c",
+      "questionId" : "18",
+      "fraction" : 0,
+      "text" : "Capacitar a los ciudadanos y empresas; reforzar el Mercado Interior; mejorar la eficiencia y eficacia de los gobiernos y las administraciones; crear las condiciones previas para el desarrollo de la administración electrónica.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "d",
+      "questionId" : "18",
+      "fraction" : 0,
+      "text" : "Neutralidad tecnológica y adaptabilidad;  interoperabilidad; usabilidad; proporcionalidad.",
+      "feedback" : "Wrong!"
+    } ]
+  }, {
+    "id" : "19",
+    "quizId" : "csstic-2018-leyes",
+    "text" : "19. El desempeño de funciones que implican el ejercicio de potestades públicas o salvaguardia de los intereses generales del Estado puede asumirse por:",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "19",
+      "fraction" : 0,
+      "text" : "Los empleados públicos. ",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "b",
+      "questionId" : "19",
+      "fraction" : 100,
+      "text" : "Los funcionarios de carrera.",
+      "feedback" : "Correct!"
+    }, {
+      "id" : "c",
+      "questionId" : "19",
+      "fraction" : 0,
+      "text" : "Personal laboral fijo y funcionario de carrera.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "d",
+      "questionId" : "19",
+      "fraction" : 0,
+      "text" : "Personal laboral y funcionario de carrera.",
+      "feedback" : "Wrong!"
+    } ]
+  }, {
+    "id" : "20",
+    "quizId" : "csstic-2018-leyes",
+    "text" : "20. Señale la afirmación correcta:",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "20",
+      "fraction" : 100,
+      "text" : "El Gobierno Abierto incluye a la Administración Electrónica. ",
+      "feedback" : "Correct!"
+    }, {
+      "id" : "b",
+      "questionId" : "20",
+      "fraction" : 0,
+      "text" : "El Gobierno Abierto excluye a la Administración Electrónica.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "c",
+      "questionId" : "20",
+      "fraction" : 0,
+      "text" : "El Gobierno Abierto y la Administración Electrónica son conceptos equivalentes.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "d",
+      "questionId" : "20",
+      "fraction" : 0,
+      "text" : "El Gobierno Abierto y la Administración Electrónica no están relacionados.",
+      "feedback" : "Wrong!"
+    } ]
+  }, {
+    "id" : "21",
+    "quizId" : "csstic-2018-leyes",
+    "text" : "21. La Ley 20/2013, de garantía de la unidad de mercado, será de aplicación al acceso a actividades económicas en condiciones de mercado y al ejercicio de las mismas por parte de operadores legalmente establecidos en:",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "21",
+      "fraction" : 100,
+      "text" : "Cualquier lugar del territorio nacional. ",
+      "feedback" : "Correct!"
+    }, {
+      "id" : "b",
+      "questionId" : "21",
+      "fraction" : 0,
+      "text" : "Cualquier lugar del territorio europeo.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "c",
+      "questionId" : "21",
+      "fraction" : 0,
+      "text" : "Cualquier lugar de las Comunidades Autónomas de régimen común.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "d",
+      "questionId" : "21",
+      "fraction" : 0,
+      "text" : "Ninguna de las anteriores es correcta.",
+      "feedback" : "Wrong!"
+    } ]
+  }, {
+    "id" : "22",
+    "quizId" : "csstic-2018-leyes",
+    "text" : "22. Según el artículo 1 de la Ley 20/2013, de garantía de la unidad de mercado, la unidad de mercado se fundamenta en:",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "22",
+      "fraction" : 0,
+      "text" : "La libre circulación y establecimiento de los operadores económicos. ",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "b",
+      "questionId" : "22",
+      "fraction" : 0,
+      "text" : "La libre circulación de bienes y servicios por todo el territorio español, sin que ninguna autoridad pueda obstaculizarla directa o indirectamente.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "c",
+      "questionId" : "22",
+      "fraction" : 0,
+      "text" : "La igualdad de las condiciones básicas de ejercicio de la actividad económica.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "d",
+      "questionId" : "22",
+      "fraction" : 100,
+      "text" : "Todas las anteriores son correctas.",
+      "feedback" : "Correct!"
+    } ]
+  }, {
+    "id" : "23",
+    "quizId" : "csstic-2018-leyes",
+    "text" : "23. De acuerdo con la normativa vigente en materia de protección de datos personales algunos de los principios que rigen el tratamiento de los datos personales son:",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "23",
+      "fraction" : 0,
+      "text" : "El principio de eficacia, jerarquía, desconcentración y coordinación. ",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "b",
+      "questionId" : "23",
+      "fraction" : 0,
+      "text" : "Licitud, lealtad, publicidad y limitación de la finalidad.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "d",
+      "questionId" : "23",
+      "fraction" : 0,
+      "text" : "c. Licitud, lealtad, transparencia y limitación de la finalidad. d. Licitud, coordinación, transparencia y limitación de la finalidad.",
+      "feedback" : "Wrong!"
+    } ]
+  }, {
+    "id" : "24",
+    "quizId" : "csstic-2018-leyes",
+    "text" : "24. De acuerdo con la normativa vigente en materia de protección de datos personales:",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "24",
+      "fraction" : 0,
+      "text" : "El consentimiento tácito del interesado es condición legítima para el tratamiento de sus datos personales. ",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "b",
+      "questionId" : "24",
+      "fraction" : 0,
+      "text" : "Las Administraciones Públicas, por su propia naturaleza, no están obligadas a recabar el consentimiento para el tratamiento de datos personales.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "c",
+      "questionId" : "24",
+      "fraction" : 100,
+      "text" : "El responsable del tratamiento, cuando el tratamiento de datos personales sea necesario para el cumplimiento de una obligación legal, no está obligado a recabar el consentimiento del interesado.",
+      "feedback" : "Correct!"
+    }, {
+      "id" : "d",
+      "questionId" : "24",
+      "fraction" : 0,
+      "text" : "El consentimiento expreso es genérico e independiente de las actividades de tratamiento y de los fines de éstas.",
+      "feedback" : "Wrong!"
+    } ]
+  }, {
+    "id" : "25",
+    "quizId" : "csstic-2018-leyes",
+    "text" : "25. De acuerdo con la Constitución Española de 1978, es FALSO que:",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "25",
+      "fraction" : 0,
+      "text" : "La Constitución reconoce y garantiza el derecho a la autonomía de las nacionalidades y regiones que integran la Nación española. ",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "b",
+      "questionId" : "25",
+      "fraction" : 0,
+      "text" : "La Constitución reconoce y garantiza la solidaridad entre las nacionalidades y regiones que integran la Nación española.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "c",
+      "questionId" : "25",
+      "fraction" : 100,
+      "text" : "La Constitución no dota de autonomía a las provincias para la gestión de sus intereses.",
+      "feedback" : "Correct!"
+    }, {
+      "id" : "d",
+      "questionId" : "25",
+      "fraction" : 0,
+      "text" : "La Constitución garantiza la autonomía de los municipios.",
+      "feedback" : "Wrong!"
+    } ]
+  }, {
+    "id" : "26",
+    "quizId" : "csstic-2018-leyes",
+    "text" : "26. De acuerdo con la normativa vigente:",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "26",
+      "fraction" : 0,
+      "text" : "Son anulables los actos que se dicten por órganos manifiestamente incompetentes por razón de la materia o del territorio. ",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "b",
+      "questionId" : "26",
+      "fraction" : 100,
+      "text" : "Son nulas las disposiciones administrativas que vulneren la Constitución Española de 1978 o las leyes.",
+      "feedback" : "Correct!"
+    }, {
+      "id" : "c",
+      "questionId" : "26",
+      "fraction" : 0,
+      "text" : "El artículo 9 de la Constitución Española de 1978 establece la irretroactividad de las disposiciones reconocedoras de derechos individuales.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "d",
+      "questionId" : "26",
+      "fraction" : 0,
+      "text" : "El artículo 9 de la Constitución Española de 1978 establece la irretroactividad de las disposiciones sancionadoras favorables.",
+      "feedback" : "Wrong!"
+    } ]
+  }, {
+    "id" : "27",
+    "quizId" : "csstic-2018-leyes",
+    "text" : "27. Entre las instituciones que forman el marco institucional de la Unión Europea, se encuentra:",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "27",
+      "fraction" : 100,
+      "text" : "El Tribunal de Cuentas Europeo. ",
+      "feedback" : "Correct!"
+    }, {
+      "id" : "b",
+      "questionId" : "27",
+      "fraction" : 0,
+      "text" : "El Tribunal Europeo de Derechos Humanos.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "c",
+      "questionId" : "27",
+      "fraction" : 0,
+      "text" : "El Tribunal Europeo de Defensa de la Competencia.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "d",
+      "questionId" : "27",
+      "fraction" : 0,
+      "text" : "El Tribunal Europeo de Arbitraje Deportivo.",
+      "feedback" : "Wrong!"
+    } ]
+  }, {
+    "id" : "28",
+    "quizId" : "csstic-2018-leyes",
+    "text" : "28. Los derechos, libertades y principios reconocidos en la Unión Europea están enunciados en:",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "28",
+      "fraction" : 0,
+      "text" : "El Tratado de Tallin. ",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "b",
+      "questionId" : "28",
+      "fraction" : 0,
+      "text" : "El Reglamento Europeo de la Ciudadanía Europea.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "c",
+      "questionId" : "28",
+      "fraction" : 0,
+      "text" : "La Constitución Europea.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "d",
+      "questionId" : "28",
+      "fraction" : 100,
+      "text" : "La Carta de los Derechos Fundamentales de la Unión Europea.",
+      "feedback" : "Correct!"
+    } ]
+  }, {
+    "id" : "29",
+    "quizId" : "csstic-2018-leyes",
+    "text" : "29. Con carácter general, las decisiones de un órgano colegiado de la Administración General del Estado se adoptarán:",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "29",
+      "fraction" : 0,
+      "text" : "Por el régimen de mayoría que establezcan de mutuo acuerdo los miembros que lo forman en su primera convocatoria. ",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "b",
+      "questionId" : "29",
+      "fraction" : 100,
+      "text" : "Por mayoría de los asistentes, debiendo asistir necesariamente, al menos, el presidente y secretario o quienes le sustituyan y la mitad de sus miembros.",
+      "feedback" : "Correct!"
+    }, {
+      "id" : "c",
+      "questionId" : "29",
+      "fraction" : 0,
+      "text" : "Por mayoría de los miembros que lo forman, debiendo estar presentes al menos las dos terceras partes de éstos.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "d",
+      "questionId" : "29",
+      "fraction" : 0,
+      "text" : "Por el régimen de mayoría que establezca su real decreto de constitución, que establecerá también el quorum necesario.",
+      "feedback" : "Wrong!"
+    } ]
+  }, {
+    "id" : "30",
+    "quizId" : "csstic-2018-leyes",
+    "text" : "30. El Código Civil, en el capítulo denominado \"Fuentes del Derecho\", establece que:",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "30",
+      "fraction" : 0,
+      "text" : "Sólo son fuentes del ordenamiento jurídico la ley y la costumbre. ",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "b",
+      "questionId" : "30",
+      "fraction" : 0,
+      "text" : "Las leyes entrarán en vigor con carácter inmediato tras su publicación en el Boletín Oficial del Estado.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "c",
+      "questionId" : "30",
+      "fraction" : 0,
+      "text" : "La costumbre sólo regirá en defecto de usos jurídicos aplicables.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "d",
+      "questionId" : "30",
+      "fraction" : 100,
+      "text" : "La jurisprudencia complementará el ordenamiento jurídico con la doctrina que, de modo reiterado, establezca el Tribunal Supremo.   PREGUNTAS DE RESERVA",
+      "feedback" : "Correct!"
+    } ]
+  }, {
+    "id" : "31",
+    "quizId" : "csstic-2018-leyes",
+    "text" : "31. Según el artículo 40 de la Ley 39/2015, de Procedimiento Administrativo Común de las Administraciones Públicas, a los solos efectos de entender cumplida la obligación de notificar dentro del plazo máximo de duración de los procedimientos, será suficiente:",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "31",
+      "fraction" : 0,
+      "text" : "El texto íntegro de la resolución. ",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "b",
+      "questionId" : "31",
+      "fraction" : 0,
+      "text" : "El intento de notificación debidamente acreditado, indicando si pone fin a la vía administrativa, recurso y plazos de reposición.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "c",
+      "questionId" : "31",
+      "fraction" : 0,
+      "text" : "El texto íntegro de la resolución, indicando si pone fin a la vía administrativa, recurso y plazos de interposición.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "d",
+      "questionId" : "31",
+      "fraction" : 100,
+      "text" : "El texto íntegro de la resolución, así como el intento de notificación debidamente acreditado.",
+      "feedback" : "Correct!"
+    } ]
+  }, {
+    "id" : "32",
+    "quizId" : "csstic-2018-leyes",
+    "text" : "32. Según el artículo 48 de la Ley 39/2015, de Procedimiento Administrativo Común de las Administraciones Públicas, son anulables:",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "32",
+      "fraction" : 0,
+      "text" : "Los actos contrarios al ordenamiento jurídico por los que se adquieren facultades o derechos cuando se carezca de los requisitos esenciales para su adquisición. ",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "b",
+      "questionId" : "32",
+      "fraction" : 100,
+      "text" : "Los actos de la Administración que incurran en cualquier infracción del ordenamiento jurídico, incluso la desviación de poder.",
+      "feedback" : "Correct!"
+    }, {
+      "id" : "c",
+      "questionId" : "32",
+      "fraction" : 0,
+      "text" : "Los  actos que incluyan contenido imposible.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "d",
+      "questionId" : "32",
+      "fraction" : 0,
+      "text" : "Los dictados prescindiendo total y absolutamente del procedimiento legalmente establecido o de las normas que contienen las reglas esenciales para la formación de la voluntad de los órganos colegiados.",
+      "feedback" : "Wrong!"
+    } ]
+  }, {
+    "id" : "33",
+    "quizId" : "csstic-2018-leyes",
+    "text" : "33. Para la tramitación simplificada, la Ley 39/2015, del Procedimiento Administrativo Común de las Administraciones Públicas, establece que en el procedimiento de responsabilidad patrimonial:",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "33",
+      "fraction" : 0,
+      "text" : "Transcurridos tres meses desde que se inició el procedimiento sin que haya recaído y se notifique resolución expresa o, en su caso, se haya formalizado el acuerdo, podrá entenderse que la resolución es contraria a la indemnización del particular. ",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "b",
+      "questionId" : "33",
+      "fraction" : 100,
+      "text" : "Si una vez iniciado el procedimiento el órgano competente para su tramitación considera inequívoca la relación de causalidad entre el funcionamiento del servicio público y la lesión, así como la valoración del daño y el cálculo de la cuantía de la indemnización, podrá acordar de oficio la suspensión del procedimiento general y la iniciación de un procedimiento simplificado.",
+      "feedback" : "Correct!"
+    }, {
+      "id" : "c",
+      "questionId" : "33",
+      "fraction" : 0,
+      "text" : "Serán preceptivos en todo caso, además del trámite de audiencia al interesado, el informe del servicio cuyo funcionamiento haya ocasionado la presunta lesión indemnizable y el dictamen del Consejo de Estado o, en su caso, del órgano consultivo de la Comunidad Autónoma.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "d",
+      "questionId" : "33",
+      "fraction" : 0,
+      "text" : "Si una vez iniciado el procedimiento el órgano competente para su tramitación considera inequívoca la relación de causalidad entre el funcionamiento del servicio público y la lesión, así como la valoración del daño y el cálculo de la cuantía de la indemnización, podrá acordar de oficio la suspensión del procedimiento general y la iniciación de un procedimiento simplificado, previo informe del Jurado Provincial de Expropiación que habrá de ser emitido en el plazo de 5 días.",
+      "feedback" : "Wrong!"
+    } ]
+  } ]
+}

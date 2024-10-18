@@ -1,0 +1,939 @@
+{
+  "id" : "csstic-2019-leyes",
+  "title" : "CSSTIC ORDINARIO OEP 2019 LEYES",
+  "instructions" : "",
+  "showPublic" : false,
+  "showCorrect" : false,
+  "suffleQuestions" : true,
+  "passFraction" : 100,
+  "fractionSuccess" : 100,
+  "fractionWrong" : 0,
+  "answernumbering" : "LETTERS",
+  "shuffleanswers" : false,
+  "active" : false,
+  "questions" : [ {
+    "id" : "1",
+    "quizId" : "csstic-2019-leyes",
+    "text" : "1. El Consejo de Transparencia y Buen Gobierno:",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "1",
+      "fraction" : 100,
+      "text" : "Es un organismo independiente encargado de promover la transparencia de la actividad pública en el ámbito subjetivo de aplicación de la Ley 19/2013, de 9 de diciembre, de transparencia, acceso a la información pública y buen gobierno. ",
+      "feedback" : "Correct!"
+    }, {
+      "id" : "b",
+      "questionId" : "1",
+      "fraction" : 0,
+      "text" : "Es el organismo que tiene atribuida la competencia de conocer de reclamaciones presentadas frente a las resoluciones de todas las Administraciones Públicas en materia de acceso a la información.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "c",
+      "questionId" : "1",
+      "fraction" : 0,
+      "text" : "Es un organismo autónomo que vela por el cumplimiento de las obligaciones de publicidad, salvaguardar el ejercicio del derecho de acceso a la información pública y garantizar la observancia de las disposiciones de buen gobierno en las Administraciones Públicas.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "d",
+      "questionId" : "1",
+      "fraction" : 0,
+      "text" : "Es un organismo creado por la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público.",
+      "feedback" : "Wrong!"
+    } ]
+  }, {
+    "id" : "2",
+    "quizId" : "csstic-2019-leyes",
+    "text" : "2. En relación con la indemnización derivada de la responsabilidad patrimonial de las Administraciones Públicas, señale la opción correcta:",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "2",
+      "fraction" : 100,
+      "text" : "Se calculará con referencia al día en el que efectivamente se produjo la lesión, sin perjuicio de su actualización a la fecha en que se ponga fin al procedimiento de responsabilidad. ",
+      "feedback" : "Correct!"
+    }, {
+      "id" : "b",
+      "questionId" : "2",
+      "fraction" : 0,
+      "text" : "No podrá ser sustituida por una compensación en especie, pero sí puede ser abonada mediante pagos periódicos, si así conviene al interés público y existe acuerdo del interesado.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "d",
+      "questionId" : "2",
+      "fraction" : 0,
+      "text" : "b. No podrá ser sustituida por una compensación en especie, pero sí puede ser abonada mediante pagos periódicos, si así conviene al interés público y existe acuerdo del interesado. c. Se calculará con referencia al día en el que efectivamente se produjo la lesión, sin que proceda su actualización a la fecha en que se ponga fin al procedimiento de responsabilidad. d. Podrá ser sustituida por una compensación en especie o ser abonada mediante pagos periódicos, si así conviene al interés público y con independencia de que exista o no acuerdo del interesado.",
+      "feedback" : "Wrong!"
+    } ]
+  }, {
+    "id" : "3",
+    "quizId" : "csstic-2019-leyes",
+    "text" : "3. Según la Encuesta de Población Activa del INE correspondiente al tercer trimestre de 2020, ¿cuál es el sector económico con mayor número de activos?",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "3",
+      "fraction" : 0,
+      "text" : "Agricultura. ",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "b",
+      "questionId" : "3",
+      "fraction" : 100,
+      "text" : "Servicios.",
+      "feedback" : "Correct!"
+    }, {
+      "id" : "c",
+      "questionId" : "3",
+      "fraction" : 0,
+      "text" : "Construcción.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "d",
+      "questionId" : "3",
+      "fraction" : 0,
+      "text" : "Industria.",
+      "feedback" : "Wrong!"
+    } ]
+  }, {
+    "id" : "4",
+    "quizId" : "csstic-2019-leyes",
+    "text" : "4. En el ámbito de la contratación pública, cuando la Administración tenga que actuar de manera inmediata a causa de acontecimientos catastróficos, de situaciones que supongan grave peligro o de necesidades que afecten a la defensa nacional, ¿por qué régimen se regirá el expediente de contratación?",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "4",
+      "fraction" : 0,
+      "text" : "Tramitación de alarma. ",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "b",
+      "questionId" : "4",
+      "fraction" : 0,
+      "text" : "Tramitación urgente.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "c",
+      "questionId" : "4",
+      "fraction" : 100,
+      "text" : "Tramitación de emergencia.",
+      "feedback" : "Correct!"
+    }, {
+      "id" : "d",
+      "questionId" : "4",
+      "fraction" : 0,
+      "text" : "Tramitación de apremio.",
+      "feedback" : "Wrong!"
+    } ]
+  }, {
+    "id" : "5",
+    "quizId" : "csstic-2019-leyes",
+    "text" : "5. [PREGUNTA ANULADA] La posición de España en el Digital Economy and Society Index (Índice DESI) de 2020 es:",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "5",
+      "fraction" : 0,
+      "text" : "Inferior a la media de la Unión Europea en uso de servicios de Internet. ",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "b",
+      "questionId" : "5",
+      "fraction" : 0,
+      "text" : "Inferior a la media de la Unión Europea en servicios públicos digitales.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "c",
+      "questionId" : "5",
+      "fraction" : 0,
+      "text" : "Superior a la media de la Unión Europea en su valor global.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "d",
+      "questionId" : "5",
+      "fraction" : 0,
+      "text" : "Superior a la media de la Unión Europea en integración de la tecnología digital.",
+      "feedback" : "Wrong!"
+    } ]
+  }, {
+    "id" : "6",
+    "quizId" : "csstic-2019-leyes",
+    "text" : "6. ¿Cuál es el procedimiento ordinario de concesión de las subvenciones públicas?",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "6",
+      "fraction" : 0,
+      "text" : "Concesión directa. ",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "b",
+      "questionId" : "6",
+      "fraction" : 100,
+      "text" : "Régimen de concurrencia competitiva.",
+      "feedback" : "Correct!"
+    }, {
+      "id" : "c",
+      "questionId" : "6",
+      "fraction" : 0,
+      "text" : "Subasta.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "d",
+      "questionId" : "6",
+      "fraction" : 0,
+      "text" : "Concesión nominativa.",
+      "feedback" : "Wrong!"
+    } ]
+  }, {
+    "id" : "7",
+    "quizId" : "csstic-2019-leyes",
+    "text" : "7. Las previsiones contenidas en la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, en materia de registro electrónico de apoderamientos, registro electrónico, registro de empleados públicos habilitados, punto de acceso general electrónico de la Administración y archivo único electrónico:",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "7",
+      "fraction" : 0,
+      "text" : "Entraron en vigor al año de la publicación de la Ley en el BOE, esto es, el 2 de octubre de 2016. ",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "b",
+      "questionId" : "7",
+      "fraction" : 0,
+      "text" : "Producen efectos desde el día 2 de octubre de 2018.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "c",
+      "questionId" : "7",
+      "fraction" : 100,
+      "text" : "Producirán efectos a partir del día 2 de abril de 2021.",
+      "feedback" : "Correct!"
+    }, {
+      "id" : "d",
+      "questionId" : "7",
+      "fraction" : 0,
+      "text" : "Entraron en vigor el mismo día de publicación de la Ley en el BOE, esto es, el 2 de octubre de 2015.",
+      "feedback" : "Wrong!"
+    } ]
+  }, {
+    "id" : "8",
+    "quizId" : "csstic-2019-leyes",
+    "text" : "8. Indique cuál de las siguientes es una característica de la Comisión Europea:",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "8",
+      "fraction" : 0,
+      "text" : "Su Presidente lo nombra el Parlamento Europeo por mayoría cualificada. ",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "b",
+      "questionId" : "8",
+      "fraction" : 0,
+      "text" : "Está formada como máximo por un número de Comisarios igual a 2/3 del número de Estados Miembros.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "c",
+      "questionId" : "8",
+      "fraction" : 100,
+      "text" : "La duración del mandato de la Comisión es de 5 años.",
+      "feedback" : "Correct!"
+    }, {
+      "id" : "d",
+      "questionId" : "8",
+      "fraction" : 0,
+      "text" : "Entre sus competencias no está la de proponer nueva legislación.",
+      "feedback" : "Wrong!"
+    } ]
+  }, {
+    "id" : "9",
+    "quizId" : "csstic-2019-leyes",
+    "text" : "9. Indique cuál de las siguientes opciones es FALSA respecto a los contratos menores, según la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público:",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "9",
+      "fraction" : 0,
+      "text" : "Se pueden adjudicar directamente. ",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "b",
+      "questionId" : "9",
+      "fraction" : 0,
+      "text" : "No pueden tener una duración superior a un año.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "c",
+      "questionId" : "9",
+      "fraction" : 0,
+      "text" : "No pueden ser objeto de prórroga.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "d",
+      "questionId" : "9",
+      "fraction" : 100,
+      "text" : "Su valor estimado debe ser inferior a 80.000 euros, cuando se trate de contratos de obras, o a 35.000 euros, cuando se trate de contratos de suministros o servicios.",
+      "feedback" : "Correct!"
+    } ]
+  }, {
+    "id" : "10",
+    "quizId" : "csstic-2019-leyes",
+    "text" : "10. Indique sobre cuál de las siguientes materias tiene competencia exclusiva el Estado:",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "10",
+      "fraction" : 0,
+      "text" : "Asistencia social. ",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "b",
+      "questionId" : "10",
+      "fraction" : 0,
+      "text" : "Ordenación del territorio, urbanismo y vivienda.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "c",
+      "questionId" : "10",
+      "fraction" : 100,
+      "text" : "Legislación sobre propiedad industrial e intelectual.",
+      "feedback" : "Correct!"
+    }, {
+      "id" : "d",
+      "questionId" : "10",
+      "fraction" : 0,
+      "text" : "La gestión en materia de protección del medio ambiente.",
+      "feedback" : "Wrong!"
+    } ]
+  }, {
+    "id" : "11",
+    "quizId" : "csstic-2019-leyes",
+    "text" : "11. El recurso extraordinario de revisión:",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "11",
+      "fraction" : 0,
+      "text" : "Nunca procede contra actos firmes en vía administrativa. ",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "b",
+      "questionId" : "11",
+      "fraction" : 0,
+      "text" : "Se interpondrá, en cualquier caso, dentro del plazo de los cuatro años siguientes a la fecha de la notificación de la resolución impugnada.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "c",
+      "questionId" : "11",
+      "fraction" : 100,
+      "text" : "Procede contra actos firmes cuando concurran una serie de circunstancias previstas en la Ley 39/2015.",
+      "feedback" : "Correct!"
+    }, {
+      "id" : "d",
+      "questionId" : "11",
+      "fraction" : 0,
+      "text" : "Nunca puede ser inadmitido.",
+      "feedback" : "Wrong!"
+    } ]
+  }, {
+    "id" : "12",
+    "quizId" : "csstic-2019-leyes",
+    "text" : "12. Señale la opción correcta respecto de los actos emanados de los Ministros y los Secretarios de Estado en el ejercicio de las competencias que tienen atribuidas los órganos de los que son titulares:",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "12",
+      "fraction" : 0,
+      "text" : "Nunca pueden ser recurridos. ",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "b",
+      "questionId" : "12",
+      "fraction" : 100,
+      "text" : "Ponen fin a la vía administrativa.",
+      "feedback" : "Correct!"
+    }, {
+      "id" : "c",
+      "questionId" : "12",
+      "fraction" : 0,
+      "text" : "Contra ellos procede el recurso de alzada.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "d",
+      "questionId" : "12",
+      "fraction" : 0,
+      "text" : "Ni de los Ministros, ni los Secretarios de Estado emanan actos administrativos.",
+      "feedback" : "Wrong!"
+    } ]
+  }, {
+    "id" : "13",
+    "quizId" : "csstic-2019-leyes",
+    "text" : "13. Según los Objetivos de Desarrollo Sostenible de las Naciones Unidas, aumentar significativamente el acceso a la tecnología de la información y las comunicaciones y esforzarse por proporcionar acceso universal y asequible a Internet en los países menos adelantados, es una de las metas incluidas en:",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "13",
+      "fraction" : 100,
+      "text" : "El ODS 9. Industria, innovación e infraestructura. ",
+      "feedback" : "Correct!"
+    }, {
+      "id" : "b",
+      "questionId" : "13",
+      "fraction" : 0,
+      "text" : "El ODS 8. Trabajo decente y crecimiento económico.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "c",
+      "questionId" : "13",
+      "fraction" : 0,
+      "text" : "El ODS 11. Ciudades y comunidades sostenibles.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "d",
+      "questionId" : "13",
+      "fraction" : 0,
+      "text" : "El ODS 1. Fin de la pobreza.",
+      "feedback" : "Wrong!"
+    } ]
+  }, {
+    "id" : "14",
+    "quizId" : "csstic-2019-leyes",
+    "text" : "14. ¿Cuál de los siguientes se considera un instrumento de coordinación del Sistema Nacional de Empleo?",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "14",
+      "fraction" : 100,
+      "text" : "El Sistema de Información de los Servicios Públicos de Empleo. ",
+      "feedback" : "Correct!"
+    }, {
+      "id" : "b",
+      "questionId" : "14",
+      "fraction" : 0,
+      "text" : "La Red estatal de agencias de colocación.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "c",
+      "questionId" : "14",
+      "fraction" : 0,
+      "text" : "El Plan PREPARA.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "d",
+      "questionId" : "14",
+      "fraction" : 0,
+      "text" : "El Plan de Choque por el Empleo Joven 2019-2021.",
+      "feedback" : "Wrong!"
+    } ]
+  }, {
+    "id" : "15",
+    "quizId" : "csstic-2019-leyes",
+    "text" : "15. Son órganos superiores de la organización central de la Administración General del Estado:",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "15",
+      "fraction" : 0,
+      "text" : "Los Subsecretarios y Secretarios generales. ",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "b",
+      "questionId" : "15",
+      "fraction" : 100,
+      "text" : "Los Ministros y los Secretarios de Estado.",
+      "feedback" : "Correct!"
+    }, {
+      "id" : "c",
+      "questionId" : "15",
+      "fraction" : 0,
+      "text" : "Los Ministros, los Organismos autónomos y demás entes públicos estatales.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "d",
+      "questionId" : "15",
+      "fraction" : 0,
+      "text" : "Los Ministros, los Secretarios de Estado y los Subsecretarios.",
+      "feedback" : "Wrong!"
+    } ]
+  }, {
+    "id" : "16",
+    "quizId" : "csstic-2019-leyes",
+    "text" : "16. La Constitución Española, en su Artículo 1, establece que:",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "16",
+      "fraction" : 0,
+      "text" : "España se constituye en un Estado social y democrático de Derecho que propugna como valores de su ordenamiento jurídico la participación de todos los ciudadanos en la vida política, económica, cultural y social. ",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "b",
+      "questionId" : "16",
+      "fraction" : 100,
+      "text" : "España se constituye en un Estado social y democrático de Derecho que propugna como valores superiores de su ordenamiento jurídico la libertad, la justicia, la igualdad y el pluralismo político.",
+      "feedback" : "Correct!"
+    }, {
+      "id" : "c",
+      "questionId" : "16",
+      "fraction" : 0,
+      "text" : "Los españoles son iguales ante la ley.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "d",
+      "questionId" : "16",
+      "fraction" : 0,
+      "text" : "Los españoles son iguales ante la ley sin que pueda prevalecer discriminación alguna por razón de nacimiento, raza, sexo, religión opinión o cualquier otra condición o circunstancia.",
+      "feedback" : "Wrong!"
+    } ]
+  }, {
+    "id" : "17",
+    "quizId" : "csstic-2019-leyes",
+    "text" : "17. Según el artículo 116 de la Constitución Española, el estado de alarma:",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "17",
+      "fraction" : 100,
+      "text" : "Será declarado por el Gobierno mediante decreto acordado en Consejo de Ministros por un plazo máximo de quince días, dando cuenta al Congreso de los Diputados. ",
+      "feedback" : "Correct!"
+    }, {
+      "id" : "b",
+      "questionId" : "17",
+      "fraction" : 0,
+      "text" : "Será declarado por mayoría absoluta del Congreso de los Diputados mediante ley por un plazo máximo de quince días, dando cuenta al Gobierno.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "c",
+      "questionId" : "17",
+      "fraction" : 0,
+      "text" : "Será declarado por el Gobierno mediante decreto acordado en Consejo de Ministros por un plazo máximo de un mes, dando cuenta al Congreso de los Diputados.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "d",
+      "questionId" : "17",
+      "fraction" : 0,
+      "text" : "Será declarado por mayoría absoluta del Congreso de los Diputados mediante ley por un plazo máximo de un mes, dando cuenta al Gobierno.",
+      "feedback" : "Wrong!"
+    } ]
+  }, {
+    "id" : "18",
+    "quizId" : "csstic-2019-leyes",
+    "text" : "18. El ámbito de aplicación del Estatuto Básico del Empleado Público NO incluye:",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "18",
+      "fraction" : 0,
+      "text" : "Las Administraciones de las comunidades autónomas y de las ciudades de Ceuta y Melilla. ",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "b",
+      "questionId" : "18",
+      "fraction" : 0,
+      "text" : "Las Administraciones de las entidades locales.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "c",
+      "questionId" : "18",
+      "fraction" : 0,
+      "text" : "Las Universidades Públicas.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "d",
+      "questionId" : "18",
+      "fraction" : 100,
+      "text" : "Las agencias y demás entidades de derecho privado con personalidad jurídica propia.",
+      "feedback" : "Correct!"
+    } ]
+  }, {
+    "id" : "19",
+    "quizId" : "csstic-2019-leyes",
+    "text" : "19. El tratamiento de datos personales de manera tal, que ya no puedan atribuirse a un interesado sin utilizar información adicional, siempre que dicha información adicional figure por separado y esté sujeta a medidas técnicas y organizativas destinadas a garantizar que los datos personales no se atribuyan a una persona física identificada o identificable, se denomina:",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "19",
+      "fraction" : 0,
+      "text" : "Segregación. ",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "b",
+      "questionId" : "19",
+      "fraction" : 100,
+      "text" : "Seudonimización.",
+      "feedback" : "Correct!"
+    }, {
+      "id" : "c",
+      "questionId" : "19",
+      "fraction" : 0,
+      "text" : "Anonimización.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "d",
+      "questionId" : "19",
+      "fraction" : 0,
+      "text" : "Desintegración.",
+      "feedback" : "Wrong!"
+    } ]
+  }, {
+    "id" : "20",
+    "quizId" : "csstic-2019-leyes",
+    "text" : "20. Según la normativa vigente de protección de datos, el principio de minimización implica que los datos personales:",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "20",
+      "fraction" : 100,
+      "text" : "Serán adecuados, pertinentes y limitados a lo necesario en relación con los fines para los que son tratados. ",
+      "feedback" : "Correct!"
+    }, {
+      "id" : "b",
+      "questionId" : "20",
+      "fraction" : 0,
+      "text" : "Serán exactos y, si fuera necesario, actualizados, suprimidos o rectificados sin dilación.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "c",
+      "questionId" : "20",
+      "fraction" : 0,
+      "text" : "Serán adecuados, pertinentes y no excesivos.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "d",
+      "questionId" : "20",
+      "fraction" : 0,
+      "text" : "Se mantendrán anonimizados.",
+      "feedback" : "Wrong!"
+    } ]
+  }, {
+    "id" : "21",
+    "quizId" : "csstic-2019-leyes",
+    "text" : "21. La organización administrativa de la Administración General del Estado, sus principios y competencias de organización y funcionamiento así como su estructura, se regulan en:",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "21",
+      "fraction" : 100,
+      "text" : "La Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público. ",
+      "feedback" : "Correct!"
+    }, {
+      "id" : "b",
+      "questionId" : "21",
+      "fraction" : 0,
+      "text" : "La Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "c",
+      "questionId" : "21",
+      "fraction" : 0,
+      "text" : "La Ley 50/1997, de 27 de noviembre, del Gobierno.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "d",
+      "questionId" : "21",
+      "fraction" : 0,
+      "text" : "La Ley 19/2013, de 9 de diciembre, de transparencia, acceso a la información pública y buen gobierno.",
+      "feedback" : "Wrong!"
+    } ]
+  }, {
+    "id" : "22",
+    "quizId" : "csstic-2019-leyes",
+    "text" : "22. Según la Constitución Española ¿cuántos Senadores son elegidos por cada circunscripción electoral peninsular?",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "22",
+      "fraction" : 100,
+      "text" : "Cuatro. ",
+      "feedback" : "Correct!"
+    }, {
+      "id" : "b",
+      "questionId" : "22",
+      "fraction" : 0,
+      "text" : "Tres.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "c",
+      "questionId" : "22",
+      "fraction" : 0,
+      "text" : "La ley distribuirá el número total de Senadores, asignando una representación mínima inicial a cada circunscripción y distribuyendo los demás en proporción a la población.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "d",
+      "questionId" : "22",
+      "fraction" : 0,
+      "text" : "Uno por provincia como mínimo, a los que se añade el número correspondiente al número de electores, de manera proporcional.",
+      "feedback" : "Wrong!"
+    } ]
+  }, {
+    "id" : "23",
+    "quizId" : "csstic-2019-leyes",
+    "text" : "23. Los organismos públicos vinculados o dependientes de la Administración General del Estado se clasifican en:",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "23",
+      "fraction" : 0,
+      "text" : "Organismos autónomos, Entidades Públicas Empresariales y autoridades administrativas independientes. ",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "b",
+      "questionId" : "23",
+      "fraction" : 0,
+      "text" : "Organismos autónomos, consorcios y fundaciones del sector público.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "c",
+      "questionId" : "23",
+      "fraction" : 100,
+      "text" : "Organismos autónomos y Entidades Públicas Empresariales.",
+      "feedback" : "Correct!"
+    }, {
+      "id" : "d",
+      "questionId" : "23",
+      "fraction" : 0,
+      "text" : "Organismos autónomos y autoridades administrativas independientes.",
+      "feedback" : "Wrong!"
+    } ]
+  }, {
+    "id" : "24",
+    "quizId" : "csstic-2019-leyes",
+    "text" : "24. Según el artículo 1.1 del Código Civil, son fuentes del ordenamiento jurídico:",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "24",
+      "fraction" : 100,
+      "text" : "La ley, la costumbre y los principios generales del derecho. ",
+      "feedback" : "Correct!"
+    }, {
+      "id" : "b",
+      "questionId" : "24",
+      "fraction" : 0,
+      "text" : "La ley, el reglamento y la doctrina legal del Tribunal Supremo.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "c",
+      "questionId" : "24",
+      "fraction" : 0,
+      "text" : "La ley y los tratados internacionales con independencia de su publicación en el «Boletín Oficial del Estado».",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "d",
+      "questionId" : "24",
+      "fraction" : 0,
+      "text" : "La ley y la jurisprudencia.",
+      "feedback" : "Wrong!"
+    } ]
+  }, {
+    "id" : "25",
+    "quizId" : "csstic-2019-leyes",
+    "text" : "25. Entre los principios de actuación de las Administraciones Públicas NO figura:",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "25",
+      "fraction" : 0,
+      "text" : "Eficacia. ",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "b",
+      "questionId" : "25",
+      "fraction" : 0,
+      "text" : "Coordinación.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "c",
+      "questionId" : "25",
+      "fraction" : 0,
+      "text" : "Jerarquía.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "d",
+      "questionId" : "25",
+      "fraction" : 100,
+      "text" : "Concentración.",
+      "feedback" : "Correct!"
+    } ]
+  }, {
+    "id" : "26",
+    "quizId" : "csstic-2019-leyes",
+    "text" : "26. La elaboración de los Presupuestos Generales del Estado corresponde a:",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "26",
+      "fraction" : 0,
+      "text" : "Las Cortes Generales. ",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "b",
+      "questionId" : "26",
+      "fraction" : 0,
+      "text" : "La comisión de presupuestos del Congreso.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "c",
+      "questionId" : "26",
+      "fraction" : 0,
+      "text" : "El Ministerio de Hacienda.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "d",
+      "questionId" : "26",
+      "fraction" : 100,
+      "text" : "El Gobierno.",
+      "feedback" : "Correct!"
+    } ]
+  }, {
+    "id" : "27",
+    "quizId" : "csstic-2019-leyes",
+    "text" : "27. El Tribunal de Cuentas:",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "27",
+      "fraction" : 0,
+      "text" : "Limita sus funciones a la Administración General del Estado. ",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "b",
+      "questionId" : "27",
+      "fraction" : 100,
+      "text" : "Fiscaliza la actividad económico-financiera de los partidos políticos inscritos en el Registro de Partidos Políticos del Ministerio del Interior.",
+      "feedback" : "Correct!"
+    }, {
+      "id" : "c",
+      "questionId" : "27",
+      "fraction" : 0,
+      "text" : "Limita sus funciones a la fiscalización externa y enjuiciamiento contable de las Cortes Generales.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "d",
+      "questionId" : "27",
+      "fraction" : 0,
+      "text" : "Es independiente de las Cortes Generales.",
+      "feedback" : "Wrong!"
+    } ]
+  }, {
+    "id" : "28",
+    "quizId" : "csstic-2019-leyes",
+    "text" : "28. La creación de órganos directivos en los Ministerios se realiza por:",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "28",
+      "fraction" : 0,
+      "text" : "Orden del Ministro respectivo. ",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "b",
+      "questionId" : "28",
+      "fraction" : 100,
+      "text" : "Real Decreto del Consejo de Ministros.",
+      "feedback" : "Correct!"
+    }, {
+      "id" : "c",
+      "questionId" : "28",
+      "fraction" : 0,
+      "text" : "Ley.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "d",
+      "questionId" : "28",
+      "fraction" : 0,
+      "text" : "La relación de puestos de trabajo.",
+      "feedback" : "Wrong!"
+    } ]
+  }, {
+    "id" : "29",
+    "quizId" : "csstic-2019-leyes",
+    "text" : "29. Indique cuál es el principio que establece que el ejercicio de la potestad jurisdiccional en todo tipo de procesos, juzgando y haciendo ejecutar lo juzgado, corresponde exclusivamente a los Juzgados y Tribunales determinados por las leyes, según las normas de competencia y procedimiento que las mismas establezcan:",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "29",
+      "fraction" : 0,
+      "text" : "Principio de independencia judicial. ",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "b",
+      "questionId" : "29",
+      "fraction" : 100,
+      "text" : "Principio de exclusividad jurisdiccional.",
+      "feedback" : "Correct!"
+    }, {
+      "id" : "c",
+      "questionId" : "29",
+      "fraction" : 0,
+      "text" : "Principio de unidad jurisdiccional.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "d",
+      "questionId" : "29",
+      "fraction" : 0,
+      "text" : "Principio de legalidad judicial.",
+      "feedback" : "Wrong!"
+    } ]
+  }, {
+    "id" : "30",
+    "quizId" : "csstic-2019-leyes",
+    "text" : "30. Señale el estilo de liderazgo que promueve el diálogo entre los miembros del equipo y escucha las opiniones para la toma de decisiones:",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "30",
+      "fraction" : 0,
+      "text" : "Liderazgo autocrático. ",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "b",
+      "questionId" : "30",
+      "fraction" : 0,
+      "text" : "Liderazgo laissez-faire.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "c",
+      "questionId" : "30",
+      "fraction" : 100,
+      "text" : "Liderazgo democrático.",
+      "feedback" : "Correct!"
+    }, {
+      "id" : "d",
+      "questionId" : "30",
+      "fraction" : 0,
+      "text" : "Liderazgo delegativo.",
+      "feedback" : "Wrong!"
+    } ]
+  } ]
+}

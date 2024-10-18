@@ -1,22 +1,170 @@
 [ {
   "id" : "csstic-2016",
-  "title" : "CSSTIC OEP 2016"
+  "title" : "CSSTIC OEP 2016",
+  "instructions" : "",
+  "showPublic" : false,
+  "showCorrect" : true,
+  "suffleQuestions" : true,
+  "passFraction" : 300,
+  "fractionSuccess" : 10,
+  "fractionWrong" : -3,
+  "answernumbering" : "LETTERS",
+  "shuffleanswers" : false,
+  "active" : false
+}, {
+  "id" : "csstic-2017a-leyes",
+  "title" : "CSSTIC LEYES OEP 2017",
+  "instructions" : "",
+  "showPublic" : false,
+  "showCorrect" : false,
+  "suffleQuestions" : true,
+  "passFraction" : 100,
+  "fractionSuccess" : 100,
+  "fractionWrong" : 0,
+  "answernumbering" : "LETTERS",
+  "shuffleanswers" : false,
+  "active" : false
 }, {
   "id" : "csstic-2017a",
-  "title" : "CSSTIC modelo A OEP 2017"
+  "title" : "CSSTIC modelo A OEP 2017",
+  "instructions" : "",
+  "showPublic" : false,
+  "showCorrect" : true,
+  "suffleQuestions" : true,
+  "passFraction" : 300,
+  "fractionSuccess" : 10,
+  "fractionWrong" : -3,
+  "answernumbering" : "LETTERS",
+  "shuffleanswers" : false,
+  "active" : false
+}, {
+  "id" : "csstic-2018-leyes",
+  "title" : "CSSTIC OEP 2018 LEYES",
+  "instructions" : "",
+  "showPublic" : false,
+  "showCorrect" : false,
+  "suffleQuestions" : true,
+  "passFraction" : 100,
+  "fractionSuccess" : 100,
+  "fractionWrong" : 0,
+  "answernumbering" : "LETTERS",
+  "shuffleanswers" : false,
+  "active" : false
 }, {
   "id" : "csstic-2018",
-  "title" : "CSSTIC OEP 2018"
+  "title" : "CSSTIC OEP 2018",
+  "instructions" : "",
+  "showPublic" : false,
+  "showCorrect" : true,
+  "suffleQuestions" : true,
+  "passFraction" : 300,
+  "fractionSuccess" : 10,
+  "fractionWrong" : -3,
+  "answernumbering" : "LETTERS",
+  "shuffleanswers" : false,
+  "active" : false
+}, {
+  "id" : "csstic-2019-leyes",
+  "title" : "CSSTIC ORDINARIO OEP 2019 LEYES",
+  "instructions" : "",
+  "showPublic" : false,
+  "showCorrect" : false,
+  "suffleQuestions" : true,
+  "passFraction" : 100,
+  "fractionSuccess" : 100,
+  "fractionWrong" : 0,
+  "answernumbering" : "LETTERS",
+  "shuffleanswers" : false,
+  "active" : false
 }, {
   "id" : "csstic-2019",
-  "title" : "CSSTIC ORDINARIO OEP 2019"
+  "title" : "CSSTIC ORDINARIO OEP 2019",
+  "instructions" : "",
+  "showPublic" : false,
+  "showCorrect" : true,
+  "suffleQuestions" : true,
+  "passFraction" : 300,
+  "fractionSuccess" : 10,
+  "fractionWrong" : -3,
+  "answernumbering" : "LETTERS",
+  "shuffleanswers" : false,
+  "active" : false
+}, {
+  "id" : "csstic-2020-leyes",
+  "title" : "CSSTIC ORDINARIO OEP 2020 LEYES",
+  "instructions" : "",
+  "showPublic" : false,
+  "showCorrect" : false,
+  "suffleQuestions" : true,
+  "passFraction" : 300,
+  "fractionSuccess" : 10,
+  "fractionWrong" : -3,
+  "answernumbering" : "LETTERS",
+  "shuffleanswers" : false,
+  "active" : false
+}, {
+  "id" : "csstic-2020",
+  "title" : "CSSTIC ORDINARIO OEP 2020",
+  "instructions" : "",
+  "showPublic" : false,
+  "showCorrect" : false,
+  "suffleQuestions" : true,
+  "passFraction" : 300,
+  "fractionSuccess" : 10,
+  "fractionWrong" : -3,
+  "answernumbering" : "LETTERS",
+  "shuffleanswers" : false,
+  "active" : false
+}, {
+  "id" : "csstic-202122-leyes",
+  "title" : "CSSTIC Ordinario OEP 2021 y 2022 LEYES",
+  "instructions" : "",
+  "showPublic" : false,
+  "showCorrect" : false,
+  "suffleQuestions" : true,
+  "passFraction" : 300,
+  "fractionSuccess" : 10,
+  "fractionWrong" : -3,
+  "answernumbering" : "LETTERS",
+  "shuffleanswers" : false,
+  "active" : false
 }, {
   "id" : "csstic-202122",
-  "title" : "CSSTIC Ordinario OEP 2021 y 2022"
+  "title" : "CSSTIC Ordinario OEP 2021 y 2022",
+  "instructions" : "",
+  "showPublic" : false,
+  "showCorrect" : true,
+  "suffleQuestions" : true,
+  "passFraction" : 300,
+  "fractionSuccess" : 10,
+  "fractionWrong" : -3,
+  "answernumbering" : "LETTERS",
+  "shuffleanswers" : false,
+  "active" : false
 }, {
   "id" : "gsi-2019",
-  "title" : "GSI OEP 2019"
+  "title" : "GSI OEP 2019",
+  "instructions" : "",
+  "showPublic" : false,
+  "showCorrect" : true,
+  "suffleQuestions" : true,
+  "passFraction" : 100,
+  "fractionSuccess" : 100,
+  "fractionWrong" : 0,
+  "answernumbering" : "LETTERS",
+  "shuffleanswers" : false,
+  "active" : false
 }, {
   "id" : "gsi-202022",
-  "title" : "GSI OEP 2020-22"
+  "title" : "GSI OEP 2020-22",
+  "instructions" : "",
+  "showPublic" : false,
+  "showCorrect" : true,
+  "suffleQuestions" : true,
+  "passFraction" : 100,
+  "fractionSuccess" : 100,
+  "fractionWrong" : 0,
+  "answernumbering" : "LETTERS",
+  "shuffleanswers" : false,
+  "active" : false
 } ]

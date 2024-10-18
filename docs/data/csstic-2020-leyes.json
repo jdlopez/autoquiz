@@ -1,0 +1,945 @@
+{
+  "id" : "csstic-2020-leyes",
+  "title" : "CSSTIC ORDINARIO OEP 2020 LEYES",
+  "instructions" : "",
+  "showPublic" : false,
+  "showCorrect" : false,
+  "suffleQuestions" : true,
+  "passFraction" : 300,
+  "fractionSuccess" : 10,
+  "fractionWrong" : -3,
+  "answernumbering" : "LETTERS",
+  "shuffleanswers" : false,
+  "active" : false,
+  "questions" : [ {
+    "id" : "1",
+    "quizId" : "csstic-2020-leyes",
+    "text" : "1. De conformidad con el artículo 69 de la Constitución Española de 1978, indique cuál de estas respuestas es la CORRECTA respecto a la distribución de los Senadores en el territorio peninsular:",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "1",
+      "fraction" : -3,
+      "text" : "En cada provincia se elegirán cuatro senadores por sufragio universal y las Comunidades autónomas designarán a dos más. ",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "b",
+      "questionId" : "1",
+      "fraction" : -3,
+      "text" : "A cada provincia le corresponden cuatro senadores, dos de ellos elegidos por sufragio universal, y dos por designación de la Comunidad Autónoma, en la forma que determine su Estatuto.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "c",
+      "questionId" : "1",
+      "fraction" : -3,
+      "text" : "En cada provincia habrá cuatro senadores designados por la Comunidad Autónoma y uno más por cada millón de habitantes elegidos por sufragio universal.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "d",
+      "questionId" : "1",
+      "fraction" : 10,
+      "text" : "Habrá cuatro senadores por provincia elegidos por sufragio universal y las Comunidades Autónomas designarán, además, un senador, y otro más por cada millón de habitantes en la forma que determine su Estatuto.",
+      "feedback" : "Correct!"
+    } ]
+  }, {
+    "id" : "2",
+    "quizId" : "csstic-2020-leyes",
+    "text" : "2. De acuerdo con la Constitución Española, el Fiscal General del Estado será nombrado por:",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "2",
+      "fraction" : -3,
+      "text" : "El Gobierno, a propuesta del Consejo General del Poder Judicial. ",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "b",
+      "questionId" : "2",
+      "fraction" : 10,
+      "text" : "El Rey, a propuesta del Gobierno, oído el Consejo General del Poder Judicial.",
+      "feedback" : "Correct!"
+    }, {
+      "id" : "c",
+      "questionId" : "2",
+      "fraction" : -3,
+      "text" : "Las Cortes Generales, en sesión conjunta de ambas Cámaras.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "d",
+      "questionId" : "2",
+      "fraction" : -3,
+      "text" : "El Consejo General del Poder Judicial.",
+      "feedback" : "Wrong!"
+    } ]
+  }, {
+    "id" : "3",
+    "quizId" : "csstic-2020-leyes",
+    "text" : "3. ¿En cuál de las siguientes materias pueden asumir competencias las Comunidades Autónomas, de acuerdo con el artículo 148.1 de la Constitución Española?:",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "3",
+      "fraction" : -3,
+      "text" : "Correos y telecomunicaciones. ",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "b",
+      "questionId" : "3",
+      "fraction" : -3,
+      "text" : "Sanidad exterior.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "c",
+      "questionId" : "3",
+      "fraction" : 10,
+      "text" : "Organización de sus instituciones de autogobierno.",
+      "feedback" : "Correct!"
+    }, {
+      "id" : "d",
+      "questionId" : "3",
+      "fraction" : -3,
+      "text" : "Iluminación de costas y señales marítimas.",
+      "feedback" : "Wrong!"
+    } ]
+  }, {
+    "id" : "4",
+    "quizId" : "csstic-2020-leyes",
+    "text" : "4. ¿Cuál de las siguientes respuestas NO es CORRECTA en relación con el derecho comunitario?:",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "4",
+      "fraction" : -3,
+      "text" : "Las Directivas establecen objetivos de consecución obligada para todos los Estados miembros. ",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "b",
+      "questionId" : "4",
+      "fraction" : -3,
+      "text" : "El Parlamento europeo puede instar ante el Tribunal de Justicia medidas contra la Comisión.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "c",
+      "questionId" : "4",
+      "fraction" : 10,
+      "text" : "Los Reglamentos comunitarios son directamente aplicables en España desde su publicación en el Boletín Oficial del Estado.",
+      "feedback" : "Correct!"
+    }, {
+      "id" : "d",
+      "questionId" : "4",
+      "fraction" : -3,
+      "text" : "La intervención de la Comisión en garantía de la correcta aplicación de la normativa de la UE se concreta en su competencia para iniciar expedientes sancionadores.",
+      "feedback" : "Wrong!"
+    } ]
+  }, {
+    "id" : "5",
+    "quizId" : "csstic-2020-leyes",
+    "text" : "5. ¿Quién ostenta la representación del Estado en una Comunidad Autónoma uniprovincial?:",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "5",
+      "fraction" : 10,
+      "text" : "El Presidente de la Comunidad Autónoma. ",
+      "feedback" : "Correct!"
+    }, {
+      "id" : "b",
+      "questionId" : "5",
+      "fraction" : -3,
+      "text" : "El Delegado del Gobierno.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "c",
+      "questionId" : "5",
+      "fraction" : -3,
+      "text" : "El Presidente de la Diputación provincial.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "d",
+      "questionId" : "5",
+      "fraction" : -3,
+      "text" : "El Subdelegado del Gobierno.",
+      "feedback" : "Wrong!"
+    } ]
+  }, {
+    "id" : "6",
+    "quizId" : "csstic-2020-leyes",
+    "text" : "6. Los Estatutos de Autonomía se aprueban mediante:",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "6",
+      "fraction" : -3,
+      "text" : "Decreto Legislativo. ",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "b",
+      "questionId" : "6",
+      "fraction" : -3,
+      "text" : "Ley ordinaria.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "c",
+      "questionId" : "6",
+      "fraction" : 10,
+      "text" : "Ley orgánica.",
+      "feedback" : "Correct!"
+    }, {
+      "id" : "d",
+      "questionId" : "6",
+      "fraction" : -3,
+      "text" : "Ley de Transferencias.",
+      "feedback" : "Wrong!"
+    } ]
+  }, {
+    "id" : "7",
+    "quizId" : "csstic-2020-leyes",
+    "text" : "7. Indique cuál de las siguientes respuestas es CORRECTA, de acuerdo con la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas:",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "7",
+      "fraction" : -3,
+      "text" : "Las personas físicas y las personas jurídicas podrán elegir en todo momento si se comunican con las Administraciones Públicas para el ejercicio de sus derechos y obligaciones a través de medios electrónicos o no. ",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "b",
+      "questionId" : "7",
+      "fraction" : 10,
+      "text" : "Las entidades sin personalidad jurídica están obligadas a relacionarse a través de medios electrónicos con las Administraciones Públicas para la realización de cualquier trámite de un procedimiento administrativo.",
+      "feedback" : "Correct!"
+    }, {
+      "id" : "c",
+      "questionId" : "7",
+      "fraction" : -3,
+      "text" : "Las Administraciones Públicas no pueden, en ningún caso, establecer reglamentariamente la obligación de relacionarse con ellas a través de medios electrónicos para determinados procedimientos y para ciertos colectivos de personas físicas.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "d",
+      "questionId" : "7",
+      "fraction" : -3,
+      "text" : "Las personas físicas no obligadas a relacionarse electrónicamente con las Administraciones públicas no podrán modificar el medio que hubiesen elegido para comunicarse con éstas.",
+      "feedback" : "Wrong!"
+    } ]
+  }, {
+    "id" : "8",
+    "quizId" : "csstic-2020-leyes",
+    "text" : "8. Cuando se cumplan los requisitos establecidos en la Ley 39/2015, de 1 de octubre, de Procedimiento Administrativo Común de las Administraciones Públicas (LPAC) y la Ley 29/1998, de 13 de julio, reguladora de la Jurisdicción Contencioso-administrativa, los actos administrativos dictados por órganos que carezcan de superior jerárquico podrán recurrirse a través de:",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "8",
+      "fraction" : -3,
+      "text" : "El recurso potestativo de reposición, únicamente. ",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "b",
+      "questionId" : "8",
+      "fraction" : -3,
+      "text" : "El recurso de alzada.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "c",
+      "questionId" : "8",
+      "fraction" : -3,
+      "text" : "El recurso contencioso-administrativo, únicamente.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "d",
+      "questionId" : "8",
+      "fraction" : 10,
+      "text" : "El recurso potestativo de reposición y, en su caso, por el recurso contencioso-administrativo.",
+      "feedback" : "Correct!"
+    } ]
+  }, {
+    "id" : "9",
+    "quizId" : "csstic-2020-leyes",
+    "text" : "9. Según el artículo 34 de la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público, por el que se regula la indemnización por responsabilidad patrimonial de las Administraciones Públicas, establece que:",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "9",
+      "fraction" : -3,
+      "text" : "Serán indemnizables las lesiones producidas al particular provenientes de cualquier clase de daños. ",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "b",
+      "questionId" : "9",
+      "fraction" : 10,
+      "text" : "Sólo serán indemnizables las lesiones producidas al particular provenientes de daños que éste no tenga el deber jurídico de soportar de acuerdo con la Ley.",
+      "feedback" : "Correct!"
+    }, {
+      "id" : "c",
+      "questionId" : "9",
+      "fraction" : -3,
+      "text" : "Serán indemnizables las lesiones que se deriven de hechos o circunstancias que no se hubiesen podido prever o evitar según el estado de los conocimientos de la ciencia o de la técnica existentes en el momento de producción de aquéllos.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "d",
+      "questionId" : "9",
+      "fraction" : -3,
+      "text" : "No serán indemnizables las lesiones para las que se establezcan, por ley, prestaciones asistenciales o económicas.",
+      "feedback" : "Wrong!"
+    } ]
+  }, {
+    "id" : "10",
+    "quizId" : "csstic-2020-leyes",
+    "text" : "10. Indique cuál de las siguientes respuestas es CORRECTA en relación con el procedimiento abierto simplificado regulado en el artículo 159 de la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público:",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "10",
+      "fraction" : 10,
+      "text" : "Se puede aplicar en contratos de obras cuyo valor estimado sea igual o inferior a 2.000.000 de euros. ",
+      "feedback" : "Correct!"
+    }, {
+      "id" : "b",
+      "questionId" : "10",
+      "fraction" : -3,
+      "text" : "Se puede aplicar en contratos de concesión de servicios cuyo valor estimado sea igual o inferior a 100.000 euros.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "c",
+      "questionId" : "10",
+      "fraction" : -3,
+      "text" : "Los criterios de adjudicación que dependan de un juicio de valor no pueden suponer una ponderación superior al diez por ciento del total.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "d",
+      "questionId" : "10",
+      "fraction" : -3,
+      "text" : "Se exime al adjudicatario de la constitución de garantía definitiva.",
+      "feedback" : "Wrong!"
+    } ]
+  }, {
+    "id" : "11",
+    "quizId" : "csstic-2020-leyes",
+    "text" : "11. Indique cuál de las siguientes respuestas es INCORRECTA en relación con el sistema de pagos a justificar regulado en la Ley General Presupuestaria:",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "11",
+      "fraction" : 10,
+      "text" : "Es una provisión de fondos de carácter extrapresupuestario. ",
+      "feedback" : "Correct!"
+    }, {
+      "id" : "b",
+      "questionId" : "11",
+      "fraction" : -3,
+      "text" : "Las órdenes de pagos se expiden a favor de cajas pagadoras.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "c",
+      "questionId" : "11",
+      "fraction" : -3,
+      "text" : "Puede aplicarse para gastos corrientes en bienes y servicios (capítulo 2 del presupuesto de gastos).",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "d",
+      "questionId" : "11",
+      "fraction" : -3,
+      "text" : "Puede aplicarse para inversiones reales (capítulo 6 del presupuesto de gastos).",
+      "feedback" : "Wrong!"
+    } ]
+  }, {
+    "id" : "12",
+    "quizId" : "csstic-2020-leyes",
+    "text" : "12. Según la Ley General de Subvenciones, la subcontratación con terceros de una actividad subvencionada requiere de autorización previa cuando:",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "12",
+      "fraction" : -3,
+      "text" : "La actividad a subcontratar exceda del 25% del importe de la subvención y sea superior a 100.000€. ",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "b",
+      "questionId" : "12",
+      "fraction" : 10,
+      "text" : "La actividad a subcontratar exceda del 20% del importe de la subvención y dicho importe supere el importe de 60.000 euros.",
+      "feedback" : "Correct!"
+    }, {
+      "id" : "c",
+      "questionId" : "12",
+      "fraction" : -3,
+      "text" : "La actividad concertada con terceros exceda del 20% del importe de la subvención y supere las cuantías establecidas en la Ley 9/2017, para el contrato menor.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "d",
+      "questionId" : "12",
+      "fraction" : -3,
+      "text" : "La actividad concertada con terceros exceda del 20% del importe de la subvención y sea superior a 18.000€.",
+      "feedback" : "Wrong!"
+    } ]
+  }, {
+    "id" : "13",
+    "quizId" : "csstic-2020-leyes",
+    "text" : "13. Forma parte del Producto Interior Bruto (PIB) español:",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "13",
+      "fraction" : -3,
+      "text" : "La conferencia dada por un español en Alemania. ",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "b",
+      "questionId" : "13",
+      "fraction" : 10,
+      "text" : "Los coches producidos en España por una fábrica de capital totalmente alemán.",
+      "feedback" : "Correct!"
+    }, {
+      "id" : "c",
+      "questionId" : "13",
+      "fraction" : -3,
+      "text" : "Las compras de materias primas efectuadas por una empresa española a una empresa alemana.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "d",
+      "questionId" : "13",
+      "fraction" : -3,
+      "text" : "Las operaciones de corazón realizadas por un cirujano español en Alemania.",
+      "feedback" : "Wrong!"
+    } ]
+  }, {
+    "id" : "14",
+    "quizId" : "csstic-2020-leyes",
+    "text" : "14. El proyecto europeo para desarrollar la digitalización en el mundo rural se denomina:",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "14",
+      "fraction" : -3,
+      "text" : "Smart Rural 20. ",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "b",
+      "questionId" : "14",
+      "fraction" : -3,
+      "text" : "Smart Village 20.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "c",
+      "questionId" : "14",
+      "fraction" : 10,
+      "text" : "Smart Rural 21.",
+      "feedback" : "Correct!"
+    }, {
+      "id" : "d",
+      "questionId" : "14",
+      "fraction" : -3,
+      "text" : "Smart Village 21.",
+      "feedback" : "Wrong!"
+    } ]
+  }, {
+    "id" : "15",
+    "quizId" : "csstic-2020-leyes",
+    "text" : "15. El reparto gratuito de criptomonedas o “tokens” a cambio de la realización de determinadas tareas se denomina:",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "15",
+      "fraction" : -3,
+      "text" : "Holdear. ",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "b",
+      "questionId" : "15",
+      "fraction" : -3,
+      "text" : "Staking.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "c",
+      "questionId" : "15",
+      "fraction" : -3,
+      "text" : "Pool de liquidez.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "d",
+      "questionId" : "15",
+      "fraction" : 10,
+      "text" : "Airdrop.",
+      "feedback" : "Correct!"
+    } ]
+  }, {
+    "id" : "16",
+    "quizId" : "csstic-2020-leyes",
+    "text" : "16. En relación con la Oficina de Atención a la Discapacidad (OADIS), indique cuál de las siguientes respuestas es INCORRECTA:",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "16",
+      "fraction" : -3,
+      "text" : "Estudia y analiza denuncias sobre discriminación por razón de la discapacidad. ",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "b",
+      "questionId" : "16",
+      "fraction" : 10,
+      "text" : "Presta sus servicios con carácter vinculante.",
+      "feedback" : "Correct!"
+    }, {
+      "id" : "c",
+      "questionId" : "16",
+      "fraction" : -3,
+      "text" : "Promueve medidas que prevengan situaciones de discriminación por razón de discapacidad.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "d",
+      "questionId" : "16",
+      "fraction" : -3,
+      "text" : "Se organiza bajo la superior supervisión del Consejo Nacional de la Discapacidad.",
+      "feedback" : "Wrong!"
+    } ]
+  }, {
+    "id" : "17",
+    "quizId" : "csstic-2020-leyes",
+    "text" : "17. ¿Qué mide el índice denominado “paro registrado”?:",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "17",
+      "fraction" : -3,
+      "text" : "Es una encuesta que indica el número de personas que se declaran parados. ",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "b",
+      "questionId" : "17",
+      "fraction" : 10,
+      "text" : "El número de personas registradas como demandantes de empleo.",
+      "feedback" : "Correct!"
+    }, {
+      "id" : "c",
+      "questionId" : "17",
+      "fraction" : -3,
+      "text" : "El número de personas registradas en agencias de colocación.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "d",
+      "questionId" : "17",
+      "fraction" : -3,
+      "text" : "El número de personas sin empleo.",
+      "feedback" : "Wrong!"
+    } ]
+  }, {
+    "id" : "18",
+    "quizId" : "csstic-2020-leyes",
+    "text" : "18. ¿Cuál de los siguientes Fondos Estructurales de la Unión Europea destina la mayor parte de sus recursos a la financiación de políticas de empleo en los estados miembros?:",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "18",
+      "fraction" : -3,
+      "text" : "El Mecanismo de Recuperación y Resiliencia. ",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "b",
+      "questionId" : "18",
+      "fraction" : 10,
+      "text" : "El Fondo Social Europeo.",
+      "feedback" : "Correct!"
+    }, {
+      "id" : "c",
+      "questionId" : "18",
+      "fraction" : -3,
+      "text" : "El FEDER.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "d",
+      "questionId" : "18",
+      "fraction" : -3,
+      "text" : "El Fondo Europeo de Activación para el Empleo.",
+      "feedback" : "Wrong!"
+    } ]
+  }, {
+    "id" : "19",
+    "quizId" : "csstic-2020-leyes",
+    "text" : "19. La Ley 10/2021, de trabajo a distancia define el teletrabajo como:",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "19",
+      "fraction" : -3,
+      "text" : "Una forma de organización del trabajo o de realización de la actividad laboral conforme a la cual esta se presta en el domicilio de la persona trabajadora o en el lugar elegido por esta, durante toda su jornada o parte de ella, con carácter regular. ",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "b",
+      "questionId" : "19",
+      "fraction" : 10,
+      "text" : "Aquel trabajo a distancia que se lleva a cabo mediante el uso exclusivo o prevalente de medios y sistemas informáticos, telemáticos y de telecomunicación.",
+      "feedback" : "Correct!"
+    }, {
+      "id" : "c",
+      "questionId" : "19",
+      "fraction" : -3,
+      "text" : "Aquel trabajo a distancia que se lleva a cabo en el domicilio de la persona mediante el uso exclusivo o prevalente de medios y sistemas informáticos, telemáticos y de telecomunicación.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "d",
+      "questionId" : "19",
+      "fraction" : -3,
+      "text" : "Aquel trabajo que alterna la realización de la actividad laboral presencial con el trabajo a distancia.",
+      "feedback" : "Wrong!"
+    } ]
+  }, {
+    "id" : "20",
+    "quizId" : "csstic-2020-leyes",
+    "text" : "20. Según el Índice de Economía y Sociedad Digital 2021, España está mejor posicionada en:",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "20",
+      "fraction" : 10,
+      "text" : "Conectividad. ",
+      "feedback" : "Correct!"
+    }, {
+      "id" : "b",
+      "questionId" : "20",
+      "fraction" : -3,
+      "text" : "Uso de Internet.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "c",
+      "questionId" : "20",
+      "fraction" : -3,
+      "text" : "Servicios públicos digitales.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "d",
+      "questionId" : "20",
+      "fraction" : -3,
+      "text" : "Capital humano.",
+      "feedback" : "Wrong!"
+    } ]
+  }, {
+    "id" : "21",
+    "quizId" : "csstic-2020-leyes",
+    "text" : "21. Según datos de la Dirección General de Industria y de la Pequeña y Mediana Empresa (órgano directivo del Ministerio de Industria, Comercio y Turismo, adscrito a la Secretaría General de Industria y de la Pequeña y Mediana Empresa), España, comparada con la media de la UE, presenta:",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "21",
+      "fraction" : 10,
+      "text" : "Un nivel en el equipamiento digital de las empresas por encima de la media, pero un comportamiento en relación con el comercio electrónico por debajo de la media. ",
+      "feedback" : "Correct!"
+    }, {
+      "id" : "b",
+      "questionId" : "21",
+      "fraction" : -3,
+      "text" : "Un nivel en el equipamiento digital de las empresas y un comportamiento en relación con el comercio electrónico por encima de la media.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "c",
+      "questionId" : "21",
+      "fraction" : -3,
+      "text" : "Un nivel en el equipamiento digital de las empresas y un comportamiento en relación con el comercio electrónico por debajo de la media.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "d",
+      "questionId" : "21",
+      "fraction" : -3,
+      "text" : "Un nivel en el equipamiento digital de las empresas por debajo de la media, pero un comportamiento en relación con el comercio electrónico por encima de la media.",
+      "feedback" : "Wrong!"
+    } ]
+  }, {
+    "id" : "22",
+    "quizId" : "csstic-2020-leyes",
+    "text" : "22. Según el artículo 3 de la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público, las Administraciones Públicas sirven con objetividad los intereses generales y actúan de acuerdo con los principios de:",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "22",
+      "fraction" : -3,
+      "text" : "Legalidad, jerarquía normativa, publicidad de las normas, seguridad jurídica y responsabilidad. ",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "b",
+      "questionId" : "22",
+      "fraction" : -3,
+      "text" : "Libertad, justicia, igualdad y pluralismo político.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "c",
+      "questionId" : "22",
+      "fraction" : 10,
+      "text" : "Eficacia, jerarquía, descentralización, desconcentración y coordinación.",
+      "feedback" : "Correct!"
+    }, {
+      "id" : "d",
+      "questionId" : "22",
+      "fraction" : -3,
+      "text" : "Legalidad, eficacia, jerarquía, responsabilidad, desconcentración y coordinación.",
+      "feedback" : "Wrong!"
+    } ]
+  }, {
+    "id" : "23",
+    "quizId" : "csstic-2020-leyes",
+    "text" : "23. Según el modelo de liderazgo situacional de Hersey y Blanchard, para un grado de madurez del equipo M3 (saben pero no quieren), ¿cuál de los siguientes estilos de liderazgo sería el adecuado a adoptar?:",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "23",
+      "fraction" : -3,
+      "text" : "Estilo Persuasivo. ",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "b",
+      "questionId" : "23",
+      "fraction" : -3,
+      "text" : "Estilo Delegativo.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "c",
+      "questionId" : "23",
+      "fraction" : -3,
+      "text" : "Estilo Directivo.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "d",
+      "questionId" : "23",
+      "fraction" : 10,
+      "text" : "Estilo Participativo.",
+      "feedback" : "Correct!"
+    } ]
+  }, {
+    "id" : "24",
+    "quizId" : "csstic-2020-leyes",
+    "text" : "24. ¿Cuál de los siguientes principios es característico del modelo burocrático de gestión pública?:",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "24",
+      "fraction" : -3,
+      "text" : "El principio de transparencia. ",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "b",
+      "questionId" : "24",
+      "fraction" : -3,
+      "text" : "El principio de participación ciudadana.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "c",
+      "questionId" : "24",
+      "fraction" : -3,
+      "text" : "El principio de orientación al cliente.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "d",
+      "questionId" : "24",
+      "fraction" : 10,
+      "text" : "El principio de seguridad jurídica.",
+      "feedback" : "Correct!"
+    } ]
+  }, {
+    "id" : "25",
+    "quizId" : "csstic-2020-leyes",
+    "text" : "25. Señale la respuesta CORRECTA, relativa al sistema de empleo público en España:",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "25",
+      "fraction" : 10,
+      "text" : "Se caracteriza por una preferencia constitucional por un modelo funcionarial, si bien la mayoría de empleados al servicio de la Administración Local son personal laboral, y se regula con carácter básico en el Real Decreto Legislativo 5/2015, de 30 de octubre, por el que se aprueba el texto refundido de la Ley del Estatuto Básico del Empleado Público. ",
+      "feedback" : "Correct!"
+    }, {
+      "id" : "b",
+      "questionId" : "25",
+      "fraction" : -3,
+      "text" : "No se menciona en la Constitución Española, sino que cada Administración lo regula libremente, de forma que, en el ámbito de la Administración General del Estado, se regula en el Real Decreto Legislativo 5/2015, de 30 de octubre, por el que se aprueba el texto refundido de la Ley del Estatuto Básico del Empleado Público.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "c",
+      "questionId" : "25",
+      "fraction" : -3,
+      "text" : "Es, por mandato constitucional, un modelo exclusivamente funcionarial, de forma que no cabe que haya personal laboral al servicio de la Administración.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "d",
+      "questionId" : "25",
+      "fraction" : -3,
+      "text" : "Es regulado por cada Administración por medio de su propia ley, siendo el Real Decreto Legislativo 5/2015, de 30 de octubre, por el que se aprueba el texto refundido de la Ley del Estatuto Básico del Empleado Público la norma que regula el empleo público solo de la Administración General del Estado.",
+      "feedback" : "Wrong!"
+    } ]
+  }, {
+    "id" : "26",
+    "quizId" : "csstic-2020-leyes",
+    "text" : "26. El Real Decreto Legislativo 5/2015, de 30 de octubre, por el que se aprueba el texto refundido de la Ley del Estatuto Básico del Empleado Público, NO resulta de aplicación al personal funcionario al servicio de:",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "26",
+      "fraction" : -3,
+      "text" : "La Universidad Complutense de Madrid. ",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "b",
+      "questionId" : "26",
+      "fraction" : 10,
+      "text" : "El Banco de España.",
+      "feedback" : "Correct!"
+    }, {
+      "id" : "c",
+      "questionId" : "26",
+      "fraction" : -3,
+      "text" : "El Ayuntamiento de Madrid.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "d",
+      "questionId" : "26",
+      "fraction" : -3,
+      "text" : "La Agencia Española de Protección de Datos.",
+      "feedback" : "Wrong!"
+    } ]
+  }, {
+    "id" : "27",
+    "quizId" : "csstic-2020-leyes",
+    "text" : "27. Señale la respuesta CORRECTA relativa a la regulación contenida en la Ley 37/2007, de 16 de noviembre, sobre reutilización de la información del sector público:",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "27",
+      "fraction" : 10,
+      "text" : "Además de la lista de conjuntos de datos específicos de alto valor que establezca la Comisión Europea, se podrán determinar a nivel nacional otros conjuntos de datos adicionales seleccionados en relación a su potencial para generar beneficios socioeconómicos o medioambientales importantes y servicios innovadores; beneficiar a un gran número de usuarios, en concreto pymes; contribuir a generar ingresos, y la posibilidad de ser combinados con otros conjuntos de datos. ",
+      "feedback" : "Correct!"
+    }, {
+      "id" : "b",
+      "questionId" : "27",
+      "fraction" : -3,
+      "text" : "Los conjuntos de datos de alto valor, tanto los establecidos a nivel europeo como nacional estarán disponibles gratuitamente, a reserva de lo previsto en el artículo 7.9.a) de la ley; se suministrarán a través de interfaz de programación de aplicaciones (API), serán legibles por máquina y se proporcionarán siempre en forma de descarga masiva.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "c",
+      "questionId" : "27",
+      "fraction" : -3,
+      "text" : "La reutilización de los documentos deberá ser gratuita, prohibiendo esta ley la aplicación de tarifas por el suministro de documentos para su reutilización.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "d",
+      "questionId" : "27",
+      "fraction" : -3,
+      "text" : "La reutilización de documentos estará abierta a todos los agentes potenciales del mercado, salvo en caso de que uno o más de los agentes exploten ya productos con valor añadido basados en estos documentos.",
+      "feedback" : "Wrong!"
+    } ]
+  }, {
+    "id" : "28",
+    "quizId" : "csstic-2020-leyes",
+    "text" : "28. ¿Cuál de los siguientes principios NO es un principio de garantía de la libertad de establecimiento y la libertad de circulación de los recogidos en el Capítulo II de la Ley 20/2013, de 9 de diciembre, de garantía de la unidad de mercado?:",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "28",
+      "fraction" : -3,
+      "text" : "Principio de no discriminación. ",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "b",
+      "questionId" : "28",
+      "fraction" : -3,
+      "text" : "Principio de cooperación y confianza mutua.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "c",
+      "questionId" : "28",
+      "fraction" : 10,
+      "text" : "Principio de centralización de la actuación administrativa.",
+      "feedback" : "Correct!"
+    }, {
+      "id" : "d",
+      "questionId" : "28",
+      "fraction" : -3,
+      "text" : "Principio de simplificación de cargas.",
+      "feedback" : "Wrong!"
+    } ]
+  }, {
+    "id" : "29",
+    "quizId" : "csstic-2020-leyes",
+    "text" : "29. Indique cuál de las siguientes respuestas es CORRECTA en relación al ámbito de aplicación material del Reglamento (UE) 2016/679 del Parlamento Europeo el Consejo, de 27 de abril de 2016, relativo a la protección de las personas físicas en lo que respecta al tratamiento de datos personales y a la libre circulación de estos datos y por el que se deroga la Directiva 95/46/CE (Reglamento General de Protección de Datos) establece:",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "29",
+      "fraction" : 10,
+      "text" : "No se aplica al tratamiento de datos personales que se realice en ejercicio de una actividad no comprendida en el ámbito de aplicación del Derecho de la Unión. ",
+      "feedback" : "Correct!"
+    }, {
+      "id" : "b",
+      "questionId" : "29",
+      "fraction" : -3,
+      "text" : "Se aplica al tratamiento de datos personales en todo caso, incluyendo aquellos tratamientos efectuados por personas físicas en el ejercicio de actividades exclusivamente personales o domésticas.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "c",
+      "questionId" : "29",
+      "fraction" : -3,
+      "text" : "Se aplica al tratamiento de datos personales en todo caso, con la única excepción de aquellos tratamientos efectuados por personas físicas en el ejercicio de actividades exclusivamente personales o domésticas.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "d",
+      "questionId" : "29",
+      "fraction" : -3,
+      "text" : "Se aplica al tratamiento de datos personales por parte de las instituciones, órganos y organismos de la Unión.",
+      "feedback" : "Wrong!"
+    } ]
+  }, {
+    "id" : "30",
+    "quizId" : "csstic-2020-leyes",
+    "text" : "30. ¿Cuál de las siguientes entidades NO tiene obligación de designar un delegado de protección de datos?:",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "30",
+      "fraction" : -3,
+      "text" : "La Agencia Española de Protección de Datos. ",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "b",
+      "questionId" : "30",
+      "fraction" : -3,
+      "text" : "El Ilustre Colegio de Abogados de Madrid.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "c",
+      "questionId" : "30",
+      "fraction" : 10,
+      "text" : "Un médico que ejerza su actividad a título individual y esté legalmente obligado al mantenimiento de las historias clínicas de los pacientes.",
+      "feedback" : "Correct!"
+    }, {
+      "id" : "d",
+      "questionId" : "30",
+      "fraction" : -3,
+      "text" : "La Universidad Complutense de Madrid.",
+      "feedback" : "Wrong!"
+    } ]
+  } ]
+}

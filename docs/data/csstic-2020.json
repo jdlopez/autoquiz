@@ -1,0 +1,3115 @@
+{
+  "id" : "csstic-2020",
+  "title" : "CSSTIC ORDINARIO OEP 2020",
+  "instructions" : "",
+  "showPublic" : false,
+  "showCorrect" : false,
+  "suffleQuestions" : true,
+  "passFraction" : 300,
+  "fractionSuccess" : 10,
+  "fractionWrong" : -3,
+  "answernumbering" : "LETTERS",
+  "shuffleanswers" : false,
+  "active" : false,
+  "questions" : [ {
+    "id" : "1",
+    "quizId" : "csstic-2020",
+    "text" : "1. Utilizando el modo de asistencia como criterio distinguimos varios tipos de Sistema de Soporte a la Decisión o DSS. Indique la respuesta INCORRECTA:",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "1",
+      "fraction" : 10,
+      "text" : "DSS dirigido por cooperación. ",
+      "feedback" : "Correct!"
+    }, {
+      "id" : "b",
+      "questionId" : "1",
+      "fraction" : -3,
+      "text" : "DSS dirigido por modelos.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "c",
+      "questionId" : "1",
+      "fraction" : -3,
+      "text" : "DSS dirigido por comunicación.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "d",
+      "questionId" : "1",
+      "fraction" : -3,
+      "text" : "DSS dirigido por datos.",
+      "feedback" : "Wrong!"
+    } ]
+  }, {
+    "id" : "2",
+    "quizId" : "csstic-2020",
+    "text" : "2. De entre las características que el autor Peter Drucker señala como propias del tipo de organización basado en la estimulación del flujo de datos, información, conocimientos e inteligencia entre los miembros y unidades operativas de toda la organización, NO se encuentra la siguiente:",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "2",
+      "fraction" : 10,
+      "text" : "La comunicación se produce exclusivamente entre los directivos de la organización, donde la pirámide jerárquica distingue tres niveles: Directores, Managers y Trabajadores. ",
+      "feedback" : "Correct!"
+    }, {
+      "id" : "b",
+      "questionId" : "2",
+      "fraction" : -3,
+      "text" : "La reducción hasta la mitad del número de niveles frente a la estructura tradicional.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "c",
+      "questionId" : "2",
+      "fraction" : -3,
+      "text" : "La reducción hasta una tercera parte del número de managers con respecto a los que hoy son empleados para un determinado volumen de organización.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "d",
+      "questionId" : "2",
+      "fraction" : -3,
+      "text" : "Su funcionamiento es similar al de una orquesta, manifiesto ejemplo de organización basada en el conocimiento en el que distintos especialistas dirigen y organizan su trabajo mediante interacción con sus colegas.",
+      "feedback" : "Wrong!"
+    } ]
+  }, {
+    "id" : "3",
+    "quizId" : "csstic-2020",
+    "text" : "3. ¿Cuál de las siguientes respuestas es INCORRECTA sobre las Comisiones Ministeriales de Administración Digital (CMAD)?:",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "3",
+      "fraction" : -3,
+      "text" : "La CMAD es un órgano colegiado de ámbito departamental responsable del impulso de las TIC. ",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "b",
+      "questionId" : "3",
+      "fraction" : 10,
+      "text" : "La CMAD es un órgano colegiado de ámbito nacional responsable del impulso de las TIC.",
+      "feedback" : "Correct!"
+    }, {
+      "id" : "c",
+      "questionId" : "3",
+      "fraction" : -3,
+      "text" : "La CMAD actúa como órgano de relación entre los departamentos ministeriales y sus organismos adscritos y la Secretaría General de Administración Digital.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "d",
+      "questionId" : "3",
+      "fraction" : -3,
+      "text" : "Las CMAD estudiarán y planificarán las necesidades funcionales de las distintas áreas administrativas del ministerio en materia TIC.",
+      "feedback" : "Wrong!"
+    } ]
+  }, {
+    "id" : "4",
+    "quizId" : "csstic-2020",
+    "text" : "4. Indique cuáles de los siguientes datos o documentos NO están expresamente excluidos del ámbito objetivo de aplicación de la Ley 37/2007, de 16 de noviembre, sobre la reutilización de la información del sector público:",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "4",
+      "fraction" : -3,
+      "text" : "Los logotipos, divisas e insignias. ",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "b",
+      "questionId" : "4",
+      "fraction" : -3,
+      "text" : "Los datos conservados por las entidades que gestionen los servicios esenciales de radiodifusión sonora y televisiva y sus filiales.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "c",
+      "questionId" : "4",
+      "fraction" : 10,
+      "text" : "Los documentos producidos o conservados por bibliotecas, incluidas las universitarias, museos o archivos.",
+      "feedback" : "Correct!"
+    }, {
+      "id" : "d",
+      "questionId" : "4",
+      "fraction" : -3,
+      "text" : "Los documentos para cuyo acceso se requiera ser titular de un derecho o interés legítimo.",
+      "feedback" : "Wrong!"
+    } ]
+  }, {
+    "id" : "5",
+    "quizId" : "csstic-2020",
+    "text" : "5. Según el artículo 4 del Real Decreto 806/2014, de 19 de septiembre, sobre organización e instrumentos operativos de las tecnologías de la información y las comunicaciones en la Administración General del Estado y sus Organismos Públicos, corresponde a la Comisión de Estrategia TIC el ejercicio de la siguiente función:",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "5",
+      "fraction" : 10,
+      "text" : "Definir las prioridades de inversión en materias TIC de acuerdo con los objetivos establecidos por el Gobierno. ",
+      "feedback" : "Correct!"
+    }, {
+      "id" : "b",
+      "questionId" : "5",
+      "fraction" : -3,
+      "text" : "La elaboración de la estrategia en materia de Administración Digital y Servicios Públicos Digitales de la Administración General del Estado y sus Organismos Públicos.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "c",
+      "questionId" : "5",
+      "fraction" : -3,
+      "text" : "El estudio, propuesta y ejecución de la política general y la planificación estratégica y de acción sobre telecomunicaciones, las infraestructuras digitales y los servicios de comunicación audiovisual.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "d",
+      "questionId" : "5",
+      "fraction" : -3,
+      "text" : "El impulso, coordinación y apoyo a las iniciativas para la capacitación profesional en el ámbito de las tecnologías de la información y las comunicaciones (TIC), y de programas de atracción, desarrollo y retención del talento digital.",
+      "feedback" : "Wrong!"
+    } ]
+  }, {
+    "id" : "6",
+    "quizId" : "csstic-2020",
+    "text" : "6. En el ámbito de las Administraciones Públicas, el Cuadro de Mando Integral:",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "6",
+      "fraction" : -3,
+      "text" : "Es aplicable de igual forma que a las empresas, ya que ambas son tipos de organizaciones que exigen ser gestionadas desde las mismas perspectivas. ",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "b",
+      "questionId" : "6",
+      "fraction" : -3,
+      "text" : "No es aplicable porque se trata de una herramienta de gestión de empresas privadas.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "c",
+      "questionId" : "6",
+      "fraction" : 10,
+      "text" : "Surge con el cambio de un modelo burocrático de gestión a un modelo de nueva gestión pública (new public management) y es aplicable, si bien habrá que adaptarlo a las singularidades de la naturaleza pública de la Administración.",
+      "feedback" : "Correct!"
+    }, {
+      "id" : "d",
+      "questionId" : "6",
+      "fraction" : -3,
+      "text" : "Surge con el cambio de un modelo burocrático de gestión a un modelo de nueva gestión pública (new public management) y es aplicable, pero sin tener en cuenta la perspectiva financiera ni la perspectiva de cliente.",
+      "feedback" : "Wrong!"
+    } ]
+  }, {
+    "id" : "7",
+    "quizId" : "csstic-2020",
+    "text" : "7. ¿Qué significan las siglas inglesas DDL?:",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "7",
+      "fraction" : -3,
+      "text" : "Lenguaje de dimensión de datos. ",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "b",
+      "questionId" : "7",
+      "fraction" : 10,
+      "text" : "Lenguaje de definición de datos.",
+      "feedback" : "Correct!"
+    }, {
+      "id" : "c",
+      "questionId" : "7",
+      "fraction" : -3,
+      "text" : "Longitud de dimensión de datos.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "d",
+      "questionId" : "7",
+      "fraction" : -3,
+      "text" : "Longitud de datos definidos.",
+      "feedback" : "Wrong!"
+    } ]
+  }, {
+    "id" : "8",
+    "quizId" : "csstic-2020",
+    "text" : "8. ¿Cuál de las siguientes respuestas es CORRECTA en relación con la dirección de proyectos?:",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "8",
+      "fraction" : -3,
+      "text" : "Los procesos son discretos en el tiempo y se realizan sólo una vez durante la ejecución. ",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "b",
+      "questionId" : "8",
+      "fraction" : 10,
+      "text" : "El cliente es el responsable final de determinar de forma clara y concisa los objetivos del proyecto.",
+      "feedback" : "Correct!"
+    }, {
+      "id" : "c",
+      "questionId" : "8",
+      "fraction" : -3,
+      "text" : "Una modificación en el alcance del proyecto sólo afecta a los costes del mismo.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "d",
+      "questionId" : "8",
+      "fraction" : -3,
+      "text" : "El plan global del proyecto es lo mismo que la línea de base del proyecto.",
+      "feedback" : "Wrong!"
+    } ]
+  }, {
+    "id" : "9",
+    "quizId" : "csstic-2020",
+    "text" : "9. En metodología PERT, el tiempo de retraso máximo en el comienzo de la ejecución de una actividad, o tiempo que puede alargarse su ejecución, sin afectar a las siguientes actividades es:",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "9",
+      "fraction" : -3,
+      "text" : "Holgura independiente de una actividad. ",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "b",
+      "questionId" : "9",
+      "fraction" : 10,
+      "text" : "Holgura libre de una actividad.",
+      "feedback" : "Correct!"
+    }, {
+      "id" : "c",
+      "questionId" : "9",
+      "fraction" : -3,
+      "text" : "Holgura condicional de una actividad.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "d",
+      "questionId" : "9",
+      "fraction" : -3,
+      "text" : "Holgura total de una actividad.",
+      "feedback" : "Wrong!"
+    } ]
+  }, {
+    "id" : "10",
+    "quizId" : "csstic-2020",
+    "text" : "10. El proyecto SOROLLA2 como servicio común provisto como SaaS por la IGAE se gestiona:",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "10",
+      "fraction" : 10,
+      "text" : "Con metodología SCRUM. ",
+      "feedback" : "Correct!"
+    }, {
+      "id" : "b",
+      "questionId" : "10",
+      "fraction" : -3,
+      "text" : "Con metodología MÉTRICA.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "c",
+      "questionId" : "10",
+      "fraction" : -3,
+      "text" : "Con metodología Lean.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "d",
+      "questionId" : "10",
+      "fraction" : -3,
+      "text" : "Con metodología DSDM.",
+      "feedback" : "Wrong!"
+    } ]
+  }, {
+    "id" : "11",
+    "quizId" : "csstic-2020",
+    "text" : "11. Según el Anexo A de la Guía de Seguridad de las TIC CCN-STIC 802, ¿cuál de los siguientes NO es un requisito que deba probar el Auditor Jefe?:",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "11",
+      "fraction" : 10,
+      "text" : "Acreditación de formación y experiencia en auditoría de cuentas. ",
+      "feedback" : "Correct!"
+    }, {
+      "id" : "b",
+      "questionId" : "11",
+      "fraction" : -3,
+      "text" : "Conocimientos de seguridad y gestión de riesgos de seguridad.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "c",
+      "questionId" : "11",
+      "fraction" : -3,
+      "text" : "Conocimiento de los requisitos del Real Decreto 3/2010.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "d",
+      "questionId" : "11",
+      "fraction" : -3,
+      "text" : "Conocimientos de otra legislación aplicable cuando la auditoría incluya además otros requisitos o esquemas de seguridad.",
+      "feedback" : "Wrong!"
+    } ]
+  }, {
+    "id" : "12",
+    "quizId" : "csstic-2020",
+    "text" : "12. En aquellos procedimientos de contratación en los que participe una mesa de contratación, ¿cuál de las siguientes es una de sus funciones?:",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "12",
+      "fraction" : -3,
+      "text" : "La aprobación del expediente. ",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "b",
+      "questionId" : "12",
+      "fraction" : 10,
+      "text" : "La valoración de las proposiciones de los licitadores.",
+      "feedback" : "Correct!"
+    }, {
+      "id" : "c",
+      "questionId" : "12",
+      "fraction" : -3,
+      "text" : "La adjudicación del contrato.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "d",
+      "questionId" : "12",
+      "fraction" : -3,
+      "text" : "La resolución de los recursos especiales en materia de contratación.",
+      "feedback" : "Wrong!"
+    } ]
+  }, {
+    "id" : "13",
+    "quizId" : "csstic-2020",
+    "text" : "13. Señale la respuesta CORRECTA en relación con la aplicación de los criterios de adjudicación a la valoración de las ofertas presentadas por los licitadores en atención a lo previsto en la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público:",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "13",
+      "fraction" : -3,
+      "text" : "La valoración de los criterios cuya cuantificación dependa de un juicio de valor se realizará tras efectuar la de aquellos otros criterios evaluables de manera automática. ",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "b",
+      "questionId" : "13",
+      "fraction" : 10,
+      "text" : "La valoración de los criterios cuantificables mediante la mera aplicación de fórmulas se realizará tras efectuar la de aquellos otros criterios en que no concurra esta circunstancia.",
+      "feedback" : "Correct!"
+    }, {
+      "id" : "c",
+      "questionId" : "13",
+      "fraction" : -3,
+      "text" : "La valoración de los criterios relacionados con la calidad se realizará tras efectuar la de aquellos criterios que estén relacionados con los costes.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "d",
+      "questionId" : "13",
+      "fraction" : -3,
+      "text" : "La valoración del criterio relativo al precio se realizará con carácter previo a efectuar la de aquellos otros criterios no relacionados con el mismo.",
+      "feedback" : "Wrong!"
+    } ]
+  }, {
+    "id" : "14",
+    "quizId" : "csstic-2020",
+    "text" : "14. Señale la respuesta INCORRECTA respecto al proyecto de consolidación de CPDs en nube SARA y los servicios que dará a los organismos:",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "14",
+      "fraction" : -3,
+      "text" : "Ofrecer software, plataforma e infraestructura como servicio. ",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "b",
+      "questionId" : "14",
+      "fraction" : 10,
+      "text" : "Se constituirá únicamente como una nube con nodos públicos.",
+      "feedback" : "Correct!"
+    }, {
+      "id" : "c",
+      "questionId" : "14",
+      "fraction" : -3,
+      "text" : "Consolidar los nodos públicos de “hosting” y “housing”.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "d",
+      "questionId" : "14",
+      "fraction" : -3,
+      "text" : "Se constituirá como una nube con nodos públicos y nodos privados.",
+      "feedback" : "Wrong!"
+    } ]
+  }, {
+    "id" : "15",
+    "quizId" : "csstic-2020",
+    "text" : "15. Indique cuál de las siguientes respuestas es CORRECTA en relación con la técnica de análisis coste/beneficio tal y como es entendida por la Metodología de Planificación, Desarrollo y Mantenimiento de Sistemas de información en su versión tercera (MÉTRICA 3):",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "15",
+      "fraction" : -3,
+      "text" : "El análisis se realiza en dos pasos: identificar los gastos asociados a la inversión y determinar la viabilidad del proyecto. ",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "b",
+      "questionId" : "15",
+      "fraction" : -3,
+      "text" : "Se utiliza en dos procesos: estudio de viabilidad del sistema (EVS) y diseño del sistema de información (DSI).",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "c",
+      "questionId" : "15",
+      "fraction" : -3,
+      "text" : "Propone dos métodos para el cálculo de la viabilidad del proyecto: el valor actual neto y el índice de rentabilidad.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "d",
+      "questionId" : "15",
+      "fraction" : 10,
+      "text" : "Su objetivo fundamental es proporcionar una medida de los costes previstos en que se incurre en la realización de un proyecto y compararlos con los beneficios esperados.",
+      "feedback" : "Correct!"
+    } ]
+  }, {
+    "id" : "16",
+    "quizId" : "csstic-2020",
+    "text" : "16. Atendiendo al Real Decreto Legislativo 1/1996, de 12 de abril, por el que se aprueba el texto refundido de la Ley de Propiedad Intelectual, indique cuál de los siguientes supuestos estaría sujeto a propiedad intelectual:",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "16",
+      "fraction" : -3,
+      "text" : "Todas las creaciones originales literarias, artísticas o científicas expresadas por cualquier medio o soporte, tangible o intangible, actualmente conocido o que se invente en el futuro, salvo los programas de ordenador. ",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "b",
+      "questionId" : "16",
+      "fraction" : 10,
+      "text" : "Todas las creaciones originales literarias, artísticas o científicas expresadas por cualquier medio o soporte, tangible o intangible, actualmente conocido o que se invente en el futuro, incluidos los programas de ordenador.",
+      "feedback" : "Correct!"
+    }, {
+      "id" : "c",
+      "questionId" : "16",
+      "fraction" : -3,
+      "text" : "Todas las creaciones originales literarias, artísticas o científicas expresadas por cualquier medio o soporte, tangible o intangible, actualmente conocido o que se invente en el futuro, incluidos los programas de ordenador únicamente cuando resulten novedosos y sean susceptibles de aplicación industrial.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "d",
+      "questionId" : "16",
+      "fraction" : -3,
+      "text" : "Todas las creaciones originales literarias, artísticas o científicas solo cuando estén expresadas por medios o soportes tangibles.",
+      "feedback" : "Wrong!"
+    } ]
+  }, {
+    "id" : "17",
+    "quizId" : "csstic-2020",
+    "text" : "17. ANULADA La usabilidad de un sistema informático NO se caracteriza por ser:",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "17",
+      "fraction" : -3,
+      "text" : "La facilidad de aprendizaje. ",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "b",
+      "questionId" : "17",
+      "fraction" : -3,
+      "text" : "La facilidad para memorizarlo.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "c",
+      "questionId" : "17",
+      "fraction" : -3,
+      "text" : "La eficiencia en el uso.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "d",
+      "questionId" : "17",
+      "fraction" : -3,
+      "text" : "La plena adaptación a la discapacidad visual.",
+      "feedback" : "Wrong!"
+    } ]
+  }, {
+    "id" : "18",
+    "quizId" : "csstic-2020",
+    "text" : "18. La Decisión UE 2015/2240 del Parlamento Europeo y del Consejo, de noviembre de 2015, establece el programa:",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "18",
+      "fraction" : 10,
+      "text" : "El programa ISA2. ",
+      "feedback" : "Correct!"
+    }, {
+      "id" : "b",
+      "questionId" : "18",
+      "fraction" : -3,
+      "text" : "El programa ISA III.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "c",
+      "questionId" : "18",
+      "fraction" : -3,
+      "text" : "El programa IDA.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "d",
+      "questionId" : "18",
+      "fraction" : -3,
+      "text" : "El programa IDA II.",
+      "feedback" : "Wrong!"
+    } ]
+  }, {
+    "id" : "19",
+    "quizId" : "csstic-2020",
+    "text" : "19. Conforme a la norma técnica de interoperabilidad de Expediente Electrónico, los componentes de un expediente electrónico son:",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "19",
+      "fraction" : -3,
+      "text" : "Los documentos electrónicos, las firmas electrónicas y los metadatos. ",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "b",
+      "questionId" : "19",
+      "fraction" : 10,
+      "text" : "Los documentos electrónicos, el índice electrónico, la firma del índice electrónico y los metadatos.",
+      "feedback" : "Correct!"
+    }, {
+      "id" : "c",
+      "questionId" : "19",
+      "fraction" : -3,
+      "text" : "Las carpetas electrónicas, los certificados electrónicos y el índice electrónico.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "d",
+      "questionId" : "19",
+      "fraction" : -3,
+      "text" : "Los archivadores, los documentos y las etiquetas.",
+      "feedback" : "Wrong!"
+    } ]
+  }, {
+    "id" : "20",
+    "quizId" : "csstic-2020",
+    "text" : "20. Diga qué respuesta es CORRECTA, sobre la ciberseguridad:",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "20",
+      "fraction" : -3,
+      "text" : "La Ley 36/2015, de 28 de septiembre, de Seguridad Nacional, no incluye la ciberseguridad entre sus prioridades. ",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "b",
+      "questionId" : "20",
+      "fraction" : -3,
+      "text" : "La última Estrategia de Ciberseguridad Nacional se aprobó el 28 de diciembre de 2021.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "c",
+      "questionId" : "20",
+      "fraction" : -3,
+      "text" : "La Ley 36/2015 recoge la obligación de disponer de una Estrategia de Ciberseguridad Nacional.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "d",
+      "questionId" : "20",
+      "fraction" : 10,
+      "text" : "La Estrategia Nacional de Ciberseguridad 2019 desarrolla las previsiones de la Estrategia de Seguridad Nacional de 2017 en el ámbito de la ciberseguridad.",
+      "feedback" : "Correct!"
+    } ]
+  }, {
+    "id" : "21",
+    "quizId" : "csstic-2020",
+    "text" : "21. ¿Cuál de los siguientes es un organismo especializado de las Naciones Unidas para las TIC?:",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "21",
+      "fraction" : -3,
+      "text" : "ICANN. ",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "b",
+      "questionId" : "21",
+      "fraction" : -3,
+      "text" : "W3C.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "c",
+      "questionId" : "21",
+      "fraction" : -3,
+      "text" : "ISOC.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "d",
+      "questionId" : "21",
+      "fraction" : 10,
+      "text" : "ITU.",
+      "feedback" : "Correct!"
+    } ]
+  }, {
+    "id" : "22",
+    "quizId" : "csstic-2020",
+    "text" : "22. ¿Cuál de los siguientes NO es un objetivo del Mercado Único Digital (Digital Single Market o DSM)?:",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "22",
+      "fraction" : -3,
+      "text" : "Adaptar las reglas de privacidad electrónica al nuevo entorno digital. ",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "b",
+      "questionId" : "22",
+      "fraction" : -3,
+      "text" : "Modernizar la normativa sobre derechos de autor, en la Unión Europea, para adaptarse a la era digital.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "c",
+      "questionId" : "22",
+      "fraction" : 10,
+      "text" : "Facilitar la identificación personal mediante un certificado electrónico europeo que permita, a las autoridades de los Estados Miembros, determinar la correcta tributación de las transacciones por vía electrónica.",
+      "feedback" : "Correct!"
+    }, {
+      "id" : "d",
+      "questionId" : "22",
+      "fraction" : -3,
+      "text" : "Desbloquear el potencial de una economía de datos europea con un marco para el libre flujo de datos no personales, en la Unión Europea.",
+      "feedback" : "Wrong!"
+    } ]
+  }, {
+    "id" : "23",
+    "quizId" : "csstic-2020",
+    "text" : "23. Una de las principales características de un sistema “grid” es que:",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "23",
+      "fraction" : -3,
+      "text" : "Los nodos tienen que estar dedicados. ",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "b",
+      "questionId" : "23",
+      "fraction" : -3,
+      "text" : "Son sistemas homogéneos, en los que se tiene el mismo HW y SW en cada nodo.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "c",
+      "questionId" : "23",
+      "fraction" : 10,
+      "text" : "Se puede asegurar que la aportación al sistema no va a sobrepasar un determinado porcentaje de tiempo de procesamiento en cada nodo.",
+      "feedback" : "Correct!"
+    }, {
+      "id" : "d",
+      "questionId" : "23",
+      "fraction" : -3,
+      "text" : "No se puede garantizar la escalabilidad como un criterio parametrizable para añadir nuevos nodos.",
+      "feedback" : "Wrong!"
+    } ]
+  }, {
+    "id" : "24",
+    "quizId" : "csstic-2020",
+    "text" : "24. En cuanto a las técnicas de refrigeración en CPDs, la tecnología que consiste en un equipo condensador que se sitúa en el exterior y envía el calor de la sala fuera de la misma, impulsando de nuevo el aire frio de vuelta a la sala mediante un sistema de ventilación corresponde a:",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "24",
+      "fraction" : -3,
+      "text" : "Sistema de refrigeración por condensación en torre de refrigeración. ",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "b",
+      "questionId" : "24",
+      "fraction" : -3,
+      "text" : "Entrega de aire a baja presión.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "c",
+      "questionId" : "24",
+      "fraction" : 10,
+      "text" : "Sistemas de expansión directa.",
+      "feedback" : "Correct!"
+    }, {
+      "id" : "d",
+      "questionId" : "24",
+      "fraction" : -3,
+      "text" : "Técnicas de pasillo frío/caliente.",
+      "feedback" : "Wrong!"
+    } ]
+  }, {
+    "id" : "25",
+    "quizId" : "csstic-2020",
+    "text" : "25. Las soluciones UEM (Unified Endpoint Management) permiten en los dispositivos móviles que gestionan:",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "25",
+      "fraction" : -3,
+      "text" : "Realizar borrados remotos de información corporativa en caso de pérdida del dispositivo, pero no permiten inutilizar el dispositivo. ",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "b",
+      "questionId" : "25",
+      "fraction" : 10,
+      "text" : "Realizar borrados remotos de información corporativa en caso de pérdida del dispositivo, e inutilizar el dispositivo.",
+      "feedback" : "Correct!"
+    }, {
+      "id" : "c",
+      "questionId" : "25",
+      "fraction" : -3,
+      "text" : "Inutilizar el dispositivo, pero no borrar de forma remota información corporativa en caso de pérdida del dispositivo.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "d",
+      "questionId" : "25",
+      "fraction" : -3,
+      "text" : "Localizar el dispositivo, pero no borrar de forma remota información corporativa en caso de pérdida del dispositivo.",
+      "feedback" : "Wrong!"
+    } ]
+  }, {
+    "id" : "26",
+    "quizId" : "csstic-2020",
+    "text" : "26. ¿En cuál de las siguientes modalidades de servicios en la nube se pueden encontrar servicios de correo electrónico o de paquetes ofimáticos?:",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "26",
+      "fraction" : -3,
+      "text" : "IasS. ",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "b",
+      "questionId" : "26",
+      "fraction" : -3,
+      "text" : "PaaS.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "c",
+      "questionId" : "26",
+      "fraction" : 10,
+      "text" : "SaaS.",
+      "feedback" : "Correct!"
+    }, {
+      "id" : "d",
+      "questionId" : "26",
+      "fraction" : -3,
+      "text" : "HaaS.",
+      "feedback" : "Wrong!"
+    } ]
+  }, {
+    "id" : "27",
+    "quizId" : "csstic-2020",
+    "text" : "27. En relación con los dispositivos de estado sólido, señale la respuesta CORRECTA:",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "27",
+      "fraction" : -3,
+      "text" : "En general, poseen mayor capacidad de almacenamiento que los discos duros mecánicos. ",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "b",
+      "questionId" : "27",
+      "fraction" : -3,
+      "text" : "Poseen mayor vida útil que los discos duros mecánicos.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "c",
+      "questionId" : "27",
+      "fraction" : 10,
+      "text" : "Poseen menor capacidad de recuperación que los discos duros mecánicos.",
+      "feedback" : "Correct!"
+    }, {
+      "id" : "d",
+      "questionId" : "27",
+      "fraction" : -3,
+      "text" : "El tiempo de búsqueda es aleatorio.",
+      "feedback" : "Wrong!"
+    } ]
+  }, {
+    "id" : "28",
+    "quizId" : "csstic-2020",
+    "text" : "28. En relación con los servidores de redes privadas virtuales (VPN), señale la respuesta CORRECTA:",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "28",
+      "fraction" : -3,
+      "text" : "Un concentrador VPN puede establecer conexiones seguras (túneles) con dispositivos de usuario, pero no con otros servidores VPN. ",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "b",
+      "questionId" : "28",
+      "fraction" : 10,
+      "text" : "La autenticación mutua entre los extremos del túnel VPN se lleva a cabo, en general, mediante certificados de clave pública X.509.",
+      "feedback" : "Correct!"
+    }, {
+      "id" : "c",
+      "questionId" : "28",
+      "fraction" : -3,
+      "text" : "La tecnología “VPN as a Service” (VPNaaS) no puede utilizarse para establecer conexión a los recursos de la red interna corporativa (on-premise).",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "d",
+      "questionId" : "28",
+      "fraction" : -3,
+      "text" : "Las VPN basadas en IPSec tienen como ventaja la ausencia de problemas de compatibilidad con la traslación de direccionamiento IP (NAT).",
+      "feedback" : "Wrong!"
+    } ]
+  }, {
+    "id" : "29",
+    "quizId" : "csstic-2020",
+    "text" : "29. ¿Cuál de las siguientes NO es una característica de los sistemas distribuidos?:",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "29",
+      "fraction" : -3,
+      "text" : "Las arquitecturas de los nodos que componen el sistema distribuido, como los sistemas operativos de los nodos, no tienen por qué ser iguales. ",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "b",
+      "questionId" : "29",
+      "fraction" : 10,
+      "text" : "La utilización de un reloj común que sirve para sincronizar y coordinar cualquier proceso o comunicación de mensajes.",
+      "feedback" : "Correct!"
+    }, {
+      "id" : "c",
+      "questionId" : "29",
+      "fraction" : -3,
+      "text" : "La concurrencia global para que la ejecución de los distintos elementos del sistema se realice de forma paralela.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "d",
+      "questionId" : "29",
+      "fraction" : -3,
+      "text" : "Los fallos son independientes del nodo del sistema en el que se producen, por lo que en el caso de que un nodo fallara los demás podrían continuar ejecutando sus acciones.",
+      "feedback" : "Wrong!"
+    } ]
+  }, {
+    "id" : "30",
+    "quizId" : "csstic-2020",
+    "text" : "30. En cuanto a los tipos de “middleware”, seleccione la respuesta INCORRECTA:",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "30",
+      "fraction" : -3,
+      "text" : "Las estaciones de mensajería (EM) proporcionan asistencia a los sistemas en lo referente a la gestión del medio de comunicación. ",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "b",
+      "questionId" : "30",
+      "fraction" : -3,
+      "text" : "Los motores o brókeres de integración aparecieron como una evolución de las EM hacia finales de los 90.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "c",
+      "questionId" : "30",
+      "fraction" : -3,
+      "text" : "Los buses de integración son un tipo de “middleware” diseñado para superar las limitaciones de los motores de integración y responder a las necesidades de integración de las organizaciones a una escala superior a la considerada hasta su creación.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "d",
+      "questionId" : "30",
+      "fraction" : 10,
+      "text" : "Las estaciones de mensajería surgieron como una evolución de los motores de integración.",
+      "feedback" : "Correct!"
+    } ]
+  }, {
+    "id" : "31",
+    "quizId" : "csstic-2020",
+    "text" : "31. En cuanto al problema de “deadlock” relativo a la concurrencia de procesos, seleccione la respuesta INCORRECTA:",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "31",
+      "fraction" : -3,
+      "text" : "Ocurre cuando se presentan al mismo tiempo cuatro condiciones necesarias: la condición de no apropiación, la condición de espera circular, la condición de exclusión mutua y la condición de ocupar y esperar un recurso. ",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "b",
+      "questionId" : "31",
+      "fraction" : -3,
+      "text" : "Puede prevenirse asignando recursos en orden lineal.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "c",
+      "questionId" : "31",
+      "fraction" : -3,
+      "text" : "Puede prevenirse aplicando el Algoritmo del Banquero.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "d",
+      "questionId" : "31",
+      "fraction" : 10,
+      "text" : "Sucede cuando un proceso pide un recurso que ya está asignado a otro proceso, debiendo cumplir la condición de no apropiación.",
+      "feedback" : "Correct!"
+    } ]
+  }, {
+    "id" : "32",
+    "quizId" : "csstic-2020",
+    "text" : "32. En cuanto a la gestión de memoria en el sistema operativo UNIX, seleccione la respuesta INCORRECTA:",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "32",
+      "fraction" : -3,
+      "text" : "Los sistemas UNIX utilizan el manejo de memoria virtual. ",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "b",
+      "questionId" : "32",
+      "fraction" : -3,
+      "text" : "El esquema más usado es la paginación por demanda y combinación de segmentos paginados, en ambos casos con páginas de tamaño fijo.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "c",
+      "questionId" : "32",
+      "fraction" : -3,
+      "text" : "En todos los sistemas UNIX se usa una partición de disco duro para el área de intercambio.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "d",
+      "questionId" : "32",
+      "fraction" : 10,
+      "text" : "Todos los procesos que forman parte del “kernel” pueden ser intercambiados a disco.",
+      "feedback" : "Correct!"
+    } ]
+  }, {
+    "id" : "33",
+    "quizId" : "csstic-2020",
+    "text" : "33. En cuanto a los siguientes directorios relativos a la estructura del sistema de archivos de Linux, NO es correcto:",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "33",
+      "fraction" : -3,
+      "text" : "/dev contiene ficheros del sistema representando los dispositivos que estén físicamente instalados en el ordenador. ",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "b",
+      "questionId" : "33",
+      "fraction" : -3,
+      "text" : "/etc está reservado para los ficheros de configuración del sistema.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "c",
+      "questionId" : "33",
+      "fraction" : 10,
+      "text" : "/proc contiene programas que son únicamente accesibles al superusuario o “root”.",
+      "feedback" : "Correct!"
+    }, {
+      "id" : "d",
+      "questionId" : "33",
+      "fraction" : -3,
+      "text" : "/var contiene información temporal de los programas.",
+      "feedback" : "Wrong!"
+    } ]
+  }, {
+    "id" : "34",
+    "quizId" : "csstic-2020",
+    "text" : "34. ANULADA En el sistema operativo Windows, la tecnología “plug&play” se introduce con:",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "34",
+      "fraction" : -3,
+      "text" : "Windows NT. ",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "b",
+      "questionId" : "34",
+      "fraction" : -3,
+      "text" : "Windows 98.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "c",
+      "questionId" : "34",
+      "fraction" : -3,
+      "text" : "Windows 2000.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "d",
+      "questionId" : "34",
+      "fraction" : -3,
+      "text" : "Windows XP.",
+      "feedback" : "Wrong!"
+    } ]
+  }, {
+    "id" : "35",
+    "quizId" : "csstic-2020",
+    "text" : "35. ¿Cómo se denomina la interfaz de usuario del sistema operativo Mac OS X?:",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "35",
+      "fraction" : -3,
+      "text" : "Platinum. ",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "b",
+      "questionId" : "35",
+      "fraction" : -3,
+      "text" : "Cocoa.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "c",
+      "questionId" : "35",
+      "fraction" : -3,
+      "text" : "Carbon.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "d",
+      "questionId" : "35",
+      "fraction" : 10,
+      "text" : "Aqua.",
+      "feedback" : "Correct!"
+    } ]
+  }, {
+    "id" : "36",
+    "quizId" : "csstic-2020",
+    "text" : "36. Una relación R (a, b y c) en la que todos sus atributos son principales, y sabiendo que cumple la 1FN, se puede asegurar que estará en:",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "36",
+      "fraction" : -3,
+      "text" : "2FN, si solo hay una clave candidata. ",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "b",
+      "questionId" : "36",
+      "fraction" : -3,
+      "text" : "2FN, si hay más de una clave candidata.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "c",
+      "questionId" : "36",
+      "fraction" : 10,
+      "text" : "3FN.",
+      "feedback" : "Correct!"
+    }, {
+      "id" : "d",
+      "questionId" : "36",
+      "fraction" : -3,
+      "text" : "No podemos asegurar nada sobre su nivel de normalización.",
+      "feedback" : "Wrong!"
+    } ]
+  }, {
+    "id" : "37",
+    "quizId" : "csstic-2020",
+    "text" : "37. Azure es una tecnología de:",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "37",
+      "fraction" : -3,
+      "text" : "Firma biométrica. ",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "b",
+      "questionId" : "37",
+      "fraction" : -3,
+      "text" : "Blockchain.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "c",
+      "questionId" : "37",
+      "fraction" : 10,
+      "text" : "Cloud.",
+      "feedback" : "Correct!"
+    }, {
+      "id" : "d",
+      "questionId" : "37",
+      "fraction" : -3,
+      "text" : "Aplicaciones para dispositivos móviles.",
+      "feedback" : "Wrong!"
+    } ]
+  }, {
+    "id" : "38",
+    "quizId" : "csstic-2020",
+    "text" : "38. El que Java sea un lenguaje fuertemente tipado implica:",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "38",
+      "fraction" : -3,
+      "text" : "Que no se pueden declarar clases propias. ",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "b",
+      "questionId" : "38",
+      "fraction" : 10,
+      "text" : "Que los valores asignados a las variables deben cuadrar con el tipo con el que éstas se declararon.",
+      "feedback" : "Correct!"
+    }, {
+      "id" : "c",
+      "questionId" : "38",
+      "fraction" : -3,
+      "text" : "Que no hay tratamiento explícito de punteros.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "d",
+      "questionId" : "38",
+      "fraction" : -3,
+      "text" : "Que sólo se pueden pasar parámetros por valor.",
+      "feedback" : "Wrong!"
+    } ]
+  }, {
+    "id" : "39",
+    "quizId" : "csstic-2020",
+    "text" : "39. Seleccione la respuesta INCORRECTA:",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "39",
+      "fraction" : -3,
+      "text" : "Los “servlets” son componentes web desarrollados en Java y utilizados para generar contenido dinámico. ",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "b",
+      "questionId" : "39",
+      "fraction" : -3,
+      "text" : "La clase HttpServlet es una clase abstracta de la que heredan todos los “servlets” destinados a dar servicios desde un servidor web.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "c",
+      "questionId" : "39",
+      "fraction" : -3,
+      "text" : "Una página JSP se puede ver como una página HTML con trozos de código Java que se ejecutan cuando se solicita la página.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "d",
+      "questionId" : "39",
+      "fraction" : 10,
+      "text" : "JSF 2 utiliza “servlets” como su sistema de plantillas por defecto.",
+      "feedback" : "Correct!"
+    } ]
+  }, {
+    "id" : "40",
+    "quizId" : "csstic-2020",
+    "text" : "40. Señale la respuesta INCORRECTA en relación con el lenguaje de programación Hypertext Preprocessor (PHP):",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "40",
+      "fraction" : -3,
+      "text" : "Cuenta con funciones HTTP que permiten manipular la salida que se envía al navegador cliente a nivel de protocolo HTTP. ",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "b",
+      "questionId" : "40",
+      "fraction" : -3,
+      "text" : "Las funciones HTTP permiten enviar cabeceras HTTP y cookies al navegador cliente.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "c",
+      "questionId" : "40",
+      "fraction" : 10,
+      "text" : "Las variables en PHP van precedidas por un signo almohadilla (#).",
+      "feedback" : "Correct!"
+    }, {
+      "id" : "d",
+      "questionId" : "40",
+      "fraction" : -3,
+      "text" : "Los nombres válidos de variables empiezan por una letra o guion bajo.",
+      "feedback" : "Wrong!"
+    } ]
+  }, {
+    "id" : "41",
+    "quizId" : "csstic-2020",
+    "text" : "41. ¿Cuál de los siguientes NO es un servidor web “open source”?:",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "41",
+      "fraction" : -3,
+      "text" : "Apache HTTP server. ",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "b",
+      "questionId" : "41",
+      "fraction" : 10,
+      "text" : "PowerEdge.",
+      "feedback" : "Correct!"
+    }, {
+      "id" : "c",
+      "questionId" : "41",
+      "fraction" : -3,
+      "text" : "Caddy 2.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "d",
+      "questionId" : "41",
+      "fraction" : -3,
+      "text" : "NGINX.",
+      "feedback" : "Wrong!"
+    } ]
+  }, {
+    "id" : "42",
+    "quizId" : "csstic-2020",
+    "text" : "42. ¿Cuál de las siguientes NO es una definición de ERP?:",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "42",
+      "fraction" : -3,
+      "text" : "Es una extensa solución comercial de software empaquetado compuesto de varios módulos configurables que integran, firmemente y en un solo sistema las actividades empresariales nucleares. ",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "b",
+      "questionId" : "42",
+      "fraction" : -3,
+      "text" : "Se pueden definir como la puesta en práctica de los módulos del software estándar para los procesos del negocio nucleares, generalmente, combinados con modificaciones particulares para lograr una diferenciación competitiva.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "c",
+      "questionId" : "42",
+      "fraction" : 10,
+      "text" : "Conjunto de estrategias que tienen la intención de buscar, recopilar y almacenar la información adecuada, validarla y compartirla a través de toda la organización, con objeto de que después sea utilizada por todos los niveles organizativos para crear experiencias únicas y personalizadas a sus clientes.",
+      "feedback" : "Correct!"
+    }, {
+      "id" : "d",
+      "questionId" : "42",
+      "fraction" : -3,
+      "text" : "Software de gestión empresarial que permite a una organización utilizar un sistema de aplicaciones integradas para gestionar cuentas e integrar las actividades financieras, de cadena de suministro, de operaciones, de creación de informes, de fabricación y de recursos humanos de una empresa.",
+      "feedback" : "Wrong!"
+    } ]
+  }, {
+    "id" : "43",
+    "quizId" : "csstic-2020",
+    "text" : "43. ANULADA ¿Cuáles de las siguientes soluciones son exclusivamente soluciones ERP comerciales?:",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "43",
+      "fraction" : -3,
+      "text" : "Oracle e-business suite, SAP, Openbravo. ",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "b",
+      "questionId" : "43",
+      "fraction" : -3,
+      "text" : "SAP, vTiger, Jive Software.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "c",
+      "questionId" : "43",
+      "fraction" : -3,
+      "text" : "Oracle business, vTiger, Openbravo.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "d",
+      "questionId" : "43",
+      "fraction" : -3,
+      "text" : "RightNow, SAP, vTiger.",
+      "feedback" : "Wrong!"
+    } ]
+  }, {
+    "id" : "44",
+    "quizId" : "csstic-2020",
+    "text" : "44. ¿Qué información es CORRECTA respecto a un modelo de datos vectorial en un Sistema de Información Geográfica (SIG)?:",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "44",
+      "fraction" : -3,
+      "text" : "No permite establecer relaciones topológicas como coincidencia, inclusión, conectividad, colindancia o superposición. ",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "b",
+      "questionId" : "44",
+      "fraction" : -3,
+      "text" : "A diferencia del modelo ráster, este modelo no permite que los elementos del mapa puedan tener inteligencia espacial.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "c",
+      "questionId" : "44",
+      "fraction" : -3,
+      "text" : "Las relaciones topológicas deben almacenarse explícitamente, no se permite el cálculo en tiempo real.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "d",
+      "questionId" : "44",
+      "fraction" : 10,
+      "text" : "La topología analiza la relación de los elementos espaciales entre sí y se define como el conjunto de relaciones entre los elementos (puntos, líneas, superficies) que componen un sistema cartográfico.",
+      "feedback" : "Correct!"
+    } ]
+  }, {
+    "id" : "45",
+    "quizId" : "csstic-2020",
+    "text" : "45. Respecto a la eficiencia de consultas en cubos ROLAP, señale la respuesta CORRECTA:",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "45",
+      "fraction" : -3,
+      "text" : "ROLAP más eficiente que MOLAP ya que ROLAP requiere que los datos del cubo ya estén generados. ",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "b",
+      "questionId" : "45",
+      "fraction" : 10,
+      "text" : "MOLAP es más eficiente que ROLAP ya que los datos del cubo ya están generados.",
+      "feedback" : "Correct!"
+    }, {
+      "id" : "c",
+      "questionId" : "45",
+      "fraction" : -3,
+      "text" : "ROLAP y MOLAP son igualmente eficientes porque se definen sobre un “Data Warehouse” ya existente.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "d",
+      "questionId" : "45",
+      "fraction" : -3,
+      "text" : "MOLAP es más eficiente que ROLAP ya que los datos del cubo se calculan dinámicamente.",
+      "feedback" : "Wrong!"
+    } ]
+  }, {
+    "id" : "46",
+    "quizId" : "csstic-2020",
+    "text" : "46. Una tabla en el modelo relacional equivale en una base de datos NoSQL de Apache Cassandra a:",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "46",
+      "fraction" : 10,
+      "text" : "Familia de columnas. ",
+      "feedback" : "Correct!"
+    }, {
+      "id" : "b",
+      "questionId" : "46",
+      "fraction" : -3,
+      "text" : "Colección.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "c",
+      "questionId" : "46",
+      "fraction" : -3,
+      "text" : "Keyspace.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "d",
+      "questionId" : "46",
+      "fraction" : -3,
+      "text" : "HyperTable.",
+      "feedback" : "Wrong!"
+    } ]
+  }, {
+    "id" : "47",
+    "quizId" : "csstic-2020",
+    "text" : "47. ANULADA Seleccione la respuesta INCORRECTA:",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "47",
+      "fraction" : -3,
+      "text" : "“Responsive web design” es un conjunto de técnicas que permite que la página web se adapte al medio a través del cual se está accediendo y visualizando. ",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "b",
+      "questionId" : "47",
+      "fraction" : -3,
+      "text" : "“Responsive web design” define unos rangos de resolución de pantallas (viewports) en los que el comportamiento es el mismo y el cambio se produce solo al saltar de rango de resolución de pantalla.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "c",
+      "questionId" : "47",
+      "fraction" : -3,
+      "text" : "Tanto “responsive web design” como “adaptative design” buscan el objetivo de adaptar el interfaz a las dimensiones del dispositivo para facilitar la interacción con el usuario.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "d",
+      "questionId" : "47",
+      "fraction" : -3,
+      "text" : "“Responsive web design” requiere más trabajo de diseño y de implementación que “adaptive design”, pero se suele considerar la carga más rápida.",
+      "feedback" : "Wrong!"
+    } ]
+  }, {
+    "id" : "48",
+    "quizId" : "csstic-2020",
+    "text" : "48. En relación con las funciones hash o resumen, señale la respuesta CORRECTA:",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "48",
+      "fraction" : -3,
+      "text" : "El funcionamiento de la función hash implica la división del mensaje de entrada en secciones de longitud arbitraria de forma que se evite la necesidad de relleno. ",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "b",
+      "questionId" : "48",
+      "fraction" : -3,
+      "text" : "La función MAC (Message Authentication Codes) no se puede utilizar para la generación de Códigos Seguros de Verificación.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "c",
+      "questionId" : "48",
+      "fraction" : -3,
+      "text" : "Resistencia a la preimagen implica que dado un mensaje y su hash, es computacionalmente imposible calcular otro mensaje diferente que posea el mismo hash.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "d",
+      "questionId" : "48",
+      "fraction" : 10,
+      "text" : "WHIRLPOOL produce un hash de 512 bits para un mensaje de entrada de longitud máxima 2^256-1 bits.",
+      "feedback" : "Correct!"
+    } ]
+  }, {
+    "id" : "49",
+    "quizId" : "csstic-2020",
+    "text" : "49. En relación con la criptografía asimétrica, señale la respuesta CORRECTA:",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "49",
+      "fraction" : -3,
+      "text" : "Las claves pueden ser más cortas en criptografía elíptica para una fortaleza similar a otros algoritmos asimétricos con mayor longitud de clave, por lo que se utilizan claves de 64 o 128 bits. ",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "b",
+      "questionId" : "49",
+      "fraction" : -3,
+      "text" : "La vulnerabilidad del algoritmo RSA no depende del generador aleatorio de números primos.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "c",
+      "questionId" : "49",
+      "fraction" : -3,
+      "text" : "La criptografía asimétrica de 1.024 bits se considera equivalente a la simétrica de 112 bits.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "d",
+      "questionId" : "49",
+      "fraction" : 10,
+      "text" : "Para las aplicaciones más críticas, como la raíz de una infraestructura de clave pública (PKI), se suelen utilizan claves RSA de 4.096 bits.",
+      "feedback" : "Correct!"
+    } ]
+  }, {
+    "id" : "50",
+    "quizId" : "csstic-2020",
+    "text" : "50. De acuerdo con la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la respuesta CORRECTA:",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "50",
+      "fraction" : -3,
+      "text" : "Para su identificación, los interesados podrán utilizar sistemas basados en certificados electrónicos cualificados de firma y sello electrónico expedidos por prestadores incluidos en las diferentes listas mantenidas por las Administraciones públicas. ",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "b",
+      "questionId" : "50",
+      "fraction" : -3,
+      "text" : "Se podrán utilizar, para la identificación del interesado, sistemas de clave concertada y cualquier otro sistema, bajo determinadas condiciones y previa autorización por parte del Ministerio del Interior.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "c",
+      "questionId" : "50",
+      "fraction" : -3,
+      "text" : "La aceptación de alguno de los sistemas de identificación por la Administración General del Estado no servirá para acreditar frente a todas las Administraciones Públicas la identificación electrónica de los interesados en el procedimiento administrativo.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "d",
+      "questionId" : "50",
+      "fraction" : 10,
+      "text" : "Cuando los interesados utilicen un sistema de firma previsto en la Ley, su identidad se entenderá ya acreditada mediante el propio acto de la firma.",
+      "feedback" : "Correct!"
+    } ]
+  }, {
+    "id" : "51",
+    "quizId" : "csstic-2020",
+    "text" : "51. En relación con la identificación electrónica, señale la respuesta CORRECTA:",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "51",
+      "fraction" : -3,
+      "text" : "El Reglamento (UE) 910/2014 prevé los siguientes niveles de aseguramiento de sistemas de identificación electrónica: alto, sustancial, medio y bajo. ",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "b",
+      "questionId" : "51",
+      "fraction" : -3,
+      "text" : "El Reglamento (UE) 910/2014 únicamente prevé la notificación de sistemas de identificación electrónica de nivel de aseguramiento alto.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "c",
+      "questionId" : "51",
+      "fraction" : -3,
+      "text" : "La Orden ETD/465/2021, de 6 de mayo, por la que se regulan los métodos de identificación remota por vídeo para la expedición de certificados electrónicos cualificados, permite la videoconferencia, pero no la video-identificación.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "d",
+      "questionId" : "51",
+      "fraction" : 10,
+      "text" : "El Reglamento de Ejecución (UE) 2015/1501 regula el conjunto mínimo de datos de identificación que representen de manera exclusiva a una persona física o jurídica.",
+      "feedback" : "Correct!"
+    } ]
+  }, {
+    "id" : "52",
+    "quizId" : "csstic-2020",
+    "text" : "52. ¿Cuál de las siguientes respuestas es CORRECTA referente a las auditorías que se plantean en el RGPD?:",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "52",
+      "fraction" : -3,
+      "text" : "Hay obligación de realizar auditorías periódicas preventivas según dispone el RGPD. ",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "b",
+      "questionId" : "52",
+      "fraction" : -3,
+      "text" : "Solo se tendrán que realizar auditorías cuando lo exija la AEPD.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "c",
+      "questionId" : "52",
+      "fraction" : 10,
+      "text" : "Pueden realizarse auditorías de cumplimiento a decisión de la organización sin que las haya solicitado la AEPD.",
+      "feedback" : "Correct!"
+    }, {
+      "id" : "d",
+      "questionId" : "52",
+      "fraction" : -3,
+      "text" : "Las auditorías del RGPD tienen que ser siempre realizadas por un auditor certificado.",
+      "feedback" : "Wrong!"
+    } ]
+  }, {
+    "id" : "53",
+    "quizId" : "csstic-2020",
+    "text" : "53. ¿Cuál es el nivel mínimo de resolución establecido por la Norma Técnica de Interoperabilidad de Digitalización de documentos?:",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "53",
+      "fraction" : -3,
+      "text" : "El nivel de resolución mínimo para imágenes electrónicas será de 100 píxeles por pulgada, tanto para imágenes obtenidas en blanco y negro, color o escala de grises. ",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "b",
+      "questionId" : "53",
+      "fraction" : -3,
+      "text" : "El nivel de resolución mínimo para imágenes electrónicas será de 80 píxeles por pulgada para imágenes obtenidas en blanco y negro y de 300 píxeles por pulgada para color o escala de grises.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "c",
+      "questionId" : "53",
+      "fraction" : 10,
+      "text" : "El nivel de resolución mínimo para imágenes electrónicas será de 200 píxeles por pulgada, tanto para imágenes obtenidas en blanco y negro, color o escala de grises.",
+      "feedback" : "Correct!"
+    }, {
+      "id" : "d",
+      "questionId" : "53",
+      "fraction" : -3,
+      "text" : "El nivel de resolución mínimo para imágenes electrónicas será de 300 píxeles por pulgada, tanto para imágenes obtenidas en blanco y negro, color o escala de grises.",
+      "feedback" : "Wrong!"
+    } ]
+  }, {
+    "id" : "54",
+    "quizId" : "csstic-2020",
+    "text" : "54. ANULADA ¿Cuáles de los siguientes modelos de ciclo de vida se clasifican como modelos tradicionales?:",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "54",
+      "fraction" : -3,
+      "text" : "Modelo en cascada y modelos basados en prototipos. ",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "b",
+      "questionId" : "54",
+      "fraction" : -3,
+      "text" : "Modelo en espiral y modelos basados en transformaciones.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "c",
+      "questionId" : "54",
+      "fraction" : -3,
+      "text" : "Modelo en cascada y modelo en espiral.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "d",
+      "questionId" : "54",
+      "fraction" : -3,
+      "text" : "Modelos basados en prototipos y modelos basados en transformaciones.",
+      "feedback" : "Wrong!"
+    } ]
+  }, {
+    "id" : "55",
+    "quizId" : "csstic-2020",
+    "text" : "55. En el ámbito de la planificación estratégica de los sistemas de información, el establecimiento de esta deberá basarse en los siguientes análisis:",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "55",
+      "fraction" : -3,
+      "text" : "Soporte del servicio y prestación del servicio, incluyendo la gestión de niveles de servicio, la gestión de la capacidad y la gestión de la seguridad. ",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "b",
+      "questionId" : "55",
+      "fraction" : -3,
+      "text" : "Análisis de la arquitectura del sistema y del entorno tecnológico que le va a dar soporte, junto con la especificación detallada de los componentes del sistema de información.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "c",
+      "questionId" : "55",
+      "fraction" : -3,
+      "text" : "Descomposición del proyecto en una serie de obras parciales o actividades, establecer las dependencias entre las distintas tareas del proyecto para saber de qué manera han de encadenarse dichas tareas en la planificación.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "d",
+      "questionId" : "55",
+      "fraction" : 10,
+      "text" : "El Conocimiento de las políticas generales a corto, medio y largo plazo, la catalogación de los procesos o actividades de la empresa para el cumplimiento de sus objetivos, así como la forma en que tales informaciones se utilizan o generan y el estudio de la organización, y del flujo de datos.",
+      "feedback" : "Correct!"
+    } ]
+  }, {
+    "id" : "56",
+    "quizId" : "csstic-2020",
+    "text" : "56. Indique cuál de las siguientes características NO aplica a la metodología ágil SCRUM:",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "56",
+      "fraction" : 10,
+      "text" : "Se trabaja en iteraciones de 3 meses, en los que se trabaja el % de horas requerido para desarrollar los requisitos que estén definidos y se espera a la definición de los pendientes. ",
+      "feedback" : "Correct!"
+    }, {
+      "id" : "b",
+      "questionId" : "56",
+      "fraction" : -3,
+      "text" : "Se deben tener unos requisitos de alto nivel perfectamente priorizados reflejando el valor del negocio.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "c",
+      "questionId" : "56",
+      "fraction" : -3,
+      "text" : "Se debe mantener un ritmo de trabajo constante, permite que no haya descuidos y retrasos en el sprint.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "d",
+      "questionId" : "56",
+      "fraction" : -3,
+      "text" : "El equipo es auto organizado, los coordinadores y clientes deben trabajar en todo momento con el equipo de desarrollo, facilitando las tareas y resolviendo dudas.",
+      "feedback" : "Wrong!"
+    } ]
+  }, {
+    "id" : "57",
+    "quizId" : "csstic-2020",
+    "text" : "57. ¿Qué se entiende por línea base en el control de versiones?:",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "57",
+      "fraction" : -3,
+      "text" : "La línea base constituye el marco de referencia estable para el desarrollo del producto, conteniendo un conjunto de requisitos completo, coherente y correcto, sobre el que no se pueden realizar modificaciones o cambios. ",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "b",
+      "questionId" : "57",
+      "fraction" : -3,
+      "text" : "La línea base es una herramienta automática de control de versiones para controlar todas y cada una de las versiones de los documentos que se generen durante el desarrollo y mantenimiento del sistema.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "c",
+      "questionId" : "57",
+      "fraction" : 10,
+      "text" : "El concepto de línea base se define como una especificación o producto que ha sido revisado formalmente y sobre la que se ha llegado a un acuerdo, y que de ahí en adelante sirve como base para un desarrollo posterior y que puede cambiarse solamente a través de procedimientos formales de control de cambios.",
+      "feedback" : "Correct!"
+    }, {
+      "id" : "d",
+      "questionId" : "57",
+      "fraction" : -3,
+      "text" : "La línea base es el histórico de especificaciones de un documento o producto entre los que se habrá establecido su trazabilidad.",
+      "feedback" : "Wrong!"
+    } ]
+  }, {
+    "id" : "58",
+    "quizId" : "csstic-2020",
+    "text" : "58. En el modelo entidad-relación extendido, en una jerarquía con cobertura total cada elemento de la superentidad:",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "58",
+      "fraction" : -3,
+      "text" : "Tiene que estar obligatoriamente en todas las subentidades. ",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "b",
+      "questionId" : "58",
+      "fraction" : 10,
+      "text" : "Tiene que estar en al menos una de las subentidades.",
+      "feedback" : "Correct!"
+    }, {
+      "id" : "c",
+      "questionId" : "58",
+      "fraction" : -3,
+      "text" : "No es obligatorio que esté en una de las subentidades.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "d",
+      "questionId" : "58",
+      "fraction" : -3,
+      "text" : "No puede estar en ninguna de las subentidades.",
+      "feedback" : "Wrong!"
+    } ]
+  }, {
+    "id" : "59",
+    "quizId" : "csstic-2020",
+    "text" : "59. En un diagrama de clases, el tipo de relación entre clases que se representa gráficamente mediante una línea discontinua con una punta de flecha corresponde a:",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "59",
+      "fraction" : -3,
+      "text" : "Asociación. ",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "b",
+      "questionId" : "59",
+      "fraction" : -3,
+      "text" : "Agregación.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "c",
+      "questionId" : "59",
+      "fraction" : 10,
+      "text" : "Dependencia.",
+      "feedback" : "Correct!"
+    }, {
+      "id" : "d",
+      "questionId" : "59",
+      "fraction" : -3,
+      "text" : "Composición.",
+      "feedback" : "Wrong!"
+    } ]
+  }, {
+    "id" : "60",
+    "quizId" : "csstic-2020",
+    "text" : "60. En los Diagrama de flujo de datos, el DFD de nivel 3 se conoce como:",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "60",
+      "fraction" : -3,
+      "text" : "Diagrama de Subsistemas. ",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "b",
+      "questionId" : "60",
+      "fraction" : -3,
+      "text" : "Diagrama de Procesos.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "c",
+      "questionId" : "60",
+      "fraction" : -3,
+      "text" : "Diagrama de Contexto.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "d",
+      "questionId" : "60",
+      "fraction" : 10,
+      "text" : "Diagrama de Subfunciones de las Funciones.",
+      "feedback" : "Correct!"
+    } ]
+  }, {
+    "id" : "61",
+    "quizId" : "csstic-2020",
+    "text" : "61. El grado en que un sistema, software o servicio de TI permite y facilita que sea probado en un determinado contexto es lo que se conoce como:",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "61",
+      "fraction" : -3,
+      "text" : "Comprensibilidad. ",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "b",
+      "questionId" : "61",
+      "fraction" : 10,
+      "text" : "Comprobabilidad.",
+      "feedback" : "Correct!"
+    }, {
+      "id" : "c",
+      "questionId" : "61",
+      "fraction" : -3,
+      "text" : "Complejidad.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "d",
+      "questionId" : "61",
+      "fraction" : -3,
+      "text" : "Testabilidad.",
+      "feedback" : "Wrong!"
+    } ]
+  }, {
+    "id" : "62",
+    "quizId" : "csstic-2020",
+    "text" : "62. UML consta de varios tipos de diagramas, que se clasifican en Diagramas de Estructura y Diagramas de Comportamiento para representar la visión estática y dinámica respectivamente. ¿Cuál de los siguientes es un Diagrama de Estructura?:",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "62",
+      "fraction" : -3,
+      "text" : "Diagrama de casos de uso. ",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "b",
+      "questionId" : "62",
+      "fraction" : -3,
+      "text" : "Diagrama de actividades.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "c",
+      "questionId" : "62",
+      "fraction" : 10,
+      "text" : "Diagrama de componentes.",
+      "feedback" : "Correct!"
+    }, {
+      "id" : "d",
+      "questionId" : "62",
+      "fraction" : -3,
+      "text" : "Diagrama de estados.",
+      "feedback" : "Wrong!"
+    } ]
+  }, {
+    "id" : "63",
+    "quizId" : "csstic-2020",
+    "text" : "63. ¿Cuáles de las siguientes son características de un buen diseño orientado a objetos?:",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "63",
+      "fraction" : -3,
+      "text" : "El acoplamiento y cohesión fuertes, y la extensibilidad. ",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "b",
+      "questionId" : "63",
+      "fraction" : 10,
+      "text" : "El acoplamiento débil, la cohesión fuerte y la extensibilidad.",
+      "feedback" : "Correct!"
+    }, {
+      "id" : "c",
+      "questionId" : "63",
+      "fraction" : -3,
+      "text" : "El acoplamiento fuerte, la cohesión débil y la extensibilidad.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "d",
+      "questionId" : "63",
+      "fraction" : -3,
+      "text" : "El acoplamiento y cohesión débiles, la extensibilidad y la modularidad.",
+      "feedback" : "Wrong!"
+    } ]
+  }, {
+    "id" : "64",
+    "quizId" : "csstic-2020",
+    "text" : "64. ¿Cuál de los siguientes programas informáticos genera archivos XML?:",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "64",
+      "fraction" : -3,
+      "text" : "GTK+(GIMP Toolkit). ",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "b",
+      "questionId" : "64",
+      "fraction" : -3,
+      "text" : "WXWidgets.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "c",
+      "questionId" : "64",
+      "fraction" : 10,
+      "text" : "GLADE.",
+      "feedback" : "Correct!"
+    }, {
+      "id" : "d",
+      "questionId" : "64",
+      "fraction" : -3,
+      "text" : "Todos generan XML.",
+      "feedback" : "Wrong!"
+    } ]
+  }, {
+    "id" : "65",
+    "quizId" : "csstic-2020",
+    "text" : "65. Al estudio de un conjunto concreto de necesidades para proponer una solución a corto plazo, que tenga en cuenta restricciones económicas, técnicas, legales y operativas, en la metodología Métrica v3 se denomina:",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "65",
+      "fraction" : -3,
+      "text" : "Análisis de Oportunidad del sistema (AOS). ",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "b",
+      "questionId" : "65",
+      "fraction" : 10,
+      "text" : "Estudio de Viabilidad del Sistema (EVS).",
+      "feedback" : "Correct!"
+    }, {
+      "id" : "c",
+      "questionId" : "65",
+      "fraction" : -3,
+      "text" : "Planificación del Sistema de Información (PSI).",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "d",
+      "questionId" : "65",
+      "fraction" : -3,
+      "text" : "Planificación y Análisis de Viabilidad (PAV).",
+      "feedback" : "Wrong!"
+    } ]
+  }, {
+    "id" : "66",
+    "quizId" : "csstic-2020",
+    "text" : "66. ¿Cuál de las siguientes herramientas NO es de automatización de pruebas?:",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "66",
+      "fraction" : -3,
+      "text" : "SELENIUM. ",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "b",
+      "questionId" : "66",
+      "fraction" : 10,
+      "text" : "MANTIS.",
+      "feedback" : "Correct!"
+    }, {
+      "id" : "c",
+      "questionId" : "66",
+      "fraction" : -3,
+      "text" : "CUCUMBER.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "d",
+      "questionId" : "66",
+      "fraction" : -3,
+      "text" : "JENKINS.",
+      "feedback" : "Wrong!"
+    } ]
+  }, {
+    "id" : "67",
+    "quizId" : "csstic-2020",
+    "text" : "67. TestLink es una herramienta:",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "67",
+      "fraction" : -3,
+      "text" : "De desarrollo de interface de usuario. ",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "b",
+      "questionId" : "67",
+      "fraction" : -3,
+      "text" : "De integración de configuración.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "c",
+      "questionId" : "67",
+      "fraction" : 10,
+      "text" : "De gestión de requisitos y casos de pruebas.",
+      "feedback" : "Correct!"
+    }, {
+      "id" : "d",
+      "questionId" : "67",
+      "fraction" : -3,
+      "text" : "Ninguna es correcta.",
+      "feedback" : "Wrong!"
+    } ]
+  }, {
+    "id" : "68",
+    "quizId" : "csstic-2020",
+    "text" : "68. La norma ISO 25000, conocida como SQuaRE:",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "68",
+      "fraction" : -3,
+      "text" : "Es una norma de seguridad que especifica formalmente un sistema de administración de la seguridad de la información (ISMS) diseñado para mantener la seguridad de la información bajo un control de administración explícito. ",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "b",
+      "questionId" : "68",
+      "fraction" : -3,
+      "text" : "Es la norma internacional para la Gestión de Riesgos, en la que se basa la metodología MAGERIT.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "c",
+      "questionId" : "68",
+      "fraction" : -3,
+      "text" : "Es una norma orientada a sistemas de gestión ambiental, en especial al impacto de sus actividades en el medio ambiente.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "d",
+      "questionId" : "68",
+      "fraction" : 10,
+      "text" : "Es una familia de normas que tiene por objetivo la creación de un marco de trabajo común para evaluar la calidad del producto software.",
+      "feedback" : "Correct!"
+    } ]
+  }, {
+    "id" : "69",
+    "quizId" : "csstic-2020",
+    "text" : "69. La mantenibilidad es una característica de calidad del software que se define como:",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "69",
+      "fraction" : -3,
+      "text" : "Conjunto de atributos relacionados con el rendimiento del software y los recursos usados bajo unas condiciones dadas. ",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "b",
+      "questionId" : "69",
+      "fraction" : 10,
+      "text" : "Conjunto de atributos relacionados con el esfuerzo necesario para hacer modificaciones específicas.",
+      "feedback" : "Correct!"
+    }, {
+      "id" : "c",
+      "questionId" : "69",
+      "fraction" : -3,
+      "text" : "Conjunto de atributos que hacen posible la transferencia del software de un entorno a otro.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "d",
+      "questionId" : "69",
+      "fraction" : -3,
+      "text" : "Conjunto de atributos relacionados con la capacidad del software para mantener su funcionamiento bajo condiciones establecidas durante un período de tiempo.",
+      "feedback" : "Wrong!"
+    } ]
+  }, {
+    "id" : "70",
+    "quizId" : "csstic-2020",
+    "text" : "70. En sistemas de control de versiones distribuido, ”pull” es:",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "70",
+      "fraction" : -3,
+      "text" : "Enviar el código a otros servidores tras hacer “commit” en local. ",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "b",
+      "questionId" : "70",
+      "fraction" : 10,
+      "text" : "Descargar una copia de código de un servidor y sustituir a la local.",
+      "feedback" : "Correct!"
+    }, {
+      "id" : "c",
+      "questionId" : "70",
+      "fraction" : -3,
+      "text" : "Descargar una copia de código de un servidor en el equipo local, pero sin sustituir la copia local de código.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "d",
+      "questionId" : "70",
+      "fraction" : -3,
+      "text" : "Fusionar una rama con otra rama (generalmente con la rama principal).",
+      "feedback" : "Wrong!"
+    } ]
+  }, {
+    "id" : "71",
+    "quizId" : "csstic-2020",
+    "text" : "71. Las actuaciones de mantenimiento del software derivadas de la aprobación de una norma, las consideraremos mantenimiento de tipo:",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "71",
+      "fraction" : 10,
+      "text" : "Evolutivo. ",
+      "feedback" : "Correct!"
+    }, {
+      "id" : "b",
+      "questionId" : "71",
+      "fraction" : -3,
+      "text" : "Perfectivo.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "c",
+      "questionId" : "71",
+      "fraction" : -3,
+      "text" : "Adaptativo.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "d",
+      "questionId" : "71",
+      "fraction" : -3,
+      "text" : "Correctivo.",
+      "feedback" : "Wrong!"
+    } ]
+  }, {
+    "id" : "72",
+    "quizId" : "csstic-2020",
+    "text" : "72. En el marco de la política de gestión documental para un organismo público, los procesos de gestión mínimos necesarios de documentos electrónicos que se implementarán, de acuerdo con la NTI de Política de gestión de documentos electrónicos, son:",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "72",
+      "fraction" : -3,
+      "text" : "Captura, clasificación, descripción, calificación, conservación y trazabilidad. ",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "b",
+      "questionId" : "72",
+      "fraction" : -3,
+      "text" : "Ingreso, almacenamiento, gestión de datos, consulta, administración y preservación.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "c",
+      "questionId" : "72",
+      "fraction" : -3,
+      "text" : "Captura, clasificación, registro, preservación, trazabilidad y acceso.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "d",
+      "questionId" : "72",
+      "fraction" : 10,
+      "text" : "Captura, registro, clasificación, descripción, acceso, calificación, conservación, transferencia y destrucción o eliminación de documentos.",
+      "feedback" : "Correct!"
+    } ]
+  }, {
+    "id" : "73",
+    "quizId" : "csstic-2020",
+    "text" : "73. La estructura que aplicar para el intercambio de documentos electrónicos, según la NTI de documento electrónico, será de forma general:",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "73",
+      "fraction" : -3,
+      "text" : "Un fichero de texto plano que incluirá el fichero de contenido, entendido como conjunto de datos o información del documento. ",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "b",
+      "questionId" : "73",
+      "fraction" : 10,
+      "text" : "Un fichero XML que incluirá los tres componentes del documento electrónico: fichero de contenido, bloque de metadatos y en su caso, firma.",
+      "feedback" : "Correct!"
+    }, {
+      "id" : "c",
+      "questionId" : "73",
+      "fraction" : -3,
+      "text" : "Un fichero XML que incluirá el fichero de contenido.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "d",
+      "questionId" : "73",
+      "fraction" : -3,
+      "text" : "Un fichero de texto plano que incluirá los tres componentes del documento electrónico: índice electrónico, firma del índice y metadatos.",
+      "feedback" : "Wrong!"
+    } ]
+  }, {
+    "id" : "74",
+    "quizId" : "csstic-2020",
+    "text" : "74. En el campo de la Recuperación de Información, ¿cuál de los siguientes es un ejemplo de modelo estructurado, que tratan de combinar tanto el contenido de los documentos como el conocimiento sobre su estructura?:",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "74",
+      "fraction" : 10,
+      "text" : "Nodos próximos. ",
+      "feedback" : "Correct!"
+    }, {
+      "id" : "b",
+      "questionId" : "74",
+      "fraction" : -3,
+      "text" : "Lógica borrosa.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "c",
+      "questionId" : "74",
+      "fraction" : -3,
+      "text" : "Vectorial generalizado.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "d",
+      "questionId" : "74",
+      "fraction" : -3,
+      "text" : "Redes de inferencia.",
+      "feedback" : "Wrong!"
+    } ]
+  }, {
+    "id" : "75",
+    "quizId" : "csstic-2020",
+    "text" : "75. En COBIT 2019 cuál de los siguientes NO es uno de los objetivos de gestión:",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "75",
+      "fraction" : -3,
+      "text" : "Alinear, Planificar y Organizar (APO). ",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "b",
+      "questionId" : "75",
+      "fraction" : -3,
+      "text" : "Construir, Adquirir e Implementar (BAI).",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "c",
+      "questionId" : "75",
+      "fraction" : 10,
+      "text" : "Evaluar, Dirigir y Monitorizar (EDM).",
+      "feedback" : "Correct!"
+    }, {
+      "id" : "d",
+      "questionId" : "75",
+      "fraction" : -3,
+      "text" : "Monitorizar, Evaluar y Valorar (MEA).",
+      "feedback" : "Wrong!"
+    } ]
+  }, {
+    "id" : "76",
+    "quizId" : "csstic-2020",
+    "text" : "76. La Plataforma de “Blockchain” de código abierto dirigida a proyectos en entornos empresariales que surgió en diciembre de 2015 bajo el paraguas de la Fundación Linux es:",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "76",
+      "fraction" : -3,
+      "text" : "Ethereum. ",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "b",
+      "questionId" : "76",
+      "fraction" : -3,
+      "text" : "R3 Corda.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "c",
+      "questionId" : "76",
+      "fraction" : 10,
+      "text" : "Hyperledger.",
+      "feedback" : "Correct!"
+    }, {
+      "id" : "d",
+      "questionId" : "76",
+      "fraction" : -3,
+      "text" : "Ripple.",
+      "feedback" : "Wrong!"
+    } ]
+  }, {
+    "id" : "77",
+    "quizId" : "csstic-2020",
+    "text" : "77. En relación con los protocolos de enrutamiento, señale la respuesta CORRECTA:",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "77",
+      "fraction" : -3,
+      "text" : "OSPF (Open Shortest Path First) es un protocolo de enrutamiento exterior basado en el algoritmo de estado del enlace de Dijkstra. ",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "b",
+      "questionId" : "77",
+      "fraction" : -3,
+      "text" : "BGP (Border Gateway Protocol) es el protoclo de enrutamiento utilizado para conectar Sistemas Autónomos en Internet, identificados por números de 64 bits.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "c",
+      "questionId" : "77",
+      "fraction" : 10,
+      "text" : "BGP (Border Gateway Protocol) utiliza una métrica variable en la que se pueden ponderar parámetros como preferencia, peso o coste económico.",
+      "feedback" : "Correct!"
+    }, {
+      "id" : "d",
+      "questionId" : "77",
+      "fraction" : -3,
+      "text" : "Un mismo “router” no puede soportar diferentes protocolos de enrutamiento ejecutándose de forma simultánea.",
+      "feedback" : "Wrong!"
+    } ]
+  }, {
+    "id" : "78",
+    "quizId" : "csstic-2020",
+    "text" : "78. El fenómeno de la dispersión modal en una fibra óptica:",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "78",
+      "fraction" : 10,
+      "text" : "Se produce porque los rayos de luz no inciden sobre la interfaz que separa el núcleo y el revestimiento con el mismo ángulo. ",
+      "feedback" : "Correct!"
+    }, {
+      "id" : "b",
+      "questionId" : "78",
+      "fraction" : -3,
+      "text" : "Ocasiona una deformación de la señal recibida, lo que provoca un aumento del ancho de banda utilizable.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "c",
+      "questionId" : "78",
+      "fraction" : -3,
+      "text" : "No se produce en las fibras ópticas multimodo.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "d",
+      "questionId" : "78",
+      "fraction" : -3,
+      "text" : "Se puede evitar utilizando un diodo emisor de luz para transmitir la señal.",
+      "feedback" : "Wrong!"
+    } ]
+  }, {
+    "id" : "79",
+    "quizId" : "csstic-2020",
+    "text" : "79. En el Modelo de Referencia de Interconexión de Sistemas Abiertos OSI, los servicios de compresión y encriptado de datos:",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "79",
+      "fraction" : 10,
+      "text" : "Se ubicarían en la capa de presentación. ",
+      "feedback" : "Correct!"
+    }, {
+      "id" : "b",
+      "questionId" : "79",
+      "fraction" : -3,
+      "text" : "Se ubicarían en la capa de sesión.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "c",
+      "questionId" : "79",
+      "fraction" : -3,
+      "text" : "Se ubicarían en la capa de aplicación.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "d",
+      "questionId" : "79",
+      "fraction" : -3,
+      "text" : "Se ubicarían en la capa de red.",
+      "feedback" : "Wrong!"
+    } ]
+  }, {
+    "id" : "80",
+    "quizId" : "csstic-2020",
+    "text" : "80. ¿Cuál de las siguientes modulaciones es utilizada por la tecnología 4G LTE?:",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "80",
+      "fraction" : -3,
+      "text" : "GMSK, Desplazamiento Mínimo Gaussiano. ",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "b",
+      "questionId" : "80",
+      "fraction" : 10,
+      "text" : "OFDM, Acceso múltiple por División de Frecuencia Ortogonal.",
+      "feedback" : "Correct!"
+    }, {
+      "id" : "c",
+      "questionId" : "80",
+      "fraction" : -3,
+      "text" : "BPSK, Modulación por desplazamiento diferencial de fase binario.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "d",
+      "questionId" : "80",
+      "fraction" : -3,
+      "text" : "FHSS, espectro ensanchado por salto de frecuencia.",
+      "feedback" : "Wrong!"
+    } ]
+  }, {
+    "id" : "81",
+    "quizId" : "csstic-2020",
+    "text" : "81. ¿Qué es FEC (Forwarding Equivalence Class) en MPLS?:",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "81",
+      "fraction" : 10,
+      "text" : "Conjunto de paquetes que comparten una etiqueta que los identifica y que provoca que se reenvíen de la misma manera a través del mismo LSP (Label-Switched Path). ",
+      "feedback" : "Correct!"
+    }, {
+      "id" : "b",
+      "questionId" : "81",
+      "fraction" : -3,
+      "text" : "Es el protocolo que utilizan los LSR para asignar las etiquetas.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "c",
+      "questionId" : "81",
+      "fraction" : -3,
+      "text" : "Es el circuito virtual a través del cual se transmiten todos los paquetes entre dos LER.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "d",
+      "questionId" : "81",
+      "fraction" : -3,
+      "text" : "La tabla de etiquetas que manejan los LSR.",
+      "feedback" : "Wrong!"
+    } ]
+  }, {
+    "id" : "82",
+    "quizId" : "csstic-2020",
+    "text" : "82. El subconjunto “Bluetooth Low Energy” (BLE) opera en la banda de frecuencia de:",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "82",
+      "fraction" : -3,
+      "text" : "13,56 MHz. ",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "b",
+      "questionId" : "82",
+      "fraction" : -3,
+      "text" : "5,8 GHz.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "c",
+      "questionId" : "82",
+      "fraction" : -3,
+      "text" : "26,1 MHz.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "d",
+      "questionId" : "82",
+      "fraction" : 10,
+      "text" : "2,4 GHz.",
+      "feedback" : "Correct!"
+    } ]
+  }, {
+    "id" : "83",
+    "quizId" : "csstic-2020",
+    "text" : "83. En relación con el protocolo IP, señale la respuesta INCORRECTA:",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "83",
+      "fraction" : -3,
+      "text" : "La máscara de una red de clase C es 255.255.255.0. ",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "b",
+      "questionId" : "83",
+      "fraction" : -3,
+      "text" : "La aplicación de “Classless InterDomain Routing” (CIDR) ha permitido extender la vida del espacio de direcciones de 32 bits de IPv4.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "c",
+      "questionId" : "83",
+      "fraction" : -3,
+      "text" : "Entre otras, la red 10.0.0.0 (clase A) está reservada para redes privadas por el RFC 1918.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "d",
+      "questionId" : "83",
+      "fraction" : 10,
+      "text" : "Un “router” configurado con NAT (Network Address Translation) no debe anunciar las redes locales a través de los interfaces globales, ni tampoco las rutas globales pueden ser anunciadas a través de los interfaces locales.",
+      "feedback" : "Correct!"
+    } ]
+  }, {
+    "id" : "84",
+    "quizId" : "csstic-2020",
+    "text" : "84. En un centro de atención telefónica que dispone de 50 teléfonos, estos están ocupados en Hora Cargada (HC) de media durante 30 minutos ¿cuál sería el volumen de tráfico medido en Erlangs del canal de comunicación si la probabilidad de bloqueo es del 10%?:",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "84",
+      "fraction" : -3,
+      "text" : "50. ",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "b",
+      "questionId" : "84",
+      "fraction" : 10,
+      "text" : "25.",
+      "feedback" : "Correct!"
+    }, {
+      "id" : "c",
+      "questionId" : "84",
+      "fraction" : -3,
+      "text" : "0,5.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "d",
+      "questionId" : "84",
+      "fraction" : -3,
+      "text" : "45.",
+      "feedback" : "Wrong!"
+    } ]
+  }, {
+    "id" : "85",
+    "quizId" : "csstic-2020",
+    "text" : "85. Indique la respuesta INCORRECTA asociada a la tecnología de red “Fibre Channel” o FC:",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "85",
+      "fraction" : -3,
+      "text" : "Se utiliza principalmente para conectar las cabinas de almacenamiento SAN. ",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "b",
+      "questionId" : "85",
+      "fraction" : 10,
+      "text" : "La tarjeta de red de los servidores se conoce con el nombre Fabric.",
+      "feedback" : "Correct!"
+    }, {
+      "id" : "c",
+      "questionId" : "85",
+      "fraction" : -3,
+      "text" : "Cada HBA tiene un identificador único (World Wide Name).",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "d",
+      "questionId" : "85",
+      "fraction" : -3,
+      "text" : "Podemos distinguir tres topologías: punto a punto, en anillo y conmutada.",
+      "feedback" : "Wrong!"
+    } ]
+  }, {
+    "id" : "86",
+    "quizId" : "csstic-2020",
+    "text" : "86. Con respecto a las DMZ (zonas desmilitarizadas), ¿cuál de las siguientes respuestas es CORRECTA?:",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "86",
+      "fraction" : -3,
+      "text" : "No pueden configurarse con un único firewall. ",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "b",
+      "questionId" : "86",
+      "fraction" : -3,
+      "text" : "Suelen incorporar servidores de aplicación, entre otros.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "c",
+      "questionId" : "86",
+      "fraction" : 10,
+      "text" : "No permiten conexiones desde la DMZ a la red interna, pero sí viceversa.",
+      "feedback" : "Correct!"
+    }, {
+      "id" : "d",
+      "questionId" : "86",
+      "fraction" : -3,
+      "text" : "Tienen unos criterios de seguridad más restrictivos que los de la red interna.",
+      "feedback" : "Wrong!"
+    } ]
+  }, {
+    "id" : "87",
+    "quizId" : "csstic-2020",
+    "text" : "87. FTTx (del inglés Fiber To The x) es un glosario de términos empleados para referirse al uso de fibra óptica en la última milla. ¿Cuál de las siguientes NO es una configuración FTTx habitual?:",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "87",
+      "fraction" : -3,
+      "text" : "FTTB (Fiber To The Building). ",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "b",
+      "questionId" : "87",
+      "fraction" : 10,
+      "text" : "FTTS (Fiber To The Socket).",
+      "feedback" : "Correct!"
+    }, {
+      "id" : "c",
+      "questionId" : "87",
+      "fraction" : -3,
+      "text" : "FTTH (Fiber To The Home).",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "d",
+      "questionId" : "87",
+      "fraction" : -3,
+      "text" : "FTTO (Fiber To The Office).",
+      "feedback" : "Wrong!"
+    } ]
+  }, {
+    "id" : "88",
+    "quizId" : "csstic-2020",
+    "text" : "88. Respecto a SNMP (Simple Network Management Protocol), ¿cuál de las siguientes respuestas es CORRECTA?:",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "88",
+      "fraction" : -3,
+      "text" : "Su última versión es SNMPv2. ",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "b",
+      "questionId" : "88",
+      "fraction" : -3,
+      "text" : "Los “routers” soportan ese protocolo pero los “switches” no.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "c",
+      "questionId" : "88",
+      "fraction" : 10,
+      "text" : "Los “traps” son notificaciones asíncronas de “agents” a “managers”.",
+      "feedback" : "Correct!"
+    }, {
+      "id" : "d",
+      "questionId" : "88",
+      "fraction" : -3,
+      "text" : "Es un protocolo de capa de red según la pila OSI.",
+      "feedback" : "Wrong!"
+    } ]
+  }, {
+    "id" : "89",
+    "quizId" : "csstic-2020",
+    "text" : "89. De las siguientes respuestas sobre las redes de comunicaciones por cable, ¿cuál es INCORRECTA?:",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "89",
+      "fraction" : -3,
+      "text" : "Los abonados por FTTH (Fiber To The Home) superan a los HFC (Hybrid Fiber-Coaxial) en España. ",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "b",
+      "questionId" : "89",
+      "fraction" : -3,
+      "text" : "Las tecnologías xDSL emplean las líneas telefónicas convencionales para el envío de datos.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "c",
+      "questionId" : "89",
+      "fraction" : -3,
+      "text" : "La fibra óptica presenta una atenuación inferior a los cables de cobre trenzados.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "d",
+      "questionId" : "89",
+      "fraction" : 10,
+      "text" : "Según datos de 2020, un 25% de hogares españoles siguen usando accesos xDSL.",
+      "feedback" : "Correct!"
+    } ]
+  }, {
+    "id" : "90",
+    "quizId" : "csstic-2020",
+    "text" : "90. ¿Cuál de los siguientes protocolos garantizaría el acceso simultáneo al buzón de correo electrónico desde el cliente pesado Outlook y desde OWA (Outlook en la web) en una organización?:",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "90",
+      "fraction" : 10,
+      "text" : "IMAP4. ",
+      "feedback" : "Correct!"
+    }, {
+      "id" : "b",
+      "questionId" : "90",
+      "fraction" : -3,
+      "text" : "S/MIME.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "c",
+      "questionId" : "90",
+      "fraction" : -3,
+      "text" : "SMTP.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "d",
+      "questionId" : "90",
+      "fraction" : -3,
+      "text" : "POP3.",
+      "feedback" : "Wrong!"
+    } ]
+  }, {
+    "id" : "91",
+    "quizId" : "csstic-2020",
+    "text" : "91. ¿A qué se refiere el término gNodeB?:",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "91",
+      "fraction" : -3,
+      "text" : "A los nodos terminales en redes MPLS. ",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "b",
+      "questionId" : "91",
+      "fraction" : -3,
+      "text" : "A los nodos notificados mediante “broadcast” en el uso de ICMP.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "c",
+      "questionId" : "91",
+      "fraction" : -3,
+      "text" : "Al nodo de gestión de la movilidad en redes E-UTRAN de 4ª generación.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "d",
+      "questionId" : "91",
+      "fraction" : 10,
+      "text" : "A las estaciones base en NG-RAN de 5ª generación.",
+      "feedback" : "Correct!"
+    } ]
+  }, {
+    "id" : "92",
+    "quizId" : "csstic-2020",
+    "text" : "92. ¿Cuál de las siguientes respuestas es una API gráfica soportada por Android?:",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "92",
+      "fraction" : -3,
+      "text" : "Molten. ",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "b",
+      "questionId" : "92",
+      "fraction" : -3,
+      "text" : "Metal.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "c",
+      "questionId" : "92",
+      "fraction" : -3,
+      "text" : "DIrect2D.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "d",
+      "questionId" : "92",
+      "fraction" : 10,
+      "text" : "Vulkan.",
+      "feedback" : "Correct!"
+    } ]
+  }, {
+    "id" : "93",
+    "quizId" : "csstic-2020",
+    "text" : "93. ¿Qué se entiende por NGFW (Next-Generation Firewall)?:",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "93",
+      "fraction" : -3,
+      "text" : "Es una gama de firewall de la compañía Barracuda. ",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "b",
+      "questionId" : "93",
+      "fraction" : -3,
+      "text" : "Es un tipo de firewall empleado en entornos “cloud” como AWS.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "c",
+      "questionId" : "93",
+      "fraction" : -3,
+      "text" : "Es un tipo de firewall específico para las redes 5G de comunicaciones móviles.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "d",
+      "questionId" : "93",
+      "fraction" : 10,
+      "text" : "Es un tipo de firewall con capacidades de inspección en la capa 7 del modelo OSI.",
+      "feedback" : "Correct!"
+    } ]
+  }, {
+    "id" : "94",
+    "quizId" : "csstic-2020",
+    "text" : "94. En ciberseguridad, ¿qué se entiende por “honeypot”?:",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "94",
+      "fraction" : -3,
+      "text" : "Es una funcionalidad de los “firewalls” web para bloquear “ransomware”. ",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "b",
+      "questionId" : "94",
+      "fraction" : 10,
+      "text" : "Es un sistema que actúa de señuelo ante ciberataques.",
+      "feedback" : "Correct!"
+    }, {
+      "id" : "c",
+      "questionId" : "94",
+      "fraction" : -3,
+      "text" : "Es una arquitectura de red mallada específicamente diseñada para proteger determinados activos.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "d",
+      "questionId" : "94",
+      "fraction" : -3,
+      "text" : "Es un tipo de ataque del tipo “man-in-the-middle”.",
+      "feedback" : "Wrong!"
+    } ]
+  }, {
+    "id" : "95",
+    "quizId" : "csstic-2020",
+    "text" : "95. En España, los CSIRT de referencia:",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "95",
+      "fraction" : -3,
+      "text" : "Atienden las notificaciones de incidencias de seguridad de todos los ámbitos de forma indistinta. ",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "b",
+      "questionId" : "95",
+      "fraction" : -3,
+      "text" : "Funcionan de manera totalmente independiente.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "c",
+      "questionId" : "95",
+      "fraction" : 10,
+      "text" : "Se integran en una red europea con ENISA al frente.",
+      "feedback" : "Correct!"
+    }, {
+      "id" : "d",
+      "questionId" : "95",
+      "fraction" : -3,
+      "text" : "Son dos, el CCN-CERT e INCIBE-CERT.",
+      "feedback" : "Wrong!"
+    } ]
+  }, {
+    "id" : "96",
+    "quizId" : "csstic-2020",
+    "text" : "96. La implantación de un Sistema de Gestión de la Continuidad del Negocio es un proceso de mejora:",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "96",
+      "fraction" : -3,
+      "text" : "Puntual. ",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "b",
+      "questionId" : "96",
+      "fraction" : 10,
+      "text" : "Cíclico.",
+      "feedback" : "Correct!"
+    }, {
+      "id" : "c",
+      "questionId" : "96",
+      "fraction" : -3,
+      "text" : "Lineal.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "d",
+      "questionId" : "96",
+      "fraction" : -3,
+      "text" : "Inabordable.",
+      "feedback" : "Wrong!"
+    } ]
+  }, {
+    "id" : "97",
+    "quizId" : "csstic-2020",
+    "text" : "97. Respecto a distribución de contenidos multimedia, ¿qué respuesta es INCORRECTA?:",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "97",
+      "fraction" : -3,
+      "text" : "“Streaming” es la distribución digital de contenido multimedia a través de redes de telecomunicaciones. ",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "b",
+      "questionId" : "97",
+      "fraction" : 10,
+      "text" : "“Unicast” es el consumo individual de un contenido multimedia.",
+      "feedback" : "Correct!"
+    }, {
+      "id" : "c",
+      "questionId" : "97",
+      "fraction" : -3,
+      "text" : "“Webinar” es la retransmisión por “streaming” de cursos o conferencias.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "d",
+      "questionId" : "97",
+      "fraction" : -3,
+      "text" : "“Podcast” se asocia a la disponibilidad de archivos, principalmente de audio, de una serie, que un usuario puede descargarse a demanda.",
+      "feedback" : "Wrong!"
+    } ]
+  }, {
+    "id" : "98",
+    "quizId" : "csstic-2020",
+    "text" : "98. Es una característica de Kerberos:",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "98",
+      "fraction" : -3,
+      "text" : "Basarse en criptografía de clave asimétrica. ",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "b",
+      "questionId" : "98",
+      "fraction" : -3,
+      "text" : "La ausencia de un servidor de autenticación o de un servidor de tickets.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "c",
+      "questionId" : "98",
+      "fraction" : -3,
+      "text" : "La ausencia de una base de datos de claves.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "d",
+      "questionId" : "98",
+      "fraction" : 10,
+      "text" : "Su utilización como sistema de SSO.",
+      "feedback" : "Correct!"
+    } ]
+  }, {
+    "id" : "99",
+    "quizId" : "csstic-2020",
+    "text" : "99. Respecto a Docker, se puede afirmar que:",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "99",
+      "fraction" : -3,
+      "text" : "Es un sistema de virtualización parcial o paravirtualización. ",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "b",
+      "questionId" : "99",
+      "fraction" : -3,
+      "text" : "Es un producto propietario que tiene gran aceptación por su bajo coste.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "c",
+      "questionId" : "99",
+      "fraction" : 10,
+      "text" : "Permite portabilidad, flexibilidad y ahorro de espacio frente a una máquina virtual.",
+      "feedback" : "Correct!"
+    }, {
+      "id" : "d",
+      "questionId" : "99",
+      "fraction" : -3,
+      "text" : "No dispone de mecanismos para mejora de la gestión o despliegue de contenedores, aunque están previstos en el futuro.",
+      "feedback" : "Wrong!"
+    } ]
+  }, {
+    "id" : "100",
+    "quizId" : "csstic-2020",
+    "text" : "100. ¿Cuál de las siguientes herramientas NO sirve para gestionar contenidos?:",
+    "type" : "multichoice",
+    "single" : true,
+    "answers" : [ {
+      "id" : "a",
+      "questionId" : "100",
+      "fraction" : -3,
+      "text" : "BLOGGING. ",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "b",
+      "questionId" : "100",
+      "fraction" : 10,
+      "text" : "CMS.",
+      "feedback" : "Correct!"
+    }, {
+      "id" : "c",
+      "questionId" : "100",
+      "fraction" : -3,
+      "text" : "WEBLOGS.",
+      "feedback" : "Wrong!"
+    }, {
+      "id" : "d",
+      "questionId" : "100",
+      "fraction" : -3,
+      "text" : "WEBLOGIC.",
+      "feedback" : "Wrong!"
+    } ]
+  } ]
+}

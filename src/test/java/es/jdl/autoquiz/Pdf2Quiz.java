@@ -37,6 +37,8 @@ public class Pdf2Quiz {
     public static void main(String[] args) throws IOException {
         File inputPdf;
         File outFile;
+        File answersFile;
+        String title;
         Properties conf = new Properties();
 
         if (args.length == 0) {
@@ -45,21 +47,16 @@ public class Pdf2Quiz {
         } else {
             inputPdf = new File(args[0]);
             conf.load(new FileReader(args[1]));
-            if (args.length > 2)
-                quizId = args[2];
-            else
-                quizId = conf.getProperty("quizId");
-            if (args.length > 3)
-                pageStart = Integer.parseInt(args[3]);
-            else
-                pageStart = Integer.parseInt(conf.getProperty("pageStart", "1"));
+            quizId = parseArgs(args, 2, conf.getProperty("quizId"));
+            pageStart = Integer.parseInt(parseArgs(args, 3, conf.getProperty("pageStart", "1")));
+            outFile = new File( parseArgs(args, 4, conf.getProperty("outFile", inputPdf.toString() + ".json")) );
+            answersFile = new File( parseArgs(args, 5, conf.getProperty("outFile", inputPdf.toString() + ".csv")) );
+            title = parseArgs(args, 6, inputPdf.getName());
+
             ignorePrefix = conf.getProperty("ignorePrefix").split(",");
             String answArr = conf.getProperty("answersPrefix");
             answersPrefix = answArr.substring(1, answArr.length() - 1).split(",");
-            if (args.length > 4)
-                outFile = new File(args[4]);
-            else
-                outFile = new File(conf.getProperty("outFile", inputPdf.toString() + ".json"));
+
         }
 
         try ( PDDocument document = PDDocument.load(inputPdf) ) {
@@ -70,7 +67,7 @@ public class Pdf2Quiz {
             int currentQ = 1;
             Quiz quiz = new Quiz();
             quiz.setId(quizId);
-            quiz.setTitle(inputPdf.getName());
+            quiz.setTitle(title);
             quiz.setAnswernumbering(EnumNumering.LETTERS);
             quiz.setInstructions("");
             quiz.setSuffleQuestions(true);
@@ -94,7 +91,7 @@ public class Pdf2Quiz {
 
             } // for paginas
             // add answers
-            parseAnswers(quiz, inputPdf);
+            parseAnswers(quiz, answersFile);
             // write to disk
             ObjectMapper om = new ObjectMapper();
             om.setSerializationInclusion(JsonInclude.Include.NON_NULL);
@@ -102,8 +99,15 @@ public class Pdf2Quiz {
         }
     }
 
-    private static void parseAnswers(Quiz quiz, File inputPdf) throws IOException {
-        BufferedReader br = new BufferedReader(new FileReader(inputPdf.toString() + ".csv"));
+    private static String parseArgs(String[] args, int pos, String defaultValue) {
+        if (args.length > pos)
+            return args[pos];
+        else
+            return defaultValue;
+    }
+
+    private static void parseAnswers(Quiz quiz, File answersCVS) throws IOException {
+        BufferedReader br = new BufferedReader(new FileReader(answersCVS));
         String line;
         while ((line = br.readLine()) != null) {
             String[] row = line.split(";");
