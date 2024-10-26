@@ -61,10 +61,16 @@
       "text" : "No podrá ser sustituida por una compensación en especie, pero sí puede ser abonada mediante pagos periódicos, si así conviene al interés público y existe acuerdo del interesado.",
       "feedback" : "Wrong!"
     }, {
+      "id" : "c",
+      "questionId" : "2",
+      "fraction" : 0,
+      "text" : "Se calculará con referencia al día en el que efectivamente se produjo la lesión, sin que proceda su actualización a la fecha en que se ponga fin al procedimiento de responsabilidad.",
+      "feedback" : "Wrong!"
+    }, {
       "id" : "d",
       "questionId" : "2",
       "fraction" : 0,
-      "text" : "b. No podrá ser sustituida por una compensación en especie, pero sí puede ser abonada mediante pagos periódicos, si así conviene al interés público y existe acuerdo del interesado. c. Se calculará con referencia al día en el que efectivamente se produjo la lesión, sin que proceda su actualización a la fecha en que se ponga fin al procedimiento de responsabilidad. d. Podrá ser sustituida por una compensación en especie o ser abonada mediante pagos periódicos, si así conviene al interés público y con independencia de que exista o no acuerdo del interesado.",
+      "text" : "Podrá ser sustituida por una compensación en especie o ser abonada mediante pagos periódicos, si así conviene al interés público y con independencia de que exista o no acuerdo del interesado.",
       "feedback" : "Wrong!"
     } ]
   }, {
